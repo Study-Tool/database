@@ -748,30 +748,15 @@ async function handleUnknownQuestionTelemetry(request, env, corsHeaders) {
       `</details>`
     ].join('\n');
 
-    const ghResponse = await fetch(`https://api.github.com/repos/${repoOwner}/${repoName}/issues`, {
-      method: "POST",
-      headers: {
-        "Authorization": `Bearer ${botToken}`,
-        "User-Agent": "AMAES-Cloudflare-Relay",
-        "Accept": "application/vnd.github.v3+json",
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        title: title,
-        body: body,
-        labels: ["unknown-question-format", "telemetry"]
-      })
+    // Telemetry logged internally; do not create GitHub issues for telemetry
+    return new Response(JSON.stringify({
+      success: true,
+      message: "Telemetry received",
+      subjectCode: subjectCode
+    }), {
+      status: 200,
+      headers: { ...corsHeaders, "Content-Type": "application/json" }
     });
-
-    if (!ghResponse.ok) {
-      const ghErr = await ghResponse.text();
-      return new Response(JSON.stringify({ success: false, error: "GitHub issue creation failed", details: ghErr }), {
-        status: 200,
-        headers: { ...corsHeaders, "Content-Type": "application/json" }
-      });
-    }
-
-    const issueData = await ghResponse.json();
 
     seenSignatures.add(signature);
     if (seenSignatures.size > 200) {
@@ -1947,20 +1932,63 @@ export default {
         `</details>`
       ].join('\n');
 
-      const ghResponse = await fetch(`https://api.github.com/repos/${repoOwner}/${repoName}/issues`, {
-        method: "POST",
-        headers: {
-          "Authorization": `Bearer ${botToken}`,
-          "User-Agent": "AMAES-Cloudflare-Relay",
-          "Accept": "application/vnd.github.v3+json",
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          title: title,
-          body: body,
-          labels: ["community-contribution", "automated-sync"]
-        })
-      });
+      // Consolidate into existing daily batch issue if one is already open for this subject
+      let targetIssueNumber = null;
+      let targetIssueUrl = null;
+
+      try {
+        const searchRes = await fetch(`https://api.github.com/repos/${repoOwner}/${repoName}/issues?state=open&labels=community-contribution&per_page=30`, {
+          headers: {
+            "Authorization": `Bearer ${botToken}`,
+            "User-Agent": "AMAES-Cloudflare-Relay",
+            "Accept": "application/vnd.github.v3+json",
+          }
+        });
+        if (searchRes.ok) {
+          const openIssues = await searchRes.json();
+          const existing = openIssues.find(i => i.title && i.title.includes(subjectCode));
+          if (existing) {
+            targetIssueNumber = existing.number;
+            targetIssueUrl = existing.html_url;
+          }
+        }
+      } catch (_) {}
+
+      let ghResponse;
+      if (targetIssueNumber) {
+        // Append to existing batch issue to prevent issue spam
+        ghResponse = await fetch(`https://api.github.com/repos/${repoOwner}/${repoName}/issues/${targetIssueNumber}/comments`, {
+          method: "POST",
+          headers: {
+            "Authorization": `Bearer ${botToken}`,
+            "User-Agent": "AMAES-Cloudflare-Relay",
+            "Accept": "application/vnd.github.v3+json",
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({
+            body: [
+              `### Batch Update: ${validQuestions.length} New Records`,
+              body
+            ].join('\n\n')
+          })
+        });
+      } else {
+        // Create a single initial batch issue for the day
+        ghResponse = await fetch(`https://api.github.com/repos/${repoOwner}/${repoName}/issues`, {
+          method: "POST",
+          headers: {
+            "Authorization": `Bearer ${botToken}`,
+            "User-Agent": "AMAES-Cloudflare-Relay",
+            "Accept": "application/vnd.github.v3+json",
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({
+            title: `[Daily Batch Contribution] Verified answers for ${subjectCode}`,
+            body: body,
+            labels: ["community-contribution", "automated-sync"]
+          })
+        });
+      }
 
       if (!ghResponse.ok) {
         const ghErr = await ghResponse.text();
@@ -1974,10 +2002,11 @@ export default {
 
       return new Response(JSON.stringify({
         success: true,
-        issueNumber: issueData.number,
-        issueUrl: issueData.html_url,
+        issueNumber: targetIssueNumber || issueData.number,
+        issueUrl: targetIssueUrl || issueData.html_url,
         count: validQuestions.length,
-        subjectCode: subjectCode
+        subjectCode: subjectCode,
+        batched: Boolean(targetIssueNumber)
       }), {
         status: 200,
         headers: { "Content-Type": "application/json", "Access-Control-Allow-Origin": "*" },

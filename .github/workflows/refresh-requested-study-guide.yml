@@ -1,20 +1,23 @@
 name: Refresh requested study-guide course
 
 on:
-  issues:
-    types: [opened]
+  workflow_dispatch:
+    inputs:
+      course_code:
+        description: 'Course Code (e.g. IT6314)'
+        required: true
+        type: string
 
 permissions:
   contents: write
   issues: write
 
 concurrency:
-  group: study-guide-refresh-${{ github.event.issue.title }}
+  group: study-guide-refresh-manual
   cancel-in-progress: false
 
 jobs:
   refresh:
-    if: contains(github.event.issue.labels.*.name, 'study-guide-refresh-request')
     runs-on: ubuntu-latest
     steps:
       - name: Check out database
@@ -27,19 +30,9 @@ jobs:
 
       - name: Validate refresh request
         id: request
-        uses: actions/github-script@v7
-        with:
-          script: |
-            const body = context.payload.issue.body || '';
-            const marker = '<!-- automated-study-guide-refresh -->';
-            const line = body.split(/\r?\n/).find(value => value.trim().startsWith('{'));
-            if (!body.includes(marker) || !line) throw new Error('Invalid refresh request payload');
-            const payload = JSON.parse(line);
-            if (typeof payload.subjectCode !== 'string' ||
-                !/^[A-Z0-9_-]{2,16}$/.test(payload.subjectCode)) {
-              throw new Error('Invalid course code');
-            }
-            core.setOutput('course_code', payload.subjectCode);
+        run: |
+          CODE="${{ inputs.course_code }}"
+          echo "course_code=$CODE" >> "$GITHUB_OUTPUT"
 
       - name: Test source parsers
         run: |

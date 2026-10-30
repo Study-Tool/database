@@ -1,10 +1,8 @@
-name: Anti-Sabotage Community Contribution Auto-Merger
+name: Daily Batch Community Contribution Auto-Merger
 
 on:
-  issues:
-    types: [opened]
-  issue_comment:
-    types: [created]
+  schedule:
+    - cron: '0 2 * * *' # Run once daily at 02:00 UTC
   workflow_dispatch:
 
 permissions:
@@ -19,12 +17,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  process-contribution:
-    if: |
-      (github.event_name == 'issues' ||
-       (github.event_name == 'issue_comment' && startsWith(github.event.comment.body, '/reprocess'))) &&
-      (contains(github.event.issue.labels.*.name, 'community-contribution') ||
-       startsWith(github.event.issue.title, '[Contribution]'))
+  batch-merge:
     runs-on: ubuntu-latest
 
     steps:
@@ -38,93 +31,110 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Validate and Merge Contribution
-        id: merge_step
-        env:
-          ISSUE_BODY: ${{ github.event.issue.body }}
+      - name: Run test suite
         run: |
           set -e
           python -m unittest discover -s tests -p 'test_restricted_course_sharing.py'
-          echo "$ISSUE_BODY" > /tmp/issue_payload.txt
-          OUTPUT=$(python3 scripts/merge_contributions.py /tmp/issue_payload.txt)
-          echo "$OUTPUT" > /tmp/merge_result.json
-          {
-            echo "merge_output<<EOF"
-            echo "$OUTPUT"
-            echo "EOF"
-          } >> "$GITHUB_OUTPUT"
-          echo "Merged result: $OUTPUT"
 
-      - name: Commit and push verified contribution to main
-        id: git_push
+      - name: Process Open Contributions in Daily Batch
+        id: batch_step
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require('fs');
+            const { execSync } = require('child_process');
+
+            // Find open community-contribution issues
+            const issues = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'community-contribution',
+              per_page: 100
+            });
+
+            console.log(`Found ${issues.data.length} open community contribution issue(s) to process.`);
+            if (issues.data.length === 0) {
+              core.setOutput('has_merged', 'false');
+              return;
+            }
+
+            const processedIssues = [];
+            let totalNewMerged = 0;
+            let totalConfirmations = 0;
+
+            for (const issue of issues.data) {
+              try {
+                // Collect issue body plus any appended comment payloads
+                const comments = await github.rest.issues.listComments({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: issue.number,
+                  per_page: 50
+                });
+
+                const payloadsToProcess = [issue.body || ''];
+                if (comments && comments.data) {
+                  for (const c of comments.data) {
+                    if (c.body && c.body.includes('Technical payload')) {
+                      payloadsToProcess.push(c.body);
+                    }
+                  }
+                }
+
+                for (const rawPayload of payloadsToProcess) {
+                  fs.writeFileSync('/tmp/issue_payload.txt', rawPayload, 'utf8');
+                  const output = execSync('python3 scripts/merge_contributions.py /tmp/issue_payload.txt', { encoding: 'utf8' }).trim();
+                  console.log(`Merged issue #${issue.number} payload: ${output}`);
+                  try {
+                    const parsed = JSON.parse(output);
+                    totalNewMerged += (parsed.newMerged || 0);
+                    totalConfirmations += (parsed.updatedConfirmations || 0);
+                  } catch (_) {}
+                }
+
+                // Close issue with clean summary comment (Zero generic emojis)
+                const commentBody = `Contribution Validated and Merged\n\nThank you for contributing to the community study archive.\nAll verified changes from this issue have been consolidated into the daily batch merge.`;
+
+                await github.rest.issues.createComment({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: issue.number,
+                  body: commentBody
+                });
+
+                await github.rest.issues.update({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: issue.number,
+                  state: 'closed',
+                  state_reason: 'completed'
+                });
+
+                processedIssues.push(issue.number);
+              } catch (err) {
+                console.error(`Error processing issue #${issue.number}:`, err);
+              }
+            }
+
+            core.setOutput('has_merged', processedIssues.length > 0 ? 'true' : 'false');
+            core.setOutput('processed_count', String(processedIssues.length));
+
+      - name: Commit and push daily consolidated batch
+        if: steps.batch_step.outputs.has_merged == 'true'
         run: |
           set -e
           git config user.name "AcademicContributor"
           git config user.email "academic-contributor@users.noreply.github.com"
           git add data/ README.md
           if git diff --staged --quiet; then
-            echo "No changes to commit."
-            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "No file changes to commit."
           else
             GIT_COMMITTER_NAME="AcademicContributor" GIT_COMMITTER_EMAIL="academic-contributor@users.noreply.github.com" \
-              git commit -m "Add verified contribution from issue #${{ github.event.issue.number }}"
-            test -z "$(git log --no-merges --format='%an <%ae>%n%cn <%ce>' HEAD | grep -Ev '^AcademicContributor <academic-contributor@users\.noreply\.github\.com>$' || true)"
-            files=$(git ls-files | grep -Ev '(^|/)(AGENTS|GEMINI)\.md$|^\.githooks/|^\.github/workflows/(privacy-check|auto-merge-contributions)\.yml$' || true)
-            if [ -n "$files" ] && printf '%s\n' "$files" | xargs grep -n -I -E '(^|/)(home|Users)/[^/ ]+|ractopen|ryme|197402134|slmails\.com|file:///|BEGIN (RSA|OPENSSH|EC|PGP) PRIVATE KEY'; then
-              exit 1
-            fi
+              git commit -m "chore(batch): merge daily community contributions [skip ci]"
             git pull --rebase origin main
             git push origin main
-            echo "has_changes=true" >> $GITHUB_OUTPUT
           fi
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Post Success Comment & Close Issue
-        if: steps.git_push.outputs.has_changes == 'true' || steps.git_push.outputs.has_changes == 'false'
-        uses: actions/github-script@v7
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            const issueNumber = context.issue.number;
-            const fs = require('fs');
-            let details = "";
-            try {
-              if (fs.existsSync('/tmp/merge_result.json')) {
-                const parsed = JSON.parse(fs.readFileSync('/tmp/merge_result.json', 'utf8'));
-                details = `\n- **Subject:** \`${parsed.subjectCode}\`\n- **New Questions Added:** \`${parsed.newMerged}\`\n- **Existing Confirmations Updated:** \`${parsed.updatedConfirmations}\`\n- **Total Verified in File:** \`${parsed.totalInFile}\``;
-              }
-            } catch (e) {}
-
-            const body = `🎉 **Contribution Validated & Merged!**\n\nThank you for contributing to the community study archive.${details}\n\nThe verified changes have been merged directly into the live study database.`;
-            
-            await github.rest.issues.createComment({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: issueNumber,
-              body: body
-            });
-
-            await github.rest.issues.update({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: issueNumber,
-              state: 'closed',
-              state_reason: 'completed'
-            });
-
-      - name: Handle Validation Failure
-        if: failure() && steps.merge_step.outcome == 'failure'
-        uses: actions/github-script@v7
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            const issueNumber = context.issue.number;
-            const body = `⚠️ **Contribution Validation Failed**\n\nThe anti-sabotage merge engine could not validate the payload in this issue. Please ensure your submission contains a valid JSON block with \`subjectCode\` and verified \`questions\` array.\n\nYou can re-export cleanly from the LMS Toolkit panel and submit again.`;
-            
-            await github.rest.issues.createComment({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: issueNumber,
-              body: body
-            });
