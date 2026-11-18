@@ -4,7 +4,7 @@ compatibility_date = "2024-01-01"
 
 [vars]
 MIN_CLIENT_VERSION = "0.1.0"
-LATEST_CLIENT_VERSION = "0.1.1"
+LATEST_CLIENT_VERSION = "0.1.2"
 REQUIRE_CLIENT_VERSION = "true"
 PUBLIC_HOMEPAGE_URL = "https://study-tool-amaes.pages.dev/"
 PUBLIC_SUPPORT_URL = "https://github.com/Study-Tool/amaes/issues"

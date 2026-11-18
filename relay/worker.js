@@ -12,7 +12,7 @@
  *   PUBLIC_DATABASE_URL, PUBLIC_MIRROR_URL, PUBLIC_EXTENSION_URL, PUBLIC_DATABASE_RAW_URL
  */
 
-const LATEST_VERSION = "0.1.1";
+const LATEST_VERSION = "0.1.2";
 
 function getPublicLinks(env) {
   const homepage = env.PUBLIC_HOMEPAGE_URL || "https://study-tool-amaes.pages.dev/";
