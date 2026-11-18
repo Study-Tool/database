@@ -26,12 +26,13 @@ jobs:
           python-version: "3.11"
 
       - name: Pull pending D1 submissions and run anti-sabotage merge
+        id: pull
         env:
           RELAY_BASE_URL: ${{ vars.RELAY_BASE_URL }}
           EXPORT_SECRET: ${{ secrets.EXPORT_SECRET }}
         run: node scripts/import-d1-export.mjs
 
-      - name: Commit daily snapshot if changed
+      - name: Commit and push daily snapshot if changed
         run: |
           if [ -n "$(git status --porcelain data/ README.md)" ]; then
             git config user.name "github-actions[bot]"
@@ -42,3 +43,10 @@ jobs:
           else
             echo "No new changes to commit."
           fi
+
+      - name: Acknowledge D1 export after successful GitHub sync
+        if: steps.pull.outputs.max_id != '' && steps.pull.outputs.max_id != '0'
+        env:
+          RELAY_BASE_URL: ${{ vars.RELAY_BASE_URL }}
+          EXPORT_SECRET: ${{ secrets.EXPORT_SECRET }}
+        run: node scripts/import-d1-export.mjs --ack "${{ steps.pull.outputs.max_id }}"

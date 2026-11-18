@@ -96,15 +96,30 @@ assert.equal(versionData.updateUrl, "https://portal.amaes-toolkit.example/extens
 const unauthRes = await worker.fetch(new Request("https://api.amaes-toolkit.example/v1/export"), env);
 assert.equal(unauthRes.status, 401);
 
-// 3. Verify GET /v1/export returns grouped subjects and marks exported
-const exportRes = await worker.fetch(new Request("https://api.amaes-toolkit.example/v1/export?markExported=1", {
+// 3. Verify GET /v1/export is read-only and returns maxId/hasMore, then POST /v1/export/ack marks exported
+const exportRes = await worker.fetch(new Request("https://api.amaes-toolkit.example/v1/export", {
   headers: { Authorization: "Bearer super-secret-export-key" }
 }), env);
 assert.equal(exportRes.status, 200);
 const exportData = await exportRes.json();
 assert.equal(exportData.submissionCount, 1);
 assert.equal(exportData.subjectCount, 1);
+assert.equal(exportData.maxId, 10);
+assert.equal(exportData.hasMore, false);
 assert.equal(exportData.subjects.CS6204.length, 1);
+assert.equal(markedExported, false);
+
+const ackRes = await worker.fetch(new Request("https://api.amaes-toolkit.example/v1/export/ack", {
+  method: "POST",
+  headers: {
+    Authorization: "Bearer super-secret-export-key",
+    "Content-Type": "application/json"
+  },
+  body: JSON.stringify({ maxId: exportData.maxId })
+}), env);
+assert.equal(ackRes.status, 200);
+const ackData = await ackRes.json();
+assert.equal(ackData.ackedMaxId, 10);
 assert.equal(markedExported, true);
 
 console.log("Config indirection and D1 export relay tests PASSED");

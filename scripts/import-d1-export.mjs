@@ -11,6 +11,31 @@ if (!relayBaseUrl || !exportSecret) {
   process.exit(1);
 }
 
+const ackArgIndex = process.argv.indexOf("--ack");
+if (ackArgIndex !== -1) {
+  const maxId = Number(process.argv[ackArgIndex + 1] || 0);
+  if (!Number.isInteger(maxId) || maxId <= 0) {
+    console.log("No pending submissions to acknowledge.");
+    process.exit(0);
+  }
+  const ackRes = await fetch(`${relayBaseUrl}/v1/export/ack`, {
+    method: "POST",
+    headers: {
+      Authorization: `Bearer ${exportSecret}`,
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({ maxId }),
+  });
+  if (!ackRes.ok) {
+    const errText = await ackRes.text();
+    console.error(`Export ack failed (${ackRes.status}): ${errText}`);
+    process.exit(1);
+  }
+  const ackData = await ackRes.json();
+  console.log(`Acknowledged D1 export up to id=${ackData.ackedMaxId} (${ackData.updatedRows} row(s) marked exported).`);
+  process.exit(0);
+}
+
 const dataDir = path.resolve(process.cwd(), "data");
 const mergeScript = path.resolve(process.cwd(), "scripts", "merge_contributions.py");
 if (!fs.existsSync(dataDir)) {
@@ -21,7 +46,7 @@ if (!fs.existsSync(mergeScript)) {
   process.exit(1);
 }
 
-const response = await fetch(`${relayBaseUrl}/v1/export?markExported=1`, {
+const response = await fetch(`${relayBaseUrl}/v1/export`, {
   headers: {
     Authorization: `Bearer ${exportSecret}`,
     Accept: "application/json"
@@ -35,8 +60,13 @@ if (!response.ok) {
 }
 
 const payload = await response.json();
+const maxId = Number(payload?.maxId || 0);
 const subjects = payload?.subjects || {};
 const subjectCodes = Object.keys(subjects);
+
+if (process.env.GITHUB_OUTPUT) {
+  fs.appendFileSync(process.env.GITHUB_OUTPUT, `max_id=${maxId}\nhas_more=${Boolean(payload?.hasMore)}\n`);
+}
 
 if (subjectCodes.length === 0) {
   console.log("No pending community submissions to sync today.");
@@ -72,4 +102,4 @@ for (const subjectCode of subjectCodes) {
   }
 }
 
-console.log(`Daily sync complete: +${totalMerged} new, ${totalConfirmations} confirmation updates.`);
+console.log(`Daily sync complete (maxId=${maxId}): +${totalMerged} new, ${totalConfirmations} confirmation updates.`);

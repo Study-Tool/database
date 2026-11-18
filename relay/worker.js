@@ -12,7 +12,7 @@
  *   PUBLIC_DATABASE_URL, PUBLIC_MIRROR_URL, PUBLIC_EXTENSION_URL, PUBLIC_DATABASE_RAW_URL
  */
 
-const LATEST_VERSION = "0.1.0";
+const LATEST_VERSION = "0.1.1";
 
 function getPublicLinks(env) {
   const homepage = env.PUBLIC_HOMEPAGE_URL || "https://study-tool-amaes.pages.dev/";
@@ -1553,11 +1553,13 @@ async function handleDatabaseExport(request, env, corsHeaders) {
   )`).run();
 
   const query = includeAll
-    ? `SELECT id, subject_code, source, evidence_type, payload_json, created_at FROM community_submissions ORDER BY id ASC LIMIT 2000`
-    : `SELECT id, subject_code, source, evidence_type, payload_json, created_at FROM community_submissions WHERE status = 'pending' ORDER BY id ASC LIMIT 2000`;
+    ? `SELECT id, subject_code, source, evidence_type, payload_json, created_at FROM community_submissions ORDER BY id ASC LIMIT 2001`
+    : `SELECT id, subject_code, source, evidence_type, payload_json, created_at FROM community_submissions WHERE status = 'pending' ORDER BY id ASC LIMIT 2001`;
 
   const result = await env.DB.prepare(query).all();
-  const rows = Array.isArray(result?.results) ? result.results : [];
+  const allRows = Array.isArray(result?.results) ? result.results : [];
+  const hasMore = allRows.length > 2000;
+  const rows = hasMore ? allRows.slice(0, 2000) : allRows;
   const subjects = {};
   const exportedIds = [];
 
@@ -1577,18 +1579,57 @@ async function handleDatabaseExport(request, env, corsHeaders) {
     } catch (_) {}
   }
 
-  if (markExported && exportedIds.length > 0) {
+  const maxId = exportedIds.length > 0 ? exportedIds[exportedIds.length - 1] : 0;
+
+  if (markExported && maxId > 0) {
     const now = Date.now();
     await env.DB.prepare(
       `UPDATE community_submissions SET status = 'exported', exported_at = ? WHERE status = 'pending' AND id <= ?`
-    ).bind(now, exportedIds[exportedIds.length - 1]).run();
+    ).bind(now, maxId).run();
   }
 
   return jsonResponse({
     exportedAt: new Date().toISOString(),
     submissionCount: rows.length,
     subjectCount: Object.keys(subjects).length,
+    maxId,
+    hasMore,
     subjects
+  }, 200, corsHeaders);
+}
+
+async function handleDatabaseExportAck(request, env, corsHeaders) {
+  const expectedSecret = env.EXPORT_SECRET || "";
+  if (!expectedSecret) {
+    return jsonResponse({ error: "Export endpoint is not configured" }, 503, corsHeaders);
+  }
+  const authHeader = request.headers.get("Authorization") || "";
+  const headerSecret = request.headers.get("X-AMAES-Export-Secret") || "";
+  const provided = authHeader.startsWith("Bearer ") ? authHeader.slice(7).trim() : headerSecret.trim();
+  if (!provided || provided !== expectedSecret) {
+    return jsonResponse({ error: "Unauthorized" }, 401, corsHeaders);
+  }
+  if (!env.DB) {
+    return jsonResponse({ error: "Database binding is not configured" }, 503, corsHeaders);
+  }
+
+  let body = {};
+  try {
+    body = await request.json();
+  } catch (_) {}
+  const maxId = Number(body?.maxId || 0);
+  if (!Number.isInteger(maxId) || maxId <= 0) {
+    return jsonResponse({ error: "Valid maxId is required" }, 400, corsHeaders);
+  }
+
+  const res = await env.DB.prepare(
+    `UPDATE community_submissions SET status = 'exported', exported_at = ? WHERE status = 'pending' AND id <= ?`
+  ).bind(Date.now(), maxId).run();
+
+  return jsonResponse({
+    success: true,
+    ackedMaxId: maxId,
+    updatedRows: Number(res?.meta?.changes || 0)
   }, 200, corsHeaders);
 }
 
@@ -1626,6 +1667,10 @@ export default {
 
     if (request.method === "GET" && (path === "/v1/export" || path === "/export")) {
       return handleDatabaseExport(request, env, corsHeaders);
+    }
+
+    if (request.method === "POST" && (path === "/v1/export/ack" || path === "/export/ack")) {
+      return handleDatabaseExportAck(request, env, corsHeaders);
     }
 
     if (request.method === "POST" && (path === "/unknown-question" || path === "/telemetry/unknown-question")) {
