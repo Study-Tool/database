@@ -1674,7 +1674,7 @@ export default {
 
     if (request.method === "POST" && path === "/ai") {
       const clientVersion = request.headers.get("X-AMAES-Client-Version");
-      const minimumVersion = env.MIN_CLIENT_VERSION || "1.8.2";
+      const minimumVersion = env.MIN_CLIENT_VERSION || "0.1.0";
       if (env.REQUIRE_CLIENT_VERSION === "true" &&
           (!clientVersion || !isSupportedVersion(clientVersion, minimumVersion))) {
         return jsonResponse({
@@ -1739,13 +1739,13 @@ export default {
 
     if (request.method === "GET" || request.method === "HEAD") {
       if (path === "/version" || path === "/flags") {
-        const minimumVersion = env.MIN_CLIENT_VERSION || "1.8.2";
+        const minimumVersion = env.MIN_CLIENT_VERSION || "0.1.0";
         const flags = await resolveFeatureFlags(env);
         return new Response(JSON.stringify({
           status: "ok",
           minimumVersion,
           latestVersion: LATEST_VERSION,
-          updateUrl: UPDATE_URL,
+          updateUrl: getUpdateUrl(env),
           flags,
           announcement: env.GLOBAL_ANNOUNCEMENT || null
         }), {
@@ -1829,7 +1829,7 @@ export default {
     try {
       const payload = await request.json();
       const clientVersion = request.headers.get("X-AMAES-Client-Version") || payload.clientVersion;
-      const minimumVersion = env.MIN_CLIENT_VERSION || "1.8.2";
+      const minimumVersion = env.MIN_CLIENT_VERSION || "0.1.0";
       if (env.REQUIRE_CLIENT_VERSION === "true" &&
           (!clientVersion || !isSupportedVersion(clientVersion, minimumVersion))) {
         return new Response(JSON.stringify({
