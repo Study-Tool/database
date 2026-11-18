@@ -27,6 +27,7 @@ const env = {
   EXPORT_SECRET: "super-secret-export-key",
   MIN_CLIENT_VERSION: "1.8.0",
   LATEST_CLIENT_VERSION: "2.0.0",
+  MOODLE_SELECTORS_JSON: JSON.stringify({ quizForm: "#responseform" }),
   PUBLIC_HOMEPAGE_URL: "https://portal.amaes-toolkit.example/",
   PUBLIC_SUPPORT_URL: "https://portal.amaes-toolkit.example/support",
   PUBLIC_REPO_URL: "https://github.com/amaes-toolkit-org/amaes-toolkit",
@@ -81,6 +82,8 @@ assert.equal(configData.minVersion, "1.8.0");
 assert.equal(configData.latestVersion, "2.0.0");
 assert.equal(configData.links.homepage, "https://portal.amaes-toolkit.example/");
 assert.equal(configData.links.mirror, "https://codeberg.org/amaes-toolkit-org/amaes-toolkit");
+assert.equal(configData.flags.autoQuiz, true);
+assert.equal(configData.selectors.quizForm, "#responseform");
 
 // 2. Verify GET /v1/export rejects missing/wrong secret
 const unauthRes = await worker.fetch(new Request("https://api.amaes-toolkit.example/v1/export"), env);

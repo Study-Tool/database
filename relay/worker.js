@@ -1492,10 +1492,23 @@ async function handleStudyGuideRefreshRequest(request, env, corsHeaders) {
 }
 
 async function handlePublicConfig(env, corsHeaders) {
+  const flags = await resolveFeatureFlags(env);
+  let selectors = {};
+  if (env.MOODLE_SELECTORS_JSON) {
+    try {
+      const parsed = JSON.parse(env.MOODLE_SELECTORS_JSON);
+      if (parsed && typeof parsed === "object" && !Array.isArray(parsed)) {
+        selectors = parsed;
+      }
+    } catch (_) {}
+  }
+
   return new Response(JSON.stringify({
-    minVersion: env.MIN_CLIENT_VERSION || "1.7.5",
+    minVersion: env.MIN_CLIENT_VERSION || "0.1.0",
     latestVersion: env.LATEST_CLIENT_VERSION || LATEST_VERSION,
     links: getPublicLinks(env),
+    flags,
+    selectors,
     announcement: env.PUBLIC_ANNOUNCEMENT || null,
     updatedAt: new Date().toISOString()
   }), {
