@@ -75,25 +75,43 @@ const question = {
   evidenceType: "moodle_review_elimination"
 };
 
+const insertedSubmissions = [];
+env.DB = {
+  prepare(sql) {
+    return {
+      bind(...params) {
+        return {
+          async first() { return null; },
+          async all() { return { results: [] }; },
+          async run() {
+            if (sql.includes("INSERT INTO community_submissions")) {
+              insertedSubmissions.push(JSON.parse(params[4]));
+            }
+            return { meta: { changes: 1 } };
+          }
+        };
+      },
+      async run() { return { meta: { changes: 1 } }; }
+    };
+  }
+};
+
 const invalid = await worker.fetch(contribution({
   ...question,
   evidenceType: "community_report"
 }), env, { corsHeaders });
 assert.equal(invalid.status, 400);
-assert.equal(githubRequests.length, 0, "Unproven answerless submissions must not reach the shared queue");
+assert.equal(insertedSubmissions.length, 0, "Unproven answerless submissions must not reach D1");
 
 const wrongSource = await worker.fetch(contribution(question, "background_harvester"), env, { corsHeaders });
 assert.equal(wrongSource.status, 400);
-assert.equal(githubRequests.length, 0, "Only Moodle review submissions may share elimination-only evidence");
+assert.equal(insertedSubmissions.length, 0, "Only Moodle review submissions may share elimination-only evidence");
 
 const accepted = await worker.fetch(contribution(question), env, { corsHeaders });
 assert.equal(accepted.status, 200);
-const issueRequest = githubRequests.find(item => item.url.endsWith("/issues"));
-assert.ok(issueRequest);
-const issueBody = JSON.parse(issueRequest.body).body;
-const payloadMatch = issueBody.match(/```json\n([\s\S]*?)\n```/);
-assert.ok(payloadMatch, "Relay issue must contain the validated JSON payload");
-const submitted = JSON.parse(payloadMatch[1]);
+assert.equal(githubRequests.length, 0, "Relay must not call GitHub Issues API");
+assert.equal(insertedSubmissions.length, 1, "Accepted submission must be stored in D1");
+const submitted = insertedSubmissions[0];
 assert.equal(submitted.questions[0].answer, "");
 assert.deepEqual(submitted.questions[0].wrongAnswers, ["Self-service password reset"]);
 assert.equal(submitted.questions[0].evidenceType, "moodle_review_elimination");

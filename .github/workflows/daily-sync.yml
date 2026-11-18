@@ -1,0 +1,39 @@
+name: Daily Community Snapshot Sync
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync-d1-snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout database repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Pull pending D1 submissions from Cloudflare Relay
+        env:
+          RELAY_BASE_URL: ${{ vars.RELAY_BASE_URL }}
+          EXPORT_SECRET: ${{ secrets.EXPORT_SECRET }}
+        run: node scripts/import-d1-export.mjs
+
+      - name: Commit daily snapshot if changed
+        run: |
+          if [ -n "$(git status --porcelain data/)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/
+            git commit -m "chore(data): daily community snapshot $(date -u +%Y-%m-%d)"
+            git push
+          else
+            echo "No new changes to commit."
+          fi

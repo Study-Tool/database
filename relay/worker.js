@@ -1,17 +1,35 @@
 /**
- * AMAES Moodle Toolkit - Free Cloudflare Worker Serverless Relay
+ * AMAES Toolkit - Cloudflare Worker Community Relay
  *
- * Receives anonymous background answer payloads from students' userscripts,
- * validates against spam, and triggers automated database merge via GitHub Issues.
+ * Receives anonymous background answer payloads, anomaly reports, and bug reports,
+ * validates against spam, and stores records in Cloudflare D1.
+ * A scheduled GitHub Actions workflow pulls daily snapshots via GET /v1/export.
  *
  * Requirements in Cloudflare Worker Settings:
- * - Environment Variable (Secret): GITHUB_BOT_TOKEN (GitHub Personal Access Token with public_repo or issues:write)
- * - Environment Variable: REPO_OWNER = "Acads-Tools"
- * - Environment Variable: REPO_NAME = "database"
+ * - D1 Binding: DB
+ * - Environment Variable (Secret): EXPORT_SECRET (shared secret for daily GitHub Actions export)
+ * - Optional Environment Variables: PUBLIC_HOMEPAGE_URL, PUBLIC_SUPPORT_URL, PUBLIC_REPO_URL,
+ *   PUBLIC_DATABASE_URL, PUBLIC_MIRROR_URL, PUBLIC_EXTENSION_URL, PUBLIC_DATABASE_RAW_URL
  */
 
-const UPDATE_URL = "https://raw.githubusercontent.com/Acads-Tools/amaes-toolkit/main/amaes-toolkit.user.js";
-const LATEST_VERSION = "1.13.2";
+const LATEST_VERSION = "2.0.0";
+
+function getPublicLinks(env) {
+  const homepage = env.PUBLIC_HOMEPAGE_URL || "https://amaes-toolkit.example/";
+  return {
+    homepage,
+    support: env.PUBLIC_SUPPORT_URL || `${homepage.replace(/\/+$/, "")}/support`,
+    repo: env.PUBLIC_REPO_URL || "https://github.com/Study-Tool/amaes",
+    database: env.PUBLIC_DATABASE_URL || "https://github.com/Study-Tool/database",
+    mirror: env.PUBLIC_MIRROR_URL || "",
+    extension: env.PUBLIC_EXTENSION_URL || homepage,
+    logo: env.PUBLIC_LOGO_URL || `${homepage.replace(/\/+$/, "")}/assets/amaes-toolkit-logo.png`,
+  };
+}
+
+function getUpdateUrl(env) {
+  return env.PUBLIC_UPDATE_URL || getPublicLinks(env).extension;
+}
 const SHARED_POOL_WINDOW_MS = 60_000;
 const SHARED_POOL_MAX_REQUESTS_PER_INSTALLATION = 1;
 const SHARED_POOL_MAX_REQUESTS_GLOBAL = 20;
@@ -664,9 +682,6 @@ const seenSignatures = new Set();
 async function handleUnknownQuestionTelemetry(request, env, corsHeaders) {
   try {
     const payload = await request.json().catch(() => ({}));
-    const repoOwner = env.REPO_OWNER || "Acads-Tools";
-    const repoName = env.REPO_NAME || "database";
-    const botToken = env.GITHUB_BOT_TOKEN;
 
     const signature = String(payload.signature || 'unknown').slice(0, 120);
     const subjectCode = String(payload.subjectCode || 'GENERAL').toUpperCase();
@@ -704,13 +719,11 @@ async function handleUnknownQuestionTelemetry(request, env, corsHeaders) {
       }
     }
 
-    if (!botToken) {
-      seenSignatures.add(signature);
-      return new Response(JSON.stringify({ success: true, mode: 'local_ack', message: 'Telemetry received' }), {
-        status: 200,
-        headers: { ...corsHeaders, "Content-Type": "application/json" }
-      });
-    }
+    seenSignatures.add(signature);
+    return new Response(JSON.stringify({ success: true, mode: 'local_ack', message: 'Telemetry received' }), {
+      status: 200,
+      headers: { ...corsHeaders, "Content-Type": "application/json" }
+    });
 
     const title = `❓ New Question Format Detected — ${subjectCode} — ${signature.slice(0, 50)}`;
     const body = [
@@ -790,9 +803,6 @@ const seenAnomalySignatures = new Set();
 async function handleAnomalyReport(request, env, corsHeaders) {
   try {
     const payload = await request.json().catch(() => ({}));
-    const repoOwner = env.REPO_OWNER || "Acads-Tools";
-    const repoName = env.REPO_NAME || "database";
-    const botToken = env.GITHUB_BOT_TOKEN;
 
     const anomalyType = String(payload.anomalyType || "UNKNOWN_ANOMALY").slice(0, 60);
     const subjectCode = String(payload.subjectCode || "GENERAL").toUpperCase().slice(0, 20);
@@ -867,7 +877,7 @@ async function handleAnomalyReport(request, env, corsHeaders) {
       seenAnomalySignatures.delete(first);
     }
 
-    if (!botToken) {
+    if (!env.DB) {
       return new Response(JSON.stringify({ success: true, mode: "local_ack", message: "Anomaly telemetry received" }), {
         status: 200,
         headers: { ...corsHeaders, "Content-Type": "application/json" }
@@ -921,51 +931,47 @@ async function handleAnomalyReport(request, env, corsHeaders) {
       `Inspect and update \`data/verified/${subjectCode}.json\` to fix or verify the answer key.`
     ].join('\n');
 
-    let ghResponse = await fetch(`https://api.github.com/repos/${repoOwner}/${repoName}/issues`, {
-      method: "POST",
-      headers: {
-        "Authorization": `Bearer ${botToken}`,
-        "User-Agent": "AMAES-Cloudflare-Relay",
-        "Accept": "application/vnd.github.v3+json",
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        title: title,
-        body: body,
-        labels: ["bug", "anomaly", "data-quality"]
-      })
-    });
+    await env.DB.prepare(`CREATE TABLE IF NOT EXISTS anomaly_reports (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      dedupe_key TEXT NOT NULL UNIQUE,
+      anomaly_type TEXT NOT NULL,
+      subject_code TEXT NOT NULL,
+      payload_json TEXT NOT NULL,
+      created_at INTEGER NOT NULL
+    )`).run();
 
-    if (!ghResponse.ok && repoName !== (env.REPO_NAME || "database")) {
-      ghResponse = await fetch(`https://api.github.com/repos/${repoOwner}/${env.REPO_NAME || "database"}/issues`, {
-        method: "POST",
-        headers: {
-          "Authorization": `Bearer ${botToken}`,
-          "User-Agent": "AMAES-Cloudflare-Relay",
-          "Accept": "application/vnd.github.v3+json",
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          title: title,
-          body: body,
-          labels: ["bug", "anomaly", "data-quality"]
-        })
-      });
+    const storedPayload = {
+      anomalyType,
+      subjectCode,
+      activityTitle,
+      questionRaw,
+      questionNorm,
+      domType,
+      submittedAnswer,
+      markScored,
+      maxMark,
+      attemptHistory,
+      dbCandidate,
+      clientVersion,
+      contributorId,
+      reportedAt: new Date().toISOString()
+    };
+
+    const insertRes = await env.DB.prepare(
+      `INSERT OR IGNORE INTO anomaly_reports (dedupe_key, anomaly_type, subject_code, payload_json, created_at)
+       VALUES (?, ?, ?, ?, ?)`
+    ).bind(signature, anomalyType, subjectCode, JSON.stringify(storedPayload), Date.now()).run();
+
+    seenAnomalySignatures.add(signature);
+    if (seenAnomalySignatures.size > 500) {
+      seenAnomalySignatures.clear();
     }
 
-    if (!ghResponse.ok) {
-      const ghErr = await ghResponse.text();
-      return new Response(JSON.stringify({ success: false, error: "Failed to create GitHub issue", details: ghErr }), {
-        status: 200,
-        headers: { ...corsHeaders, "Content-Type": "application/json" }
-      });
-    }
-
-    const issueData = await ghResponse.json();
+    const deduplicated = Number(insertRes?.meta?.changes || 0) === 0;
     return new Response(JSON.stringify({
       success: true,
-      issueNumber: issueData.number,
-      issueUrl: issueData.html_url
+      stored: "d1",
+      duplicate: deduplicated
     }), {
       status: 200,
       headers: { ...corsHeaders, "Content-Type": "application/json" }
@@ -983,9 +989,6 @@ const bugReportRateLimitMap = new Map();
 async function handleUserBugReport(request, env, corsHeaders) {
   try {
     const payload = await request.json().catch(() => ({}));
-    const botToken = env.GITHUB_BOT_TOKEN;
-    const repoOwner = env.REPO_OWNER || "Acads-Tools";
-    const repoName = "amaes-toolkit";
 
     const description = String(payload.description || "").trim();
     if (description.length < 10) {
@@ -1016,13 +1019,6 @@ async function handleUserBugReport(request, env, corsHeaders) {
     const breadcrumbs = Array.isArray(payload.breadcrumbs) ? payload.breadcrumbs.slice(-35) : [];
     const questionsSummary = Array.isArray(payload.questionsSummary) ? payload.questionsSummary.slice(0, 30) : [];
     const settings = (payload.settings && typeof payload.settings === 'object') ? payload.settings : {};
-
-    if (!botToken) {
-      return new Response(JSON.stringify({ success: true, mode: "local_ack", message: "Bug report received" }), {
-        status: 200,
-        headers: { ...corsHeaders, "Content-Type": "application/json" }
-      });
-    }
 
     const summaryLine = description.replace(/\r?\n/g, ' ').slice(0, 55);
     const title = `🐛 Bug Report: [${subjectCode}] — ${summaryLine}${description.length > 55 ? '...' : ''}`;
@@ -1107,51 +1103,36 @@ async function handleUserBugReport(request, env, corsHeaders) {
       `*Submitted via AMAES Toolkit 1-Click Reporter.*`
     ].join('\n');
 
-    let ghResponse = await fetch(`https://api.github.com/repos/${repoOwner}/${repoName}/issues`, {
-      method: "POST",
-      headers: {
-        "Authorization": `Bearer ${botToken}`,
-        "User-Agent": "AMAES-Cloudflare-Relay",
-        "Accept": "application/vnd.github.v3+json",
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        title: title,
-        body: body,
-        labels: ["bug", "user-report"]
-      })
-    });
-
-    if (!ghResponse.ok && repoName !== (env.REPO_NAME || "database")) {
-      ghResponse = await fetch(`https://api.github.com/repos/${repoOwner}/${env.REPO_NAME || "database"}/issues`, {
-        method: "POST",
-        headers: {
-          "Authorization": `Bearer ${botToken}`,
-          "User-Agent": "AMAES-Cloudflare-Relay",
-          "Accept": "application/vnd.github.v3+json",
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          title: title,
-          body: body,
-          labels: ["bug", "user-report"]
-        })
-      });
-    }
-
-    if (!ghResponse.ok) {
-      const ghErr = await ghResponse.text();
-      return new Response(JSON.stringify({ error: "Failed to create GitHub issue", details: ghErr }), {
-        status: 500,
+    if (!env.DB) {
+      return new Response(JSON.stringify({ error: "Report storage is not configured" }), {
+        status: 503,
         headers: { ...corsHeaders, "Content-Type": "application/json" }
       });
     }
 
-    const issueData = await ghResponse.json();
+    await env.DB.prepare(`CREATE TABLE IF NOT EXISTS bug_reports (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      title TEXT NOT NULL,
+      payload_json TEXT NOT NULL,
+      created_at INTEGER NOT NULL
+    )`).run();
+
+    await env.DB.prepare(
+      `INSERT INTO bug_reports (title, payload_json, created_at) VALUES (?, ?, ?)`
+    ).bind(title, JSON.stringify({
+      subjectCode,
+      clientVersion,
+      pageType,
+      environment,
+      description,
+      logs,
+      breadcrumbs: Array.isArray(payload.breadcrumbs) ? payload.breadcrumbs.slice(-25) : [],
+      reportedAt: new Date().toISOString()
+    }), Date.now()).run();
+
     return new Response(JSON.stringify({
       success: true,
-      issueNumber: issueData.number,
-      issueUrl: issueData.html_url
+      stored: "d1"
     }), {
       status: 200,
       headers: { ...corsHeaders, "Content-Type": "application/json" }
@@ -1442,7 +1423,7 @@ async function handleCourseReviewabilityStatus(request, env, corsHeaders) {
 }
 
 async function handleStudyGuideRefreshRequest(request, env, corsHeaders) {
-  if (!env.DB || !env.GITHUB_BOT_TOKEN) {
+  if (!env.DB) {
     return jsonResponse({ error: "Study-guide refresh queue is not configured" }, 503, corsHeaders);
   }
   const contentLength = Number(request.headers.get("Content-Length") || 0);
@@ -1464,13 +1445,14 @@ async function handleStudyGuideRefreshRequest(request, env, corsHeaders) {
   }
 
   try {
-    const courseResponse = await fetch(
-      `https://raw.githubusercontent.com/${env.REPO_OWNER || "Acads-Tools"}/${env.REPO_NAME || "database"}/main/data/${subjectCode}.json`
-    );
-    if (!courseResponse.ok) return jsonResponse({ error: "Unknown course code" }, 404, corsHeaders);
-    const course = await courseResponse.json();
-    if (!course || course.subjectCode !== subjectCode) {
-      return jsonResponse({ error: "Unknown course code" }, 404, corsHeaders);
+    const rawBase = env.PUBLIC_DATABASE_RAW_URL || "";
+    if (rawBase) {
+      const courseResponse = await fetch(`${rawBase.replace(/\/+$/, "")}/data/${subjectCode}.json`);
+      if (!courseResponse.ok) return jsonResponse({ error: "Unknown course code" }, 404, corsHeaders);
+      const course = await courseResponse.json();
+      if (!course || course.subjectCode !== subjectCode) {
+        return jsonResponse({ error: "Unknown course code" }, 404, corsHeaders);
+      }
     }
 
     await env.DB.prepare(`CREATE TABLE IF NOT EXISTS study_guide_refresh_requests (
@@ -1492,57 +1474,103 @@ async function handleStudyGuideRefreshRequest(request, env, corsHeaders) {
         success: true,
         queued: true,
         duplicate: true,
-        issueNumber: recent.issue_number || null
+        stored: "d1"
       }, 200, corsHeaders);
     }
 
-    const owner = env.REPO_OWNER || "Acads-Tools";
-    const repo = env.REPO_NAME || "database";
-    const labelResponse = await fetch(`https://api.github.com/repos/${owner}/${repo}/labels`, {
-      method: "POST",
-      headers: {
-        "Authorization": `Bearer ${env.GITHUB_BOT_TOKEN}`,
-        "User-Agent": "AMAES-Study-Guide-Refresh-Relay",
-        "Accept": "application/vnd.github+json",
-        "Content-Type": "application/json"
-      },
-      body: JSON.stringify({
-        name: "study-guide-refresh-request",
-        color: "1f6feb",
-        description: "Automated request to refresh unverified study-guide source snapshots"
-      })
-    });
-    if (!labelResponse.ok && labelResponse.status !== 422) {
-      return jsonResponse({ error: "Could not prepare study-guide refresh queue" }, 502, corsHeaders);
-    }
-    const issueResponse = await fetch(`https://api.github.com/repos/${owner}/${repo}/issues`, {
-      method: "POST",
-      headers: {
-        "Authorization": `Bearer ${env.GITHUB_BOT_TOKEN}`,
-        "User-Agent": "AMAES-Study-Guide-Refresh-Relay",
-        "Accept": "application/vnd.github+json",
-        "Content-Type": "application/json"
-      },
-      body: JSON.stringify({
-        title: `[Study Guide Refresh] ${subjectCode}`,
-        body: `<!-- automated-study-guide-refresh -->\n${JSON.stringify({ subjectCode })}`,
-        labels: ["study-guide-refresh-request"]
-      })
-    });
-    if (!issueResponse.ok) {
-      return jsonResponse({ error: "Could not queue study-guide refresh" }, 502, corsHeaders);
-    }
-    const issue = await issueResponse.json();
     await env.DB.prepare(
       `INSERT INTO study_guide_refresh_requests (installation_hash, subject_code, requested_at, issue_number)
-       VALUES (?, ?, ?, ?)
+       VALUES (?, ?, ?, NULL)
        ON CONFLICT(installation_hash, subject_code) DO UPDATE SET
-         requested_at = excluded.requested_at, issue_number = excluded.issue_number`
-    ).bind(installationHash, subjectCode, now, issue.number).run();
-    return jsonResponse({ success: true, queued: true, issueNumber: issue.number }, 202, corsHeaders);
+         requested_at = excluded.requested_at, issue_number = NULL`
+    ).bind(installationHash, subjectCode, now).run();
+    return jsonResponse({ success: true, queued: true, stored: "d1" }, 202, corsHeaders);
   } catch (_) {
     return jsonResponse({ error: "Study-guide refresh request failed" }, 503, corsHeaders);
   }
+}
+
+async function handlePublicConfig(env, corsHeaders) {
+  return new Response(JSON.stringify({
+    minVersion: env.MIN_CLIENT_VERSION || "1.7.5",
+    latestVersion: env.LATEST_CLIENT_VERSION || LATEST_VERSION,
+    links: getPublicLinks(env),
+    announcement: env.PUBLIC_ANNOUNCEMENT || null,
+    updatedAt: new Date().toISOString()
+  }), {
+    status: 200,
+    headers: {
+      ...corsHeaders,
+      "Content-Type": "application/json; charset=utf-8",
+      "Cache-Control": "public, max-age=300"
+    }
+  });
+}
+
+async function handleDatabaseExport(request, env, corsHeaders) {
+  const expectedSecret = env.EXPORT_SECRET || "";
+  if (!expectedSecret) {
+    return jsonResponse({ error: "Export endpoint is not configured" }, 503, corsHeaders);
+  }
+  const authHeader = request.headers.get("Authorization") || "";
+  const headerSecret = request.headers.get("X-AMAES-Export-Secret") || "";
+  const provided = authHeader.startsWith("Bearer ") ? authHeader.slice(7).trim() : headerSecret.trim();
+  if (!provided || provided !== expectedSecret) {
+    return jsonResponse({ error: "Unauthorized" }, 401, corsHeaders);
+  }
+  if (!env.DB) {
+    return jsonResponse({ error: "Database binding is not configured" }, 503, corsHeaders);
+  }
+
+  const url = new URL(request.url);
+  const includeAll = url.searchParams.get("all") === "1";
+  const markExported = url.searchParams.get("markExported") === "1";
+
+  await env.DB.prepare(`CREATE TABLE IF NOT EXISTS community_submissions (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    subject_code TEXT NOT NULL,
+    source TEXT NOT NULL,
+    evidence_type TEXT NOT NULL,
+    question_count INTEGER NOT NULL,
+    payload_json TEXT NOT NULL,
+    status TEXT NOT NULL DEFAULT 'pending',
+    created_at INTEGER NOT NULL,
+    exported_at INTEGER
+  )`).run();
+
+  const query = includeAll
+    ? `SELECT id, subject_code, source, evidence_type, payload_json, created_at FROM community_submissions ORDER BY id ASC LIMIT 2000`
+    : `SELECT id, subject_code, source, evidence_type, payload_json, created_at FROM community_submissions WHERE status = 'pending' ORDER BY id ASC LIMIT 2000`;
+
+  const result = await env.DB.prepare(query).all();
+  const rows = Array.isArray(result?.results) ? result.results : [];
+  const subjects = {};
+  const exportedIds = [];
+
+  for (const row of rows) {
+    exportedIds.push(row.id);
+    if (!subjects[row.subject_code]) subjects[row.subject_code] = [];
+    try {
+      const parsed = JSON.parse(row.payload_json);
+      if (Array.isArray(parsed.questions)) {
+        subjects[row.subject_code].push(...parsed.questions);
+      }
+    } catch (_) {}
+  }
+
+  if (markExported && exportedIds.length > 0) {
+    const now = Date.now();
+    await env.DB.prepare(
+      `UPDATE community_submissions SET status = 'exported', exported_at = ? WHERE status = 'pending' AND id <= ?`
+    ).bind(now, exportedIds[exportedIds.length - 1]).run();
+  }
+
+  return jsonResponse({
+    exportedAt: new Date().toISOString(),
+    submissionCount: rows.length,
+    subjectCount: Object.keys(subjects).length,
+    subjects
+  }, 200, corsHeaders);
 }
 
 export default {
@@ -1571,6 +1599,14 @@ export default {
 
     if (request.method === "POST" && (path === "/report-bug" || path === "/bug-report")) {
       return handleUserBugReport(request, env, corsHeaders);
+    }
+
+    if (request.method === "GET" && (path === "/v1/config" || path === "/config")) {
+      return handlePublicConfig(env, corsHeaders);
+    }
+
+    if (request.method === "GET" && (path === "/v1/export" || path === "/export")) {
+      return handleDatabaseExport(request, env, corsHeaders);
     }
 
     if (request.method === "POST" && (path === "/unknown-question" || path === "/telemetry/unknown-question")) {
@@ -1626,7 +1662,7 @@ export default {
           error: "Client update required",
           minimumVersion,
           latestVersion: LATEST_VERSION,
-          updateUrl: UPDATE_URL
+          updateUrl: getUpdateUrl(env)
         }, 426, corsHeaders);
       }
       let aiPayload = {};
@@ -1707,7 +1743,7 @@ export default {
       }
 
       if (path === "/favicon.ico" || path === "/favicon.png") {
-        const logoUrl = "https://raw.githubusercontent.com/Acads-Tools/amaes-toolkit/main/assets/amaes-toolkit-logo.png";
+        const logoUrl = getPublicLinks(env).logo;
         try {
           const res = await fetch(logoUrl, { cf: { cacheTtl: 604800, cacheEverything: true } });
           if (res.ok) {
@@ -1732,20 +1768,16 @@ export default {
       }
 
       if (path === "/" || path === "/status") {
+        const links = getPublicLinks(env);
         return new Response(JSON.stringify({
           status: "healthy",
           name: "amaes-community-relay",
           message: "AMAES Community Relay is operational",
           privacy: "No IP, client identifier, or active-user telemetry is collected.",
-          links: {
-            installer: "https://greasyfork.org/en/scripts/594744-amaes-toolkit",
-            script: "https://raw.githubusercontent.com/Acads-Tools/amaes-toolkit/main/amaes-toolkit.user.js",
-            website: "https://acads-tools.github.io/amaes-toolkit/",
-            github: "https://github.com/Acads-Tools/amaes-toolkit",
-            database: "https://github.com/Acads-Tools/database",
-            logo: "https://raw.githubusercontent.com/Acads-Tools/amaes-toolkit/main/assets/amaes-toolkit-logo.png"
-          },
+          links,
           endpoints: {
+            config: "GET /v1/config",
+            export: "GET /v1/export",
             version: "/version",
             submit: "POST /",
             ai: "POST /ai",
@@ -1785,7 +1817,7 @@ export default {
           error: "Client update required",
           minimumVersion,
           latestVersion: LATEST_VERSION,
-          updateUrl: UPDATE_URL
+          updateUrl: getUpdateUrl(env)
         }), {
           status: 426,
           headers: { ...corsHeaders, "Content-Type": "application/json" }
@@ -1842,18 +1874,14 @@ export default {
         });
       }
 
-      const repoOwner = env.REPO_OWNER || "Acads-Tools";
-      const repoName = env.REPO_NAME || "database";
-      const botToken = env.GITHUB_BOT_TOKEN;
-
-      if (!botToken) {
-        return new Response(JSON.stringify({ error: "Relay server is missing GitHub token configuration" }), {
-          status: 500,
-          headers: { "Content-Type": "application/json", "Access-Control-Allow-Origin": "*" },
+      if (!env.DB) {
+        return new Response(JSON.stringify({ error: "Relay database binding is not configured" }), {
+          status: 503,
+          headers: { ...corsHeaders, "Content-Type": "application/json" },
         });
       }
 
-      const issuePayload = {
+      const submissionPayload = {
         subjectCode: subjectCode,
         totalQuestions: validQuestions.length,
         source: payload.source || "background_harvester",
@@ -1874,142 +1902,38 @@ export default {
         }))
       };
 
-      // Generate clean, human-readable markdown preview table
-      const questionRows = validQuestions.slice(0, 25).map((q, idx) => {
-        const cleanQ = (q.question || q.qRaw || '')
-          .replace(/\r?\n/g, ' ')
-          .replace(/\|/g, '\\|')
-          .slice(0, 120);
-        const cleanAns = (q.answer || q.ansRaw || '')
-          .replace(/\r?\n/g, ' ')
-          .replace(/\|/g, '\\|')
-          .slice(0, 80);
-        const typeBadge = (q.isAiSuggestion || (q.source && String(q.source).toLowerCase().includes('gemini')))
-          ? '✦ AI Suggestion'
-          : (q.verified ? '✔ Verified' : 'Community');
-        const wrongList = Array.isArray(q.wrongAnswers) && q.wrongAnswers.length > 0
-          ? q.wrongAnswers.map(w => `~~${String(w).replace(/\|/g, '\\|').slice(0, 40)}~~`).join(', ')
-          : '—';
-        return `| ${idx + 1} | ${cleanQ} | **${cleanAns}** | ${typeBadge} | ${wrongList} |`;
-      }).join('\n');
+      await env.DB.prepare(`CREATE TABLE IF NOT EXISTS community_submissions (
+        id INTEGER PRIMARY KEY AUTOINCREMENT,
+        subject_code TEXT NOT NULL,
+        source TEXT NOT NULL,
+        evidence_type TEXT NOT NULL,
+        question_count INTEGER NOT NULL,
+        payload_json TEXT NOT NULL,
+        status TEXT NOT NULL DEFAULT 'pending',
+        created_at INTEGER NOT NULL,
+        exported_at INTEGER
+      )`).run();
 
-      const extraNote = validQuestions.length > 25
-        ? `\n*... and ${validQuestions.length - 25} more verified questions in this submission.*\n`
-        : '';
-
-      const title = `New review evidence — ${subjectCode} — ${validQuestions.length} record${validQuestions.length === 1 ? '' : 's'}`;
-      const body = [
-        `## New review evidence: ${subjectCode}`,
-        ``,
-        `A student review supplied **${validQuestions.length} answer/evidence record${validQuestions.length === 1 ? '' : 's'}** for the shared study database.`,
-        `The automated validation pipeline will check the submission before anything is added to the database.`,
-        ``,
-        `### Summary`,
-        `| Metric | Value |`,
-        `| :--- | :--- |`,
-        `| **Subject Code** | \`${subjectCode}\` |`,
-        `| **Evidence Records** | \`${validQuestions.length}\` |`,
-        `| **Source** | ${payload.source || "Automatic quiz review"} |`,
-        `| **Received** | ${new Date().toISOString().replace('T', ' ').replace(/\.\d{3}Z$/, ' UTC')} |`,
-        ``,
-        `### Answer and elimination evidence`,
-        `| # | Question | Answer / evidence | Type | Eliminated Choices |`,
-        `| :---: | :--- | :--- | :---: | :--- |`,
-        questionRows,
-        extraNote,
-        ``,
-        `### What happens next`,
-        `1. Automated checks validate the subject, question format, duplicates, and answer evidence.`,
-        `2. The privacy check runs and the changes are pushed directly to the live database.`,
-        `3. This issue is closed automatically after a successful merge.`,
-        ``,
-        `<details>`,
-        `<summary><b>Technical payload (for automation)</b></summary>`,
-        ``,
-        `\`\`\`json`,
-        JSON.stringify(issuePayload, null, 2),
-        `\`\`\``,
-        `</details>`
-      ].join('\n');
-
-      // Consolidate into existing daily batch issue if one is already open for this subject
-      let targetIssueNumber = null;
-      let targetIssueUrl = null;
-
-      try {
-        const searchRes = await fetch(`https://api.github.com/repos/${repoOwner}/${repoName}/issues?state=open&labels=community-contribution&per_page=30`, {
-          headers: {
-            "Authorization": `Bearer ${botToken}`,
-            "User-Agent": "AMAES-Cloudflare-Relay",
-            "Accept": "application/vnd.github.v3+json",
-          }
-        });
-        if (searchRes.ok) {
-          const openIssues = await searchRes.json();
-          const existing = openIssues.find(i => i.title && i.title.includes(subjectCode));
-          if (existing) {
-            targetIssueNumber = existing.number;
-            targetIssueUrl = existing.html_url;
-          }
-        }
-      } catch (_) {}
-
-      let ghResponse;
-      if (targetIssueNumber) {
-        // Append to existing batch issue to prevent issue spam
-        ghResponse = await fetch(`https://api.github.com/repos/${repoOwner}/${repoName}/issues/${targetIssueNumber}/comments`, {
-          method: "POST",
-          headers: {
-            "Authorization": `Bearer ${botToken}`,
-            "User-Agent": "AMAES-Cloudflare-Relay",
-            "Accept": "application/vnd.github.v3+json",
-            "Content-Type": "application/json",
-          },
-          body: JSON.stringify({
-            body: [
-              `### Batch Update: ${validQuestions.length} New Records`,
-              body
-            ].join('\n\n')
-          })
-        });
-      } else {
-        // Create a single initial batch issue for the day
-        ghResponse = await fetch(`https://api.github.com/repos/${repoOwner}/${repoName}/issues`, {
-          method: "POST",
-          headers: {
-            "Authorization": `Bearer ${botToken}`,
-            "User-Agent": "AMAES-Cloudflare-Relay",
-            "Accept": "application/vnd.github.v3+json",
-            "Content-Type": "application/json",
-          },
-          body: JSON.stringify({
-            title: `[Daily Batch Contribution] Verified answers for ${subjectCode}`,
-            body: body,
-            labels: ["community-contribution", "automated-sync"]
-          })
-        });
-      }
-
-      if (!ghResponse.ok) {
-        const ghErr = await ghResponse.text();
-        return new Response(JSON.stringify({ error: "GitHub API error", details: ghErr }), {
-          status: ghResponse.status,
-          headers: { "Content-Type": "application/json", "Access-Control-Allow-Origin": "*" },
-        });
-      }
-
-      const issueData = await ghResponse.json();
+      await env.DB.prepare(
+        `INSERT INTO community_submissions (subject_code, source, evidence_type, question_count, payload_json, status, created_at)
+         VALUES (?, ?, ?, ?, ?, 'pending', ?)`
+      ).bind(
+        subjectCode,
+        submissionPayload.source,
+        String(payload.evidenceType || "community_report"),
+        validQuestions.length,
+        JSON.stringify(submissionPayload),
+        Date.now()
+      ).run();
 
       return new Response(JSON.stringify({
         success: true,
-        issueNumber: targetIssueNumber || issueData.number,
-        issueUrl: targetIssueUrl || issueData.html_url,
+        stored: "d1",
         count: validQuestions.length,
-        subjectCode: subjectCode,
-        batched: Boolean(targetIssueNumber)
+        subjectCode: subjectCode
       }), {
         status: 200,
-        headers: { "Content-Type": "application/json", "Access-Control-Allow-Origin": "*" },
+        headers: { ...corsHeaders, "Content-Type": "application/json" },
       });
 
     } catch (err) {
@@ -2033,6 +1957,9 @@ export default {
       await env.DB.prepare(
         "DELETE FROM account_transfer_requests WHERE requested_at < ?"
       ).bind(Date.now() - 24 * 60 * 60 * 1000).run();
+      await env.DB.prepare(
+        "DELETE FROM community_submissions WHERE status = 'exported' AND exported_at IS NOT NULL AND exported_at < ?"
+      ).bind(Date.now() - 7 * 24 * 60 * 60 * 1000).run();
     } catch (_) {
       // Scheduled cleanup is best-effort; no key material or request data is logged.
     }

@@ -3,16 +3,21 @@ main = "worker.js"
 compatibility_date = "2024-01-01"
 
 [vars]
-REPO_OWNER = "Acads-Tools"
-REPO_NAME = "database"
 MIN_CLIENT_VERSION = "1.7.5"
+LATEST_CLIENT_VERSION = "2.0.0"
 REQUIRE_CLIENT_VERSION = "true"
+PUBLIC_HOMEPAGE_URL = "https://github.com/Study-Tool/amaes"
+PUBLIC_SUPPORT_URL = "https://github.com/Study-Tool/amaes/issues"
+PUBLIC_REPO_URL = "https://github.com/Study-Tool/amaes"
+PUBLIC_DATABASE_URL = "https://github.com/Study-Tool/database"
+PUBLIC_MIRROR_URL = ""
+PUBLIC_EXTENSION_URL = "https://github.com/Study-Tool/amaes/releases"
 
 [[d1_databases]]
 binding = "DB"
 database_name = "amaes-community-relay"
 # Replace this placeholder with the D1 database ID before deployment.
-database_id = "1f9eeebd-6047-4ded-beeb-bf8695a13f2f"
+database_id = "ebe354aa-3266-45c7-bd38-e5ef445106eb"
 migrations_dir = "../migrations"
 
 [triggers]

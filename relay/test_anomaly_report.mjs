@@ -81,8 +81,8 @@ const res1 = await worker.fetch(req1, env);
 assert.strictEqual(res1.status, 200, "First anomaly report must succeed");
 const data1 = await res1.json();
 assert.strictEqual(data1.success, true, "Response should have success: true");
-assert.strictEqual(data1.issueNumber, 99, "Issue number 99 should be returned");
-assert.strictEqual(githubRequests.length, 1, "Exactly 1 GitHub issue request must be made");
+assert.strictEqual(data1.stored, "d1", "Anomaly report should be stored in D1");
+assert.strictEqual(githubRequests.length, 0, "Zero GitHub issue requests must be made");
 
 // Test deduplication on repeated request
 const req2 = new Request("https://relay.example/telemetry/anomaly", {
@@ -105,6 +105,6 @@ const res2 = await worker.fetch(req2, env);
 assert.strictEqual(res2.status, 200, "Repeated report must succeed with duplicate acknowledgement");
 const data2 = await res2.json();
 assert.strictEqual(data2.duplicate, true, "Should be flagged as duplicate");
-assert.strictEqual(githubRequests.length, 1, "Duplicate report must not create another GitHub issue");
+assert.strictEqual(githubRequests.length, 0, "Duplicate report must not create any GitHub issue");
 
 console.log("Anomaly reporting relay tests PASSED");

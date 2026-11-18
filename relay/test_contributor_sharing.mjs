@@ -26,7 +26,7 @@ assert.match(worker, /COMMUNITY_KEY_DAILY_LIMIT = 10/);
 assert.match(worker, /\/study-guides\/refresh/);
 assert.match(worker, /study_guide_refresh_requests/);
 assert.match(worker, /X-AMAES-Installation/);
-assert.match(worker, /study-guide-refresh-request/);
+assert.doesNotMatch(worker, /api\.github\.com/);
 assert.match(worker, /lease_until < \?/);
 assert.match(migration, /encrypted_key TEXT NOT NULL/);
 assert.match(migration, /owner_hash TEXT NOT NULL/);

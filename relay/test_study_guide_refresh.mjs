@@ -37,7 +37,7 @@ vm.runInContext(workerSource, context, { filename: "worker.js" });
 const worker = context.worker;
 
 const env = {
-  GITHUB_BOT_TOKEN: "test-token",
+  PUBLIC_DATABASE_RAW_URL: "https://raw.githubusercontent.com/amaes-toolkit-org/database/main",
   DB: {
     prepare(sql) {
       return {
@@ -82,18 +82,16 @@ function request(subjectCode, installationId = "random-installation-id-1234") {
 const corsHeaders = { "Access-Control-Allow-Origin": "*" };
 const queuedResponse = await worker.fetch(request("CS6204"), env, { corsHeaders });
 assert.equal(queuedResponse.status, 202);
-assert.deepEqual(await queuedResponse.json(), { success: true, queued: true, issueNumber: 42 });
-assert.equal(requests.filter(item => item.url.endsWith("/issues")).length, 1);
-assert.match(requests.find(item => item.url.endsWith("/issues")).body, /automated-study-guide-refresh/);
-assert.doesNotMatch(requests.find(item => item.url.endsWith("/issues")).body, /questions|answer|user/i);
+assert.deepEqual(await queuedResponse.json(), { success: true, queued: true, stored: "d1" });
+assert.equal(requests.filter(item => item.url.endsWith("/issues")).length, 0);
 
 const duplicateResponse = await worker.fetch(request("CS6204"), env, { corsHeaders });
 assert.equal(duplicateResponse.status, 200);
 assert.equal((await duplicateResponse.json()).duplicate, true);
-assert.equal(requests.filter(item => item.url.endsWith("/issues")).length, 1);
+assert.equal(requests.filter(item => item.url.endsWith("/issues")).length, 0);
 
 const unknownResponse = await worker.fetch(request("NOTACOURSE"), env, { corsHeaders });
 assert.equal(unknownResponse.status, 404);
-assert.equal(requests.filter(item => item.url.endsWith("/issues")).length, 1);
+assert.equal(requests.filter(item => item.url.endsWith("/issues")).length, 0);
 
 console.log("On-access study-guide refresh relay invariants passed");
