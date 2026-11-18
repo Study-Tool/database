@@ -12,18 +12,19 @@
  *   PUBLIC_DATABASE_URL, PUBLIC_MIRROR_URL, PUBLIC_EXTENSION_URL, PUBLIC_DATABASE_RAW_URL
  */
 
-const LATEST_VERSION = "2.0.0";
+const LATEST_VERSION = "0.1.0";
 
 function getPublicLinks(env) {
-  const homepage = env.PUBLIC_HOMEPAGE_URL || "https://amaes-toolkit.example/";
+  const homepage = env.PUBLIC_HOMEPAGE_URL || "https://study-tool-amaes.pages.dev/";
+  const base = homepage.replace(/\/+$/, "");
   return {
     homepage,
-    support: env.PUBLIC_SUPPORT_URL || `${homepage.replace(/\/+$/, "")}/support`,
+    support: env.PUBLIC_SUPPORT_URL || "https://github.com/Study-Tool/amaes/issues",
     repo: env.PUBLIC_REPO_URL || "https://github.com/Study-Tool/amaes",
     database: env.PUBLIC_DATABASE_URL || "https://github.com/Study-Tool/database",
     mirror: env.PUBLIC_MIRROR_URL || "",
-    extension: env.PUBLIC_EXTENSION_URL || homepage,
-    logo: env.PUBLIC_LOGO_URL || `${homepage.replace(/\/+$/, "")}/assets/amaes-toolkit-logo.png`,
+    extension: env.PUBLIC_EXTENSION_URL || `${base}/#install-step`,
+    logo: env.PUBLIC_LOGO_URL || `${base}/assets/amaes-toolkit-logo.png`,
   };
 }
 
@@ -1547,8 +1548,13 @@ async function handleDatabaseExport(request, env, corsHeaders) {
   const subjects = {};
   const exportedIds = [];
 
+  const restrictedCache = new Map();
   for (const row of rows) {
     exportedIds.push(row.id);
+    if (!restrictedCache.has(row.subject_code)) {
+      restrictedCache.set(row.subject_code, await isCourseAnswerSharingDisabled(env, row.subject_code));
+    }
+    if (restrictedCache.get(row.subject_code)) continue;
     if (!subjects[row.subject_code]) subjects[row.subject_code] = [];
     try {
       const parsed = JSON.parse(row.payload_json);

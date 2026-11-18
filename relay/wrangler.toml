@@ -3,15 +3,16 @@ main = "worker.js"
 compatibility_date = "2024-01-01"
 
 [vars]
-MIN_CLIENT_VERSION = "1.7.5"
-LATEST_CLIENT_VERSION = "2.0.0"
+MIN_CLIENT_VERSION = "0.1.0"
+LATEST_CLIENT_VERSION = "0.1.0"
 REQUIRE_CLIENT_VERSION = "true"
-PUBLIC_HOMEPAGE_URL = "https://github.com/Study-Tool/amaes"
+PUBLIC_HOMEPAGE_URL = "https://study-tool-amaes.pages.dev/"
 PUBLIC_SUPPORT_URL = "https://github.com/Study-Tool/amaes/issues"
 PUBLIC_REPO_URL = "https://github.com/Study-Tool/amaes"
 PUBLIC_DATABASE_URL = "https://github.com/Study-Tool/database"
 PUBLIC_MIRROR_URL = ""
-PUBLIC_EXTENSION_URL = "https://github.com/Study-Tool/amaes/releases"
+PUBLIC_EXTENSION_URL = "https://study-tool-amaes.pages.dev/#install-step"
+PUBLIC_LOGO_URL = "https://study-tool-amaes.pages.dev/assets/amaes-toolkit-logo.png"
 
 [[d1_databases]]
 binding = "DB"

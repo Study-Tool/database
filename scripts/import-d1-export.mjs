@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+import { execFileSync } from "node:child_process";
 import fs from "node:fs";
 import path from "node:path";
 
@@ -11,12 +12,13 @@ if (!relayBaseUrl || !exportSecret) {
 }
 
 const dataDir = path.resolve(process.cwd(), "data");
+const mergeScript = path.resolve(process.cwd(), "scripts", "merge_contributions.py");
 if (!fs.existsSync(dataDir)) {
   fs.mkdirSync(dataDir, { recursive: true });
 }
-
-function normalizeQuestionKey(text) {
-  return String(text || "").trim().toLowerCase().replace(/\s+/g, " ");
+if (!fs.existsSync(mergeScript)) {
+  console.error(`Missing merge script at ${mergeScript}`);
+  process.exit(1);
 }
 
 const response = await fetch(`${relayBaseUrl}/v1/export?markExported=1`, {
@@ -41,41 +43,33 @@ if (subjectCodes.length === 0) {
   process.exit(0);
 }
 
-let updatedFiles = 0;
-let addedRecords = 0;
+let totalMerged = 0;
+let totalConfirmations = 0;
 
 for (const subjectCode of subjectCodes) {
   if (!/^[A-Z0-9_-]{2,16}$/.test(subjectCode)) continue;
-  const filePath = path.join(dataDir, `${subjectCode}.json`);
-  let existing = { subjectCode, updatedAt: new Date().toISOString(), questions: [] };
+  const questions = subjects[subjectCode];
+  if (!Array.isArray(questions) || questions.length === 0) continue;
 
-  if (fs.existsSync(filePath)) {
-    try {
-      const parsed = JSON.parse(fs.readFileSync(filePath, "utf8"));
-      if (parsed && Array.isArray(parsed.questions)) {
-        existing = parsed;
-      }
-    } catch (_) {}
-  }
+  const mergePayload = JSON.stringify({
+    subjectCode,
+    source: "d1_daily_export",
+    questions
+  });
 
-  const seen = new Set(existing.questions.map(q => normalizeQuestionKey(q.question || q.qRaw)));
-  let fileChanged = false;
-
-  for (const incoming of subjects[subjectCode]) {
-    const key = normalizeQuestionKey(incoming.question || incoming.qRaw);
-    if (!key || seen.has(key)) continue;
-    seen.add(key);
-    existing.questions.push(incoming);
-    addedRecords += 1;
-    fileChanged = true;
-  }
-
-  if (fileChanged) {
-    existing.subjectCode = subjectCode;
-    existing.updatedAt = new Date().toISOString();
-    fs.writeFileSync(filePath, `${JSON.stringify(existing, null, 2)}\n`, "utf8");
-    updatedFiles += 1;
+  try {
+    const out = execFileSync("python3", [mergeScript], {
+      input: mergePayload,
+      encoding: "utf8",
+      cwd: process.cwd()
+    });
+    const summary = JSON.parse(out);
+    totalMerged += Number(summary.newMerged || 0);
+    totalConfirmations += Number(summary.updatedConfirmations || 0);
+    console.log(`Merged ${subjectCode}: +${summary.newMerged || 0} new, ${summary.updatedConfirmations || 0} confirmations`);
+  } catch (err) {
+    console.error(`Skipping ${subjectCode} due to merge validation error:`, err?.stderr || err?.message || err);
   }
 }
 
-console.log(`Synced ${addedRecords} new question records across ${updatedFiles} subject file(s).`);
+console.log(`Daily sync complete: +${totalMerged} new, ${totalConfirmations} confirmation updates.`);
