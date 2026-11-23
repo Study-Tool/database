@@ -1,7 +1,7 @@
 {
   "subjectCode": "CS6204",
   "subjectName": "Computer Architecture and Organization",
-  "updatedAt": "2026-10-17T16:42:19Z",
+  "updatedAt": "2026-11-23T11:51:24Z",
   "totalQuestions": 186,
   "questions": [
     {
@@ -376,13 +376,15 @@
         "d. Microprocessor"
       ],
       "verified": true,
-      "confirmations": 30,
+      "confirmations": 31,
       "firstSeenAt": "2026-09-11T02:47:09Z",
-      "lastVerifiedAt": "2026-10-15T12:07:44Z",
+      "lastVerifiedAt": "2026-11-23T11:51:24Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "___________ is the fundamental building block of computer memory.",
@@ -457,16 +459,19 @@
         "b. Word length",
         "c. Bus",
         "b. Interrupt",
-        "c. Cache memory"
+        "c. Cache memory",
+        "d. Bus"
       ],
       "verified": true,
-      "confirmations": 33,
+      "confirmations": 34,
       "firstSeenAt": "2026-09-11T02:47:09Z",
-      "lastVerifiedAt": "2026-10-17T15:42:45Z",
+      "lastVerifiedAt": "2026-11-23T11:51:24Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "______________ stores the address of the next instruction to be executed.",
@@ -1557,16 +1562,19 @@
         "c. Keyboard",
         "c. Mouse",
         "d. Headset",
-        "b. Headset"
+        "b. Headset",
+        "a. Mouse"
       ],
       "verified": true,
-      "confirmations": 32,
+      "confirmations": 33,
       "firstSeenAt": "2026-09-11T02:47:09Z",
-      "lastVerifiedAt": "2026-10-17T15:42:45Z",
+      "lastVerifiedAt": "2026-11-23T11:51:24Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "I t is designed to store computer data in the form of text and graphics, as well as hi-fi stereo sound.",
@@ -2198,9 +2206,9 @@
         "b. Low cost"
       ],
       "verified": true,
-      "confirmations": 25,
+      "confirmations": 26,
       "firstSeenAt": "2026-09-11T02:47:09Z",
-      "lastVerifiedAt": "2026-10-15T12:07:44Z",
+      "lastVerifiedAt": "2026-11-23T11:51:24Z",
       "source": "review_screen",
       "conflictHistory": [
         {
@@ -2214,7 +2222,9 @@
       "isAiSuggestion": false,
       "questionType": "multichoice",
       "wrongAnswerEvidence": true,
-      "lastEvidenceAt": "2026-10-11T18:16:05Z"
+      "lastEvidenceAt": "2026-10-11T18:16:05Z",
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "It is an integrated circuit (IC) which incorporates core functions of a computer’s central processing unit (CPU).",
@@ -2238,13 +2248,15 @@
         "a. Desktop"
       ],
       "verified": true,
-      "confirmations": 42,
+      "confirmations": 43,
       "firstSeenAt": "2026-09-11T02:47:09Z",
-      "lastVerifiedAt": "2026-10-15T12:23:42Z",
+      "lastVerifiedAt": "2026-11-23T11:51:24Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "It is easy to include (append) one parity bit either to the left of MSB or to the right of LSB of original bit stream.",
@@ -2323,13 +2335,15 @@
         "d. RISC"
       ],
       "verified": true,
-      "confirmations": 34,
+      "confirmations": 35,
       "firstSeenAt": "2026-09-11T02:47:09Z",
-      "lastVerifiedAt": "2026-10-17T15:42:45Z",
+      "lastVerifiedAt": "2026-11-23T11:51:24Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "It is made up of memory cell where each cell is composed of one transistor.",
@@ -2402,13 +2416,15 @@
         "d. Level-triggered interrupt"
       ],
       "verified": true,
-      "confirmations": 33,
+      "confirmations": 34,
       "firstSeenAt": "2026-09-11T02:47:09Z",
-      "lastVerifiedAt": "2026-10-17T15:42:45Z",
+      "lastVerifiedAt": "2026-11-23T11:51:24Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "It is the activity of the process manager that handles the removal of the running process from the CPU and the selection of another process on the basis of a particular strategy.",
@@ -2474,13 +2490,15 @@
         "d. False interrupt"
       ],
       "verified": true,
-      "confirmations": 33,
+      "confirmations": 34,
       "firstSeenAt": "2026-09-11T02:47:09Z",
-      "lastVerifiedAt": "2026-10-17T15:42:45Z",
+      "lastVerifiedAt": "2026-11-23T11:51:24Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "It is the simplest technique of mapping.",
@@ -2852,13 +2870,15 @@
         "b. Cache memory"
       ],
       "verified": true,
-      "confirmations": 30,
+      "confirmations": 31,
       "firstSeenAt": "2026-09-11T02:47:09Z",
-      "lastVerifiedAt": "2026-10-15T12:07:44Z",
+      "lastVerifiedAt": "2026-11-23T11:51:24Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "Most external hard drives connect to a computer through a ______",
@@ -4351,13 +4371,15 @@
         "b. Net money income"
       ],
       "verified": true,
-      "confirmations": 33,
+      "confirmations": 34,
       "firstSeenAt": "2026-09-11T02:47:09Z",
-      "lastVerifiedAt": "2026-10-17T15:42:45Z",
+      "lastVerifiedAt": "2026-11-23T11:51:24Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "What is the primary function of the Program Counter in a basic CPU architecture?",
