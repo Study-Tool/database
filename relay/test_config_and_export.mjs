@@ -85,11 +85,12 @@ assert.equal(configData.links.mirror, "https://codeberg.org/amaes-toolkit-org/am
 assert.equal(configData.flags.autoQuiz, true);
 assert.equal(configData.selectors.quizForm, "#responseform");
 
-// 1b. Verify GET /version returns 200 with minimumVersion and updateUrl (no ReferenceError)
+// 1b. Verify GET /version returns 200 with minimumVersion, latestVersion, and updateUrl
 const versionRes = await worker.fetch(new Request("https://api.amaes-toolkit.example/version"), env);
 assert.equal(versionRes.status, 200);
 const versionData = await versionRes.json();
 assert.equal(versionData.minimumVersion, "1.8.0");
+assert.equal(versionData.latestVersion, "2.0.0");
 assert.equal(versionData.updateUrl, "https://portal.amaes-toolkit.example/extension");
 
 // 2. Verify GET /v1/export rejects missing/wrong secret

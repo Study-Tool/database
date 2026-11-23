@@ -12,7 +12,11 @@
  *   PUBLIC_DATABASE_URL, PUBLIC_MIRROR_URL, PUBLIC_EXTENSION_URL, PUBLIC_DATABASE_RAW_URL
  */
 
-const LATEST_VERSION = "0.1.2";
+const LATEST_VERSION = "0.1.3";
+
+function getLatestVersion(env) {
+  return env.LATEST_CLIENT_VERSION || LATEST_VERSION;
+}
 
 function getPublicLinks(env) {
   const homepage = env.PUBLIC_HOMEPAGE_URL || "https://study-tool-amaes.pages.dev/";
@@ -1505,7 +1509,7 @@ async function handlePublicConfig(env, corsHeaders) {
 
   return new Response(JSON.stringify({
     minVersion: env.MIN_CLIENT_VERSION || "0.1.0",
-    latestVersion: env.LATEST_CLIENT_VERSION || LATEST_VERSION,
+    latestVersion: getLatestVersion(env),
     links: getPublicLinks(env),
     flags,
     selectors,
@@ -1725,7 +1729,7 @@ export default {
         return jsonResponse({
           error: "Client update required",
           minimumVersion,
-          latestVersion: LATEST_VERSION,
+          latestVersion: getLatestVersion(env),
           updateUrl: getUpdateUrl(env)
         }, 426, corsHeaders);
       }
@@ -1789,10 +1793,10 @@ export default {
         return new Response(JSON.stringify({
           status: "ok",
           minimumVersion,
-          latestVersion: LATEST_VERSION,
+          latestVersion: getLatestVersion(env),
           updateUrl: getUpdateUrl(env),
           flags,
-          announcement: env.GLOBAL_ANNOUNCEMENT || null
+          announcement: env.GLOBAL_ANNOUNCEMENT || env.PUBLIC_ANNOUNCEMENT || null
         }), {
           status: 200,
           headers: { ...corsHeaders, "Content-Type": "application/json", "Cache-Control": "no-store" }
@@ -1880,7 +1884,7 @@ export default {
         return new Response(JSON.stringify({
           error: "Client update required",
           minimumVersion,
-          latestVersion: LATEST_VERSION,
+          latestVersion: getLatestVersion(env),
           updateUrl: getUpdateUrl(env)
         }), {
           status: 426,
