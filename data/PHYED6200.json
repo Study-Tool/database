@@ -1,8 +1,8 @@
 {
   "subjectCode": "PHYED6200",
   "subjectName": "PHYED6200",
-  "updatedAt": "2026-10-06T08:21:21Z",
-  "totalQuestions": 8,
+  "updatedAt": "2026-11-24T04:20:17Z",
+  "totalQuestions": 281,
   "questions": [
     {
       "question": "[____: Rally] point system is used in scoring the game.",
@@ -13,10 +13,768 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-06T08:21:21Z",
-      "source": "review_screen",
-      "lastVerifiedAt": "2026-10-06T08:21:21Z"
+      "source": "Review",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z",
+      "originType": "quiz",
+      "originLabel": "PRELIM QUIZ 1"
+    },
+    {
+      "question": "_____ fingers are raised by the referee to indicate double contact.",
+      "answer": "2",
+      "choices": [
+        "2",
+        "8",
+        "6",
+        "4"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "8",
+        "6",
+        "4"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "_____ is an illegal person contact executed by pushing on the opponent's torso.",
+      "answer": "Charging",
+      "choices": [
+        "Charging"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "_____ is executed by intentionally getting in the way of the opposing team to see the server of the serving team.",
+      "answer": "Screening",
+      "choices": [
+        "Blocking",
+        "Screening",
+        "Spike",
+        "Passing"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Blocking",
+        "Spike",
+        "Passing"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "_____ is important before taking the leap or jumping to block the opponent's attack to assume where the ball lands.",
+      "answer": "TIMING",
+      "choices": [
+        "TIMING"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "_____ is the illegal movement of one foot or both feet beyong the limits outlined while holding a live ball on the court.",
+      "answer": "travelling",
+      "choices": [
+        "travelling"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "_____ is the throwing of a ball to a teammate.",
+      "answer": "Passing",
+      "choices": [
+        "Passing"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "_____ mean an exercise involving repeated rapid stretching and contracting of muscles to increase muscle power",
+      "answer": "Plyometrics",
+      "choices": [
+        "Dynamic stretching",
+        "Plyometrics",
+        "Quad stretch",
+        "Static stretching"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Dynamic stretching",
+        "Quad stretch",
+        "Static stretching"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "_____ point system is used in scoring the game.",
+      "answer": "Rally",
+      "choices": [
+        "Rally"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 4,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "Batch-Course-Harvester",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "_____ refers to the ability of maintaining the proper alignment of joints while going through various ranges of motion.",
+      "answer": "strength",
+      "choices": [
+        "strength"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "_____ refers to the ability to retain the proper alignment of the lower body joints.",
+      "answer": "Stability",
+      "choices": [
+        "Stability"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "A blocking technique done to block the ball closely from the net.",
+      "answer": "Side step",
+      "choices": [
+        "Half step",
+        "Side step",
+        "Block step",
+        "Cross step"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Half step",
+        "Block step",
+        "Cross step"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "A blocking technique that is done by blocking the ball coming from an attack hit far from the net.",
+      "answer": "Cross step",
+      "choices": [
+        "Cross step",
+        "Half step",
+        "Block step",
+        "Side step"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Half step",
+        "Block step",
+        "Side step"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "A pass done when the ball comes and cannot be intercepted by two hands or if the ball is quite far to establish a position for a correct hand pass or toss.",
+      "answer": "Emergency pass",
+      "choices": [
+        "Overhand",
+        "Forearm",
+        "Tossing",
+        "Emergency pass"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Overhand",
+        "Forearm",
+        "Tossing"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "A player felt tired and was not playing his/her best so the coach calls for a substitution The player, now rested, wants to re-enter the game If the player substituted in the first set, what is the earliest set is the player eligible to re-enter?",
+      "answer": "Second set",
+      "choices": [
+        "Second set",
+        "Same set",
+        "Third set",
+        "The player cannot re-enter"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Same set",
+        "Third set",
+        "The player cannot re-enter"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "A player in this position wears a distinctive uniform and plays as the main defensive player of the team",
+      "answer": "Libero",
+      "choices": [
+        "Right side hitter",
+        "Libero",
+        "Outside hitter",
+        "Setter"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Right side hitter",
+        "Outside hitter",
+        "Setter"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "A player is allowed to have two consecutive touches.",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "A player is not allowed ____ consecutive touches",
+      "answer": "2",
+      "choices": [
+        "1",
+        "3",
+        "2",
+        "4"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "1",
+        "3",
+        "4"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "A player rages and starts misbehaving and started shouting unnecessarily The official, held up a yellow card The yellow card serves as a warning for ____________",
+      "answer": "Misconduct",
+      "choices": [
+        "Service delay",
+        "Disqualification",
+        "Technical",
+        "Misconduct"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Service delay",
+        "Disqualification",
+        "Technical"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "A serve not frequently used wherein the ball is held around the hip level and is tossed about a foot into the air while the arm swings parallel to the floor.",
+      "answer": "Side arm",
+      "choices": [
+        "Topspin",
+        "Overhand",
+        "Side arm",
+        "Floater"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Topspin",
+        "Overhand",
+        "Floater"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "A serve where the player faces the net with the left foot in front of the right foot and swings the cupped hand backward, while the hand follows the ball straight through the direction of the flight of the ball.",
+      "answer": "Underhand",
+      "choices": [
+        "One arm",
+        "Underhand",
+        "Overhand",
+        "Side arm"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "One arm",
+        "Overhand",
+        "Side arm"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "A tendency of losing muscles as we reach a certain age",
+      "answer": "Sarcopenia",
+      "choices": [
+        "The answer can be any of the choices",
+        "Osteoporosis",
+        "Osteoarthritis",
+        "Sarcopenia"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "The answer can be any of the choices",
+        "Osteoporosis",
+        "Osteoarthritis"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "A training drill that is designed to work all the leg and core muscles",
+      "answer": "Speed and agility training",
+      "choices": [
+        "Speed and agility training",
+        "Endurance training",
+        "Strength training",
+        "Cardiovascular training"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Endurance training",
+        "Strength training",
+        "Cardiovascular training"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "A yellow and a red card is held by the official in one hand after a misconduct done by a player This means ______ for the player",
+      "answer": "Expulsion",
+      "choices": [
+        "Warning",
+        "Disqualification",
+        "Expulsion",
+        "Penalty"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Warning",
+        "Disqualification",
+        "Penalty"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Aerobic exercises are good exercises for the upper limbs",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "After the official whistles, how many seconds does a server have to hit the ball?",
+      "answer": "8",
+      "choices": [
+        "13",
+        "8",
+        "3",
+        "5"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "13",
+        "3",
+        "5"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Agility is the ability to start, stop, and quickly change direction",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "All team sports require many changes in doing speed and agility exercises",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "An attack skill wherein the ball is driven hard towards the opponent's court.",
+      "answer": "Spiking",
+      "choices": [
+        "Passing",
+        "Spiking",
+        "Blocking",
+        "Serving"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Passing",
+        "Blocking",
+        "Serving"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "An exercise that basically work out the pectoralis major anterior deltoids and the deltoids",
+      "answer": "Push up",
+      "choices": [
+        "Push up",
+        "Flat bench press",
+        "Sit up",
+        "Curl up"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Flat bench press",
+        "Sit up",
+        "Curl up"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "An exercise that is done by squeezing the shoulder blades together backwards",
+      "answer": "Scapular retraction and depression",
+      "choices": [
+        "Shoulder flexion",
+        "Shoulder adduction and abduction",
+        "Horizontal adduction and abduction",
+        "Scapular retraction and depression"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Shoulder flexion",
+        "Shoulder adduction and abduction",
+        "Horizontal adduction and abduction"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "An exercise that requires the body to lay down on a bench with feet planted flatly on the floor with a barbell or a pair of dumbbells",
+      "answer": "Flat bench press",
+      "choices": [
+        "Tricep pulldown",
+        "Overhead press",
+        "Flat bench press",
+        "Flat dumbbell fly"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Tricep pulldown",
+        "Overhead press",
+        "Flat dumbbell fly"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Apparatuses used for the arm can also be used for legs",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Basketball shoes should have ______ as the material for their soles",
+      "answer": "Rubber",
+      "choices": [
+        "Leather",
+        "Rubber",
+        "Metal",
+        "Wood"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Leather",
+        "Metal",
+        "Wood"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
     },
     {
       "question": "Before it became volleyball, it was popularized as \" [____: Before it became volleyball, it was popularized as \" [____] \" because the net divided the court into two.[Fill-in-the-Blank / Short Answer Question][The blank is marked as [____] in the question text above.][DETECTED ANSWER IN DATABASE]:- Suggested: Mintonette (AMAUOED • 95% Probability • amauoed)Instructions: Answer ONLY with the exact word or phrase that fills the blank [____]. No explanation.] \" because the net divided the court into two.",
@@ -35,52 +793,3434 @@
       "lastEvidenceAt": "2026-10-06T08:21:21Z"
     },
     {
+      "question": "Before it became volleyball, it was popularized as \" __________ \" because the net divided the court into two.",
+      "answer": "Mintonette",
+      "choices": [
+        "Ball tennis",
+        "Ping pong",
+        "Mintonette",
+        "Volley"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Ball tennis",
+        "Ping pong",
+        "Volley"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Calf muscles are muscles of the lower back hamstring",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Calf raises are mainly concerned with the endurance to withstand the position at a certain amount of time",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Component of fitness that is in charge of maintaining the alignment while moving in a full range of motion",
+      "answer": "Strength",
+      "choices": [
+        "Power",
+        "Strength",
+        "Agility",
+        "Speed"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Power",
+        "Agility",
+        "Speed"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Deltoids are exercises that will help develop upper extremities",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Due to the rising popularity of the sport, different organizations and associations developed the rules for volleyball between ________ and _______",
+      "answer": "1935-1960s",
+      "choices": [
+        "1925-1950s",
+        "1935-1960s",
+        "1835-1860s",
+        "1825-1850s"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "1925-1950s",
+        "1835-1860s",
+        "1825-1850s"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Dumbbells plays the major role in exercising upper limbs",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "During a game, the official rolled his forearms in a circular motion The ball was dead and the players active wanted to take a rest What does that hand signal mean?",
+      "answer": "Substitution",
+      "choices": [
+        "Time out",
+        "Substitution",
+        "Penalty",
+        "Change court"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Time out",
+        "Penalty",
+        "Change court"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Exercises of the upper extremities are for younger generations only",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Flat bench press primarily uses your pectoralis major, anterior deltoids and _____ muscles",
+      "answer": "Deltoid",
+      "choices": [
+        "Deltoid",
+        "Hamstring",
+        "Gluteus maxima",
+        "Trapezius"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Hamstring",
+        "Gluteus maxima",
+        "Trapezius"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Flexibility can improve the range of motion with power and agility",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "For this exercise, using free weights or a water bottle, as an alternative, you have to use the support of a bench. One knee mounts the bench while a hand supports your weight somewhere above the shoulder. The free weight is raised to your chest in the starting position before extending the elbow to bring the apparatus pointing backwards.",
+      "answer": "Tricep extension",
+      "choices": [
+        "Hammer curls",
+        "Tricep pulldown",
+        "Flat dumbbell fly",
+        "Tricep extension"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Hammer curls",
+        "Tricep pulldown",
+        "Flat dumbbell fly"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "For this exercise, you start by raising your hands up with palms wide open and your elbows bent at the shoulder level. Without losing the position of the upper arm in line with the shoulder, bring both hands down.",
+      "answer": "Shoulder internal and external rotation",
+      "choices": [
+        "Shoulder internal and external rotation",
+        "Forearm pronation and supination",
+        "Elbow flexion and extension",
+        "Scapular retraction and depression"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Forearm pronation and supination",
+        "Elbow flexion and extension",
+        "Scapular retraction and depression"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "From the sitting position, you lift your arm to the side, your palms facing upward This position must be maintained for three seconds",
+      "answer": "Shoulder adduction and abduction",
+      "choices": [
+        "Scapular retraction and depression",
+        "Shoulder adduction and abduction",
+        "Shoulder internal and external rotation",
+        "Shoulder flexion"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Scapular retraction and depression",
+        "Shoulder internal and external rotation",
+        "Shoulder flexion"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Good _____ have well-coordinated bodies.",
+      "answer": "blockers",
+      "choices": [
+        "blockers"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Good blockers must have well-coordinated bodies",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Has the same responsibility and capabilities of the center but faster",
+      "answer": "Power Forward",
+      "choices": [
+        "Small forward",
+        "Shooting Guard",
+        "Power Forward",
+        "Point Guard"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Small forward",
+        "Shooting Guard",
+        "Point Guard"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "He is the one who suggested the change of mintonette to volleyball",
+      "answer": "Dr Alfred S Halsted",
+      "choices": [
+        "William J Morgan",
+        "Dr Alfred S Halsted",
+        "Elwood Brown",
+        "None of the choices"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "William J Morgan",
+        "Elwood Brown",
+        "None of the choices"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "How can a player commit illegal double dribbling?",
+      "answer": "When the player starts and ends the dribble then starts it again",
+      "choices": [
+        "When the player stops dribbling completely then starts again",
+        "When the player passes the ball after dribbling then upon return, starts dribbling again",
+        "When the player bounces the ball up and down more than twice",
+        "When the player starts and ends the dribble then starts it again"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "When the player stops dribbling completely then starts again",
+        "When the player passes the ball after dribbling then upon return, starts dribbling again",
+        "When the player bounces the ball up and down more than twice"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "How many colors are there on a basketball for men?",
+      "answer": "One",
+      "choices": [
+        "Two",
+        "Four",
+        "Three",
+        "One"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Two",
+        "Four",
+        "Three"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "How many minutes are there for every quarter of a game?",
+      "answer": "12",
+      "choices": [
+        "40",
+        "12",
+        "15",
+        "30"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "40",
+        "15",
+        "30"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "How many players are there in a volleyball team?",
+      "answer": "6",
+      "choices": [
+        "5",
+        "8",
+        "6",
+        "7"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "5",
+        "8",
+        "7"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
       "question": "How many players does volleyball need to have?",
       "answer": "12",
-      "choices": [],
+      "choices": [
+        "12"
+      ],
       "questionType": "shortanswer",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-06T08:21:21Z",
+      "source": "amauoed",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z",
+      "originType": "quiz",
+      "originLabel": "PRELIM QUIZ 1"
+    },
+    {
+      "question": "How many players must be active on the court to play volleyball?",
+      "answer": "12",
+      "choices": [
+        "12",
+        "6",
+        "10",
+        "5"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "6",
+        "10",
+        "5"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "How many points does a player get for each successful shoot?",
+      "answer": "Two",
+      "choices": [
+        "Four",
+        "Two",
+        "Five",
+        "One"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Four",
+        "Five",
+        "One",
+        "1, 2, or 3 points"
+      ],
+      "wrongAnswerEvidence": true,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-06T08:21:21Z"
+      "originType": "quiz",
+      "originLabel": "MIDTERM QUIZ 1",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "How many points will a shot from a 15-foot area make?",
+      "answer": "Three",
+      "choices": [
+        "One",
+        "Four",
+        "Three",
+        "Two"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "One",
+        "Four",
+        "Two"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "How many seconds is allowed for the team to be on time out?",
+      "answer": "3",
+      "choices": [
+        "3",
+        "Suggested (AMAUOED, unconfirmed): 3 Filled"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "moodle_100_percent",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "How many seconds is given to a player to successfully get the ball to the other side of the court?",
+      "answer": "8",
+      "choices": [
+        "3",
+        "8",
+        "5",
+        "24"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "3",
+        "5",
+        "24"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "How many sets in maximum are there in a volleyball game?",
+      "answer": "5",
+      "choices": [
+        "5"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "How many times is a team allowed to call for time-out per volleyball game?",
+      "answer": "2",
+      "choices": [
+        "4",
+        "2",
+        "1",
+        "3"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "4",
+        "1",
+        "3"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "If both yellow and red cards are held up in separate hands, a \" _____ \" signal is called.",
+      "answer": "Disqualification",
+      "choices": [
+        "Service",
+        "Disqualification",
+        "Misconduct",
+        "Expulsion"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Service",
+        "Misconduct",
+        "Expulsion"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "If the opponents commit personal fouls against each around at around the same time, the official ____",
+      "answer": "Waves both of his clenched fists above his head",
+      "choices": [
+        "Waves both of his clenched fists above his head",
+        "Holds up both of his clenched fist",
+        "Raises an arm with a clenched fist followed by a point to the floor",
+        "Grasps the wrist with his free hand above the head"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Holds up both of his clenched fist",
+        "Raises an arm with a clenched fist followed by a point to the floor",
+        "Grasps the wrist with his free hand above the head"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "If the volleyball competition is played indoors, the minimum ceiling height must be ___ meters",
+      "answer": "7",
+      "choices": [
+        "9",
+        "6",
+        "7",
+        "8"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "9",
+        "6",
+        "8"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "If you do upper limb exercises, you may lose weight",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "In basketball, it is important to develop leg strength",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "In basketball, the point guard serves as the playmaker for the team What position in volleyball also makes plays for the team?",
+      "answer": "Point guard",
+      "choices": [
+        "Small Forward",
+        "Shooting Guard",
+        "Point guard",
+        "Center"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Small Forward",
+        "Shooting Guard",
+        "Center"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "In doing static stretching, the technique is used to perform movement repeatedly",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "In interval sprints, you must sprint as you can to the next point within the next 10 to 15 seconds followed by a _____-second rest",
+      "answer": "30",
+      "choices": [
+        "50",
+        "30",
+        "20",
+        "60"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "50",
+        "20",
+        "60"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "In leg strength, this is characterized as the ability to retain proper alignment of the lower body",
+      "answer": "Stability",
+      "choices": [
+        "Stability",
+        "Endurance",
+        "Resistance",
+        "Balance"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Endurance",
+        "Resistance",
+        "Balance"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "In shoulder internal and external rotation, elbows are bent at a _____-degree angle",
+      "answer": "90",
+      "choices": [
+        "45",
+        "90",
+        "30",
+        "180"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "45",
+        "30",
+        "180"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "In the absence of the tallest player, the _____ player does the jump ball.",
+      "answer": "center",
+      "choices": [
+        "center"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "In the event of an _____ , the player who committed a misconduct must stay in the penalty area.",
+      "answer": "Expulsion",
+      "choices": [
+        "Expulsion",
+        "Disqualification",
+        "Misconduct",
+        "Service"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Disqualification",
+        "Misconduct",
+        "Service"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "In the jump shot, both feet of the player take off the floor in a _____ jump.",
+      "answer": "Vertical",
+      "choices": [
+        "Vertical",
+        "Horizontal",
+        "None of the choices is correct",
+        "Diagonal"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Horizontal",
+        "None of the choices is correct",
+        "Diagonal"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 5,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "review_screen",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "In this exercise, you use your shoulder blades and pushing them backward to meet at the middle of your back",
+      "answer": "Scapular retraction and depression",
+      "choices": [
+        "Scapular retraction and depression",
+        "Shoulder internal and external rotation",
+        "Shoulder adduction and abduction",
+        "Shoulder flexion"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Shoulder internal and external rotation",
+        "Shoulder adduction and abduction",
+        "Shoulder flexion"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "In tossing, the wrists are mostly used to throw the ball into the air",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "In volleyball, leg training exercises are the key factor",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "It is claimed to be the single best leg exercise to build muscle and strengthen the whole leg",
+      "answer": "Lunges",
+      "choices": [
+        "Lunges",
+        "Interval sprint",
+        "Jump squat",
+        "None of the choices"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Interval sprint",
+        "Jump squat",
+        "None of the choices"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "It is good to workout regularly so as not to gain weight",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "It is important to aim for speed in performing jump squats",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "It is important to train at a level equal to the intensity",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Muscles are found in every part of the body",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Muscles found behind the thigh that may be strengthened through static contraction",
+      "answer": "Hamstring muscles",
+      "choices": [
+        "Hamstring muscles",
+        "Triceps",
+        "Quadriceps",
+        "Calf muscles"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Triceps",
+        "Quadriceps",
+        "Calf muscles"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Muscles of the upper legs must be strengthened to gain weight",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Muscles of your _____ allows you to move, flex, extend and rotate your arms toward or away from your body",
+      "answer": "Upper limb",
+      "choices": [
+        "Back",
+        "Thighs",
+        "Upper limb",
+        "Shoulders"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Back",
+        "Thighs",
+        "Shoulders"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "On a flat surface, the forearm is laid flat across it with the hand closed in a fist This position is held for three seconds then you must spread your fingers open for another three seconds",
+      "answer": "Finger adduction and abduction",
+      "choices": [
+        "Thumb opposition",
+        "Finger adduction and abduction",
+        "Wrist ulnar and radial deviation",
+        "Wrist flexion and extension"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Thumb opposition",
+        "Wrist ulnar and radial deviation",
+        "Wrist flexion and extension"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "On a flat surface, you do this exercise by placing your forearm along the edge of the table with the wrist and the hand hanging on the side From the beginning position of an open palm facing downwards, you raise the hand without lifting your forearm along with it",
+      "answer": "Wrist flexion and extension",
+      "choices": [
+        "Finger flexion and extension",
+        "Wrist flexion and extension",
+        "Wrist ulnar and radial deviation",
+        "Elbow flexion and extension"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Finger flexion and extension",
+        "Wrist ulnar and radial deviation",
+        "Elbow flexion and extension"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "One quarter of a game runs for _____ minutes.",
+      "answer": "12",
+      "choices": [
+        "12"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Only 1 media time-out is allowed in each period",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Only _____ media time-out is allowed in each period.",
+      "answer": "1",
+      "choices": [
+        "1"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Outdoor basketball floor surface is usually made up of ______",
+      "answer": "Rubberized paint",
+      "choices": [
+        "Cement",
+        "Wood",
+        "Rubberized paint",
+        "Textile paint"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Cement",
+        "Wood",
+        "Textile paint"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Passing the ball by using fingers and wrists",
+      "answer": "Tossing",
+      "choices": [
+        "One-arm",
+        "Forearm",
+        "Overhand",
+        "Tossing"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "One-arm",
+        "Forearm",
+        "Overhand"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "People have the tendency to _____ muscles as they age.",
+      "answer": "Lose",
+      "choices": [
+        "Weaken",
+        "Gain",
+        "Lose",
+        "Strengthen"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Weaken",
+        "Gain",
+        "Strengthen"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "PICTURE NUMBER 19",
+      "answer": "Illegal dribble: Carrying the ball",
+      "choices": [
+        "Illegal dribble: Carrying the ball"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "PICTURE NUMBER 23",
+      "answer": "24 seconds",
+      "choices": [
+        "24 seconds"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "PICTURE NUMBER 41",
+      "answer": "Charging with the ball",
+      "choices": [
+        "Charging with the ball"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "PICTURE NUMBER 42",
+      "answer": "Illegal contact to the hand",
+      "choices": [
+        "Illegal contact to the hand"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "PICTURE NUMBER 9",
+      "answer": "Charged time-out",
+      "choices": [
+        "Charged time-out"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Players dribble when they move around the court What violation will be called on them for not dribbling?",
+      "answer": "Travelling",
+      "choices": [
+        "Double",
+        "Technical",
+        "Travelling",
+        "Charging"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Double",
+        "Technical",
+        "Charging"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Power is a component of fitness change for the maintenance of the alignment while moving",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Pull ups and sit ups are basic workouts for anterior deltoids and deltoids",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Rapid stretching and contracting of muscles can increase muscle power",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Shoulder blades and hands are the main parts of upper extremities",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Speed is the ability to do an activity in a short period of time",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Sprinting and jumping are some examples of leg exercises",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Stretches that are designed to hold position for a joint or muscle that is minimally challenging",
+      "answer": "Static",
+      "choices": [
+        "Dynamic",
+        "There is no correct answer among the choices",
+        "The choices are both correct",
+        "Static"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Dynamic",
+        "There is no correct answer among the choices",
+        "The choices are both correct"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Stretching and squeezing of shoulder are abdominal exercises",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Stretching that prepares the joints for movement and muscles for optimal activation",
+      "answer": "Dynamic",
+      "choices": [
+        "Dynamic",
+        "The choices are both correct",
+        "Static",
+        "There is no correct answer among the choices"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "The choices are both correct",
+        "Static",
+        "There is no correct answer among the choices"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Strike is the act of hitting the ball or controlling the ball by hitting it with the arms",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Substitution gives a chance for teams to change the active players The referees shape their hands to what letter to signal substitution?",
+      "answer": "X",
+      "choices": [
+        "T",
+        "X",
+        "U",
+        "S"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "T",
+        "U",
+        "S"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The 5-second rule applies in a game wherein the player is not allowed to remain in the opponent's restricted area for more than the allotted seconds while his team is in possession of the ball",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The ___ decides which team is in possession of the ball.",
+      "answer": "jump ball",
+      "choices": [
+        "jump ball"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The _____ -second rule applies in a game wherein the player is not allowed to remain in the opponent's restricted area for more than the alloted seconds while his team is in possession of the ball.",
+      "answer": "3",
+      "choices": [
+        "3"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The _____ is made up of flexible rod fiberglass or similar material.",
+      "answer": "Antennae",
+      "choices": [
+        "Post",
+        "Ball",
+        "Antennae",
+        "Net"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Post",
+        "Ball",
+        "Net"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The _____ muscles are found on the upper part of your leg",
+      "answer": "Quadriceps",
+      "choices": [
+        "Quadriceps",
+        "Trapezius",
+        "Hamstring",
+        "Deltoids"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Trapezius",
+        "Hamstring",
+        "Deltoids"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The ability to start, stop and quickly change direction while maintaining proper postural alignment",
+      "answer": "Agility",
+      "choices": [
+        "Balance",
+        "Stability",
+        "Agility",
+        "Reflex"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Balance",
+        "Stability",
+        "Reflex"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The act of putting the ball in the goal.",
+      "answer": "Shooting",
+      "choices": [
+        "Shooting"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The amount of velocity a person has in any given direction",
+      "answer": "Speed",
+      "choices": [
+        "Acceleration",
+        "Speed",
+        "Agility",
+        "None of the choices"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Acceleration",
+        "Agility",
+        "None of the choices"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The application of the _____ depends on the organizing body of basketball. This period shall run for 60, 75, 90 or 100 seconds.",
+      "answer": "media time-out",
+      "choices": [
+        "media time-out"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The application of the media time-out depends on the players and teams This period shall run for 60, 75, 90 or 100 seconds",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The ball is considered \" _____ \" if the ball falls outside of the boundary lines.",
+      "answer": "Out",
+      "choices": [
+        "Out",
+        "In play",
+        "None of the choices apply",
+        "In"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "In play",
+        "None of the choices apply",
+        "In"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The ball is considered out if ________",
+      "answer": "The ball touches the outside of the court",
+      "choices": [
+        "If the ball is served",
+        "The ball touches the outside of the court",
+        "Some part of the ball touches the court",
+        "The ball is held by the official"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "If the ball is served",
+        "Some part of the ball touches the court",
+        "The ball is held by the official"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The ball must be transferred to the opponent court within _____ seconds.",
+      "answer": "10",
+      "choices": [
+        "10"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The basic skill done by pushing the ball repeatedly to the floor.",
+      "answer": "Dribbling",
+      "choices": [
+        "Dribbling",
+        "Shooting",
+        "Stealing",
+        "Rebounding"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Shooting",
+        "Stealing",
+        "Rebounding"
+      ],
+      "wrongAnswerEvidence": true,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "review_screen",
+      "originType": "quiz",
+      "originLabel": "MIDTERM QUIZ 1",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The basketball court is _____ in shape.",
+      "answer": "Rectangular",
+      "choices": [
+        "Circular",
+        "Diagonal",
+        "Rectangular",
+        "Triangular"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Circular",
+        "Diagonal",
+        "Triangular"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The body is in a _____ position in putting a defense to avoid committing fouls.",
+      "answer": "Cylinder",
+      "choices": [
+        "Attack",
+        "Cylinder",
+        "Defense",
+        "Forward"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Attack",
+        "Defense",
+        "Forward"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The boundaries of the volleyball court is outlined by an endline Aside from being markers for boundaries, the endline also serves as the ________",
+      "answer": "Service area",
+      "choices": [
+        "Service area",
+        "Time out area",
+        "Receiving area",
+        "Libero area"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Time out area",
+        "Receiving area",
+        "Libero area"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The center circle is _____ m in diameter.",
+      "answer": "36",
+      "choices": [
+        "26",
+        "46",
+        "36",
+        "16"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "26",
+        "46",
+        "16"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The circumference of the post holding the net upright in a volleyball court measures ___ cm",
+      "answer": "8",
+      "choices": [
+        "12",
+        "8",
+        "13",
+        "9"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "12",
+        "13",
+        "9"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
     },
     {
       "question": "The color of the volleyball may be light or a combination of colors.",
       "answer": "True",
       "choices": [
         "a. False",
-        "b. True"
+        "b. True",
+        "True"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-06T08:21:21Z",
-      "source": "review_screen",
-      "lastVerifiedAt": "2026-10-06T08:21:21Z"
+      "source": "Review",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
+    },
+    {
+      "question": "The court used for volleyball has a net separating it into two equal parts What is the measurement of the halves?",
+      "answer": "9 m",
+      "choices": [
+        "8 m",
+        "10 m",
+        "9 m",
+        "11 m"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "8 m",
+        "10 m",
+        "11 m"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The deuce in a volleyball comes when the teams are tied at _____ points.",
+      "answer": "24",
+      "choices": [
+        "24"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "moodle_100_percent",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The game was originally played using _____ baskets.",
+      "answer": "Peach",
+      "choices": [
+        "Peach",
+        "Mango",
+        "Berry",
+        "Orange"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Mango",
+        "Berry",
+        "Orange"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The height of the net for a men's competition of volleyball is ___",
+      "answer": "243",
+      "choices": [
+        "224",
+        "213",
+        "215",
+        "243"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "224",
+        "213",
+        "215"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The illegal form of defense in basketball wherein the defensive player uses his hands and arms to prevent the opponent from making forward movements",
+      "answer": "Handchecking",
+      "choices": [
+        "Pushing or charging without the ball",
+        "Illegal Screening",
+        "Holding",
+        "Handchecking"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Pushing or charging without the ball",
+        "Illegal Screening",
+        "Holding"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The indoor court must have a _____ floor surface",
+      "answer": "Wooden",
+      "choices": [
+        "Lawn grass",
+        "Rubberized paint",
+        "Cemented",
+        "Wooden"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Lawn grass",
+        "Rubberized paint",
+        "Cemented"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The key in decreasing injury for basketball players is through speed and strength trainings",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The key training that mainly generates power in calves",
+      "answer": "Swift motion",
+      "choices": [
+        "Swift motion",
+        "Strength training",
+        "Endurance training",
+        "Agility"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Strength training",
+        "Endurance training",
+        "Agility"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The libero also wears a uniform of a different color than his/her team members.",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The libero can only block, set or smash the ball at the front court.",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False",
+        "a. True",
+        "b. False Web Study Guide (AMAUOED, Unconfirmed)"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z",
+      "alternateAnswers": [
+        {
+          "answer": "False Web Study Guide (AMAUOED, Unconfirmed)",
+          "timestamp": "2026-11-24T04:20:17Z"
+        }
+      ]
+    },
+    {
+      "question": "The limbs are known as the LEG",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The line that divides the court into two equal parts.",
+      "answer": "Center line",
+      "choices": [
+        "Center line",
+        "3-point line",
+        "Free throw line",
+        "Center circle"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "3-point line",
+        "Free throw line",
+        "Center circle"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The match is won after ____sets.",
+      "answer": "3",
+      "choices": [
+        "3",
+        "5",
+        "4",
+        "6"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "5",
+        "4",
+        "6"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The maximum number of seconds a player can stay on the restricted area.",
+      "answer": "3",
+      "choices": [
+        "1",
+        "4",
+        "3",
+        "2"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "1",
+        "4",
+        "2"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The muscles found on the upper leg are called:",
+      "answer": "Quadriceps",
+      "choices": [
+        "Calf muscles",
+        "Hamstring muscles",
+        "Triceps",
+        "Quadriceps"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Calf muscles",
+        "Hamstring muscles",
+        "Triceps"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The muscles located behind the lower part of the leg between the ankle and the knees",
+      "answer": "Calf muscles",
+      "choices": [
+        "Hamstring muscles",
+        "Calf muscles",
+        "Triceps",
+        "Quadriceps"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Hamstring muscles",
+        "Triceps",
+        "Quadriceps"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
     },
     {
       "question": "The net is 2.13m high for younger players.",
       "answer": "True",
       "choices": [
         "a. False",
-        "b. True"
+        "b. True",
+        "True"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-06T08:21:21Z",
+      "source": "amauoed",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
+    },
+    {
+      "question": "The number of points for every free throw.",
+      "answer": "1",
+      "choices": [
+        "1"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The number of points for every shot.",
+      "answer": "2",
+      "choices": [
+        "2"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The offensive and most important skill in basketball.",
+      "answer": "Shooting",
+      "choices": [
+        "Stealing",
+        "Rebounding",
+        "Dribbling",
+        "Shooting"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Stealing",
+        "Rebounding",
+        "Dribbling"
+      ],
+      "wrongAnswerEvidence": true,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-06T08:21:21Z"
+      "originType": "quiz",
+      "originLabel": "MIDTERM QUIZ 1",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The official holds up one hand with three fingers up if the three-point shot is being attempted.",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The official points a finger with an arm parallel to the sidelines to indicate the direction of the play.",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The official puts his hands on his _____ if the players committed a foul on blocking and illegal screening.",
+      "answer": "hips",
+      "choices": [
+        "hips"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The official puts his hands on his shoulders if the players committed a foul on blocking and illegal screening",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The one-arm pass is an associated technique utilized to pass the serve, play balls below the waist and control the ball far from the player",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The opposing teams switch courts except in the _____ set.",
+      "answer": "Deciding",
+      "choices": [
+        "Final",
+        "Deciding",
+        "First",
+        "Third"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Final",
+        "First",
+        "Third"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The overhand serve in volleyball requires the player to toss the ball 2 to 3 feet in the air above in front of the ______",
+      "answer": "Right shoulder",
+      "choices": [
+        "Left waist",
+        "Right shoulder",
+        "Left shoulder",
+        "Right waist"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Left waist",
+        "Left shoulder",
+        "Right waist"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The pass done by holding the ball with two hands holding the ball on top of the head.",
+      "answer": "Overhead pass",
+      "choices": [
+        "Overhead pass",
+        "Bounce pass",
+        "Baseball pass",
+        "Chest pass",
+        "a. Chest pass",
+        "b. Hook pass",
+        "c. Baseball pass",
+        "d. Bounce pass",
+        "e. Overhead pass",
+        "a. Hook pass",
+        "b. Chest pass"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Bounce pass",
+        "Baseball pass",
+        "Chest pass"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 5,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "review_screen",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The pass executed by holding the ball at waist level.",
+      "answer": "Bounce pass",
+      "choices": [
+        "Bounce pass",
+        "Baseball pass",
+        "Chest pass",
+        "One-arm pass"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Baseball pass",
+        "Chest pass",
+        "One-arm pass"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The pass which is an associated technique utilized to pass the serve, play balls below the waist and control the ball far from the player.",
+      "answer": "forearm pass",
+      "choices": [
+        "forearm pass"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The passing technique which uses the fleshy parts of the fingers and a wrist action.",
+      "answer": "tossing",
+      "choices": [
+        "tossing",
+        "a. tossing Web Study Guide (AMAUOED, Unconfirmed)",
+        "b. overhand pass",
+        "c. one-arm pass",
+        "d. forearm pass"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z",
+      "alternateAnswers": [
+        {
+          "answer": "tossing Web Study Guide (AMAUOED, Unconfirmed)",
+          "timestamp": "2026-11-24T04:20:17Z"
+        }
+      ]
+    },
+    {
+      "question": "The player responsible for scoring the most points in team and does not need to pass the ball to another player",
+      "answer": "Opposite hitter",
+      "choices": [
+        "Right side hitter",
+        "Opposite hitter",
+        "Outside hitter",
+        "Middle blocker"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Right side hitter",
+        "Outside hitter",
+        "Middle blocker"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The player who shoots from the _____ feet area is awarded 3 points.",
+      "answer": "15",
+      "choices": [
+        "15"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The referee holds up _____ fingers to indicate delay in service.",
+      "answer": "8",
+      "choices": [
+        "6",
+        "8",
+        "7",
+        "5"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "6",
+        "7",
+        "5"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The referee holds up the yellow card to indicate",
+      "answer": "Warning",
+      "choices": [
+        "Violation",
+        "Penalty",
+        "Misconduct",
+        "Warning"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Violation",
+        "Penalty",
+        "Misconduct"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The referee's hand moves to indicate the direction of the service after confirming that both teams are ready to play and that the server has the ball This hand signal means ______",
+      "answer": "Authorization to serve",
+      "choices": [
+        "Team to serve",
+        "Substitution",
+        "Authorization to serve",
+        "Change courts"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Team to serve",
+        "Substitution",
+        "Change courts"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The ring in basketball must be ___ mm thick",
+      "answer": "20",
+      "choices": [
+        "30",
+        "10",
+        "40",
+        "20"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "30",
+        "10",
+        "40"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The ring used in basketball is made up of iron with a diameter of _____ cm",
+      "answer": "45",
+      "choices": [
+        "45",
+        "20",
+        "25",
+        "40"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "20",
+        "25",
+        "40"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The same scenario as number 5 occurs This time, the official raised a red card This means a __________,",
+      "answer": "Penalty",
+      "choices": [
+        "Penalty",
+        "Substitution",
+        "Change court",
+        "Warning"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Substitution",
+        "Change court",
+        "Warning"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The scorer for the team with a high three-point accuracy",
+      "answer": "Shooting Guard",
+      "choices": [
+        "Shooting Guard",
+        "Small Forward",
+        "Power Forward",
+        "Point Guard"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Small Forward",
+        "Power Forward",
+        "Point Guard"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The serve in volleyball wherein the player faces the net with the left foot in front of the right foot, and the cupped hand is swung backwards, following the ball straight through the direction of the flight of the ball",
+      "answer": "Underhand serve",
+      "choices": [
+        "All of the choices are correct",
+        "Sidearm serve",
+        "Overhand serve",
+        "Underhand serve"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "All of the choices are correct",
+        "Sidearm serve",
+        "Overhand serve"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The serving area in volleyball measures ____ meters",
+      "answer": "3",
+      "choices": [
+        "5",
+        "3",
+        "4",
+        "2"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "5",
+        "4",
+        "2"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The set or match is finished What hand signals do officials use to signify the end of a set or match?",
+      "answer": "Cross arms in front of the chest",
+      "choices": [
+        "Cross arms in front of the chest",
+        "Hands in letter \"t\" form",
+        "Raising palm from hip level",
+        "Rolling forearms"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Hands in letter \"t\" form",
+        "Raising palm from hip level",
+        "Rolling forearms"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The shot clock is the time limit for the players to shoot the ball How long does the shot clock last?",
+      "answer": "24 seconds",
+      "choices": [
+        "30 seconds",
+        "18 seconds",
+        "36 seconds",
+        "24 seconds"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "30 seconds",
+        "18 seconds",
+        "36 seconds"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The shot done in which the forearm is in vertical position while the elbow is in an acute angle.",
+      "answer": "Set shot",
+      "choices": [
+        "Three-point shot",
+        "Set shot",
+        "Slam shot",
+        "Layup shot"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Three-point shot",
+        "Slam shot",
+        "Layup shot"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The shot executed by dribbling close to the basket before releasing the shot.",
+      "answer": "lay-up",
+      "choices": [
+        "Follow-up",
+        "Layup",
+        "Dunk",
+        "Perimeter shot"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Follow-up",
+        "Dunk",
+        "Perimeter shot"
+      ],
+      "wrongAnswerEvidence": true,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "review_screen",
+      "originType": "quiz",
+      "originLabel": "MIDTERM QUIZ 1",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The size of the _____ is 1.80m x 1.20m x 0.3m.",
+      "answer": "Back board",
+      "choices": [
+        "Ring",
+        "Half court",
+        "Free throw line",
+        "Back board"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Ring",
+        "Half court",
+        "Free throw line"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The sprint from one baseline to the opposite baseline back to the original baseline, repeated for 5 times",
+      "answer": "10 in 1 drill",
+      "choices": [
+        "10 in 1 drill",
+        "Pro-lane agility drill",
+        "30-yard sprint",
+        "T-drill"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Pro-lane agility drill",
+        "30-yard sprint",
+        "T-drill"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The standard circumference of a volleyball in centimeters",
+      "answer": "All of the choices are correct",
+      "choices": [
+        "67",
+        "66",
+        "All of the choices are correct",
+        "65"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "67",
+        "66",
+        "65"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The step done in blocking that develops the leaping ability of the individual by staying close to the net (volleyball)",
+      "answer": "Side step",
+      "choices": [
+        "Side step",
+        "Cross step",
+        "Both of the choices",
+        "None of the choices"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Cross step",
+        "Both of the choices",
+        "None of the choices"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
     },
     {
       "question": "The strand of the net is made of strong [____: The strand of the net is made of strong [____] or nylon strings.[Fill-in-the-Blank / Short Answer Question][The blank is marked as [____] in the question text above.][DETECTED ANSWER IN DATABASE]:- Suggested: Cotton (AMAUOED • 95% Probability • amauoed)Instructions: Answer ONLY with the exact word or phrase that fills the blank [____]. No explanation.] or nylon strings.",
@@ -99,21 +4239,2096 @@
       "lastEvidenceAt": "2026-10-06T08:21:21Z"
     },
     {
-      "question": "The volleyball cannot be made up of synthetic leather.",
-      "answer": "False",
+      "question": "The strand of the net is made of strong _____ or nylon strings.",
+      "answer": "Cotton",
       "choices": [
+        "Plastic",
+        "Silk",
+        "Cotton",
+        "Rubber"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Plastic",
+        "Silk",
+        "Rubber"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The substituted player cannot go back to the game.",
+      "answer": "True",
+      "choices": [
+        "True",
+        "a. True Web Study Guide (AMAUOED, Unconfirmed)",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z",
+      "alternateAnswers": [
+        {
+          "answer": "True Web Study Guide (AMAUOED, Unconfirmed)",
+          "timestamp": "2026-11-24T04:20:17Z"
+        }
+      ]
+    },
+    {
+      "question": "The supporting post for the board must be ___ cm outside the endline",
+      "answer": "40",
+      "choices": [
+        "10",
+        "30",
+        "20",
+        "40"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "10",
+        "30",
+        "20"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The tallest player is most often chosen as the one to do the jump ball.",
+      "answer": "True",
+      "choices": [
+        "True",
         "a. False",
-        "b. True"
+        "b. True",
+        "a. True",
+        "b. False"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
-      "firstSeenAt": "2026-10-06T08:21:21Z",
+      "confirmations": 5,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-06T08:21:21Z"
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The team is allowed to substitute a player even if the ball is still in play.",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The team must make a point within ___ seconds",
+      "answer": "24",
+      "choices": [
+        "24",
+        "40",
+        "20",
+        "15"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "40",
+        "20",
+        "15"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The term that refers to the most defensive player of the team.",
+      "answer": "libero",
+      "choices": [
+        "libero",
+        "Suggested (AMAUOED, unconfirmed): libero Filled"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "moodle_100_percent",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The toss coin decides which team is in possession of the ball",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The tricep pulldown is done by using a pair of free weights or water bottles gripped by both hands",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The violation committed by the team is a point for the opponent.",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "The volleyball cannot be made up of synthetic leather.",
+      "answer": "False",
+      "choices": [
+        "a. False",
+        "b. True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 5,
+      "firstSeenAt": "2026-10-06T08:21:21Z",
+      "source": "amauoed",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
+    },
+    {
+      "question": "The volleyball court's sideline measures ___ meters",
+      "answer": "18",
+      "choices": [
+        "15",
+        "18",
+        "9",
+        "12"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "15",
+        "9",
+        "12"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "There are ___ quarters in one game.",
+      "answer": "4",
+      "choices": [
+        "4"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "There is a maximum of 4 games in a set of a volleyball competition",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "There must be no more than ____ passes among teammates in a volleyball game",
+      "answer": "3",
+      "choices": [
+        "4",
+        "5",
+        "2",
+        "3"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "4",
+        "5",
+        "2"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "These players are assigned to the right-front playing position",
+      "answer": "Right side hitter",
+      "choices": [
+        "Middle blocker",
+        "Right side hitter",
+        "Outside hitter",
+        "Right blocker"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Middle blocker",
+        "Outside hitter",
+        "Right blocker"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This aims to increase the muscle mass, strengthen the bones and reduce risk of injury",
+      "answer": "Strength training",
+      "choices": [
+        "Resistance training",
+        "Cardiovascular training",
+        "Strength training",
+        "Muscle workout"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Resistance training",
+        "Cardiovascular training",
+        "Muscle workout"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This arm holding apparatus exercise trains the anterior deltoids, triceps, and trapezius muscles",
+      "answer": "Overhead press",
+      "choices": [
+        "Lateral dumbbell raise",
+        "Flat dumbbell fly",
+        "Overhead press",
+        "Flat bench press"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Lateral dumbbell raise",
+        "Flat dumbbell fly",
+        "Flat bench press"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This center circle measures ____ meters in diameter and it signifies the area in which the jump ball is done",
+      "answer": "360",
+      "choices": [
+        "437",
+        "311",
+        "360",
+        "250"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "437",
+        "311",
+        "250"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This exercise can be done either standing or sitting, training the medial deltoids and trapezius muscles",
+      "answer": "Lateral dumbbell raise",
+      "choices": [
+        "Flat dumbbell fly",
+        "Lateral dumbbell raise",
+        "One arm dumbbell row",
+        "Overhead press"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Flat dumbbell fly",
+        "One arm dumbbell row",
+        "Overhead press"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This exercise can be done while sitting down Starting with the arm bent at the elbow, the clenched fist pointing towards the body, the arm is extended down to the side slowly",
+      "answer": "Elbow flexion and extension",
+      "choices": [
+        "Finger flexion and extension",
+        "Elbow flexion and extension",
+        "Wrist flexion and extension",
+        "Wrist ulnar and radial deviation"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Finger flexion and extension",
+        "Wrist flexion and extension",
+        "Wrist ulnar and radial deviation"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This exercise is done while sitting down in a machine You reach for a bar above and pull on it until it reaches below your neck",
+      "answer": "Lat pulldown",
+      "choices": [
+        "Lat pulldown",
+        "Tricep pulldown",
+        "Lateral dumbbell raise",
+        "Hammer curls"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Tricep pulldown",
+        "Lateral dumbbell raise",
+        "Hammer curls"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This exercise is done with both arms holding a dumbbell in sides with feet and knees apart",
+      "answer": "Bicep curl",
+      "choices": [
+        "Flat dumbbell fly",
+        "Bicep curl",
+        "Tricep pulldown",
+        "Flat bench press"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Flat dumbbell fly",
+        "Tricep pulldown",
+        "Flat bench press"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This exercise mainly makes use of the biceps and elbow flexors.",
+      "answer": "Bicep curl",
+      "choices": [
+        "Tricep pulldown",
+        "Flat bench press",
+        "Bicep curl",
+        "Hammer curls"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Tricep pulldown",
+        "Flat bench press",
+        "Hammer curls"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This exercise position requires you to hold your weights at shoulder level, the palms holding the weights facing towards the body You raise it to a level where both arms are fully extended",
+      "answer": "Overhead press",
+      "choices": [
+        "Overhead press",
+        "One arm dumbbell row",
+        "Lat pulldown",
+        "Tricep extension"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "One arm dumbbell row",
+        "Lat pulldown",
+        "Tricep extension"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This exercise primarily trains your triceps",
+      "answer": "Tricep pulldown",
+      "choices": [
+        "Tricep extension",
+        "Overhead press",
+        "Lateral dumbbell raise",
+        "Tricep pulldown"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Tricep extension",
+        "Overhead press",
+        "Lateral dumbbell raise"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This exercise uses a machine and mainly trains the latissimus dorsi muscle.",
+      "answer": "Lat pulldown",
+      "choices": [
+        "Flat bench press",
+        "Lateral dumbbell raise",
+        "Bicep curl",
+        "Lat pulldown"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Flat bench press",
+        "Lateral dumbbell raise",
+        "Bicep curl"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This exercise will primarily train the pectoralis major using dumbbells",
+      "answer": "Flat dumbbell fly",
+      "choices": [
+        "Flat dumbbell fly",
+        "Tricep extension",
+        "One arm dumbbell row",
+        "Tricep pulldown"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Tricep extension",
+        "One arm dumbbell row",
+        "Tricep pulldown"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This exercise works out and uses the pectoralis major, anterior deltoids and deltoid",
+      "answer": "Flat bench press",
+      "choices": [
+        "Tricep pulldown",
+        "Flat dumbbell fly",
+        "Flat bench press",
+        "Tricep extension"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Tricep pulldown",
+        "Flat dumbbell fly",
+        "Tricep extension"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This exercise works out and uses the rhomboids, latissimus dorsi, biceps and brachialis muscles",
+      "answer": "One arm dumbbell row",
+      "choices": [
+        "One arm dumbbell row",
+        "Overhead press",
+        "Tricep extension",
+        "Flat dumbbell fly"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Overhead press",
+        "Tricep extension",
+        "Flat dumbbell fly"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This exercise works out the triceps by gripping the pulldown bar with closed and pronated grip",
+      "answer": "Tricep pulldown",
+      "choices": [
+        "Flat dumbbell fly",
+        "Tricep pulldown",
+        "Overhead press",
+        "Lateral dumbbell raise"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Flat dumbbell fly",
+        "Overhead press",
+        "Lateral dumbbell raise"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This hand exercise is done atop a flat surface wherein one hand will hold the free hand to keep it stable",
+      "answer": "Wrist ulnar and radial deviation",
+      "choices": [
+        "Wrist ulnar and radial deviation",
+        "Wrist flexion and extension",
+        "Thumb opposition",
+        "Finger flexion and extension"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Wrist flexion and extension",
+        "Thumb opposition",
+        "Finger flexion and extension"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This is a drill that builds leg strength and explosion",
+      "answer": "Cone drill",
+      "choices": [
+        "Cone drill",
+        "Speed and agility training",
+        "30-yard sprint",
+        "10 inches drill"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Speed and agility training",
+        "30-yard sprint",
+        "10 inches drill"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This is a part of a volleyball court that is made up of flexible rod fiberglass or similar material",
+      "answer": "Antennae",
+      "choices": [
+        "Antennae",
+        "Ball",
+        "Post",
+        "Net"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Ball",
+        "Post",
+        "Net"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This is an exercise of the plyometric kind that involves repeated rapid stretching and contracting muscles to increase muscle power",
+      "answer": "Jump squat",
+      "choices": [
+        "Lunges",
+        "Jump squat",
+        "Interval sprints",
+        "None of the choices"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Lunges",
+        "Interval sprints",
+        "None of the choices"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This is an overhand serve done by contacting the ball on its lower midsection and snapping the wrist and rolling the hand over the top of the ball.",
+      "answer": "Topspin",
+      "choices": [
+        "Overhand",
+        "Side arm",
+        "Floater",
+        "Topspin"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Overhand",
+        "Side arm",
+        "Floater"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This is an overhand serve that is done by contacting the ball at its midpoint and with a little follow through result.",
+      "answer": "Floater",
+      "choices": [
+        "Overhand",
+        "Floater",
+        "Side arm",
+        "Topspin"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Overhand",
+        "Side arm",
+        "Topspin"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This is any flagrant unsportsmanlike action by a player or team bench personnel",
+      "answer": "Disqualifying foul",
+      "choices": [
+        "Disqualifying foul",
+        "Unsportsmanlike foul",
+        "Double foul",
+        "Technical foul"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Unsportsmanlike foul",
+        "Double foul",
+        "Technical foul"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This is considered a tough exercise because it focuses more on the speed than the time",
+      "answer": "Interval sprint",
+      "choices": [
+        "Jump squat",
+        "None of the choices",
+        "Interval sprint",
+        "Lunges"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Jump squat",
+        "None of the choices",
+        "Lunges"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This is defined as the combination of strength and speed",
+      "answer": "Power",
+      "choices": [
+        "Agility",
+        "Reflexive",
+        "Power",
+        "Stability"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Agility",
+        "Reflexive",
+        "Stability"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This is done to start the game of basketball.",
+      "answer": "Jump ball",
+      "choices": [
+        "Free throw",
+        "Jump ball",
+        "Coin toss",
+        "Shuttle toss"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Free throw",
+        "Coin toss",
+        "Shuttle toss"
+      ],
+      "wrongAnswerEvidence": true,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "review_screen",
+      "originType": "quiz",
+      "originLabel": "MIDTERM QUIZ 1",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This is executed with a forceful shot above the rim.",
+      "answer": "Dunk shot",
+      "choices": [
+        "Dunk shot"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This is the lane where players stay during the free throw.",
+      "answer": "Free throw line",
+      "choices": [
+        "Endline",
+        "Center line",
+        "Free throw line",
+        "3-point line"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Endline",
+        "Center line",
+        "3-point line"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This is the sprint from the baseline at the end of the court to the free throw line on the opposite end of the court",
+      "answer": "30-yard sprint",
+      "choices": [
+        "10 in 1 drill",
+        "Pro-lane agility drill",
+        "T-drill",
+        "30-yard sprint"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "10 in 1 drill",
+        "Pro-lane agility drill",
+        "T-drill"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This is used to counter a forceful attack.",
+      "answer": "Blocking",
+      "choices": [
+        "Serving",
+        "Passing",
+        "Blocking",
+        "Spiking"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Serving",
+        "Passing",
+        "Spiking"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This is utilized to pass the serve in volleyball, play balls below the waist, play hard drive balls and control ball far from the player",
+      "answer": "Forearm pass",
+      "choices": [
+        "Toss",
+        "One-arm pass",
+        "Forearm pass",
+        "None of the choices"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Toss",
+        "One-arm pass",
+        "None of the choices"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This move is done by contacting the ball on its lower midsection and snapping the wrist and rolling the hand over the top of the ball (volleyball)",
+      "answer": "Topspin",
+      "choices": [
+        "Underhand serve",
+        "Topspin",
+        "Floater",
+        "Sidearm serve"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Underhand serve",
+        "Floater",
+        "Sidearm serve"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This pass is executed by gripping the ball on the sides, your thumbs positioned behind the ball. The fingers rotate the ball once thrown and a nice backspin is executed.",
+      "answer": "Chest pass",
+      "choices": [
+        "Baseball pass",
+        "One-arm pass",
+        "Chest pass",
+        "Bounce pass"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Baseball pass",
+        "One-arm pass",
+        "Bounce pass"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This pass is executed with one hand throwing the ball on shoulder level",
+      "answer": "Baseball pass",
+      "choices": [
+        "Bounce pass",
+        "Baseball pass",
+        "Chest pass",
+        "Hook pass"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Bounce pass",
+        "Chest pass",
+        "Hook pass"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This player can only block, set or smash the ball at the back court and is considered the most defensive player in the team",
+      "answer": "Libero",
+      "choices": [
+        "Setter",
+        "Middle blocker",
+        "Libero",
+        "Right wing spiker"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Setter",
+        "Middle blocker",
+        "Right wing spiker"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This player is assigned to play against opposing wing hitters or middle blockers This player is also responsible for blocking the ball",
+      "answer": "Middle blocker",
+      "choices": [
+        "Middle blocker",
+        "Outside blocker",
+        "Left blocker",
+        "Right blocker"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Outside blocker",
+        "Left blocker",
+        "Right blocker"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This player is most commonly situated under the hoop or in the wings and corner areas and is close to the strength and athleticism of the center but with more speed",
+      "answer": "Power forward",
+      "choices": [
+        "Power forward",
+        "Shooting guard",
+        "Small forward",
+        "Point guard"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Shooting guard",
+        "Small forward",
+        "Point guard"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This player receives the ball that goes to the left side of the court",
+      "answer": "Outside hitters",
+      "choices": [
+        "Setter",
+        "Outside hitters",
+        "Right side hitter",
+        "Attacker"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Setter",
+        "Right side hitter",
+        "Attacker"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This position is expected to have the same skills as the power forward and the guards",
+      "answer": "Small Forward",
+      "choices": [
+        "Point Guard",
+        "Shooting Guard",
+        "Center",
+        "Small Forward"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Point Guard",
+        "Shooting Guard",
+        "Center"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This refers to the act of hitting the ball or controlling the ball by hitting it with the arms.",
+      "answer": "Passing",
+      "choices": [
+        "Passing"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This refers to the movement of the feet and hands together with the body in cylinder position.",
+      "answer": "Defensive Stance",
+      "choices": [
+        "Defensive Stance",
+        "Footwork",
+        "Offensive Stance",
+        "Screen"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Footwork",
+        "Offensive Stance",
+        "Screen"
+      ],
+      "wrongAnswerEvidence": true,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "review_screen",
+      "originType": "quiz",
+      "originLabel": "MIDTERM QUIZ 1",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This refers to the movement of the feet when dribbling or when putting the defense against the opponent.",
+      "answer": "Footwork",
+      "choices": [
+        "Defensive Stance",
+        "Screen",
+        "Footwork",
+        "Offensive Stance"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Defensive Stance",
+        "Screen",
+        "Offensive Stance"
+      ],
+      "wrongAnswerEvidence": true,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "review_screen",
+      "originType": "quiz",
+      "originLabel": "MIDTERM QUIZ 1",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This service is executed by tossing the ball 2 to 3 feet in the air above in front of the right shoulder.",
+      "answer": "overhand serve",
+      "choices": [
+        "overhand serve",
+        "a. overhand serve Web Study Guide (AMAUOED, Unconfirmed)",
+        "b. underhand serve",
+        "c. sidearm serve"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z",
+      "alternateAnswers": [
+        {
+          "answer": "overhand serve Web Study Guide (AMAUOED, Unconfirmed)",
+          "timestamp": "2026-11-24T04:20:17Z"
+        }
+      ]
+    },
+    {
+      "question": "This signal indicates the start of jump ball, to determine which team will be in possession of the ball.",
+      "answer": "PICTURE NUMBER 16",
+      "choices": [
+        "PICTURE NUMBER 16"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This signal points that the team who has the ball committed a foul.",
+      "answer": "PICTURE NUMBER 45",
+      "choices": [
+        "PICTURE NUMBER 45"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "This skill aims to minimize and avoid errors or faults in the defense or effense against an opponent.",
+      "answer": "Footwork",
+      "choices": [
+        "Footwork"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Time-outs usually last for _____ seconds.",
+      "answer": "30",
+      "choices": [
+        "15",
+        "40",
+        "30",
+        "20"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "15",
+        "40",
+        "20"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Timeouts are important parts of a volleyball game because they give time for teams to do certain things What is a player not allowed to do in a timeout?",
+      "answer": "Leave the playing court",
+      "choices": [
+        "Rebuild strategy",
+        "Drink",
+        "Leave the playing court",
+        "Rest"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Rebuild strategy",
+        "Drink",
+        "Rest"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Timing is important before taking the leap or jumping to block the opponent's attack before the ball lands",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Touching is an illegal person contact executed by pushing on the opponent's torso",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Trainings and exercises help in generating power in the body",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Trainings in volleyball that is characterized by the athletes being able to quickly get from one point to another",
+      "answer": "Foot speed training",
+      "choices": [
+        "Flexibility training",
+        "Agility training",
+        "Speed contributing to power training",
+        "Foot speed training"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Flexibility training",
+        "Agility training",
+        "Speed contributing to power training"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Upon the event of a deuce in volleyball, the player who scores the next ___ points will win",
+      "answer": "2",
+      "choices": [
+        "1",
+        "2",
+        "5",
+        "3"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "1",
+        "5",
+        "3"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Upon this violation, the official strikes the palm towards the other forearm sideways",
+      "answer": "Illegal contact to the hand",
+      "choices": [
+        "Excessive swinging of elbow",
+        "Illegal contact to the hand",
+        "Charging with the ball",
+        "Illegal use of hands"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Excessive swinging of elbow",
+        "Charging with the ball",
+        "Illegal use of hands"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Upper extremities are also known as upper limbs",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Using a machine, you grip a small bar at hip level while standing up straight After this, you pull down the bar slowly until it reaches the lower part of your body",
+      "answer": "Tricep pulldown",
+      "choices": [
+        "Lat pulldown",
+        "Bicep curl",
+        "Tricep pulldown",
+        "Hammer curls"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Lat pulldown",
+        "Bicep curl",
+        "Hammer curls"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Usually the tallest and most athletic player on the team",
+      "answer": "Center",
+      "choices": [
+        "Center",
+        "Point Guard",
+        "Small Forward",
+        "Power Forward"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Point Guard",
+        "Small Forward",
+        "Power Forward"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Volleyball started at YMCA, Holyoke, Massachusetts in what year?",
+      "answer": "1895",
+      "choices": [
+        "1885",
+        "1895",
+        "1985",
+        "1995"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "1885",
+        "1985",
+        "1995"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Walking, jumping and rally are examples of violations",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "We can say that power is extremely important to sports since it is the combination of speed and strength",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "What does a single thumb up signify?",
+      "answer": "Communication",
+      "choices": [
+        "Communication",
+        "Charging foul",
+        "Cancel Score",
+        "Technical Foul"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Charging foul",
+        "Cancel Score",
+        "Technical Foul"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "What is the foul in which the player makes personal contact with the opponent, restricting his movement?",
+      "answer": "Holding",
+      "choices": [
+        "Handchecking",
+        "Blocking",
+        "Holding",
+        "Pushing or charging without the ball"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Handchecking",
+        "Blocking",
+        "Pushing or charging without the ball"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "What is the maximum amount of touches that can be made by a team when receiving the ball?",
+      "answer": "3",
+      "choices": [
+        "3",
+        "4",
+        "2",
+        "1"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "4",
+        "2",
+        "1"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "What letter is formed by the umpire's hands to indicate a time-out?",
+      "answer": "T",
+      "choices": [
+        "C",
+        "T",
+        "O",
+        "X"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "C",
+        "O",
+        "X"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "What point system is used in volleyball?",
+      "answer": "Rally point system",
+      "choices": [
+        "Basketball point system",
+        "Volley point system",
+        "Point rally system",
+        "Rally point system"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Basketball point system",
+        "Volley point system",
+        "Point rally system"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "What significant event in women's volleyball happened on 1924?",
+      "answer": "Publishing of the official rules",
+      "choices": [
+        "The first Olympic volleyball game",
+        "Creation of the first volleyball",
+        "Publishing of the official rules",
+        "Inclusion to the Philippine curriculum"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "The first Olympic volleyball game",
+        "Creation of the first volleyball",
+        "Inclusion to the Philippine curriculum"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "When a ball is shot from the free throw line, how many points does this count?",
+      "answer": "One",
+      "choices": [
+        "One",
+        "Three",
+        "Two",
+        "Four"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Three",
+        "Two",
+        "Four"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "When a pair of opponents commit personal fouls against each other at approximately the same time, it is called a",
+      "answer": "Double foul",
+      "choices": [
+        "Double foul"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "When a pair of opponents commit personal fouls against each other at approximately the same time, it is called a double foul",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "When did James Naismith discover the game, basketball?",
+      "answer": "1892",
+      "choices": [
+        "1892",
+        "1935",
+        "1890",
+        "1930"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "1935",
+        "1890",
+        "1930"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "When did volleyball start?",
+      "answer": "1895",
+      "choices": [
+        "1895",
+        "1986",
+        "1985",
+        "1896"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "1986",
+        "1985",
+        "1896"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "When the official raises his index finger above his head and moves it in circles to indicate that the _______ because of foul or violation",
+      "answer": "Shot clock has been reset",
+      "choices": [
+        "Shot clock has been reset",
+        "Shot clock has encountered an error",
+        "Shot clock is paused",
+        "Shot clock has been stopped indefinitely"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Shot clock has encountered an error",
+        "Shot clock is paused",
+        "Shot clock has been stopped indefinitely"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "When the player has not dribbled the ball in his/her possession, how will the hand signal be?",
+      "answer": "The official makes a half-rotation motion of his palm",
+      "choices": [
+        "The official rotates his/her fists, signaling the violation",
+        "The official makes a half-rotation motion of his palm",
+        "The official makes light patting motions with his/her palm",
+        "The official holds two thumbs up"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "The official rotates his/her fists, signaling the violation",
+        "The official makes light patting motions with his/her palm",
+        "The official holds two thumbs up"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
     },
     {
       "question": "Where was the first Olympic game of volleyball held?",
@@ -121,17 +6336,194 @@
       "choices": [
         "a. Massachusetts, USA",
         "b. Tokyo, Japan",
-        "c. Springfield"
+        "c. Springfield",
+        "Springfield",
+        "Oklahoma",
+        "Tokyo, Japan",
+        "Massachusetts"
       ],
       "questionType": "multichoice",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "Springfield",
+        "Oklahoma",
+        "Massachusetts"
+      ],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-06T08:21:21Z",
-      "source": "review_screen",
-      "lastVerifiedAt": "2026-10-06T08:21:21Z"
+      "source": "Review",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
+    },
+    {
+      "question": "Which cannot be a color of a volleyball?",
+      "answer": "All light orange",
+      "choices": [
+        "Combination of white and blue",
+        "All light orange",
+        "Combination of white, blue and yellow",
+        "All white"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Combination of white and blue",
+        "Combination of white, blue and yellow",
+        "All white"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Which of the following is not included in the improvements of your body gained through strength training?",
+      "answer": "Endurance",
+      "choices": [
+        "Flexibility",
+        "Balance",
+        "Endurance",
+        "Stability"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Flexibility",
+        "Balance",
+        "Stability"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "Who established the game volleyball?",
+      "answer": "William Morgan",
+      "choices": [
+        "Alfred Halsted",
+        "William Morgan",
+        "James Naismith",
+        "Elwood Brown"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Alfred Halsted",
+        "James Naismith",
+        "Elwood Brown"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "With more muscle mass, your muscles at rest can burn more calories.",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "With this hand signal, the official lets the substitute player enter the court and the game, with an open palm, waving towards the body",
+      "answer": "Beckoning-in",
+      "choices": [
+        "Beckoning-in",
+        "Substitution",
+        "Media time-out",
+        "Charged time-out"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Substitution",
+        "Media time-out",
+        "Charged time-out"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "You make an _____ shape using your thumb and index finger in the thumb opposition exercise",
+      "answer": "O",
+      "choices": [
+        "T",
+        "O",
+        "P",
+        "X"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "T",
+        "P",
+        "X"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
+    },
+    {
+      "question": "You may use water bottles as alternative to free weights in exercises needing apparatus",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-24T04:20:17Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z"
     }
   ]
 }

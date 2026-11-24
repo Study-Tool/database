@@ -1,7 +1,7 @@
 {
   "subjectCode": "CS6204",
   "subjectName": "Computer Architecture and Organization",
-  "updatedAt": "2026-11-23T11:51:24Z",
+  "updatedAt": "2026-11-24T04:20:17Z",
   "totalQuestions": 180,
   "tier": "verified",
   "questions": [
@@ -662,13 +662,15 @@
         "c. Bus network"
       ],
       "verified": true,
-      "confirmations": 30,
+      "confirmations": 31,
       "firstSeenAt": "2026-09-11T02:47:09Z",
-      "lastVerifiedAt": "2026-10-17T15:42:45Z",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "A computer _________ is one of the primary input devices used with a computer.",
@@ -775,10 +777,10 @@
       "answer": "bus",
       "choices": [],
       "verified": true,
-      "confirmations": 15,
+      "confirmations": 16,
       "firstSeenAt": "2026-09-11T02:47:09Z",
-      "lastVerifiedAt": "2026-10-02T21:42:57Z",
-      "source": "community_contribution",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z",
+      "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
       "questionType": "shortanswer",
@@ -788,7 +790,9 @@
           "reason": "AI suggestion cannot overwrite verified answer",
           "timestamp": "2026-10-02T04:11:40Z"
         }
-      ]
+      ],
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "A level-triggered interrupt is requested by holding the interrupt signal at its particular (high or low) active logic level.",
@@ -1236,16 +1240,19 @@
         "a. 1984",
         "c. 1989",
         "b. 1984",
-        "d. 1994"
+        "d. 1994",
+        "a. 1994"
       ],
       "verified": true,
-      "confirmations": 30,
+      "confirmations": 31,
       "firstSeenAt": "2026-09-11T02:47:09Z",
-      "lastVerifiedAt": "2026-10-17T15:42:45Z",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "Both static and dynamic RAM are considered _____________.",
@@ -1416,13 +1423,15 @@
         "Suggested (Verified DB): Input Fill"
       ],
       "verified": true,
-      "confirmations": 29,
+      "confirmations": 31,
       "firstSeenAt": "2026-09-11T02:47:09Z",
-      "lastVerifiedAt": "2026-10-15T12:14:01Z",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "Electronic data storage mediums that we can utilize",
@@ -2041,13 +2050,15 @@
         "Suggested (Verified DB): PCI Fill"
       ],
       "verified": true,
-      "confirmations": 26,
+      "confirmations": 27,
       "firstSeenAt": "2026-09-11T02:47:09Z",
-      "lastVerifiedAt": "2026-10-15T12:14:01Z",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "It is a processor with direct memory access capability. In this, the computer system is divided into a memory unit and number of processors.",
@@ -2409,13 +2420,15 @@
         "Suggested (Verified DB): Memory Fill"
       ],
       "verified": true,
-      "confirmations": 26,
+      "confirmations": 27,
       "firstSeenAt": "2026-09-11T02:47:09Z",
-      "lastVerifiedAt": "2026-10-15T12:14:01Z",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "It is the occurrence of a false interrupt request signal.",
@@ -2495,16 +2508,19 @@
         "c. Address line",
         "d. Data line",
         "a. Control line",
-        "d. Bus line"
+        "d. Bus line",
+        "c. Control line"
       ],
       "verified": true,
-      "confirmations": 27,
+      "confirmations": 28,
       "firstSeenAt": "2026-09-11T02:47:09Z",
-      "lastVerifiedAt": "2026-10-15T12:14:01Z",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "It is useful for both detection and correction of error present in the received data.",
@@ -2567,13 +2583,15 @@
         "Suggested (Verified DB): Processor Fill"
       ],
       "verified": true,
-      "confirmations": 29,
+      "confirmations": 31,
       "firstSeenAt": "2026-09-11T02:47:09Z",
-      "lastVerifiedAt": "2026-10-15T12:14:01Z",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "It selects processes from the queue and loads them into memory for execution.",
@@ -3028,13 +3046,15 @@
         "Suggested (Verified DB): Power pin Fill"
       ],
       "verified": true,
-      "confirmations": 26,
+      "confirmations": 27,
       "firstSeenAt": "2026-09-11T02:47:09Z",
-      "lastVerifiedAt": "2026-10-15T12:14:01Z",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "TB (Terabyte) is equal to?",
@@ -3150,13 +3170,15 @@
         "a. Processor"
       ],
       "verified": true,
-      "confirmations": 30,
+      "confirmations": 31,
       "firstSeenAt": "2026-09-11T02:47:09Z",
-      "lastVerifiedAt": "2026-10-17T15:42:45Z",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "The _________ reads in instructions and data, writes out data after processing, and uses control signals to control the overall operation of the system.",
@@ -3184,13 +3206,15 @@
         "d. CPU"
       ],
       "verified": true,
-      "confirmations": 31,
+      "confirmations": 32,
       "firstSeenAt": "2026-09-11T02:42:05Z",
-      "lastVerifiedAt": "2026-10-17T15:42:45Z",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "The __________ is used in systems in which the CPU should not be disabled for the length of time needed for burst transfer modes.",
@@ -3562,13 +3586,15 @@
         "c. 64"
       ],
       "verified": true,
-      "confirmations": 30,
+      "confirmations": 31,
       "firstSeenAt": "2026-09-11T02:47:09Z",
-      "lastVerifiedAt": "2026-10-17T15:42:45Z",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "The status _______ are various individual signals that convey supplemental information about the result of the current ALU operation.",
@@ -3673,13 +3699,15 @@
         "d. 1990"
       ],
       "verified": true,
-      "confirmations": 30,
+      "confirmations": 31,
       "firstSeenAt": "2026-09-11T02:47:09Z",
-      "lastVerifiedAt": "2026-10-17T15:42:45Z",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "Then during the year 1976, Intel introduced 8085 processors which is nothing but an update of 8080 processors.8080 processors are updated by adding two Enable/Disable Instructions, Three added interrupt pins and serial I/O pins.",
@@ -3746,13 +3774,15 @@
         "b. Network Line"
       ],
       "verified": true,
-      "confirmations": 30,
+      "confirmations": 31,
       "firstSeenAt": "2026-09-11T02:47:09Z",
-      "lastVerifiedAt": "2026-10-17T15:42:45Z",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "These are the other important activities that an operating system performs, except:",
@@ -3811,13 +3841,15 @@
       "answer": "data bus",
       "choices": [],
       "verified": true,
-      "confirmations": 16,
+      "confirmations": 17,
       "firstSeenAt": "2026-09-11T02:47:09Z",
-      "lastVerifiedAt": "2026-10-02T21:42:57Z",
-      "source": "community_contribution",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z",
+      "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "shortanswer"
+      "questionType": "shortanswer",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "These lines, collectively, are called the [____: Data Bus] .",
@@ -4078,15 +4110,17 @@
         "d. Internet"
       ],
       "verified": true,
-      "confirmations": 37,
+      "confirmations": 38,
       "firstSeenAt": "2026-09-11T02:47:09Z",
-      "lastVerifiedAt": "2026-10-15T12:23:42Z",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z",
       "source": "review_screen",
       "wrongAnswers": [
         "Internet and Network"
       ],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "Typically, a memory module will consist of M words of equal length.",
@@ -4114,13 +4148,15 @@
         "Suggested (Verified DB): Control line Fill"
       ],
       "verified": true,
-      "confirmations": 26,
+      "confirmations": 27,
       "firstSeenAt": "2026-09-11T02:47:09Z",
-      "lastVerifiedAt": "2026-10-15T12:14:01Z",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "Used to control the access to and the use of the data and address system",
@@ -4212,13 +4248,15 @@
         "c. Peripheral Component Internet"
       ],
       "verified": true,
-      "confirmations": 30,
+      "confirmations": 31,
       "firstSeenAt": "2026-09-11T02:47:09Z",
-      "lastVerifiedAt": "2026-10-17T15:42:45Z",
+      "lastVerifiedAt": "2026-11-24T04:20:17Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "What does UNI stand for?",
