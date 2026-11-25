@@ -1,7 +1,7 @@
 {
   "subjectCode": "IT6205A",
   "subjectName": "Information Assurance and Security 1",
-  "updatedAt": "2026-10-17T17:20:30Z",
+  "updatedAt": "2026-11-25T04:28:01Z",
   "totalQuestions": 125,
   "tier": "verified",
   "questions": [
@@ -24,17 +24,20 @@
         "c. Phase B: Business Architecture",
         "d. Phase D: Technology Architecture",
         "c. Phase A: Architecture Vision",
-        "a. Phase D: Technology Architecture"
+        "a. Phase D: Technology Architecture",
+        "Phase C: Information System Architecture"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 11,
+      "confirmations": 14,
       "firstSeenAt": "2026-10-04T07:39:10Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T11:42:19Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Acceptance, avoidance, mitigation, transfer—are with respect to a specific risk for a specific pary.",
@@ -55,16 +58,19 @@
         "c. Trust mechanism",
         "d. Trust",
         "b. Trust",
-        "c. Risk transfer"
+        "c. Risk transfer",
+        "The risk treatment"
       ],
       "verified": true,
-      "confirmations": 15,
+      "confirmations": 19,
       "firstSeenAt": "2026-09-14T14:26:37Z",
-      "lastVerifiedAt": "2026-10-16T12:03:24Z",
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Accepted facts, principles, or rules of thumb that are useful for specific domains.",
@@ -75,10 +81,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 12,
+      "confirmations": 13,
       "firstSeenAt": "2026-10-04T07:22:47Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T11:24:07Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Acronym for TCB?",
@@ -87,19 +95,20 @@
         "a. Trusted Computer Based",
         "b. Trusting Computing Based",
         "c. Trusted Computing Base",
-        "d. Trusting Computer Based"
+        "d. Trusting Computer Based",
+        "Trusted Computing Base"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-17T17:07:01Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-17T17:07:01Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z"
     },
     {
       "question": "Actions taken that protect and defend information and information systems by ensuring their availability, integrity, authentication, confidentiality and non-repudiation",
@@ -113,23 +122,29 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 12,
+      "confirmations": 13,
       "firstSeenAt": "2026-10-04T07:22:47Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T11:24:07Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "After the first six phases, an attacker can act to achieve the goals. These actions typically consist of collecting information, modifying data integrity, or attacking the availability of services and devices, but the victim system can also be used as a starting point for infecting other systems or for expanding access to the local network.",
       "answer": "Action on Objective",
-      "choices": [],
+      "choices": [
+        "Action on Objective"
+      ],
       "verified": true,
-      "confirmations": 22,
+      "confirmations": 23,
       "firstSeenAt": "2026-09-14T14:57:10Z",
-      "lastVerifiedAt": "2026-10-16T11:36:30Z",
-      "source": "review_screen",
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "shortanswer",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "After the weapon is delivered to the victim, follows the targeting of an application or vulnerability of the operating system. The infected file can be used by the self-execution facility to launch the malware code, or it can be executed by the user himself;",
@@ -150,16 +165,19 @@
         "c. Exploitation",
         "b. Exploitation",
         "d. Delivery",
-        "a. Reconnaissance"
+        "a. Reconnaissance",
+        "Exploitation"
       ],
       "verified": true,
-      "confirmations": 22,
+      "confirmations": 25,
       "firstSeenAt": "2026-09-14T14:57:10Z",
-      "lastVerifiedAt": "2026-10-16T11:36:30Z",
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Are applicable to ensuring that security requirements are addressed in subsequent phases of the ADM",
@@ -168,19 +186,20 @@
         "a. Phase C: Information Systems Architecture",
         "b. Phase D: Technology Architecture",
         "c. Phase A: Architecture Vision",
-        "d. Phase B: Business Architecture"
+        "d. Phase B: Business Architecture",
+        "Phase A: Architecture Vision"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-17T17:16:57Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z"
     },
     {
       "question": "Are applicable to ensuring that security requirements are addressed in subsequent phases of the ADM. What phase is that?",
@@ -201,17 +220,20 @@
         "a. Phase B: Business Architecture",
         "c. Phase C: Information Systems Architecture",
         "c. Phase A: Architecture Vision",
-        "d. Phase D: Technology Architecture"
+        "d. Phase D: Technology Architecture",
+        "Phase A: Architecture Vision"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 11,
+      "confirmations": 14,
       "firstSeenAt": "2026-10-04T07:39:10Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T11:42:19Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Are the security features of a system that provide enforcement of a security policy.",
@@ -232,16 +254,19 @@
         "b. Coding",
         "c. Trust mechanism",
         "d. Trust",
-        "b. Design"
+        "b. Design",
+        "Trust mechanism"
       ],
       "verified": true,
-      "confirmations": 15,
+      "confirmations": 19,
       "firstSeenAt": "2026-09-14T14:26:37Z",
-      "lastVerifiedAt": "2026-10-16T12:03:24Z",
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Assess and baseline current security-specific architecture elements",
@@ -283,17 +308,20 @@
         "c. Phase D: Technology Architecture",
         "d. Phase D: Technology Architecture",
         "b. Phase A: Architecture Vision",
-        "d. Phase B: Business Architecture"
+        "d. Phase B: Business Architecture",
+        "Phase C: Information System Architecture"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 11,
+      "confirmations": 14,
       "firstSeenAt": "2026-10-04T07:39:10Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T11:42:19Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Assess and baseline current security-specific technologies",
@@ -304,10 +332,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 20,
+      "confirmations": 21,
       "firstSeenAt": "2026-10-04T07:41:04Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T13:37:17Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Assess and baseline current security-specific technologies. What phase is that?",
@@ -328,17 +358,20 @@
         "b. Phase A: Architecture Vision",
         "d. Phase C: Information System Architecture",
         "a. Phase A: Architecture Vision",
-        "d. Phase B: Business Architecture"
+        "d. Phase B: Business Architecture",
+        "Phase D: Technology Architecture"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 24,
+      "confirmations": 27,
       "firstSeenAt": "2026-10-04T07:39:10Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Assess the impact of new security measures upon other new components or existing leveraged systems",
@@ -349,10 +382,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 20,
+      "confirmations": 21,
       "firstSeenAt": "2026-10-04T07:41:04Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T13:37:17Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Assess the impact of new security measures upon other new components or existing leveraged systems. What phase is that?",
@@ -372,17 +407,20 @@
         "d. Phase F: Migration Planning",
         "a. Phase A: Architecture Vision",
         "d. Phase B: Business Architecture",
-        "c. Phase F: Migration Planning"
+        "c. Phase F: Migration Planning",
+        "Phase F: Migration Planning"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 12,
+      "confirmations": 15,
       "firstSeenAt": "2026-10-04T07:39:10Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Assurance that information is not disclosed to unauthorized persons",
@@ -393,10 +431,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 12,
+      "confirmations": 13,
       "firstSeenAt": "2026-10-04T07:22:47Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T11:24:07Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Assurance that information is shared only among authorized persons or organizations.",
@@ -414,12 +454,13 @@
         "b. Availability",
         "c. Security",
         "d. Confidentiality",
-        "b. Integrity"
+        "b. Integrity",
+        "Confidentiality"
       ],
       "verified": true,
-      "confirmations": 5,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-14T14:19:50Z",
-      "lastVerifiedAt": "2026-10-12T10:24:57Z",
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
       "source": "review_screen",
       "wrongAnswers": [
         "Security"
@@ -449,7 +490,19 @@
       "questionType": "multichoice",
       "isAiSuggestion": false,
       "wrongAnswerEvidence": true,
-      "lastEvidenceAt": "2026-10-11T17:54:29Z"
+      "lastEvidenceAt": "2026-10-11T17:54:29Z",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "conflictHistory": [
+        {
+          "rejectedAnswer": "Security",
+          "timestamp": "2026-11-25T04:28:01Z"
+        },
+        {
+          "rejectedAnswer": "Security",
+          "timestamp": "2026-11-25T04:28:01Z"
+        }
+      ]
     },
     {
       "question": "Assurance that the information is authentic and complete.",
@@ -470,16 +523,19 @@
         "a. Confidentiality",
         "b. Security",
         "d. Integrity",
-        "c. Security"
+        "c. Security",
+        "Availability"
       ],
       "verified": true,
-      "confirmations": 17,
+      "confirmations": 21,
       "firstSeenAt": "2026-09-14T14:19:50Z",
-      "lastVerifiedAt": "2026-10-12T10:24:57Z",
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Assurance that the sender is provided with proof of a data delivery and recipient is provided with proof of the sender’s identity, so that neither can later deny having processed the data.",
@@ -490,42 +546,50 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 12,
+      "confirmations": 13,
       "firstSeenAt": "2026-10-04T07:22:47Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T11:24:07Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Availability: Availability of information refers to ensuring that authorized parties are able to access the information when needed",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "TRUE"
       ],
       "verified": true,
-      "confirmations": 16,
+      "confirmations": 18,
       "firstSeenAt": "2026-09-14T14:19:50Z",
-      "lastVerifiedAt": "2026-10-12T10:24:57Z",
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Availability:Assurance that the systems responsible for delivering, storing and processing information are accessible when needed, by those who need them.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "TRUE"
       ],
       "verified": true,
-      "confirmations": 16,
+      "confirmations": 18,
       "firstSeenAt": "2026-09-14T14:19:50Z",
-      "lastVerifiedAt": "2026-10-12T10:24:57Z",
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Changes in security requirements are often more disruptive than a simplification or incremental change. Changes in security policy can be driven by statute, regulation, or something that has gone wrong. What phase is that?",
@@ -546,17 +610,20 @@
         "c. Phase A: Architecture Vision",
         "b. Phase H: Architecture Change Management",
         "a. Phase F: Migration Planning",
-        "d. Phase A: Architecture Vision"
+        "d. Phase A: Architecture Vision",
+        "Phase H: Architecture Change Management"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 12,
+      "confirmations": 15,
       "firstSeenAt": "2026-10-04T07:39:10Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Changes in security standards are usually less disruptive since the trade-off for their adoption is based on the value of the change. However, standards changes can also be mandated. What phase is that?",
@@ -576,17 +643,20 @@
         "c. Phase B: Business Architecture",
         "d. Phase G: Implementation Governance",
         "b. Phase G: Implementation Governance",
-        "d. Phase A: Architecture Vision"
+        "d. Phase A: Architecture Vision",
+        "Phase H: Architecture Change Mana"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 12,
+      "confirmations": 15,
       "firstSeenAt": "2026-10-04T07:39:10Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Concept of Cybercrime Cyber Crime Computer crime, or cybercrime, is any crime that involves a computer and a network. The computer may have been used in the commission of a crime, or it may be the target.",
@@ -596,13 +666,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 16,
+      "confirmations": 17,
       "firstSeenAt": "2026-09-14T14:19:50Z",
-      "lastVerifiedAt": "2026-10-12T10:24:57Z",
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Converting data into information thus requires knowledge",
@@ -623,65 +695,77 @@
         "a. Knowledge",
         "c. Noise",
         "b. Knowledge",
-        "d. Data"
+        "d. Data",
+        "Information"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 12,
+      "confirmations": 15,
       "firstSeenAt": "2026-10-04T07:22:47Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T11:24:07Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Cyber security, also referred to as information technology security, focuses on protecting computers, networks, programs and data from unintended or unauthorized access, change or destruction.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "TRUE"
       ],
       "verified": true,
-      "confirmations": 16,
+      "confirmations": 18,
       "firstSeenAt": "2026-09-14T14:19:50Z",
-      "lastVerifiedAt": "2026-10-12T10:24:57Z",
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Cybersecurity is the collection of tools, policies, security concepts, security safeguards, guidelines, risk management approaches, actions, training, best practices, assurance and technologies that can be used to protect the cyber environment and organization and user’s assets.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "TRUE"
       ],
       "verified": true,
-      "confirmations": 16,
+      "confirmations": 18,
       "firstSeenAt": "2026-09-14T14:19:50Z",
-      "lastVerifiedAt": "2026-10-12T10:24:57Z",
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Cyberspace is \"the environment in which communication over computer networks occurs.“",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "TRUE"
       ],
       "verified": true,
-      "confirmations": 16,
+      "confirmations": 18,
       "firstSeenAt": "2026-09-14T14:19:50Z",
-      "lastVerifiedAt": "2026-10-12T10:24:57Z",
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Data and data processing activities in physical space;",
@@ -709,10 +793,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 12,
+      "confirmations": 14,
       "firstSeenAt": "2026-10-04T07:22:47Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T11:24:07Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Definition of relevant stakeholders and discovery of their concerns and objectives will require development of a high-level scenario. What phase is that?",
@@ -733,17 +819,20 @@
         "c. Phase C: Information Systems Architecture",
         "d. Phase A: Architecture Vision",
         "d. Phase D: Technology Architecture",
-        "b. Phase B: Business Architecture"
+        "b. Phase B: Business Architecture",
+        "Phase A: Architecture Vision"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 24,
+      "confirmations": 27,
       "firstSeenAt": "2026-10-04T07:39:10Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Determine who are the legitimate actors who will interact with the product/service/process",
@@ -754,10 +843,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 20,
+      "confirmations": 21,
       "firstSeenAt": "2026-10-04T07:41:04Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T13:37:17Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Determine who are the legitimate actors who will interact with the product/service/process. What phase is that?",
@@ -777,17 +868,20 @@
         "c. Phase A: Architecture Vision",
         "d. Phase B: Business Architecture",
         "c. Phase D: Technology Architecture",
-        "d. Phase C: Information Systems Architecture"
+        "d. Phase C: Information Systems Architecture",
+        "Phase B: Business Architecture"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 12,
+      "confirmations": 15,
       "firstSeenAt": "2026-10-04T07:39:10Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Development of the business scenarios and subsequent high-level use-cases of the project concerned will bring to attention the people actors and system actors involved. What phase is that?",
@@ -808,17 +902,20 @@
         "a. Phase B: Business Architecture",
         "b. Phase A: Architecture Vision",
         "d. Phase D: Technology Architecture",
-        "c. Phase B: Business Architecture"
+        "c. Phase B: Business Architecture",
+        "Phase B: Business Architecture"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 12,
+      "confirmations": 15,
       "firstSeenAt": "2026-10-04T07:39:10Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Establish architecture artifact, design, and code reviews and define acceptance criteria for the successful implementation of the findings",
@@ -829,10 +926,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 20,
+      "confirmations": 21,
       "firstSeenAt": "2026-10-04T07:41:04Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T13:37:17Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Establish architecture artifact, design, and code reviews and define acceptance criteria for the successful implementation of the findings. What phase is that?",
@@ -853,17 +952,20 @@
         "c. Phase B: Business Architecture",
         "d. Phase A: Architecture Vision",
         "b. Phase B: Business Architecture",
-        "a. Phase G: Implementation Governance"
+        "a. Phase G: Implementation Governance",
+        "Phase G: Implementation Governance"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 12,
+      "confirmations": 15,
       "firstSeenAt": "2026-10-04T07:39:10Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Every system will rely upon resources that may be depleted in cases that may or may not be anticipated at the point of system design. What phase is that?",
@@ -884,17 +986,20 @@
         "a. Phase C: Information System Architecture",
         "c. Phase D: Technology Architecture",
         "b. Phase A: Architecture Vision",
-        "d. Phase B: Business Architecture"
+        "d. Phase B: Business Architecture",
+        "Phase D: Technology Architecture"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 12,
+      "confirmations": 15,
       "firstSeenAt": "2026-10-04T07:39:10Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Four Security Domain",
@@ -914,17 +1019,20 @@
         "c. Physical Security, Personnel Security, IT Security and Operational Security",
         "a. Physical Security, Personnel Security, IT Security and Security",
         "d. Physical Security, Virus, IT Security and Operational Security",
-        "a. System, Personnel Security, IT Security and Operational Security"
+        "a. System, Personnel Security, IT Security and Operational Security",
+        "Physical Security, Personnel Security, IT Security and Operational Security"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 12,
+      "confirmations": 15,
       "firstSeenAt": "2026-10-04T07:22:47Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T11:24:07Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Four Security Domains",
@@ -935,19 +1043,26 @@
         "c. Personnel Security",
         "d. Physical Security",
         "e. Web Security",
-        "f. Operational Security"
+        "f. Operational Security",
+        "Physical Security, Personnel Security, IT Security, Operational Security"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-17T16:56:05Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-17T16:56:05Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "alternateAnswers": [
+        {
+          "answer": "Physical Security, Personnel Security, IT Security, Operational Security",
+          "timestamp": "2026-11-25T04:28:01Z"
+        }
+      ]
     },
     {
       "question": "From the Baseline Security Architecture and the Enterprise Continuum, there will be existing security infrastructure and security building blocks that can be applied to the requirements derived from this architecture development engagement. What phase is that?",
@@ -968,17 +1083,20 @@
         "b. Phase E: Opportunities & Solutions",
         "d. Phase D: Technology Architecture",
         "a. Phase D: Technology Architecture",
-        "b. Phase B: Business Architecture"
+        "b. Phase B: Business Architecture",
+        "Phase E: Opportunities & Solutions"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 12,
+      "confirmations": 15,
       "firstSeenAt": "2026-10-04T07:39:10Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Identify existing security services available for re-use",
@@ -987,7 +1105,8 @@
         "a. Phase F: Migration Planning",
         "b. Phase A: Architecture Vision",
         "c. Phase D: Technology Architecture",
-        "d. Phase E: Opportunities & Solutions"
+        "d. Phase E: Opportunities & Solutions",
+        "Phase E: Opportunities & Solutions"
       ],
       "questionType": "shortanswer",
       "wrongAnswers": [
@@ -997,11 +1116,13 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 10,
+      "confirmations": 11,
       "firstSeenAt": "2026-10-04T07:41:04Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z",
-      "lastEvidenceAt": "2026-10-16T13:27:24Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "lastEvidenceAt": "2026-10-16T13:27:24Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Identify existing security services available for re-use. What phase is that?",
@@ -1020,17 +1141,20 @@
         "c. Phase A: Architecture Vision",
         "d. Phase D: Technology Architecture",
         "b. Phase E: Opportunities & Solutions",
-        "b. Phase D: Technology Architecture"
+        "b. Phase D: Technology Architecture",
+        "Phase E: Opportunities & Solutions"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 11,
+      "confirmations": 14,
       "firstSeenAt": "2026-10-04T07:39:10Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T11:42:19Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Identify the Semi Trusted Zone in Dial up Connectivity Zone",
@@ -1056,10 +1180,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 11,
+      "confirmations": 12,
       "firstSeenAt": "2026-10-06T11:23:55Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T13:35:49Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Identify the Semi Trusted Zone in Wireless Connectivity Zone",
@@ -1086,10 +1212,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 11,
+      "confirmations": 12,
       "firstSeenAt": "2026-10-06T11:23:55Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T13:35:49Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Identify the Trusted Zone in User LAN Zone",
@@ -1118,11 +1246,13 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 10,
+      "confirmations": 11,
       "firstSeenAt": "2026-10-06T11:23:55Z",
       "source": "review_screen",
       "lastEvidenceAt": "2026-10-06T11:23:55Z",
-      "lastVerifiedAt": "2026-10-16T13:35:49Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Identify the Untrusted Zone in General Internet Connection Zone",
@@ -1150,10 +1280,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 11,
+      "confirmations": 12,
       "firstSeenAt": "2026-10-06T11:23:55Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T13:35:49Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Identify the Untrusted Zone in VPN Connection Zone",
@@ -1180,10 +1312,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 11,
+      "confirmations": 12,
       "firstSeenAt": "2026-10-06T11:23:55Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T13:35:49Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "In a phased implementation the new security components are usually part of the infrastructure in which the new system is implemented. The security infrastructure needs to be in a first or early phase to properly support the project. What phase is that?",
@@ -1203,46 +1337,56 @@
         "c. Phase F: Migration Planning",
         "b. Phase B: Business Architecture",
         "c. Phase G: Implementation Governance",
-        "a. Phase G: Implementation Governance"
+        "a. Phase G: Implementation Governance",
+        "Phase F: Migration Planning"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 12,
+      "confirmations": 15,
       "firstSeenAt": "2026-10-04T07:39:10Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "In information security, data integrity means maintaining and assuring the accuracy and consistency of data over its entire life-cycle.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "TRUE"
       ],
       "verified": true,
-      "confirmations": 16,
+      "confirmations": 18,
       "firstSeenAt": "2026-09-14T14:19:50Z",
-      "lastVerifiedAt": "2026-10-12T10:24:57Z",
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Infecting a victim system with a computer trojan, backdoor or other malware application of this type that ensures the attacker’s presence in the target environment;",
       "answer": "Installation",
-      "choices": [],
+      "choices": [
+        "Installation"
+      ],
       "verified": true,
-      "confirmations": 22,
+      "confirmations": 23,
       "firstSeenAt": "2026-09-14T14:57:10Z",
-      "lastVerifiedAt": "2026-10-16T11:36:30Z",
-      "source": "review_screen",
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "shortanswer",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Information and data manipulation abilities in cyberspace;",
@@ -1270,10 +1414,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 12,
+      "confirmations": 14,
       "firstSeenAt": "2026-10-04T07:22:47Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T11:24:07Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Information Assurance (IA) is the study of how to protect your information assets from destruction, degradation, manipulation and exploitation.",
@@ -1287,10 +1433,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 12,
+      "confirmations": 13,
       "firstSeenAt": "2026-10-04T07:22:47Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T11:24:07Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Is a generic term that implies a mechanism in place to provide a basis for confidence in the reliability/security of the system.",
@@ -1311,29 +1459,36 @@
         "a. Risk transfer",
         "c. Trust mechanism",
         "c. Trust",
-        "b. The risk treatment"
+        "b. The risk treatment",
+        "Trust"
       ],
       "verified": true,
-      "confirmations": 15,
+      "confirmations": 19,
       "firstSeenAt": "2026-09-14T14:26:37Z",
-      "lastVerifiedAt": "2026-10-16T12:03:24Z",
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Is a process, not an end state",
       "answer": "Security",
-      "choices": [],
+      "choices": [
+        "Security"
+      ],
       "verified": true,
-      "confirmations": 17,
+      "confirmations": 19,
       "firstSeenAt": "2026-09-14T14:19:50Z",
-      "lastVerifiedAt": "2026-10-12T10:24:57Z",
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "shortanswer"
+      "questionType": "shortanswer",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Is a variety of ongoing measures taken to reduce the likelihood and severity of accidental and intentional alteration, destruction, misappropriation, misuse, misconfiguration, unauthorized distribution, and unavailability of an organization’s logical and physical assets, as the result of action or inaction by insiders and known outsiders, such as business partners.”",
@@ -1349,12 +1504,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-17T16:56:05Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-17T16:56:05Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z"
     },
     {
       "question": "Is data endowed with relevance and purpose.",
@@ -1373,55 +1528,60 @@
         "a. Data",
         "d. Knowledge",
         "b. Information",
-        "c. Noise"
+        "c. Noise",
+        "Information"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 12,
+      "confirmations": 15,
       "firstSeenAt": "2026-10-04T07:22:47Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T11:24:07Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Is it true or false. Storage the minimum required data online and maximum discretion in providing them to a third party (users, companies) is some basic steps in storing personal data.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-17T17:07:01Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-17T17:07:01Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z"
     },
     {
       "question": "Is it true or false. Using encrypted versions of protocols when sensitive information is exchanged so as to ensure data confidentiality and prevent identity theft is some basic steps in storing personal data.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-17T17:07:01Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-17T17:07:01Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z"
     },
     {
       "question": "Is roughly equivalent to privacy",
@@ -1439,29 +1599,36 @@
         "d. Integrity",
         "c. Integrity",
         "a. Availability",
-        "b. Confidentiality"
+        "b. Confidentiality",
+        "Confidentiality"
       ],
       "verified": true,
-      "confirmations": 17,
+      "confirmations": 21,
       "firstSeenAt": "2026-09-14T14:19:50Z",
-      "lastVerifiedAt": "2026-10-12T10:24:57Z",
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Is the process of maintaining an acceptable level of perceived risk",
       "answer": "Security",
-      "choices": [],
+      "choices": [
+        "Security"
+      ],
       "verified": true,
-      "confirmations": 17,
+      "confirmations": 18,
       "firstSeenAt": "2026-09-14T14:19:50Z",
-      "lastVerifiedAt": "2026-10-12T10:24:57Z",
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "shortanswer"
+      "questionType": "shortanswer",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "It should be: accurate, timely, complete, verifiable, consistent, available.",
@@ -1482,17 +1649,20 @@
         "c. Data",
         "c. Information",
         "d. Noise",
-        "a. Knowledge"
+        "a. Knowledge",
+        "Knowledge"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 12,
+      "confirmations": 15,
       "firstSeenAt": "2026-10-04T07:22:47Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T11:24:07Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Logical security consists in software that are necessary to control the access to information and services of a system. The logical level is divided into two categories: access security level and service security level.",
@@ -1513,12 +1683,13 @@
         "b. Prevent Cyber-Attacks",
         "c. System",
         "a. Prevent Cyber-Attacks",
-        "c. Install"
+        "c. Install",
+        "Prevent Cyber-Attacks"
       ],
       "verified": true,
-      "confirmations": 17,
+      "confirmations": 20,
       "firstSeenAt": "2026-09-14T14:57:10Z",
-      "lastVerifiedAt": "2026-10-16T11:36:30Z",
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
       "source": "review_screen",
       "wrongAnswers": [
         "System"
@@ -1526,7 +1697,15 @@
       "questionType": "multichoice",
       "isAiSuggestion": false,
       "wrongAnswerEvidence": true,
-      "lastEvidenceAt": "2026-10-04T11:32:58Z"
+      "lastEvidenceAt": "2026-10-04T11:32:58Z",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "conflictHistory": [
+        {
+          "rejectedAnswer": "System",
+          "timestamp": "2026-11-25T04:28:01Z"
+        }
+      ]
     },
     {
       "question": "Making a malware application (for example, a computer trojan) that, combined with an exploitable security breach, allows remote access. Moreover, PDF (Portable Document Format) files or Microsoft Office suite-specific files can be regarded as weapons available to the attacker;",
@@ -1547,16 +1726,19 @@
         "d. Delivery",
         "a. Weaponization",
         "b. Reconnaissance",
-        "c. Delivery"
+        "c. Delivery",
+        "Weaponization"
       ],
       "verified": true,
-      "confirmations": 22,
+      "confirmations": 26,
       "firstSeenAt": "2026-09-14T14:57:10Z",
-      "lastVerifiedAt": "2026-10-16T11:36:30Z",
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Many security vulnerabilities originate as design or code errors and the simplest and least expensive method to locate and find such errors is generally an early review by experienced peers in the craft. What phase is that?",
@@ -1577,17 +1759,20 @@
         "d. Phase H: Architecture Change Management",
         "c. Phase A: Architecture Vision",
         "d. Phase G: Implementation Governance",
-        "b. Phase B: Business Architecture"
+        "b. Phase B: Business Architecture",
+        "Phase G: Implementation Governance"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 12,
+      "confirmations": 15,
       "firstSeenAt": "2026-10-04T07:39:10Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Not performing an activity that would incur risk.",
@@ -1608,16 +1793,19 @@
         "b. Risk Avoidance",
         "d. Risk mitigation",
         "c. Risk Avoidance",
-        "d. Risk transfer"
+        "d. Risk transfer",
+        "Risk Avoidance"
       ],
       "verified": true,
-      "confirmations": 15,
+      "confirmations": 19,
       "firstSeenAt": "2026-09-14T14:26:37Z",
-      "lastVerifiedAt": "2026-10-16T12:03:24Z",
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Once this bidirectional communication has been made, an attacker has access inside the target environment and can usually control the activity by manually launching commands;",
@@ -1644,19 +1832,20 @@
         "a. Information",
         "b. Attacker's Operations",
         "c. Desired Effects",
-        "d. Data"
+        "d. Data",
+        "Attacker's Operations"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-17T16:56:05Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-17T16:56:05Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z"
     },
     {
       "question": "Physical security consist in the closure of IT equipment in a dedicated space and the provision of access control.",
@@ -1677,30 +1866,37 @@
         "c. Install",
         "d. Prevent Cyber-Attacks",
         "b. Recon",
-        "c. System"
+        "c. System",
+        "Prevent Cyber-Attacks"
       ],
       "verified": true,
-      "confirmations": 22,
+      "confirmations": 26,
       "firstSeenAt": "2026-09-14T14:57:10Z",
-      "lastVerifiedAt": "2026-10-16T11:36:30Z",
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Processed data",
       "answer": "Information",
-      "choices": [],
+      "choices": [
+        "Information"
+      ],
       "questionType": "shortanswer",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 13,
+      "confirmations": 14,
       "firstSeenAt": "2026-10-04T07:22:47Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-17T16:56:05Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Protection against unauthorized modification or destruction of information",
@@ -1711,10 +1907,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 12,
+      "confirmations": 13,
       "firstSeenAt": "2026-10-04T07:22:47Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T11:24:07Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Raw facts with a known coding system",
@@ -1725,10 +1923,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 12,
+      "confirmations": 13,
       "firstSeenAt": "2026-10-04T07:22:47Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T11:24:07Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Raw facts with an unknown coding system",
@@ -1739,10 +1939,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 12,
+      "confirmations": 13,
       "firstSeenAt": "2026-10-04T07:22:47Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T11:24:07Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Research, target identification and selection: it may be looking for e-mail addresses, social relationships, or data about a particular technology, information displayed on various websites;",
@@ -1763,16 +1965,19 @@
         "a. Exploitation",
         "c. Weaponization",
         "d. Reconnaissance",
-        "b. Reconnaissance"
+        "b. Reconnaissance",
+        "Reconnaissance"
       ],
       "verified": true,
-      "confirmations": 22,
+      "confirmations": 25,
       "firstSeenAt": "2026-09-14T14:57:10Z",
-      "lastVerifiedAt": "2026-10-16T11:36:30Z",
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Revisit assumptions regarding interconnecting systems beyond project control, Identify and evaluate applicable recognized guidelines and standards and Identify methods to regulate consumption of resources. What phase is that?",
@@ -1792,17 +1997,20 @@
         "b. Phase E: Opportunities & Solutions",
         "a. Phase B: Business Architecture",
         "d. Phase D: Technology Architecture",
-        "c. Phase D: Technology Architecture"
+        "c. Phase D: Technology Architecture",
+        "Phase D: Technology Architecture"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 12,
+      "confirmations": 15,
       "firstSeenAt": "2026-10-04T07:39:10Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Risk Management Procedure consists of six steps.",
@@ -1872,12 +2080,13 @@
         "f. Assess vulnerabilities",
         "i. Make risk management decisions",
         "c. Assess profitable",
-        "i. Assess risks"
+        "i. Assess risks",
+        "· Make risk management decisions · Prioritize countermeasure options · Assess risks · Assess vulnerabilities · Assess threats"
       ],
       "verified": true,
-      "confirmations": 2,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-14T14:26:37Z",
-      "lastVerifiedAt": "2026-10-03T10:52:01Z",
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
       "source": "community_contribution",
       "alternateAnswers": [
         {
@@ -1936,8 +2145,14 @@
         {
           "rejectedAnswer": "Assess vulnerabilities, Prioritize countermeasure options, Make risk management decisions, Assess threats, Assess assets, Assess risks",
           "timestamp": "2026-10-16T12:03:24Z"
+        },
+        {
+          "rejectedAnswer": "· Make risk management decisions · Prioritize countermeasure options · Assess risks · Assess vulnerabilities · Assess threats",
+          "timestamp": "2026-11-25T04:28:01Z"
         }
-      ]
+      ],
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Risks not avoided or transferred are retained by the organization.",
@@ -1958,118 +2173,139 @@
         "b. Risk Acceptance",
         "d. Risk Transfer",
         "a. Risk Avoidance",
-        "c. Risk Acceptance"
+        "c. Risk Acceptance",
+        "Risk Acceptance"
       ],
       "verified": true,
-      "confirmations": 15,
+      "confirmations": 19,
       "firstSeenAt": "2026-09-14T14:26:37Z",
-      "lastVerifiedAt": "2026-10-16T12:03:24Z",
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Security architecture addresses non-normative flows through systems and among applications.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "TRUE"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 13,
+      "confirmations": 15,
       "firstSeenAt": "2026-10-04T07:37:14Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Security architecture calls for its own unique set of skills and competencies of the enterprise and IT architects.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "TRUE"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 13,
+      "confirmations": 15,
       "firstSeenAt": "2026-10-04T07:37:14Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Security architecture composes its own discrete views and viewpoints.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "TRUE"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 13,
+      "confirmations": 15,
       "firstSeenAt": "2026-10-04T07:37:14Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Security architecture has its own discrete security methodology.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "TRUE"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 14,
+      "confirmations": 16,
       "firstSeenAt": "2026-10-04T07:37:14Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-17T17:20:30Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Security architecture introduces its own normative flows through systems and among applications.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "TRUE"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 13,
+      "confirmations": 15,
       "firstSeenAt": "2026-10-04T07:37:14Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Security architecture introduces unique, single-purpose components in the design.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "TRUE"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 13,
+      "confirmations": 15,
       "firstSeenAt": "2026-10-04T07:37:14Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Security measures to establish the validity of a transmission, message, or originator.",
@@ -2080,10 +2316,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 12,
+      "confirmations": 13,
       "firstSeenAt": "2026-10-04T07:22:47Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T11:24:07Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Seven Stages of lifecycle model",
@@ -2104,16 +2342,19 @@
         "b. Requirements, Design, Coding, Testing, Deployment, Production and Decommission",
         "c. Requirements, Design, Coding, Testing, Deployment, Production and Decommission",
         "d. Risk Transfer, Design, Coding, Testing, Deployment, Production and Decommission",
-        "a. Risk Transfer, Design, Coding, Testing, Deployment, Production and Decommission"
+        "a. Risk Transfer, Design, Coding, Testing, Deployment, Production and Decommission",
+        "Requirements, Design, Coding, Testing, Deployment, Production and Decommission"
       ],
       "verified": true,
-      "confirmations": 15,
+      "confirmations": 19,
       "firstSeenAt": "2026-09-14T14:26:37Z",
-      "lastVerifiedAt": "2026-10-16T12:03:24Z",
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Shift the risk to someone else.",
@@ -2133,16 +2374,19 @@
         "d. Risk mitigation",
         "b. Risk avoidance",
         "d. Risk Transfer",
-        "a. Risk Transfer"
+        "a. Risk Transfer",
+        "Risk Transfer"
       ],
       "verified": true,
-      "confirmations": 15,
+      "confirmations": 19,
       "firstSeenAt": "2026-09-14T14:26:37Z",
-      "lastVerifiedAt": "2026-10-16T12:03:24Z",
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Six Concept of CyberCrime",
@@ -2163,16 +2407,19 @@
         "a. Digital Underground, Underground Economy, Phishing, Hacktivism, Cyberwar:Estonia Case and Stuxnet",
         "d. Digital Underground, Virus, Phishing, Hacktivism, Cyberwar:Estonia Case and Stuxnet",
         "b. System, Underground Economy, Phishing, Hacktivism, Cyberwar:Estonia Case and Stuxnet",
-        "c. Digital Underground, Underground Economy, System, Hacktivism, Cyberwar:Estonia Case and Stuxnet"
+        "c. Digital Underground, Underground Economy, System, Hacktivism, Cyberwar:Estonia Case and Stuxnet",
+        "Digital Underground, Underground Economy, Phishing, Hacktivism, Cyberwar:Estonia Case and Stuxnet"
       ],
       "verified": true,
-      "confirmations": 17,
+      "confirmations": 21,
       "firstSeenAt": "2026-09-14T14:19:50Z",
-      "lastVerifiedAt": "2026-10-12T10:24:57Z",
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Taking actions to reduce the losses due to a risk; many technical countermeasures fall into this category.",
@@ -2193,16 +2440,19 @@
         "b. Risk mitigation",
         "b. Risk Avoidance",
         "a. Risk transfer",
-        "d. Risk Avoidance"
+        "d. Risk Avoidance",
+        "Risk mitigation"
       ],
       "verified": true,
-      "confirmations": 15,
+      "confirmations": 19,
       "firstSeenAt": "2026-09-14T14:26:37Z",
-      "lastVerifiedAt": "2026-10-16T12:03:24Z",
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "The ability of the enterprise to function without service interruption or depletion despite abnormal or malicious events.",
@@ -2222,17 +2472,20 @@
         "d. Audit",
         "a. Audit",
         "b. Availability",
-        "c. Assurance"
+        "c. Assurance",
+        "Availability"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 13,
+      "confirmations": 16,
       "firstSeenAt": "2026-10-04T07:37:14Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "The ability to add and change security policies, add or change how policies are implemented in the enterprise, and add or change the persons or entities related to the systems.",
@@ -2253,17 +2506,20 @@
         "a. Administration",
         "d. Audit",
         "b. Risk Management",
-        "c. Assurance"
+        "c. Assurance",
+        "Administration"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 13,
+      "confirmations": 16,
       "firstSeenAt": "2026-10-04T07:37:14Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "The ability to provide forensic data attesting that the systems have been used in accordance with stated security policies.",
@@ -2284,17 +2540,20 @@
         "d. Authorization",
         "a. Audit",
         "b. Authorization",
-        "c. Authentication"
+        "c. Authentication",
+        "Audit"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 13,
+      "confirmations": 16,
       "firstSeenAt": "2026-10-04T07:37:14Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "The ability to test and prove that the enterprise architecture has the security attributes required to uphold the stated security policies.",
@@ -2314,17 +2573,20 @@
         "b. Authorization",
         "d. Authorization",
         "c. Audit",
-        "a. Audit"
+        "a. Audit",
+        "Assurance"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 13,
+      "confirmations": 16,
       "firstSeenAt": "2026-10-04T07:37:14Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "The definition and enforcement of permitted capabilities for a person or entity whose identity has been established.",
@@ -2344,17 +2606,20 @@
         "c. Authorization",
         "d. Authentication",
         "d. Assurance",
-        "b. Authorization"
+        "b. Authorization",
+        "Authentication"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 13,
+      "confirmations": 16,
       "firstSeenAt": "2026-10-04T07:37:14Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "The following security specifics appropriate to the security architecture must be addressed within each phase in addition to the generic phase activities.",
@@ -2377,15 +2642,17 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-04T07:41:04Z",
       "source": "verified_curated",
       "lastEvidenceAt": "2026-10-16T13:37:17Z",
-      "lastVerifiedAt": "2026-10-16T20:25:00Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "The following security specifics appropriate to the security architecture must be addressed within each phase in addition to the generic phase activities. What phase is that?",
-      "answer": "",
+      "answer": "Phase A: Architecture Vision",
       "choices": [
         "a. Phase A: Architecture Vision",
         "b. Phase D: Technology Architecture",
@@ -2400,20 +2667,24 @@
         "a. Phase C: Information Systems Architecture",
         "a. Phase D: Technology Architecture",
         "b. Phase A: Architecture Vision",
-        "b. Phase B: Business Architecture"
+        "b. Phase B: Business Architecture",
+        "Phase A: Architecture Vision",
+        "Phase C: Information Systems Architecture"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [
         "Phase C: Information Systems Architecture"
       ],
       "wrongAnswerEvidence": true,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 11,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T07:39:10Z",
-      "source": "moodle_review_elimination",
-      "lastVerifiedAt": "2026-10-16T11:42:19Z",
-      "lastEvidenceAt": "2026-10-17T17:16:57Z"
+      "source": "review_screen",
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "lastEvidenceAt": "2026-10-17T17:16:57Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "The infected file can be used by the self-execution facility to launch the malware code, or it can be executed by the user himself;",
@@ -2434,12 +2705,13 @@
         "a. Weaponization",
         "d. Reconnaissance",
         "b. Reconnaissance",
-        "a. Exploitation"
+        "a. Exploitation",
+        "Exploitation"
       ],
       "verified": true,
-      "confirmations": 11,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-14T14:57:10Z",
-      "lastVerifiedAt": "2026-10-16T11:36:30Z",
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
       "source": "review_screen",
       "alternateAnswers": [
         {
@@ -2480,10 +2752,16 @@
         {
           "rejectedAnswer": "Exploitation",
           "timestamp": "2026-10-04T07:36:32Z"
+        },
+        {
+          "rejectedAnswer": "Installation",
+          "timestamp": "2026-11-25T04:28:01Z"
         }
       ],
       "wrongAnswerEvidence": true,
-      "lastEvidenceAt": "2026-10-04T11:32:58Z"
+      "lastEvidenceAt": "2026-10-04T11:32:58Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "The main ways of transport are e-mails (attachment of infected files), web platforms (running malware scripts), or removable USB memories;",
@@ -2504,16 +2782,19 @@
         "b. Install",
         "d. Recon",
         "d. C2",
-        "c. Install"
+        "c. Install",
+        "Delivery"
       ],
       "verified": true,
-      "confirmations": 23,
+      "confirmations": 27,
       "firstSeenAt": "2026-09-14T14:57:10Z",
-      "lastVerifiedAt": "2026-10-17T17:07:01Z",
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "The organization's attitude and tolerance for risk.",
@@ -2530,17 +2811,20 @@
         "d. Assurance",
         "a. Audit",
         "d. Risk Management",
-        "b. Audit"
+        "b. Audit",
+        "Risk Management"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 13,
+      "confirmations": 16,
       "firstSeenAt": "2026-10-04T07:37:14Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "The protection of information assets from loss or unintended disclosure, and resources from unauthorized and unintended use.",
@@ -2560,17 +2844,20 @@
         "d. Asset Protection",
         "a. Audit",
         "c. Risk Management",
-        "b. Audit"
+        "b. Audit",
+        "Asset Protection"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 13,
+      "confirmations": 16,
       "firstSeenAt": "2026-10-04T07:37:14Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "The substantiation of the identity of a person or entity related to the enterprise or system in some way.",
@@ -2591,17 +2878,20 @@
         "a. Assurance",
         "b. Assurance",
         "d. Authorization",
-        "d. Authentication"
+        "d. Authentication",
+        "Authentication"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 13,
+      "confirmations": 16,
       "firstSeenAt": "2026-10-04T07:37:14Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "These actions typically consist of collecting information, modifying data integrity, or attacking the availability of services and devices, but the victim system can also be used as a starting point for infecting other systems or for expanding access to the local network.",
@@ -2622,72 +2912,91 @@
         "b. Exploitation",
         "d. Command and Control",
         "a. Installation",
-        "a. Action on objective"
+        "a. Action on objective",
+        "Action on objective"
       ],
       "verified": true,
-      "confirmations": 22,
+      "confirmations": 26,
       "firstSeenAt": "2026-09-14T14:57:10Z",
-      "lastVerifiedAt": "2026-10-16T11:36:30Z",
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Those stakeholders who will be affected by security capabilities and who are in groups of communities",
       "answer": "Identify communities involved",
-      "choices": [],
+      "choices": [
+        "Identify communities involved"
+      ],
       "questionType": "shortanswer",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 13,
+      "confirmations": 15,
       "firstSeenAt": "2026-10-04T07:37:14Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Those units outside the scoped enterprise who will need to enhance their security architecture for interoperability purposes",
       "answer": "Identify extended enterprise",
-      "choices": [],
+      "choices": [
+        "Identify extended enterprise"
+      ],
       "questionType": "shortanswer",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 14,
+      "confirmations": 16,
       "firstSeenAt": "2026-10-04T07:37:14Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-17T17:20:30Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Those who are most affected and achieve most value from the security work",
       "answer": "Identify core enterprise",
-      "choices": [],
+      "choices": [
+        "Identify core enterprise"
+      ],
       "questionType": "shortanswer",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 13,
+      "confirmations": 15,
       "firstSeenAt": "2026-10-04T07:37:14Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Those who will see change to their capability and work with core units but are otherwise not directly affected",
       "answer": "Identify soft enterprise",
-      "choices": [],
+      "choices": [
+        "Identify soft enterprise"
+      ],
       "questionType": "shortanswer",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 13,
+      "confirmations": 15,
       "firstSeenAt": "2026-10-04T07:37:14Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Three distinct levels:",
@@ -2697,19 +3006,20 @@
         "b. Frameworks",
         "c. Conceptual",
         "d. Perceptual",
-        "e. Desired Effects"
+        "e. Desired Effects",
+        "Physical, Perceptual, Desired Effects"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-17T16:56:05Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-17T16:56:05Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z"
     },
     {
       "question": "Three Features of Security",
@@ -2728,16 +3038,19 @@
         "d. Confidentiality, Integrity and Availability",
         "b. Confidentiality, Integrity and Security",
         "d. CyberSpace, Integrity and Availability",
-        "c. Confidentiality, Integrity and Availability"
+        "c. Confidentiality, Integrity and Availability",
+        "Confidentiality, Integrity and Availability"
       ],
       "verified": true,
-      "confirmations": 17,
+      "confirmations": 21,
       "firstSeenAt": "2026-09-14T14:19:50Z",
-      "lastVerifiedAt": "2026-10-12T10:24:57Z",
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Timely, reliable access to data and information services for authorized users;",
@@ -2748,10 +3061,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 12,
+      "confirmations": 13,
       "firstSeenAt": "2026-10-04T07:22:47Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T11:24:07Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Transmitting the weapon to the target environment.",
@@ -2772,206 +3087,219 @@
         "a. Delivery",
         "b. Reconnaissance",
         "c. Exploitation",
-        "b. Weaponization"
+        "b. Weaponization",
+        "Delivery"
       ],
       "verified": true,
-      "confirmations": 22,
+      "confirmations": 25,
       "firstSeenAt": "2026-09-14T14:57:10Z",
-      "lastVerifiedAt": "2026-10-16T11:36:30Z",
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "True or False: Business rules regarding handling of data/information assets",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "TRUE"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-17T17:16:57Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z"
     },
     {
       "question": "True or False: Codified data/information asset ownership and custody",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "TRUE"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-17T17:16:57Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-17T17:20:30Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z"
     },
     {
       "question": "True or False: Data classification policy documentation",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "TRUE"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-17T17:16:57Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z"
     },
     {
       "question": "True or False: Identify communities involved (enterprises) - those stakeholders who will be affected by security capabilities and who are in groups of communities",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "TRUE"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-17T17:16:57Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z"
     },
     {
       "question": "True or False: Identify core enterprise (units) - those who are most affected and achieve most value from the security work",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "TRUE"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-17T17:16:57Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z"
     },
     {
       "question": "True or False: Identify extended enterprise (units) - those units outside the scoped enterprise who will need to enhance their security architecture for interoperability purposes",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "TRUE"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-17T17:16:57Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-17T17:20:30Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z"
     },
     {
       "question": "True or False: Identify soft enterprise (units) - those who will see change to their capability and work with core units but are otherwise not directly affected",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "TRUE"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-17T17:16:57Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z"
     },
     {
       "question": "True or False: Identify the security governance involved, including legal frameworks and geographies (enterprises)",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "TRUE"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-17T17:16:57Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z"
     },
     {
       "question": "True or False: Risk analysis documentation",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "TRUE"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-17T17:16:57Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-17T17:16:57Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z"
     },
     {
       "question": "True or False: Written and published security policy",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "TRUE"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-17T17:16:57Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-17T17:20:30Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z"
     },
     {
       "question": "True or FalseIdentity Management is an integrated system of company policies, processes, and technologies.",
@@ -2985,10 +3313,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 11,
+      "confirmations": 12,
       "firstSeenAt": "2026-10-06T11:23:55Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T13:35:49Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "True or FalseSecurity policies and procedures also should help the organization implement the elements needed to support the architecture.",
@@ -3002,10 +3332,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 11,
+      "confirmations": 12,
       "firstSeenAt": "2026-10-06T11:23:55Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T13:35:49Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "True or FalseThe architecture also should be strategic it must be structured in a way that supports the organization’s business goals.",
@@ -3019,10 +3351,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 11,
+      "confirmations": 12,
       "firstSeenAt": "2026-10-06T11:23:55Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T13:35:49Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "True or FalseTo align these components effectively, the security architecture need to be driven by policy stating management’s performance expectation.",
@@ -3036,10 +3370,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 11,
+      "confirmations": 12,
       "firstSeenAt": "2026-10-06T11:23:55Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T13:35:49Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "True or FalseUnclear security roles and responsibilities need to be established for all company users.",
@@ -3053,10 +3389,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 11,
+      "confirmations": 12,
       "firstSeenAt": "2026-10-06T11:23:55Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T13:35:49Z"
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Usually an infected host must be accessible outside of the local network to establish a command and control channel between the victim and the attacker. Once this bidirectional communication has been made, an attacker has access inside the target environment and can usually control the activity by manually launching commands;",
@@ -3095,16 +3433,19 @@
         "d. Recon, Weaponise, Deliver, Exploit, Install, C2 and Action",
         "c. Recon, Weaponise, Deliver, System, Install, C2 and Action",
         "a. Recon, Weaponise, Deliver, Exploit, Install, C2 and Action",
-        "d. System, Weaponise, Deliver, Exploit, Install, C2 and Action"
+        "d. System, Weaponise, Deliver, Exploit, Install, C2 and Action",
+        "Recon, Weaponise, Deliver, Exploit, Install, C2 and Action"
       ],
       "verified": true,
-      "confirmations": 23,
+      "confirmations": 27,
       "firstSeenAt": "2026-09-14T14:57:10Z",
-      "lastVerifiedAt": "2026-10-17T17:07:01Z",
+      "lastVerifiedAt": "2026-11-25T04:28:01Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz"
     }
   ]
 }
