@@ -1,7 +1,7 @@
 {
   "subjectCode": "IT6322A",
   "subjectName": "Mobile Application Development",
-  "updatedAt": "2026-10-15T16:35:51Z",
+  "updatedAt": "2026-11-26T04:23:54Z",
   "totalQuestions": 90,
   "tier": "verified",
   "questions": [
@@ -15,19 +15,27 @@
         "d. Padding",
         "b. Quantifier",
         "c. Padding",
-        "d. Exponent"
+        "d. Exponent",
+        "Dividend",
+        "Exponent",
+        "Quantifier",
+        "Padding"
       ],
       "questionType": "multichoice",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "Dividend",
+        "Exponent",
+        "Quantifier"
+      ],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-15T16:35:08Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z"
     },
     {
       "question": "_________ is a Java-based open source platform that allows a software developer to create a customized integrated development environment (IDE) from plug-in components.",
@@ -42,16 +50,26 @@
         "a. Apache",
         "d. Measured Mobile",
         "a. Microsoft Visual Studio",
-        "c. Measured Mobile"
+        "c. Measured Mobile",
+        "Eclipse",
+        "Microsoft Visual Studio",
+        "Apache",
+        "Measured Mobile"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 9,
       "firstSeenAt": "2026-09-14T14:05:21Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "Microsoft Visual Studio",
+        "Apache",
+        "Measured Mobile"
+      ],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "____________ can be measured in pixels (px), density-independent pixels, and scaled pixels based on preferred font size.",
@@ -66,16 +84,32 @@
         "d. Name Package",
         "b. Name Package",
         "c. Explicit Decision",
-        "d. Wrap_content"
+        "d. Wrap_content",
+        "Explicit Dimension",
+        "Name Package",
+        "match_parent",
+        "Wrap_content"
       ],
       "verified": true,
-      "confirmations": 5,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-18T04:41:02Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "Name Package",
+        "match_parent",
+        "Wrap_content"
+      ],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "conflictHistory": [
+        {
+          "rejectedAnswer": "Explicit Dimension",
+          "timestamp": "2026-11-26T04:23:54Z"
+        }
+      ]
     },
     {
       "question": "_____________ contain a local copy of the latest multi-version documentation for the Android framework API.",
@@ -97,10 +131,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 5,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-30T15:13:51Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "A ________ is an icon that consists of text or an image, which communicates what action occurs when you touch or click it",
@@ -121,13 +157,15 @@
         "a. Image"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 8,
       "firstSeenAt": "2026-09-14T14:17:14Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "A ContextualMenu offers actions that affect general items or constant frame in the UI",
@@ -136,16 +174,22 @@
         "a. True",
         "b. False",
         "a. False",
-        "b. True"
+        "b. True",
+        "False",
+        "True"
       ],
       "verified": true,
-      "confirmations": 5,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-14T14:17:14Z",
-      "lastVerifiedAt": "2026-10-02T00:24:45Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "True"
+      ],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "A layout manager positions item views inside the RecylerView",
@@ -154,16 +198,22 @@
         "a. True",
         "b. False",
         "a. False",
-        "b. True"
+        "b. True",
+        "False",
+        "True"
       ],
       "verified": true,
-      "confirmations": 5,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-14T14:12:29Z",
-      "lastVerifiedAt": "2026-10-02T00:24:14Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "False"
+      ],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "A PopupMenu is a modal menu anchored to a View",
@@ -172,16 +222,22 @@
         "a. False",
         "b. True",
         "a. True",
-        "b. False"
+        "b. False",
+        "True",
+        "False"
       ],
       "verified": true,
-      "confirmations": 6,
+      "confirmations": 8,
       "firstSeenAt": "2026-09-14T14:11:02Z",
-      "lastVerifiedAt": "2026-10-02T00:23:29Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "False"
+      ],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "actionDone is one of most common values for android.",
@@ -194,10 +250,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-02T00:23:09Z",
-      "lastVerifiedAt": "2026-10-02T00:23:09Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Although the Eclipse Platform is written in Java, it supports plug-ins that allows developers to develop and test code written in other languages.",
@@ -207,13 +265,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 6,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-14T14:05:21Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "An Activity Life Cycle consists of the following six states: Created, Started, Ended, Paused, Stopped, Destroyed",
@@ -226,10 +286,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-02T00:24:45Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Android apps use HTML to define thier user interfaces",
@@ -239,13 +301,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 9,
       "firstSeenAt": "2026-09-14T14:07:03Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Android offers custom plugin for the Eclipse IDE and it is called the ADK(Android Development Kit)",
@@ -255,13 +319,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 9,
       "firstSeenAt": "2026-09-14T14:05:21Z",
-      "lastVerifiedAt": "2026-10-15T16:35:08Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Android-powered devices have a host of developer options that you can access on the phone",
@@ -271,13 +337,17 @@
         "b. True"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-14T14:13:50Z",
-      "lastVerifiedAt": "2026-10-02T00:24:14Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "False"
+      ],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Another way to customize the soft keyboard is with the android.R.simple_spinner_item attribute.",
@@ -287,13 +357,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 5,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-14T14:11:02Z",
-      "lastVerifiedAt": "2026-10-02T00:23:29Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Application Name is used as the title of your application launcher icon when it is installed on your device",
@@ -303,13 +375,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 9,
       "firstSeenAt": "2026-09-14T14:07:03Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Beginning with Android 2.5, Android-powered devices are no longer required to provide a dedicated Menu button.",
@@ -322,10 +396,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-02T00:22:51Z",
-      "lastVerifiedAt": "2026-10-02T00:23:29Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Eclipse got its start in 2005 when IBM donated 3 million lines of code from its Java tools",
@@ -338,10 +414,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-30T15:13:51Z",
-      "lastVerifiedAt": "2026-10-15T16:35:08Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Eclipse Technology Project is focused on creating best-of-breed tools for the Eclipse platform",
@@ -351,13 +429,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 6,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-14T14:05:21Z",
-      "lastVerifiedAt": "2026-10-15T16:35:08Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Editable text field hints are one of the most important attributes to set.",
@@ -367,13 +447,17 @@
         "b. True"
       ],
       "questionType": "multichoice",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "False"
+      ],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-02T00:22:51Z",
-      "lastVerifiedAt": "2026-10-02T00:22:51Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Editable text fields or hints do not have a distinct appearance and behavior from static ones.",
@@ -388,16 +472,18 @@
       ],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-02T00:23:09Z",
-      "lastVerifiedAt": "2026-10-02T00:23:09Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
       "alternateAnswers": [
         {
           "answer": "False",
           "timestamp": "2026-10-02T00:23:29Z"
         }
-      ]
+      ],
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Every button is styled using the system’s ___________ button background",
@@ -414,16 +500,26 @@
         "a. Common",
         "b. Fixed",
         "d. Varying",
-        "c. Fixed"
+        "c. Fixed",
+        "Default",
+        "Varying",
+        "Fixed",
+        "Common"
       ],
       "questionType": "multichoice",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "Varying",
+        "Fixed",
+        "Common"
+      ],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-30T15:16:59Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "In setting up the Android Virtual Device (AVD), and the recommended version that you will use in creating your own android-based mobile applications, you must first finish downloading and installing the __________.",
@@ -440,16 +536,26 @@
         "a. Android SDK",
         "b. Android Notepad",
         "c. Android TDK",
-        "d. Android App"
+        "d. Android App",
+        "Android SDK",
+        "Android Notepad",
+        "Android TDK",
+        "Android App"
       ],
       "questionType": "multichoice",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "Android Notepad",
+        "Android TDK",
+        "Android App"
+      ],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 6,
       "firstSeenAt": "2026-10-02T00:20:01Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "In the early 2000s, Symbian, BlackBerry OS, Palm OS and ________ (now known as Windows Mobile) became increasingly popular. They are gadgets with capabilities such as email, fax, Web browsing, etc.",
@@ -465,15 +571,21 @@
         "a. PocketWifi",
         "b. PocketCD",
         "c. Pocket PC",
-        "d. PocketPC2000"
+        "d. PocketPC2000",
+        "PocketWifi",
+        "PocketPC2000",
+        "Pocket PC",
+        "PocketCD"
       ],
       "verified": true,
-      "confirmations": 1,
+      "confirmations": 3,
       "firstSeenAt": "2026-09-14T14:07:03Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
       "wrongAnswers": [
-        "Pocket PC"
+        "Pocket PC",
+        "PocketWifi",
+        "PocketCD"
       ],
       "isAiSuggestion": false,
       "questionType": "multichoice",
@@ -484,7 +596,9 @@
         }
       ],
       "wrongAnswerEvidence": true,
-      "lastEvidenceAt": "2026-10-15T16:35:08Z"
+      "lastEvidenceAt": "2026-10-15T16:35:08Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Is a drawable resource defined in XML that changes its image based on the current state of the button.",
@@ -503,12 +617,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-15T16:35:08Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z"
     },
     {
       "question": "It can display any kind of bitmap, and it takes care of basic alignment and scaling functionality.",
@@ -524,13 +638,15 @@
         "d. Relative Layout"
       ],
       "verified": true,
-      "confirmations": 5,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-18T04:41:02Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "ListView is a view group that displays a list of unscrollable items",
@@ -539,16 +655,22 @@
         "a. False",
         "b. True",
         "a. True",
-        "b. False"
+        "b. False",
+        "False",
+        "True"
       ],
       "verified": true,
-      "confirmations": 5,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-14T14:12:29Z",
-      "lastVerifiedAt": "2026-10-02T00:24:14Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "True"
+      ],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "match_parent makes the element match the height and dimension of the parent element.",
@@ -564,12 +686,12 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-15T16:35:08Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-15T16:35:08Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "alternateAnswers": [
         {
           "answer": "False",
@@ -585,13 +707,17 @@
         "b. False"
       ],
       "questionType": "multichoice",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "False"
+      ],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-02T00:23:09Z",
-      "lastVerifiedAt": "2026-10-02T00:23:09Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "On Android 3.0 and higher, items from the options menu are presented by the action bar as a combination of on-screen action items and overflow options.",
@@ -601,13 +727,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 5,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-14T14:11:02Z",
-      "lastVerifiedAt": "2026-10-02T00:22:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "onItemSelected() is one of most common values for android.",
@@ -617,29 +745,37 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-14T14:11:02Z",
-      "lastVerifiedAt": "2026-10-02T00:23:09Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "R.array.spinnerColors is the ID of the string array.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "False",
+        "True"
       ],
       "verified": true,
-      "confirmations": 5,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-14T14:11:02Z",
-      "lastVerifiedAt": "2026-10-02T00:23:29Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "False"
+      ],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "RelativeLayout lets you specify where each element should be placed with respect to the other elements in the interface.",
@@ -652,10 +788,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-30T15:16:59Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Spinners are drop-down menus that allow users to pick one item from a group of choices.",
@@ -664,31 +802,39 @@
         "a. True",
         "b. False",
         "a. False",
-        "b. True"
+        "b. True",
+        "True",
+        "False"
       ],
       "verified": true,
-      "confirmations": 5,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-14T14:11:02Z",
-      "lastVerifiedAt": "2026-10-02T00:24:45Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "False"
+      ],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Tabs work in conjunction with the ActionBarMenu.",
-      "answer": "False",
+      "answer": "",
       "choices": [
         "a. False",
         "b. True",
         "a. True",
-        "b. False"
+        "b. False",
+        "False",
+        "True"
       ],
-      "verified": true,
-      "confirmations": 4,
+      "verified": false,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-14T14:11:02Z",
-      "lastVerifiedAt": "2026-09-25T14:27:29Z",
-      "source": "community_contribution",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "moodle_review_elimination",
       "wrongAnswers": [
         "False"
       ],
@@ -702,8 +848,14 @@
         {
           "rejectedAnswer": "True",
           "timestamp": "2026-10-02T00:23:29Z"
+        },
+        {
+          "rejectedAnswer": "True",
+          "timestamp": "2026-11-26T04:23:54Z"
         }
-      ]
+      ],
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The 2^{nd} Blackberry OS included the same features as the first version but included ___________ to its repertoire.",
@@ -720,16 +872,26 @@
         "c. Notes, Fax Messaging and Games",
         "d. Notes, Video Calls and Games",
         "b. Notes, Emails and Games",
-        "d. Notes, Web Browsers and Games"
+        "d. Notes, Web Browsers and Games",
+        "Notes, Video Calls and Games",
+        "Notes, Web Browsers and Games",
+        "Notes, Fax Messaging and Games",
+        "Notes, Emails and Games"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 9,
       "firstSeenAt": "2026-09-14T14:05:21Z",
-      "lastVerifiedAt": "2026-10-15T16:35:08Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "Notes, Video Calls and Games",
+        "Notes, Fax Messaging and Games",
+        "Notes, Emails and Games"
+      ],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The ________ is the Operating System of Microsoft based smartphones.",
@@ -746,16 +908,26 @@
         "a. Windows Mobile 2003",
         "c. Windows Mobile 2003 SE",
         "a. Pocket PC 2000",
-        "d. Windows Mobile 2003 SE"
+        "d. Windows Mobile 2003 SE",
+        "Windows Mobile 2003 SE",
+        "Windows Phone",
+        "Windows Mobile 2003",
+        "Pocket PC 2000"
       ],
       "verified": true,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-14T14:05:21Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "Windows Mobile 2003 SE",
+        "Windows Mobile 2003",
+        "Pocket PC 2000"
+      ],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The _________ tells the system when to use the contained resources.",
@@ -770,16 +942,26 @@
         "c. Dividend",
         "d. Qualifier",
         "b. Qualifier",
-        "d. Quantifier"
+        "d. Quantifier",
+        "Dividend",
+        "Qualifier",
+        "Quantifier",
+        "Exponent"
       ],
       "verified": true,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-14T14:07:03Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "Dividend",
+        "Quantifier",
+        "Exponent"
+      ],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The _____________ is responsible for developing the Eclipse IDE workbench.",
@@ -798,16 +980,26 @@
         "c. None of the Choices",
         "d. Eclipse Consortium",
         "a. Eclipse Consortium",
-        "c. Sprint Communications"
+        "c. Sprint Communications",
+        "Eclipse Consortium",
+        "Sprint Communications",
+        "Eclipse Symposium",
+        "None of the Choices"
       ],
       "questionType": "multichoice",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "Sprint Communications",
+        "Eclipse Symposium",
+        "None of the Choices"
+      ],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 5,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-30T15:13:51Z",
-      "lastVerifiedAt": "2026-10-15T16:35:08Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The ADK plugin will be able to provide a new project wizard where you can create a new project or open one from an existing code",
@@ -817,13 +1009,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 9,
       "firstSeenAt": "2026-09-14T14:07:03Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The Android SDK is your gateway to using the Android mobile operating system as an open source platform",
@@ -837,12 +1031,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-15T16:32:14Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z"
     },
     {
       "question": "The android:inputType attribute lets you specify what kind of input you're expecting.",
@@ -852,13 +1046,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 5,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-14T14:11:02Z",
-      "lastVerifiedAt": "2026-10-02T00:23:29Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The attribute that determines whether it stretches the image to the specified dimensions.",
@@ -877,13 +1073,15 @@
         "d. Scaling Images"
       ],
       "verified": true,
-      "confirmations": 6,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-18T04:41:02Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The LinearLayout class arranges all of the contained UI elements either horizontally or vertically.",
@@ -896,10 +1094,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-30T15:16:59Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The Menu button is deprecated on Android 2, so you should migrate toward using the action bar to provide access to actions and other options.",
@@ -909,13 +1109,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-14T14:12:29Z",
-      "lastVerifiedAt": "2026-10-02T00:22:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The Motorola Dynatec was the first ever mobile phone to be approved by the FCC. What does the FCC stand for?",
@@ -938,13 +1140,15 @@
         "d. Federal Communications Conglomeration"
       ],
       "verified": true,
-      "confirmations": 10,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-14T13:59:09Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The NMT (Nordic Mobile Telephone) company was first launched in Denmark, Norway, Sweden and ______________?",
@@ -965,13 +1169,15 @@
         "c. Fiji"
       ],
       "verified": true,
-      "confirmations": 11,
+      "confirmations": 12,
       "firstSeenAt": "2026-09-14T13:59:09Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The onItemSelected() method is where the click is handled.",
@@ -984,10 +1190,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-02T00:22:51Z",
-      "lastVerifiedAt": "2026-10-02T00:22:51Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The OptionsMenu is the tertiary collection of menu items for an activity.",
@@ -997,13 +1205,17 @@
         "b. False"
       ],
       "questionType": "multichoice",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "True"
+      ],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-02T00:23:09Z",
-      "lastVerifiedAt": "2026-10-02T00:23:09Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The push notification for 3rd party apps was first seen during this iOS 4 update.",
@@ -1012,16 +1224,22 @@
         "a. FALSE",
         "b. TRUE",
         "a. TRUE",
-        "b. FALSE"
+        "b. FALSE",
+        "TRUE",
+        "FALSE"
       ],
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "TRUE"
+      ],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 7,
+      "confirmations": 9,
       "firstSeenAt": "2026-09-25T14:27:29Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The RecyclerView provides layout managers for positioning items",
@@ -1031,13 +1249,17 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 5,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-14T14:12:29Z",
-      "lastVerifiedAt": "2026-10-02T00:24:14Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "False"
+      ],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The RecyclerView widget is a more advanced and flexible version of the ListView",
@@ -1047,13 +1269,17 @@
         "b. True"
       ],
       "verified": true,
-      "confirmations": 5,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-14T14:12:29Z",
-      "lastVerifiedAt": "2026-10-02T00:24:14Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "False"
+      ],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The Source code or the src code is the directory which will contain all of you applications source files",
@@ -1063,13 +1289,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 9,
+      "confirmations": 10,
       "firstSeenAt": "2026-09-14T14:07:03Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The TextView is a subclass of View that represents a substandard text field component. True or False?",
@@ -1084,16 +1312,26 @@
         "d. False",
         "b. False",
         "c. None of the choices",
-        "d. Text Views"
+        "d. Text Views",
+        "Text Views",
+        "None of the choices",
+        "False",
+        "True"
       ],
       "questionType": "multichoice",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "Text Views",
+        "None of the choices",
+        "True"
+      ],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-30T15:16:59Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The value of android:text is a reference to a ___________.",
@@ -1113,12 +1351,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-15T16:35:08Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z"
     },
     {
       "question": "The Windows Phone 8 is also known as the __________.",
@@ -1136,16 +1374,26 @@
         "a. Apollo",
         "b. Anchovies",
         "d. Achilles",
-        "b. None of the choices"
+        "b. None of the choices",
+        "Anchovies",
+        "Achilles",
+        "None of the choices",
+        "Apollo"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 10,
       "firstSeenAt": "2026-09-14T14:17:14Z",
-      "lastVerifiedAt": "2026-10-15T16:35:08Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "Anchovies",
+        "Achilles",
+        "None of the choices"
+      ],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "There are three important items to note when talking about the Android Project Components. These are:",
@@ -1163,16 +1411,26 @@
         "d. Source Code, Auto Generated Code, HTML",
         "b. Source Code, Auto Generated Code, Included Libraries",
         "c. Source Code, Postal Code, HTML",
-        "d. Source Code, Auto Generated Code, Included Sections"
+        "d. Source Code, Auto Generated Code, Included Sections",
+        "Source Code, Auto Generated Code, HTML",
+        "Source Code, Postal Code, HTML",
+        "Source Code, Auto Generated Code, Included Sections",
+        "Source Code, Auto Generated Code, Included Libraries"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 10,
       "firstSeenAt": "2026-09-14T14:07:03Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "Source Code, Auto Generated Code, HTML",
+        "Source Code, Postal Code, HTML",
+        "Source Code, Auto Generated Code, Included Sections"
+      ],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "These tools contain platform-dependent tools for developing and debugging your application.",
@@ -1187,16 +1445,26 @@
         "d. Android Platforms",
         "a. Android Platforms",
         "d. USB Drivers",
-        "c. Android App"
+        "c. Android App",
+        "Android Platforms",
+        "USB Drivers",
+        "SDK Platform Tools",
+        "Android App"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 10,
       "firstSeenAt": "2026-09-14T14:05:21Z",
-      "lastVerifiedAt": "2026-10-15T16:35:08Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "Android Platforms",
+        "USB Drivers",
+        "Android App"
+      ],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "They resemble basic buttons except they have no borders or background but still change appearance during different states.",
@@ -1210,13 +1478,15 @@
         "d. Custom Button"
       ],
       "verified": true,
-      "confirmations": 5,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-18T04:41:02Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "This class namespace creates the initial package structure.",
@@ -1234,16 +1504,26 @@
         "c. Package Name",
         "b. Package Name",
         "a. Names of Packages",
-        "d. Package Name"
+        "d. Package Name",
+        "Name of the Packages",
+        "Package Name",
+        "Name Package",
+        "Names of Packages"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 10,
       "firstSeenAt": "2026-09-14T14:07:03Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "Name of the Packages",
+        "Name Package",
+        "Names of Packages"
+      ],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "This constant makes the element as big as it needs to contain its content.",
@@ -1260,16 +1540,26 @@
         "b. match_parent",
         "d. Name Package",
         "b. Explicit Decision",
-        "c. Name Package"
+        "c. Name Package",
+        "wrap_content",
+        "Name Package",
+        "match_parent",
+        "Explicit Decision"
       ],
       "verified": true,
-      "confirmations": 5,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-18T04:41:02Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "Name Package",
+        "match_parent",
+        "Explicit Decision"
+      ],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "This constant makes the element match the width and height of the parent element.",
@@ -1281,16 +1571,26 @@
         "d. Name Package",
         "b. Explicit Decision",
         "c. Name Package",
-        "d. match_parent"
+        "d. match_parent",
+        "match_parent",
+        "Name Package",
+        "wrap_content",
+        "Explicit Decision"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-18T04:41:02Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "Name Package",
+        "wrap_content",
+        "Explicit Decision"
+      ],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "This defines the visual structure for a user interface (UI).",
@@ -1308,16 +1608,26 @@
         "c. Layout",
         "a. Layout",
         "b. Interface",
-        "d. None of the choices"
+        "d. None of the choices",
+        "Interface",
+        "None of the choices",
+        "Outer Space",
+        "Layout"
       ],
       "verified": true,
-      "confirmations": 6,
+      "confirmations": 8,
       "firstSeenAt": "2026-09-18T04:41:02Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "Interface",
+        "None of the choices",
+        "Outer Space"
+      ],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "To display the raw HTML, click the activity_main.html tab in the bottom-left of Eclipse's editing area",
@@ -1327,13 +1637,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 9,
+      "confirmations": 10,
       "firstSeenAt": "2026-09-14T14:07:03Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "To provide a familliar and consistent user experience, you should use the Menu and Dialogs to present user actions and other options in your activities.",
@@ -1343,13 +1655,11 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-14T14:11:02Z",
-      "lastVerifiedAt": "2026-09-25T14:27:29Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "community_contribution",
-      "wrongAnswers": [
-        "True"
-      ],
+      "wrongAnswers": [],
       "isAiSuggestion": false,
       "questionType": "multichoice",
       "conflictHistory": [
@@ -1361,7 +1671,9 @@
           "rejectedAnswer": "False",
           "timestamp": "2026-10-02T00:23:29Z"
         }
-      ]
+      ],
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Using a Cursor Loader is helpful when avoiding/blocking an Adapter",
@@ -1371,13 +1683,17 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 5,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-14T14:12:29Z",
-      "lastVerifiedAt": "2026-10-02T00:24:14Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "True"
+      ],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "What device falls between a smartphone and a laptop in usability and functionality?",
@@ -1398,13 +1714,15 @@
         "d. Tablet"
       ],
       "verified": true,
-      "confirmations": 12,
+      "confirmations": 13,
       "firstSeenAt": "2026-09-14T13:59:09Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "What does MTS stand for?",
@@ -1423,13 +1741,15 @@
         "c. Mobile Telephone Service"
       ],
       "verified": true,
-      "confirmations": 10,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-14T13:59:09Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "What does the IMTS stand for?",
@@ -1454,11 +1774,13 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 10,
       "firstSeenAt": "2026-09-25T14:27:29Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "What is the estimated total number of Android devices sold in 2014?",
@@ -1474,16 +1796,26 @@
         "c. 1 Billion units",
         "a. 500 Million units",
         "d. 10 Billion units",
-        "d. 100 Million units"
+        "d. 100 Million units",
+        "10 Billion units",
+        "100 Million units",
+        "1 Billion units",
+        "500 Million units"
       ],
       "verified": true,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-14T13:59:09Z",
-      "lastVerifiedAt": "2026-10-15T16:35:08Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "10 Billion units",
+        "100 Million units",
+        "500 Million units"
+      ],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "What is the operating system for the Blackberry line of smartphones?",
@@ -1500,16 +1832,26 @@
         "c. Blueberry OS",
         "d. Strawberry OS",
         "b. Blackberry OS",
-        "d. Raspberry OS"
+        "d. Raspberry OS",
+        "Raspberry OS",
+        "Blackberry OS",
+        "Blueberry OS",
+        "Strawberry OS"
       ],
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "Raspberry OS",
+        "Blueberry OS",
+        "Strawberry OS"
+      ],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 7,
+      "confirmations": 9,
       "firstSeenAt": "2026-09-25T14:27:29Z",
-      "lastVerifiedAt": "2026-10-15T16:35:08Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "What is the operating system of Iphone?",
@@ -1529,16 +1871,26 @@
         "a. Windows Phone",
         "c. Android",
         "a. IOS",
-        "c. Symbian"
+        "c. Symbian",
+        "Android",
+        "Symbian",
+        "IOS",
+        "Windows Phone"
       ],
       "verified": true,
-      "confirmations": 10,
+      "confirmations": 12,
       "firstSeenAt": "2026-09-14T13:59:09Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "Android",
+        "Symbian",
+        "Windows Phone"
+      ],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "What is the other name for Android 5.0?",
@@ -1557,16 +1909,26 @@
         "a. Kitkat",
         "b. IceCream Sandwich",
         "b. Froyo",
-        "c. Kitkat"
+        "c. Kitkat",
+        "Kitkat",
+        "Froyo",
+        "Lollipop",
+        "IceCream Sandwich"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 10,
       "firstSeenAt": "2026-09-14T14:17:14Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "Kitkat",
+        "Froyo",
+        "IceCream Sandwich"
+      ],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "What smartphone product first allowed the capacitive touch capabilities?",
@@ -1582,16 +1944,26 @@
         "a. Iphone",
         "c. Nokia",
         "a. Samsung",
-        "b. Nokia"
+        "b. Nokia",
+        "Samsung",
+        "Nokia",
+        "Blackberry OS",
+        "Iphone"
       ],
       "verified": true,
-      "confirmations": 10,
+      "confirmations": 12,
       "firstSeenAt": "2026-09-14T13:59:09Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "Samsung",
+        "Nokia",
+        "Blackberry OS"
+      ],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "What version did Java Support first appear in the Blackberry OS updates?",
@@ -1605,20 +1977,26 @@
         "c. Blackberry OS 4",
         "b. Blackberry OS 3",
         "d. Blackberry OS 4",
-        "c. Blackberry OS 3"
+        "c. Blackberry OS 3",
+        "Blackberry OS 4",
+        "Blackberry OS 3",
+        "Blackberry OS 5"
       ],
       "verified": true,
-      "confirmations": 2,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-14T13:59:09Z",
-      "lastVerifiedAt": "2026-10-15T16:35:08Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
       "wrongAnswers": [
-        "Blackberry OS 4"
+        "Blackberry OS 4",
+        "Blackberry OS 5"
       ],
       "isAiSuggestion": false,
       "wrongAnswerEvidence": true,
       "questionType": "multichoice",
-      "lastEvidenceAt": "2026-10-15T16:32:14Z"
+      "lastEvidenceAt": "2026-10-15T16:32:14Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "What was the name of the first smartphone released in 1992?",
@@ -1641,11 +2019,13 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 7,
+      "confirmations": 8,
       "firstSeenAt": "2026-09-25T14:27:29Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "When creating a new Android Project, you first SELECT FILE > NEW >________",
@@ -1662,16 +2042,26 @@
         "b. None of the Choices",
         "c. Reference",
         "d. Project",
-        "b. Document"
+        "b. Document",
+        "Project",
+        "Document",
+        "Reference",
+        "None of the Choices"
       ],
       "verified": true,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-14T14:07:03Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "Document",
+        "Reference",
+        "None of the Choices"
+      ],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "When did Dr. Martin Cooper successfully call on a handheld mobile phone?",
@@ -1695,13 +2085,15 @@
         "d. 1977"
       ],
       "verified": true,
-      "confirmations": 10,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-14T14:05:21Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "When did Google announce that the Android mobile operating system will be offered free to the public?",
@@ -1724,11 +2116,13 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 10,
       "firstSeenAt": "2026-09-25T14:27:29Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "When did Japan achieve a city-wide commercial mobile phone network?",
@@ -1749,13 +2143,15 @@
         "d. 1979"
       ],
       "verified": true,
-      "confirmations": 10,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-14T13:59:09Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "When the user clicks a button, the Button object receives and on-click event. To define the click event handler for a button, add the _______________.",
@@ -1778,28 +2174,36 @@
       ],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-02T00:24:45Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
       "wrongAnswerEvidence": true,
-      "lastEvidenceAt": "2026-10-15T16:35:08Z"
+      "lastEvidenceAt": "2026-10-15T16:35:08Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "When you connect a device running Android 4.2.2. or higher to your computer, the system shows a dialog asking whether to accept an RSA key that allows debugging through the computer.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "False",
+        "True"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-14T14:13:50Z",
-      "lastVerifiedAt": "2026-10-02T00:24:14Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "False"
+      ],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "While spinners may offer similar functionality as radio buttons, they do not require an entirely different API",
@@ -1808,16 +2212,22 @@
         "a. True",
         "b. False",
         "a. False",
-        "b. True"
+        "b. True",
+        "True",
+        "False"
       ],
       "questionType": "multichoice",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "True"
+      ],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-02T00:22:51Z",
-      "lastVerifiedAt": "2026-10-02T00:23:29Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Who conceptualized the Dynabook?",
@@ -1841,11 +2251,13 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 8,
+      "confirmations": 9,
       "firstSeenAt": "2026-09-25T14:27:29Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "With an Android-powered device, you can develop and debug your Android applications just as you would on the emulator",
@@ -1854,16 +2266,22 @@
         "a. True",
         "b. False",
         "a. False",
-        "b. True"
+        "b. True",
+        "True",
+        "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-14T14:13:50Z",
-      "lastVerifiedAt": "2026-10-02T00:24:14Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "False"
+      ],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "wrap_content makes the element as big as it needs to be to contain its content",
@@ -1873,13 +2291,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 8,
       "firstSeenAt": "2026-09-18T04:41:02Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "You are in your final chapter of Mobile Programming",
@@ -1889,13 +2309,17 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-14T14:13:50Z",
-      "lastVerifiedAt": "2026-10-02T00:24:14Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "False"
+      ],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "You can install your application on the device directly from Android Studio",
@@ -1904,16 +2328,22 @@
         "a. False",
         "b. True",
         "a. True",
-        "b. False"
+        "b. False",
+        "True",
+        "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-14T14:13:50Z",
-      "lastVerifiedAt": "2026-10-02T00:24:14Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "False"
+      ],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "You can scale images by defining layout_width and layout_height attributes on the ____________ element",
@@ -1931,16 +2361,26 @@
         "d. Wrap_content",
         "a. ImageView",
         "b. Name Package",
-        "c. Image Partner"
+        "c. Image Partner",
+        "Wrap_content",
+        "ImageView",
+        "Image Partner",
+        "Name Package"
       ],
       "verified": true,
-      "confirmations": 6,
+      "confirmations": 8,
       "firstSeenAt": "2026-09-18T04:41:02Z",
-      "lastVerifiedAt": "2026-10-15T16:35:51Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "Wrap_content",
+        "Image Partner",
+        "Name Package"
+      ],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "You create new tabs by requesting one from the ActionBar using its newTab() method.",
@@ -1950,13 +2390,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 9,
       "firstSeenAt": "2026-09-14T14:11:02Z",
-      "lastVerifiedAt": "2026-10-02T00:24:45Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     }
   ]
 }

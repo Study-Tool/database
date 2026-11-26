@@ -124,7 +124,7 @@ Course databases are stored in [`data/`](data/) as structured JSON files named b
 | `BAMM6301` | BAMM6301 | **59** | Active |
 | `CS6200` | CS6200 | **17** | Active |
 | `CS6204` | Computer Architecture and Organization | **186** | Active |
-| `CS6205` | Automata Theory and Formal Languages | **134** | Active |
+| `CS6205` | Automata Theory and Formal Languages | **284** | Active |
 | `CS6206` | Principles of Operating Systems | **165** | Active |
 | `CS6207` | CS6207 | **57** | Active |
 | `CS6209` | Software Engineering 1 | **223** | Active |
@@ -142,8 +142,8 @@ Course databases are stored in [`data/`](data/) as structured JSON files named b
 | `IT6224B` | Data Communications and Networking 3 | **238** | Active |
 | `IT6310` | Network Security | **109** | Active |
 | `IT6314` | IT6314 | **239** | Active |
-| `IT6322A` | Mobile Application Development | **90** | Active |
-| `ITE6200` | Application Development and Emerging Technology | **170** | Active |
+| `IT6322A` | Mobile Application Development | **100** | Active |
+| `ITE6200` | Application Development and Emerging Technology | **656** | Active |
 | `ITE6202` | ITE6202 | **112** | Active |
 | `ITE6301` | Technopreneurship | **200** | Active |
 | `MATH6100` | Calculus 1 | **65** | Active |

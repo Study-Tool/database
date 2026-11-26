@@ -1,7 +1,7 @@
 {
   "subjectCode": "ITE6200",
   "subjectName": "Application Development and Emerging Technology",
-  "updatedAt": "2026-10-16T11:18:20Z",
+  "updatedAt": "2026-11-26T04:23:54Z",
   "totalQuestions": 156,
   "tier": "verified",
   "questions": [
@@ -10,7 +10,8 @@
       "answer": "b. False",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "False"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [
@@ -19,10 +20,10 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T06:19:17Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-04T06:19:17Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "alternateAnswers": [
         {
           "answer": "False",
@@ -52,6 +53,14 @@
           "answer": "False",
           "timestamp": "2026-10-16T11:00:55Z"
         }
+      ],
+      "originType": "exam",
+      "originLabel": "Exam",
+      "conflictHistory": [
+        {
+          "rejectedAnswer": "False",
+          "timestamp": "2026-11-26T04:23:54Z"
+        }
       ]
     },
     {
@@ -59,40 +68,47 @@
       "answer": "False",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "False"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-04T05:45:03Z",
-      "lastVerifiedAt": "2026-10-04T06:22:39Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": ".text() is used to get or set values from and to a non-input element like divs.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 5,
+      "confirmations": 7,
       "firstSeenAt": "2026-10-04T06:12:31Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T11:00:33Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": ".vals() It is used to get or set values from and to an input element particularly textboxes.",
       "answer": "b. False",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "False"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [
@@ -101,10 +117,10 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T06:19:17Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-04T06:19:17Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "alternateAnswers": [
         {
           "answer": "False",
@@ -113,6 +129,14 @@
         {
           "answer": "False",
           "timestamp": "2026-10-16T10:59:48Z"
+        }
+      ],
+      "originType": "exam",
+      "originLabel": "Exam",
+      "conflictHistory": [
+        {
+          "rejectedAnswer": "False",
+          "timestamp": "2026-11-26T04:23:54Z"
         }
       ]
     },
@@ -125,12 +149,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-16T11:16:05Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-16T11:17:19Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z"
     },
     {
       "question": "____________________ the plugin. We can do this by adding a script attached to an event handler",
@@ -141,12 +165,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-16T11:16:05Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-16T11:17:19Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z"
     },
     {
       "question": "_________________________ justifies that GBV are main cause of international homicides and the record was set from Nepal and Bangladesh.",
@@ -161,26 +185,31 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T05:26:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "moodle_100_percent"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "moodle_100_percent",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "_construct() method executes when a class is created or instantiated.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 7,
+      "confirmations": 9,
       "firstSeenAt": "2026-10-02T22:25:24Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Review"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "A ______________ is simply a new method that we use to extend jQuery's prototype object",
@@ -191,12 +220,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-16T11:16:05Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-16T11:17:19Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z"
     },
     {
       "question": "A gender stereotype is known by many as a sex role. It is a social role encompassing a range of behaviors and attitudes that are generally unacceptable, inappropriate, or undesirable for a person based on that person's biological or perceived sex.",
@@ -209,10 +238,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T05:26:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "moodle_100_percent"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "moodle_100_percent",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "A variable declared outside a function.",
@@ -221,16 +252,19 @@
         "a. Global",
         "b. Local",
         "c. Worldwide",
-        "d. International"
+        "d. International",
+        "Global"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 6,
       "firstSeenAt": "2026-10-03T13:22:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Grades-Harvester"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Grades-Harvester",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "A variable declared within a function.",
@@ -245,10 +279,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 10,
       "firstSeenAt": "2026-10-02T22:24:01Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Google Gemini AI"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Google Gemini AI",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "According to the World Bank, ____% of murders of women are committed by an intimate partner.",
@@ -263,10 +299,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T05:26:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "moodle_100_percent"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "moodle_100_percent",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "According to the World Bank, _____ % of women worldwide, have experienced either physical and/or sexual intimate partner violence or non-partner sexual violence.",
@@ -281,10 +319,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T05:26:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "moodle_100_percent"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "moodle_100_percent",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "According to the World Bank, globally, ____% of women have been sexually assaulted by someone other than a partner.",
@@ -299,26 +339,31 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T05:26:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "moodle_100_percent"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "moodle_100_percent",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Account registration can be approved through activation link sent from user's email or by an admin approval.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 8,
+      "confirmations": 10,
       "firstSeenAt": "2026-10-03T13:28:42Z",
-      "lastVerifiedAt": "2026-10-04T06:41:48Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Activities heavily associated with violence are overwhelmingly shaped by understandings of gender and gender roles.",
@@ -331,44 +376,52 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T05:26:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "moodle_100_percent"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "moodle_100_percent",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "AJAX engine is an XMLHttpRequest object and jQuery makes it a lot more easier for us because of its AJAX development API.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 7,
+      "confirmations": 9,
       "firstSeenAt": "2026-10-04T06:19:17Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T11:00:55Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "AJAX stands for Asynchronous Java",
       "answer": "False",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "False"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 6,
       "firstSeenAt": "2026-10-04T06:12:31Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T10:59:48Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Andi Gutmans was the inventor of PHP.",
@@ -381,10 +434,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 10,
+      "confirmations": 11,
       "firstSeenAt": "2026-10-02T22:18:38Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Review"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Anyone can be the victim or perpetrator of gender-abused because of class, race, age, or religion.",
@@ -397,10 +452,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T05:26:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "moodle_100_percent"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "moodle_100_percent",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Area that can be specified by the cols and rows attributes, or even better; through CSS' height and width properties.",
@@ -415,10 +472,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 5,
+      "confirmations": 6,
       "firstSeenAt": "2026-10-02T22:27:54Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Can hold an unlimited number of characters, and the text renders in a fixed-width font.",
@@ -433,10 +492,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 6,
+      "confirmations": 7,
       "firstSeenAt": "2026-10-02T22:26:07Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Review"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "CI function code to load the database class.",
@@ -445,16 +506,19 @@
         "a. $this->load- b. ?this->load->database(); c. $this->load->database(); d. $this->load->database[];",
         "b. ?this->load->database();",
         "c. $this->load->database();",
-        "d. $this->load->database[];"
+        "d. $this->load->database[];",
+        "$this->load->database();"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 6,
       "firstSeenAt": "2026-10-03T13:22:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Grades-Harvester"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Grades-Harvester",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "CI method or code to load the form validation library.",
@@ -464,16 +528,19 @@
         "b. $load->library('form_validation')",
         "c. $this->load('library_form_validation')",
         "d. $this->load->library('form_validation')",
-        "e. \"library\""
+        "e. \"library\"",
+        "$this->load->library('form_validation')"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 6,
       "firstSeenAt": "2026-10-03T13:22:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Grades-Harvester"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Grades-Harvester",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "CI method or code to set a rule in form validation.",
@@ -482,7 +549,8 @@
         "a. $this->form_validation->set_rules[]",
         "b. $this->form_validation->set_rules()",
         "c. &this->form+validation->set_rules()",
-        "d. &this->form_validation->set_rules()"
+        "d. &this->form_validation->set_rules()",
+        "$this->form_validation->set_rules()"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [
@@ -490,10 +558,12 @@
       ],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 7,
+      "confirmations": 9,
       "firstSeenAt": "2026-10-02T22:25:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Google Gemini AI"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Google Gemini AI",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Create the _______ controller at application/controllers/Datatable.php",
@@ -504,61 +574,70 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-16T11:16:05Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-16T11:17:19Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z"
     },
     {
       "question": "Database group configuration in CI is stored in a multi-dimensional array.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 8,
+      "confirmations": 10,
       "firstSeenAt": "2026-10-02T22:25:24Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Database Normalization is the process of organizing records to minimize redundancy.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 6,
       "firstSeenAt": "2026-10-04T05:35:07Z",
-      "lastVerifiedAt": "2026-10-04T06:21:22Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "DataTable jQuery plugin helps us enable sorting, pagination and search to our table data.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 6,
       "firstSeenAt": "2026-10-04T06:19:17Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T11:00:55Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Define styles for your documents, including the design, layout and variations in display for different devices and screen sizes.",
@@ -570,16 +649,19 @@
         "d. CSS",
         "a. PHP",
         "b. HTML",
-        "c. TextArea"
+        "c. TextArea",
+        "CSS"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 8,
+      "confirmations": 10,
       "firstSeenAt": "2026-10-02T22:25:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Defines a multi-line text input control.",
@@ -588,16 +670,19 @@
         "a. // tag",
         "b. // tag",
         "c. // tag",
-        "d. // tag"
+        "d. // tag",
+        "// tag"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 12,
+      "confirmations": 14,
       "firstSeenAt": "2026-10-02T22:25:24Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Grades-Harvester"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Grades-Harvester",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Delimiter symbol for rules in form validation.",
@@ -606,16 +691,19 @@
         "a. \"?\" symbol",
         "b. \"/\" symbol",
         "c. \"^\" symbol",
-        "d. \"|\" or pipe symbol"
+        "d. \"|\" or pipe symbol",
+        "\"|\" or pipe symbol"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 8,
+      "confirmations": 10,
       "firstSeenAt": "2026-10-02T22:25:00Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Google Gemini AI"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Google Gemini AI",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Element can be placed onto a web page in a pre-checked fashion by setting the checked attribute.",
@@ -627,16 +715,19 @@
         "d. List",
         "a. Selection",
         "c. List",
-        "d. Options"
+        "d. Options",
+        "Checkbox"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 8,
+      "confirmations": 10,
       "firstSeenAt": "2026-10-02T22:25:24Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Google Gemini AI"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Google Gemini AI",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Element represents a control that presents a menu of options.",
@@ -651,10 +742,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 7,
+      "confirmations": 8,
       "firstSeenAt": "2026-10-02T22:25:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Google Gemini AI"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Google Gemini AI",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Europe also has a long history of gender-based violence including violent periods of religious persecution through eras such as the ____________.",
@@ -669,10 +762,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T05:26:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "moodle_100_percent"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "moodle_100_percent",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "European countries with a prevalence of GDV are Bangladesh, India, Nepal, Pakistan, and Maldives.",
@@ -685,10 +780,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T05:26:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "moodle_100_percent"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "moodle_100_percent",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "FGM is not only a matter of equality among females, but it protects a person's rights to health, security, and physical integrity.",
@@ -701,10 +798,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T05:26:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "moodle_100_percent"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "moodle_100_percent",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Form helper class helps us by returning formatted HTML form elements.",
@@ -717,10 +816,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 7,
+      "confirmations": 8,
       "firstSeenAt": "2026-10-03T13:28:42Z",
-      "lastVerifiedAt": "2026-10-04T06:47:30Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Form Helper method or code to return an HTML checkbox input type.",
@@ -729,16 +830,19 @@
         "a. form_checklist()",
         "b. form_checkbox()",
         "c. form_boxcheck()",
-        "d. form_checkbox[]"
+        "d. form_checkbox[]",
+        "form_checkbox()"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 5,
+      "confirmations": 7,
       "firstSeenAt": "2026-10-02T22:27:54Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Form Helper method or code to return an HTML password input type.",
@@ -753,16 +857,19 @@
         "b. form",
         "c. password()",
         "d. form_pword()",
-        "e."
+        "e.",
+        "form_password()"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 13,
+      "confirmations": 15,
       "firstSeenAt": "2026-10-02T22:26:07Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Grades-Harvester"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Grades-Harvester",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Gender is the range of characteristics pertaining to and differentiating between, masculinity and femininity.",
@@ -775,10 +882,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T05:26:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "moodle_100_percent"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "moodle_100_percent",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Gender Prescription is what you should to be socially acceptable.",
@@ -791,10 +900,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T05:26:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "moodle_100_percent"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "moodle_100_percent",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Gender Proscription is what you should not do in order to be socially acceptable.",
@@ -807,10 +918,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T05:26:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "moodle_100_percent"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "moodle_100_percent",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION. Read the question carefully and type your answer in the space provided. [____: 1994] What year did PHP began its development?",
@@ -820,10 +933,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 10,
+      "confirmations": 11,
       "firstSeenAt": "2026-10-02T22:18:38Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Review"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION. Read the question carefully and type your answer in the space provided. [____: 1995] Year that PHP was officially called Personal Home Page Tools.",
@@ -833,10 +948,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 10,
+      "confirmations": 11,
       "firstSeenAt": "2026-10-02T22:18:38Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Review"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION. Read the question carefully and type your answer in the space provided. [____: 1998] Year that PHP 3 was released",
@@ -846,10 +963,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-03T13:22:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Grades-Harvester"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Grades-Harvester",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION. Read the question carefully and type your answer in the space provided. [____: 4.1.0] Version of PHP that introduces the use of superglobals.",
@@ -859,10 +978,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 10,
+      "confirmations": 11,
       "firstSeenAt": "2026-10-02T22:18:38Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Review"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION. Read the question carefully and type your answer in the space provided. [____: 5.3.0] Version of PHP that uses namespace support late static binding.",
@@ -872,10 +993,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 8,
+      "confirmations": 9,
       "firstSeenAt": "2026-10-02T22:24:01Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Review"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION. Read the question carefully and type your answer in the space provided. [____: 5.3] Version of PHP that uses namespace support late static binding.",
@@ -885,10 +1008,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-03T13:22:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Grades-Harvester"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Grades-Harvester",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION. Read the question carefully and type your answer in the space provided. [____: 5] PHP version currently in use on most websites and included several new features such as support for object-oriented programming.",
@@ -898,10 +1023,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-03T13:22:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Grades-Harvester"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Grades-Harvester",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION. Read the question carefully and type your answer in the space provided. [____: Rasmus Lerdorf] Who is the inventor of PHP?",
@@ -911,10 +1038,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 10,
       "firstSeenAt": "2026-10-02T22:22:00Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Review"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION: [____: Bcc()] Method that accepts recipients that are not visible to the other recipients",
@@ -924,10 +1053,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 5,
+      "confirmations": 6,
       "firstSeenAt": "2026-10-04T05:33:16Z",
-      "lastVerifiedAt": "2026-10-04T06:47:30Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION: [____: cc()] Method that accepts 'secondary recipients' that receives the mail just to keep them informed",
@@ -937,10 +1068,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 8,
+      "confirmations": 9,
       "firstSeenAt": "2026-10-03T13:32:56Z",
-      "lastVerifiedAt": "2026-10-04T06:22:39Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION: [____: column] It is the vertical dimension of the grid system that hold the actual page contents and is limited into 12s per line.",
@@ -950,10 +1083,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-04T05:41:58Z",
-      "lastVerifiedAt": "2026-10-16T11:18:20Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION: [____: Container-fluid] A materializeCSS class that extends up to 100% of the browser's width to hold page contents.",
@@ -964,12 +1099,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-16T11:01:33Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-16T11:01:33Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z"
     },
     {
       "question": "IDENTIFICATION: [____: container] A materializeCSS class that provides a 70% space of the browser's full width and allows you to center the content horizontally.",
@@ -979,10 +1114,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-04T05:41:58Z",
-      "lastVerifiedAt": "2026-10-16T11:18:20Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION: [____: Email address] An input required to verify the user's record existence in order to reset his/her password.",
@@ -992,10 +1129,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 6,
+      "confirmations": 7,
       "firstSeenAt": "2026-10-03T13:28:42Z",
-      "lastVerifiedAt": "2026-10-04T06:47:30Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION: [____: fadeIn()] This command is used to produce a fading in effect within a given time on a selected element",
@@ -1005,10 +1144,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-04T06:07:22Z",
-      "lastVerifiedAt": "2026-10-16T11:01:14Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION: [____: fadeOut()] This command is used to produce a fading out effect within a given time on a selected element",
@@ -1018,10 +1159,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-04T06:02:11Z",
-      "lastVerifiedAt": "2026-10-16T11:18:20Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION: [____: fixed] A grid layout that is used for static website designs because it has fixed/distributed column sizes.",
@@ -1031,10 +1174,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-04T06:07:22Z",
-      "lastVerifiedAt": "2026-10-16T11:18:20Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION: [____: fluid] A grid layout that adapts or resize columns depending on the device screen size.",
@@ -1044,10 +1189,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-04T06:02:11Z",
-      "lastVerifiedAt": "2026-10-16T11:01:33Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION: [____: Forgot Password] It is any process or technology that allows users who forgot their passwords authenticate and reset the passwords of their account",
@@ -1058,10 +1205,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-04T06:47:30Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-04T06:47:30Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION: [____: From()] Method that accepts the sender's email address",
@@ -1071,10 +1220,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 8,
+      "confirmations": 9,
       "firstSeenAt": "2026-10-03T13:28:42Z",
-      "lastVerifiedAt": "2026-10-04T06:41:48Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION: [____: grid] A structure made up of series of intersecting straight (vertical, horizontal and angular) or curved guide lines used to structure content.",
@@ -1084,10 +1235,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-04T06:02:11Z",
-      "lastVerifiedAt": "2026-10-04T06:07:22Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION: [____: hide()] This command is used to hide selected element(s)",
@@ -1115,10 +1268,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-04T06:12:31Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T10:59:48Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION: [____: JQuery] javascript library that makes web scripting easier for us",
@@ -1129,10 +1284,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-04T06:12:31Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T11:00:33Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION: [____: m] MaterializeCSS class prefix for tablet devices.",
@@ -1142,10 +1299,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-04T06:02:11Z",
-      "lastVerifiedAt": "2026-10-16T11:18:20Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION: [____: material design] is a design language or design convention for modern applications and website",
@@ -1156,10 +1315,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-04T06:20:47Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-05T12:34:26Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION: [____: Message()] Method that accepts the email's body or content",
@@ -1169,10 +1330,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-04T05:35:07Z",
-      "lastVerifiedAt": "2026-10-04T06:22:39Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION: [____: Print_deb] Method that returns a string containing any server messages, email header and email message.",
@@ -1182,10 +1345,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T05:26:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "moodle_100_percent"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "moodle_100_percent",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION: [____: Print_debugger()] Method that returns a string containing any server messages, email header and email message.",
@@ -1195,10 +1360,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-03T13:28:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Review"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION: [____: Row] It is the horizontal dimension of the grid system that separate page contents line after line.",
@@ -1209,12 +1376,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-16T11:01:14Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-16T11:01:14Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z"
     },
     {
       "question": "IDENTIFICATION: [____: s] MaterializeCSS class prefix for mobile devices.",
@@ -1224,10 +1391,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-04T05:41:58Z",
-      "lastVerifiedAt": "2026-10-04T06:07:22Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION: [____: Send()] Method that triggers the sending of email",
@@ -1237,10 +1406,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 7,
+      "confirmations": 8,
       "firstSeenAt": "2026-10-03T13:28:42Z",
-      "lastVerifiedAt": "2026-10-04T06:21:22Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION: [____: show()] This command is used to show selected element(s)",
@@ -1250,10 +1421,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-04T05:41:58Z",
-      "lastVerifiedAt": "2026-10-16T11:18:20Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION: [____: slideDown()] This command is used to create a sliding down transition within a given time on a selected element",
@@ -1263,10 +1436,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T05:41:58Z",
-      "lastVerifiedAt": "2026-10-04T05:41:58Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION: [____: slideLeft()] This command is used to create a sliding to the left transition within a given time on a selected element",
@@ -1276,10 +1451,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-04T06:07:22Z",
-      "lastVerifiedAt": "2026-10-16T11:01:33Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION: [____: slideLeft(interval)] JQuery method used to creates a sliding to the left transition within a given time on a selected element",
@@ -1293,10 +1470,13 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-04T06:19:17Z",
       "source": "review_screen",
-      "lastEvidenceAt": "2026-10-04T06:19:17Z"
+      "lastEvidenceAt": "2026-10-04T06:19:17Z",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z"
     },
     {
       "question": "IDENTIFICATION: [____: slideUp()] This command is used creates a sliding up transition within a given time on a selected element",
@@ -1306,10 +1486,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-04T05:41:58Z",
-      "lastVerifiedAt": "2026-10-16T11:01:33Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION: [____: Subjec()] Method that accepts the email's title or heading text",
@@ -1320,10 +1502,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T06:47:30Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-04T06:47:30Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION: [____: text()] This command is used to get or set values from and to a non-input element like divs.",
@@ -1333,10 +1517,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-04T06:02:11Z",
-      "lastVerifiedAt": "2026-10-16T11:18:20Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION: [____: To()] Method that accepts the recipient's email address",
@@ -1346,10 +1532,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 6,
+      "confirmations": 7,
       "firstSeenAt": "2026-10-03T13:28:42Z",
-      "lastVerifiedAt": "2026-10-04T05:44:25Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION: [____: toggle()] This command is used to toggle, switch or alternate the selected item's visibility: show and hide",
@@ -1359,24 +1547,30 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-04T05:41:58Z",
-      "lastVerifiedAt": "2026-10-16T11:01:33Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION: CSS stands for",
       "answer": "Cascading style sheets",
-      "choices": [],
+      "choices": [
+        "Cascading style sheets"
+      ],
       "questionType": "shortanswer",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 7,
+      "confirmations": 8,
       "firstSeenAt": "2026-10-04T06:12:31Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T11:00:33Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION: It helps us enable sorting, pagination and search to our table data.",
@@ -1387,10 +1581,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-04T06:19:17Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T10:59:48Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION: It is used to get or set values from and to an input element particularly textboxes.",
@@ -1437,24 +1633,30 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 5,
+      "confirmations": 6,
       "firstSeenAt": "2026-10-04T06:20:47Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T11:00:33Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IDENTIFICATION: Name the university that created MaterialDesign CSS",
       "answer": "Carnegie Mellon University",
-      "choices": [],
+      "choices": [
+        "Carnegie Mellon University"
+      ],
       "questionType": "shortanswer",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 5,
+      "confirmations": 6,
       "firstSeenAt": "2026-10-04T06:12:31Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T11:00:55Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "In 2011 and 2015, ________ has recorded 40,000 dowry-related deaths.",
@@ -1469,10 +1671,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T05:26:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "moodle_100_percent"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "moodle_100_percent",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "In Canada, most provinces have passed legislation based on Saskatchewan’s Victims of Domestic Violence Act (1995), which increases the options and material support available to victims.",
@@ -1485,10 +1689,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T05:26:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "moodle_100_percent"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "moodle_100_percent",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "In history, one of the most noteworthy acts of violence against women is the sexual slavery that happened in World War II.",
@@ -1501,17 +1707,20 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T05:26:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "moodle_100_percent"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "moodle_100_percent",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "In jQuery the scr tag is use for linking.",
       "answer": "b. False",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "False"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [
@@ -1520,10 +1729,10 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T06:20:47Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-04T06:20:47Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "alternateAnswers": [
         {
           "answer": "False",
@@ -1536,6 +1745,14 @@
         {
           "answer": "False",
           "timestamp": "2026-10-16T11:00:55Z"
+        }
+      ],
+      "originType": "exam",
+      "originLabel": "Exam",
+      "conflictHistory": [
+        {
+          "rejectedAnswer": "False",
+          "timestamp": "2026-11-26T04:23:54Z"
         }
       ]
     },
@@ -1550,10 +1767,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T05:26:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "moodle_100_percent"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "moodle_100_percent",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Instead of searching jQuery’s plugin registry, we will use _________________ plugin",
@@ -1583,44 +1802,50 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-15T16:16:46Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-15T17:02:30Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z"
     },
     {
       "question": "is_unique requires table and field name as parameter.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 8,
+      "confirmations": 10,
       "firstSeenAt": "2026-10-03T13:28:42Z",
-      "lastVerifiedAt": "2026-10-04T06:41:48Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "is_uniques form validation rule checks if the input is unique from the table.",
       "answer": "False",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "False"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 7,
+      "confirmations": 9,
       "firstSeenAt": "2026-10-03T13:32:56Z",
-      "lastVerifiedAt": "2026-10-04T06:22:39Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "It is a configuration file that is used for configuration of site-access issues, such as URL redirect, URL shortening, Access-security control.",
@@ -1629,16 +1854,19 @@
         "a. .httptaccess",
         "b. .htpaccess",
         "c. .htaccess",
-        "d. .httpccess"
+        "d. .httpccess",
+        ".htaccess"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 8,
+      "confirmations": 10,
       "firstSeenAt": "2026-10-02T22:24:01Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Review"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "It is a euphemism to prostitution during World War II.",
@@ -1653,10 +1881,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T05:26:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "moodle_100_percent"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "moodle_100_percent",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "It is a line that is not read/executed as part of the program.",
@@ -1665,16 +1895,19 @@
         "a. variables",
         "b. comment",
         "c. echo",
-        "d. print"
+        "d. print",
+        "comment"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 7,
+      "confirmations": 9,
       "firstSeenAt": "2026-10-02T22:25:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Google Gemini AI"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Google Gemini AI",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "It is a URI Component that serve as persistent, location-independent identifiers",
@@ -1683,16 +1916,19 @@
         "a. URI",
         "b. URL",
         "c. UWI",
-        "d. URN"
+        "d. URN",
+        "URN"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 12,
+      "confirmations": 14,
       "firstSeenAt": "2026-10-02T22:14:56Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Google Gemini AI"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Google Gemini AI",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "It is the Data Access Layer or Persistence Layer of the MVC Layered Architecture.",
@@ -1704,16 +1940,19 @@
         "d. Sample",
         "a. Structure",
         "b. Model",
-        "c. Example"
+        "c. Example",
+        "Model"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 8,
+      "confirmations": 10,
       "firstSeenAt": "2026-10-02T22:25:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "It is the harm inflicted upon individuals and groups that is connected to normative understandings of their gender.",
@@ -1728,10 +1967,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T05:26:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "moodle_100_percent"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "moodle_100_percent",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "It is used creates a sliding to the left transition within a given time on a selected element",
@@ -1742,12 +1983,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-15T16:16:46Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-15T17:02:30Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z"
     },
     {
       "question": "It is used creates a sliding to the right transition within a given time on a selected element",
@@ -1758,12 +1999,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-15T16:16:46Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-15T17:02:30Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z"
     },
     {
       "question": "It is used creates a sliding up transition within a given time on a selected element",
@@ -1774,12 +2015,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-15T16:16:46Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-15T17:02:30Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z"
     },
     {
       "question": "It is used to get or set values from and to a non-input element like divs.",
@@ -1790,28 +2031,30 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-15T16:16:46Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-15T17:02:30Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z"
     },
     {
       "question": "It is used to get or set values from and to an input element particularly textboxes.",
       "answer": ".val()",
-      "choices": [],
+      "choices": [
+        "val"
+      ],
       "questionType": "shortanswer",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-15T16:16:46Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-15T17:02:30Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z"
     },
     {
       "question": "It is used to hide selected element(s)",
@@ -1822,28 +2065,30 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-15T16:16:46Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-15T17:02:30Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z"
     },
     {
       "question": "It is used to produce a fading in effect within a given time on a selected element",
       "answer": ".fadeIn(interval)",
-      "choices": [],
+      "choices": [
+        "fadeIn(interval)"
+      ],
       "questionType": "shortanswer",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-15T16:16:46Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-15T17:02:30Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z"
     },
     {
       "question": "It is used to show selected element(s)",
@@ -1854,12 +2099,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-15T16:16:46Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-15T17:02:30Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z"
     },
     {
       "question": "It is used to toggle, switch or alternate the selected item’s visibility: show and hide",
@@ -1870,19 +2115,20 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-15T16:16:46Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-15T17:02:30Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z"
     },
     {
       "question": "jQuery is a java library that makes web scripting easier for us.",
       "answer": "b. False",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "False"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [
@@ -1891,10 +2137,10 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-04T06:19:17Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-04T06:19:17Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "conflictHistory": [
         {
           "rejectedAnswer": "False",
@@ -1911,8 +2157,14 @@
         {
           "rejectedAnswer": "False",
           "timestamp": "2026-10-16T11:00:33Z"
+        },
+        {
+          "rejectedAnswer": "False",
+          "timestamp": "2026-11-26T04:23:54Z"
         }
-      ]
+      ],
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Match the correct answer:",
@@ -1933,26 +2185,31 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T05:30:05Z",
-      "lastVerifiedAt": "2026-10-04T05:30:05Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "matches form validation rule checks 3 fields that should have an equal or same value.",
       "answer": "False",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "False"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 6,
+      "confirmations": 8,
       "firstSeenAt": "2026-10-03T13:32:56Z",
-      "lastVerifiedAt": "2026-10-04T06:41:48Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "One of the main points of interaction between a user and a web site or application. They allow users to send data to the website.",
@@ -1967,10 +2224,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-03T13:22:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Grades-Harvester"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Grades-Harvester",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Originally, PHP is known as \"Personal Home Pages\"",
@@ -1983,10 +2242,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-03T13:22:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Grades-Harvester"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Grades-Harvester",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Other term used for Option buttons?",
@@ -1999,32 +2260,38 @@
         "a. Radio Buttons",
         "b. Television Buttons",
         "c. Select Buttons",
-        "d. Selection Buttons"
-      ],
-      "questionType": "multichoice",
-      "wrongAnswers": [],
-      "verified": true,
-      "isAiSuggestion": false,
-      "confirmations": 8,
-      "firstSeenAt": "2026-10-02T22:25:24Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Review"
-    },
-    {
-      "question": "PDO stands for Personal Data Objects.",
-      "answer": "False",
-      "choices": [
-        "a. True",
-        "b. False"
+        "d. Selection Buttons",
+        "Radio Buttons"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
       "confirmations": 10,
+      "firstSeenAt": "2026-10-02T22:25:24Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "PDO stands for Personal Data Objects.",
+      "answer": "False",
+      "choices": [
+        "a. True",
+        "b. False",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 12,
       "firstSeenAt": "2026-10-02T22:18:38Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Review"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "PHP 3 was released in 1998.",
@@ -2037,17 +2304,20 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-03T13:22:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Grades-Harvester"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Grades-Harvester",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "PHP development began in 1995.",
       "answer": "b. False",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "False"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [
@@ -2055,9 +2325,9 @@
       ],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 6,
+      "confirmations": 7,
       "firstSeenAt": "2026-10-02T22:14:56Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "source": "Google Gemini AI",
       "conflictHistory": [
         {
@@ -2083,24 +2353,33 @@
           "rejectedAnswer": "False",
           "reason": "AI suggestion cannot overwrite verified answer",
           "timestamp": "2026-10-02T22:26:36Z"
+        },
+        {
+          "rejectedAnswer": "False",
+          "timestamp": "2026-11-26T04:23:54Z"
         }
-      ]
+      ],
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "PHP is one of the most widely used and recognizable web technology used on the Internet.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-10-02T22:22:00Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Review"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "PHP runs on various platforms operating system such as apache and IIS.",
@@ -2113,74 +2392,88 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 10,
       "firstSeenAt": "2026-10-02T22:22:00Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Review"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "php.org is the official php resource.",
       "answer": "False",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "False"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-10-02T22:22:00Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Review"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Query Builder or Active Record pattern in CI replaces the traditional query string in php coding.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 8,
+      "confirmations": 10,
       "firstSeenAt": "2026-10-02T22:25:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Registration is an activity of deleting user information on the database.",
       "answer": "False",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "False"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 7,
+      "confirmations": 9,
       "firstSeenAt": "2026-10-03T13:32:56Z",
-      "lastVerifiedAt": "2026-10-04T06:47:30Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "row_array() fetch the data as a single row and result_array() fetch the data as a multi-dimensional array.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 5,
+      "confirmations": 7,
       "firstSeenAt": "2026-10-02T22:27:54Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "South Africa was also found to have the highest rate of rape in the world at 132.4 incidents of rape per 1,000 people.",
@@ -2193,27 +2486,32 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T05:26:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "moodle_100_percent"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "moodle_100_percent",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Successful - this will be triggered upon the AJAX request and usually accepts the parameter response response contains the loaded content from the URL requested.",
       "answer": "False",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "False"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 6,
+      "confirmations": 8,
       "firstSeenAt": "2026-10-04T06:19:17Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T11:00:55Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Symbol used to combine 2 sting values to create one string.",
@@ -2228,10 +2526,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 6,
+      "confirmations": 7,
       "firstSeenAt": "2026-10-02T22:26:36Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The ______________ script source",
@@ -2244,12 +2544,12 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-16T11:16:05Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-16T11:16:05Z",
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
       "lastEvidenceAt": "2026-10-16T11:17:19Z"
     },
     {
@@ -2261,12 +2561,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-16T11:16:05Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-16T11:17:19Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z"
     },
     {
       "question": "The Australian Bureau of Statistics data shows that a third of all women in Australia have been assaulted physically and a fifth of all women have been assaulted sexually.",
@@ -2279,26 +2579,31 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T05:26:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "moodle_100_percent"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "moodle_100_percent",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The default file extension for PHP file is \".php\"",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 10,
+      "confirmations": 12,
       "firstSeenAt": "2026-10-02T22:18:38Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Review"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The effects of gender-based abuse are long-lasting and wide-ranging that leaves the victim a devastating life, social ills, and/or death.",
@@ -2311,10 +2616,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T05:26:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "moodle_100_percent"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "moodle_100_percent",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The first URI segment",
@@ -2323,7 +2630,8 @@
         "a. method",
         "b. parameter",
         "c. controller",
-        "d. address"
+        "d. address",
+        "controller"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [
@@ -2331,10 +2639,12 @@
       ],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 8,
+      "confirmations": 10,
       "firstSeenAt": "2026-10-02T22:24:01Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Review"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The function of ci code to return a URI segment",
@@ -2343,16 +2653,19 @@
         "a. %this->uri->segment",
         "b. $this->uri->segment",
         "c. $these->uri->segment",
-        "d. $that->uri->segment"
+        "d. $that->uri->segment",
+        "$this->uri->segment"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 10,
+      "confirmations": 12,
       "firstSeenAt": "2026-10-02T22:19:10Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Google Gemini AI"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Google Gemini AI",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The function or ci code to load a view.",
@@ -2361,16 +2674,19 @@
         "a. %this->load->view",
         "b. $this->load->views",
         "c. $this->load->view",
-        "d. $that->load->view"
+        "d. $that->load->view",
+        "$this->load->view"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-10-02T22:22:00Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Review"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The function or ci code to show or call the client-side \"non-existing page\" error",
@@ -2379,16 +2695,19 @@
         "a. show_404()",
         "b. show()_504",
         "c. show_405()",
-        "d. show_444()"
+        "d. show_444()",
+        "show_404()"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-10-02T22:22:00Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Review"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The Model represents your data structures. Typically your model classes will contain functions that help you retrieve, insert, and update information in your database.",
@@ -2401,10 +2720,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 8,
+      "confirmations": 9,
       "firstSeenAt": "2026-10-02T22:24:01Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Review"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The second URI segment",
@@ -2419,10 +2740,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-03T13:22:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Grades-Harvester"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Grades-Harvester",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The table markup should have ____________________ for the table headers or columns and for the data table contents",
@@ -2433,12 +2756,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-16T11:16:05Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-16T11:17:19Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z"
     },
     {
       "question": "The third URI Segment",
@@ -2453,10 +2776,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-03T13:22:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Grades-Harvester"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Grades-Harvester",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The window is the information that is being presented to a user.",
@@ -2469,10 +2794,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-03T13:22:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Grades-Harvester"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Grades-Harvester",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "There is no nation free from gender-based violence.",
@@ -2485,10 +2812,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T05:26:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "moodle_100_percent"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "moodle_100_percent",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "URI stands for?",
@@ -2497,16 +2826,19 @@
         "a. United Resource Identifier",
         "b. Uniform Resource Identifier",
         "c. Unchanging Resource Identifier",
-        "d. Uniform Resources Identifier"
+        "d. Uniform Resources Identifier",
+        "Uniform Resources Identifier"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 6,
       "firstSeenAt": "2026-10-03T13:22:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Grades-Harvester"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Grades-Harvester",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "URN stands for?",
@@ -2515,32 +2847,38 @@
         "a. Uniform Resource Name",
         "b. Uniform Resources Name",
         "c. Uniform Resource Names",
-        "d. Unique Resource Name"
+        "d. Unique Resource Name",
+        "Uniform Resource Name"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 8,
+      "confirmations": 10,
       "firstSeenAt": "2026-10-02T22:24:01Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "Review"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "valid_email form validation rule is used to check if an e-mail is valid or not.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 7,
+      "confirmations": 9,
       "firstSeenAt": "2026-10-03T13:32:56Z",
-      "lastVerifiedAt": "2026-10-04T06:22:39Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Violence can and does occur for females only.",
@@ -2553,10 +2891,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T05:26:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "moodle_100_percent"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "moodle_100_percent",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "We live in a world where the milieu tells us what we do and what we should do based on our gender, it’s called gender stereotype.",
@@ -2569,10 +2909,12 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T05:26:42Z",
-      "lastVerifiedAt": "2026-10-04T05:26:42Z",
-      "source": "moodle_100_percent"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "moodle_100_percent",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "We should subject a user for approval on registration.",
@@ -2585,41 +2927,50 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 5,
+      "confirmations": 6,
       "firstSeenAt": "2026-10-04T05:33:16Z",
-      "lastVerifiedAt": "2026-10-04T06:47:30Z",
-      "source": "review_screen"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "We used the base_url() function to return our domain or application path",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 6,
+      "confirmations": 8,
       "firstSeenAt": "2026-10-04T06:12:31Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T11:00:33Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Who first use the term AJAX?",
       "answer": "Jesse James Garrett",
-      "choices": [],
+      "choices": [
+        "Jesse James Garrett"
+      ],
       "questionType": "shortanswer",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-04T06:12:31Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-16T11:00:55Z"
+      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     }
   ]
 }
