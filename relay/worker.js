@@ -1637,6 +1637,126 @@ async function handleDatabaseExportAck(request, env, corsHeaders) {
   }, 200, corsHeaders);
 }
 
+async function handleRecentSubmissions(request, env, corsHeaders) {
+  const url = new URL(request.url);
+  const subjectCode = String(url.searchParams.get("subjectCode") || url.searchParams.get("subject") || "")
+    .trim()
+    .toUpperCase();
+
+  if (!subjectCode || !/^[A-Z0-9_-]{2,16}$/.test(subjectCode)) {
+    return jsonResponse({ error: "Invalid subjectCode format" }, 400, corsHeaders);
+  }
+
+  if (await isCourseAnswerSharingDisabled(env, subjectCode)) {
+    return new Response(
+      JSON.stringify({
+        subjectCode,
+        tier: "recent",
+        disabled: true,
+        totalQuestions: 0,
+        questions: [],
+      }),
+      {
+        status: 200,
+        headers: {
+          ...corsHeaders,
+          "Content-Type": "application/json; charset=utf-8",
+          "Cache-Control": "public, max-age=60",
+        },
+      },
+    );
+  }
+
+  if (!env.DB) {
+    return jsonResponse({ error: "Relay database binding is not configured" }, 503, corsHeaders);
+  }
+
+  await env.DB.prepare(`CREATE TABLE IF NOT EXISTS community_submissions (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    subject_code TEXT NOT NULL,
+    source TEXT NOT NULL,
+    evidence_type TEXT NOT NULL,
+    question_count INTEGER NOT NULL,
+    payload_json TEXT NOT NULL,
+    status TEXT NOT NULL DEFAULT 'pending',
+    created_at INTEGER NOT NULL,
+    exported_at INTEGER
+  )`).run();
+
+  const { results } = await env.DB.prepare(
+    `SELECT id, source, evidence_type, payload_json, created_at
+     FROM community_submissions
+     WHERE status = 'pending' AND subject_code = ?
+     ORDER BY id DESC
+     LIMIT 50`,
+  )
+    .bind(subjectCode)
+    .all();
+
+  const deduped = new Map();
+  let latestCreatedAt = 0;
+
+  for (const row of results || []) {
+    if (typeof row.created_at === "number" && row.created_at > latestCreatedAt) {
+      latestCreatedAt = row.created_at;
+    }
+    let payload = null;
+    try {
+      payload = JSON.parse(row.payload_json);
+    } catch {
+      payload = null;
+    }
+    const questions = Array.isArray(payload?.questions) ? payload.questions : [];
+    for (const q of questions) {
+      if (!q) continue;
+      const qText = String(q.question || q.qRaw || "").trim();
+      const ansText = String(q.answer ?? q.ansRaw ?? "").trim();
+      if (!qText) continue;
+      const key = `${qText.toLowerCase()}::${ansText.toLowerCase()}`;
+      const existing = deduped.get(key);
+      if (existing) {
+        existing.confirmations = (existing.confirmations || 1) + 1;
+        if (q.verified) existing.verified = true;
+        continue;
+      }
+      deduped.set(key, {
+        question: qText,
+        answer: ansText,
+        choices: Array.isArray(q.choices) ? q.choices : [],
+        wrongAnswers: Array.isArray(q.wrongAnswers) ? q.wrongAnswers : [],
+        wrongAnswerEvidence: Boolean(q.wrongAnswerEvidence),
+        verified: Boolean(q.verified),
+        isAiSuggestion: Boolean(q.isAiSuggestion),
+        source: q.source || row.source || "community_relay",
+        evidenceType: q.evidenceType || row.evidence_type || "moodle_review",
+        originType: q.originType || "quiz",
+        originLabel: q.originLabel || "Quiz",
+        confirmations: 1,
+        submittedAt: payload?.submittedAt || new Date(row.created_at || Date.now()).toISOString(),
+      });
+    }
+  }
+
+  const questionsList = Array.from(deduped.values());
+  return new Response(
+    JSON.stringify({
+      subjectCode,
+      tier: "recent",
+      totalQuestions: questionsList.length,
+      updatedAt: latestCreatedAt ? new Date(latestCreatedAt).toISOString() : new Date().toISOString(),
+      questions: questionsList,
+    }),
+    {
+      status: 200,
+      headers: {
+        ...corsHeaders,
+        "Content-Type": "application/json; charset=utf-8",
+        "Cache-Control": "public, max-age=60",
+      },
+    },
+  );
+}
+
 export default {
   async fetch(request, env) {
     const corsHeaders = {
@@ -1663,6 +1783,10 @@ export default {
 
     if (request.method === "POST" && (path === "/report-bug" || path === "/bug-report")) {
       return handleUserBugReport(request, env, corsHeaders);
+    }
+
+    if (request.method === "GET" && (path === "/v1/recent" || path === "/recent")) {
+      return handleRecentSubmissions(request, env, corsHeaders);
     }
 
     if (request.method === "GET" && (path === "/v1/config" || path === "/config")) {
@@ -1846,6 +1970,7 @@ export default {
           endpoints: {
             config: "GET /v1/config",
             export: "GET /v1/export",
+            recent: "GET /v1/recent?subjectCode=CS6204",
             version: "/version",
             submit: "POST /",
             ai: "POST /ai",
