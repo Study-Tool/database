@@ -1,8 +1,8 @@
 {
   "subjectCode": "CS6205",
   "subjectName": "Automata Theory and Formal Languages",
-  "updatedAt": "2026-11-26T04:23:54Z",
-  "totalQuestions": 125,
+  "updatedAt": "2026-11-27T04:26:32Z",
+  "totalQuestions": 297,
   "tier": "verified",
   "questions": [
     {
@@ -18,10 +18,10 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 7,
+      "confirmations": 9,
       "firstSeenAt": "2026-10-11T18:38:40Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
     },
@@ -38,10 +38,10 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 7,
+      "confirmations": 9,
       "firstSeenAt": "2026-10-11T18:38:40Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
     },
@@ -52,13 +52,61 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 15,
+      "confirmations": 16,
       "firstSeenAt": "2026-09-23T15:14:23Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "questionType": "shortanswer",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "[____] are collections of objects in which order of elements and duplication of elements do not matter.",
+      "answer": "Sets",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "Batch-Course-Harvester",
+      "originType": "quiz",
+      "originLabel": "Prelim Quiz 2",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "[Dropdown 1 (Contrapositive | Predicates | Subject | Concatenation)] AI are parameterized statement, they are true or false depending on the values of their parameters.",
+      "answer": "Predicates",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "moodle_100_percent",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "[Dropdown 1: Predicates] AI are parameterized statement, they are true or false depending on the values of their parameters.",
+      "answer": "Predicates",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "moodle_100_percent",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "[Dropdown 1: Predicates] are parameterized statement, they are true or false depending on the values of their parameters.",
@@ -67,9 +115,9 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 12,
+      "confirmations": 13,
       "firstSeenAt": "2026-09-25T14:27:17Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "questionType": "shortanswer",
       "originType": "exam",
@@ -84,12 +132,147 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-11T18:36:42Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "__ is a finite set of states.",
+      "answer": "Q",
+      "choices": [
+        "Q"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "__ is a finite set of symbols called the alphabet.",
+      "answer": "Σ",
+      "choices": [
+        "Σ"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "__ is the initial state from where any input is processed (q0 ∈ Q).",
+      "answer": "q0",
+      "choices": [
+        "q0"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "______ is used to derive a string using the production rules of a grammar.",
+      "answer": "Parsing",
+      "choices": [
+        "Parsing",
+        "Production"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
+      "alternateAnswers": [
+        {
+          "answer": "Production",
+          "timestamp": "2026-11-26T04:23:54Z"
+        }
+      ],
+      "conflictHistory": [
+        {
+          "rejectedAnswer": "Production",
+          "timestamp": "2026-11-27T04:26:32Z"
+        }
+      ]
+    },
+    {
+      "question": "A - B will contain elements in?",
+      "answer": "A not in B",
+      "choices": [
+        "B not in A",
+        "A not in B",
+        "Neither A nor B",
+        "Both A and B"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "B not in A",
+        "Neither A nor B",
+        "Both A and B"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "A 2-Tape Turing Machine ___________________.",
+      "answer": "can show that recursive languages are closed under union",
+      "choices": [
+        "can infer that recursive languages are closed under union",
+        "can show that recursive languages are closed under union",
+        "has two outputs",
+        "has two inputs"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "can infer that recursive languages are closed under union",
+        "has two outputs",
+        "has two inputs"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "A [____: graph] is a tree if it is connected and has no simple cycles.",
@@ -98,13 +281,29 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 14,
+      "confirmations": 15,
       "firstSeenAt": "2026-09-23T15:14:23Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "questionType": "shortanswer",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "A [____] is a tree if it is connected and has no simple cycles.",
+      "answer": "graph",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "Batch-Course-Harvester",
+      "originType": "quiz",
+      "originLabel": "Prelim Quiz 2",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "A [Dropdown 1: partial derivation tree] sub-tree of a derivation tree/parse tree such that either all of its children are in the sub-tree or none of them are in the [Dropdown 2: sub-tree] .",
@@ -113,13 +312,34 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 10,
       "firstSeenAt": "2026-09-30T10:43:07Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "questionType": "shortanswer",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "A __________ of a derivation is a tree in which each internal node is labeled with a nonterminal.",
+      "answer": "parse tree",
+      "choices": [
+        "parse tree",
+        "a. vertex",
+        "b. nodes",
+        "c. parse tree"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "A compact textual representation of a set of strings representing a language.",
@@ -132,17 +352,19 @@
         "b. regular expressions",
         "a. regular languages",
         "c. regular expressions",
-        "Regular Expressions"
+        "Regular Expressions",
+        "b. regular languages",
+        "c. context grammars"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 5,
+      "confirmations": 10,
       "firstSeenAt": "2026-10-11T18:36:42Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
     },
@@ -169,9 +391,9 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 16,
+      "confirmations": 21,
       "firstSeenAt": "2026-09-23T15:14:23Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "questionType": "multichoice",
       "originType": "exam",
@@ -189,9 +411,9 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-30T10:43:07Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "alternateAnswers": [
         {
@@ -225,13 +447,108 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 13,
+      "confirmations": 19,
       "firstSeenAt": "2026-09-30T11:50:33Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "questionType": "multichoice",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "A DFA is defined ____________________.",
+      "answer": "by a 5-tuple which is {Q, Σ, q0, F, δ}",
+      "choices": [
+        "as Department of Finite Automaton",
+        "by a 5-tuple which is {Q, Σ, q0, F, δ}",
+        "by a 6-tuple which is {Q, Σ, q0, F, δ, Q × Σ → Q}",
+        "as Department of Foreign Affairs"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "as Department of Finite Automaton",
+        "by a 6-tuple which is {Q, Σ, q0, F, δ, Q × Σ → Q}",
+        "as Department of Foreign Affairs"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "A DFA is represented by digraphs called [Dropdown 1: state diagram] .",
+      "answer": "state diagram",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "A DFA is represented by digraphs called.",
+      "answer": "State Diagram",
+      "choices": [
+        "State Diagram"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "A DPDA is a PDA in which",
+      "answer": "No state p has two outgoing transitions",
+      "choices": [
+        "No state p has two outgoing transitions"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "A Finite Automaton with null moves (FA-ε) does transit not only after giving input from the alphabet set but also without any input symbol. This transition without input is called a",
+      "answer": "Null Move",
+      "choices": [
+        "Null Move"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "A Finite Automaton with null moves (FA-ε) does transit not only after giving input from the alphabet set but also without any input symbol. This transition without input is called a [Dropdown 1: null move] .",
@@ -242,10 +559,10 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-11T18:36:42Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
     },
@@ -267,12 +584,35 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 12,
       "firstSeenAt": "2026-10-11T18:47:19Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "A finite set of alphabet or terminals.",
+      "answer": "Σ",
+      "choices": [
+        "S",
+        "ω",
+        "P",
+        "T",
+        "Σ",
+        "V"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "A finite set of input symbols.",
@@ -292,13 +632,36 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-11T18:36:42Z",
       "source": "review_screen",
       "lastEvidenceAt": "2026-10-18T15:00:43Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "A finite set of productions.",
+      "answer": "P",
+      "choices": [
+        "S",
+        "ω",
+        "P",
+        "T",
+        "Σ",
+        "V"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "A finite set of states",
@@ -328,6 +691,29 @@
       "originLabel": "Exam"
     },
     {
+      "question": "A finite set of variables.",
+      "answer": "V",
+      "choices": [
+        "S",
+        "ω",
+        "P",
+        "T",
+        "Σ",
+        "V"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
       "question": "A formal language is a set of strings, each string composed of symbols from a finite set called [Dropdown 1: alphabet] .",
       "answer": "A formal language is a set of strings, each string composed of symbols from a finite set called [alphabet] .",
       "choices": [],
@@ -336,29 +722,73 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-11T18:36:42Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "A formal language is a set of strings, each string composed of symbols from a finite set called.",
+      "answer": "Alphabet",
+      "choices": [
+        "Alphabet"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "A general purpose, programmable, information processor with input and output.",
       "answer": "computer",
       "choices": [
-        "computer"
+        "computer",
+        "Verified Answer: computer Fill"
       ],
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 16,
+      "confirmations": 18,
       "firstSeenAt": "2026-09-23T15:14:23Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
-      "source": "review_screen",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
+      "source": "moodle_100_percent",
       "questionType": "shortanswer",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "A good regular expression of a person's name is ______________.",
+      "answer": "[A-Z][a-z]*",
+      "choices": [
+        "None of the given choices",
+        "[A-Z][a-z]+",
+        "[A-Z][a-z]?",
+        "[A-Z][a-z]*"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "None of the given choices",
+        "[A-Z][a-z]+",
+        "[A-Z][a-z]?"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "A grammar G is ambiguous if there is a word w Î L(G) having are least two different parse trees.",
@@ -373,12 +803,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 6,
       "firstSeenAt": "2026-10-17T18:03:16Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z"
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "A grammar is a collection of sentences of finite length all constructed from a finite alphabet of symbols.",
@@ -392,12 +822,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-17T18:03:16Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z"
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "A language accepted by Deterministic Push down automata is closed under which of the following?",
@@ -417,9 +847,9 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 13,
+      "confirmations": 18,
       "firstSeenAt": "2026-09-30T11:50:33Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "questionType": "multichoice",
       "originType": "exam",
@@ -434,12 +864,52 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-17T18:03:16Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z"
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "A language is regular if and only if.",
+      "answer": "Accepted by DFA",
+      "choices": [
+        "Accepted by DFA",
+        "a. accepted by Turing machine",
+        "b. accepted by PDA",
+        "c. accepted by DFA",
+        "d. accepted by NDFA"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "A may or may not read an input symbol, but it has to read the top of the stack in every transition.",
+      "answer": "PDA",
+      "choices": [
+        "PDA"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "A Moore machine can be described by a [____: 6-tuple] tuple.",
@@ -450,10 +920,10 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-13T23:59:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
     },
@@ -464,9 +934,9 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 17,
+      "confirmations": 18,
       "firstSeenAt": "2026-09-23T15:14:23Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "questionType": "shortanswer",
       "originType": "exam",
@@ -479,16 +949,43 @@
         "6"
       ],
       "questionType": "shortanswer",
-      "wrongAnswers": [],
-      "wrongAnswerEvidence": false,
+      "wrongAnswers": [
+        "5"
+      ],
+      "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 5,
+      "confirmations": 7,
       "firstSeenAt": "2026-10-17T18:03:16Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z"
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "A nested if-then statement is one of these:",
+      "answer": "If w then if x then y else z",
+      "choices": [
+        "If w then x if y then z",
+        "If w if x then y then z",
+        "If w then if x then y else z",
+        "All of the choices are examples of nestedness"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "If w then x if y then z",
+        "If w if x then y then z",
+        "All of the choices are examples of nestedness"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "A new symbol is added at the top.",
@@ -504,10 +1001,10 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 12,
       "firstSeenAt": "2026-10-11T18:47:19Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
     },
@@ -520,9 +1017,9 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 12,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-30T11:50:33Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "questionType": "shortanswer",
       "originType": "exam",
@@ -539,9 +1036,9 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 13,
+      "confirmations": 17,
       "firstSeenAt": "2026-09-30T11:50:33Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "questionType": "multichoice",
       "originType": "exam",
@@ -561,9 +1058,9 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-30T11:50:33Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "alternateAnswers": [
         {
@@ -574,6 +1071,31 @@
       "questionType": "multichoice",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "A PDA is already in its accept state if:",
+      "answer": "it is either in the final state or the stack is empty",
+      "choices": [
+        "and only if it is both in the final state and the stack is empty",
+        "none of the given choices",
+        "it is either in the final state or the stack is empty",
+        "it has no more input to process"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "and only if it is both in the final state and the stack is empty",
+        "none of the given choices",
+        "it has no more input to process"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "A PDA machine configuration (p, w, y) can be correctly represented as ____________ .",
@@ -587,19 +1109,63 @@
         "b. unprocessed input, stack content, current state",
         "c. current state, unprocessed input, stack content",
         "a. unprocessed input, stack content, current state",
-        "Current state, Unprocessed input, Stack content"
+        "Current state, Unprocessed input, Stack content",
+        "c. current state, stack content, unprocessed input"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 8,
+      "confirmations": 12,
       "firstSeenAt": "2026-10-11T18:45:32Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "A PDA machine configuration (p, w, y) can be ly represented as ____________",
+      "answer": "current state, unprocessed input, stack content",
+      "choices": [
+        "current state, unprocessed input, stack content"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "A pushdown automata can be regarded as:",
+      "answer": "a ε-NFA with a stack",
+      "choices": [
+        "a ε-NFA with a stack",
+        "a DFA with a FILO queue",
+        "a NFA with a stack",
+        "a DFA with FIFO queue"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "a DFA with a FILO queue",
+        "a NFA with a stack",
+        "a DFA with FIFO queue"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "A pushdown automaton is a way to implement a context-free grammar in a similar way to design DFA for a regular grammar.",
@@ -612,13 +1178,33 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 12,
+      "confirmations": 16,
       "firstSeenAt": "2026-09-30T11:50:33Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "questionType": "multichoice",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "A regular expression consisting of a finite set of grammar rules is a quadruple.",
+      "answer": "FALSE",
+      "choices": [
+        "FALSE",
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "A right-most derivation of a sentential form is one in which rules transforming the [____] are always applied.",
@@ -628,24 +1214,56 @@
       ],
       "questionType": "shortanswer",
       "wrongAnswers": [
-        "leftmost non-terminal"
+        "leftmost non-terminal",
+        "context",
+        "right-most non-terminal",
+        "rightmost nonterminal"
       ],
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-17T18:03:16Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
       "lastEvidenceAt": "2026-10-17T18:03:16Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "conflictHistory": [
         {
           "rejectedAnswer": "Context",
           "timestamp": "2026-11-26T04:23:54Z"
+        },
+        {
+          "rejectedAnswer": "Context",
+          "timestamp": "2026-11-27T04:26:32Z"
         }
       ]
+    },
+    {
+      "question": "A set has n elements, then the number of elements in its power set is?",
+      "answer": "2 ^ n",
+      "choices": [
+        "2n",
+        "2 ^ n",
+        "None of the choices",
+        "2n-1"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "2n",
+        "None of the choices",
+        "2n-1"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "A set of accepting states (F ∈ Q)",
@@ -665,10 +1283,10 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 12,
       "firstSeenAt": "2026-10-11T18:47:19Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
     },
@@ -691,11 +1309,11 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-11T18:36:42Z",
       "source": "review_screen",
       "lastEvidenceAt": "2026-10-18T15:00:43Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
     },
@@ -715,12 +1333,48 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 6,
+      "confirmations": 8,
       "firstSeenAt": "2026-10-11T18:38:40Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "A set of strings of a's and b's of any length including the null string. So L= { ε, a, b, aa , ab , bb , ba, aaa.......}, the regular",
+      "answer": "(a+b)*",
+      "choices": [
+        "(a+b)*"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "A set of strings of a's and b's of any length including the null string. So L= { ε, a, b, aa , ab , bb , ba, aaa.......}, the regular expression is.",
+      "answer": "(a+b)*",
+      "choices": [
+        "(a+b)*"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "A set of strings of a’s and b’s of any length including the null string. So L= { ε, a, b, aa , ab , bb , ba, aaa…….}, the regular expression is [Blank 1] .",
@@ -736,12 +1390,33 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-11T18:36:42Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "A set of strings of a’s and b’s of any length including the null string. So L= { ε, a, b, aa , ab , bb , ba, aaa…….}, the regular expression is [Blank 1](a+b)* .",
+      "answer": "A set of strings of a’s and b’s of any length including the null string. So L= { ε, a, b, aa , ab , bb , ba, aaa…….}, the regular expression is [(a+b)*].",
+      "choices": [
+        "a. (a+b)*",
+        "b. (a+b)*abb",
+        "c. (aa)*(bb)*b",
+        "d. (aa + ab + ba + bb)*"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "A set of terminals where N ∩ T = NULL.",
@@ -759,10 +1434,10 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 6,
+      "confirmations": 8,
       "firstSeenAt": "2026-10-11T18:38:40Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
     },
@@ -786,11 +1461,11 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 6,
       "firstSeenAt": "2026-10-11T18:38:40Z",
       "source": "review_screen",
       "lastEvidenceAt": "2026-10-12T11:31:15Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam",
       "conflictHistory": [
@@ -820,13 +1495,97 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 8,
+      "confirmations": 11,
       "firstSeenAt": "2026-10-11T18:47:19Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "lastEvidenceAt": "2026-10-14T00:27:30Z",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "A start variable.",
+      "answer": "S",
+      "choices": [
+        "S",
+        "ω",
+        "P",
+        "T",
+        "Σ",
+        "V"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "A string is accepted by a, iff the DFA/NDFA starting at the initial state ends in an after reading the string.",
+      "answer": "NDFA",
+      "choices": [
+        "NDFA"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "A sub-tree of a derivation tree/parse tree such that either all of its children are in the sub-tree or none of them are in the",
+      "answer": "Partial Derivation Tree, Sub-Tree",
+      "choices": [
+        "Partial Derivation Tree, Sub-Tree"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "A symbol X is reachable _________________________.",
+      "answer": "if S →* aXβ",
+      "choices": [
+        "if S → aXβ",
+        "if X →* w, for some w ∈ Σ",
+        "if X → w, for some w ∈ Σ",
+        "if S →* aXβ"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "if S → aXβ",
+        "if X →* w, for some w ∈ Σ",
+        "if X → w, for some w ∈ Σ"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "A transition function δ : Q × (Σ ∪ {ε}) → 2Q.",
@@ -847,11 +1606,11 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-11T18:36:42Z",
       "source": "review_screen",
       "lastEvidenceAt": "2026-10-18T15:00:43Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
     },
@@ -873,12 +1632,206 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 12,
       "firstSeenAt": "2026-10-11T18:47:19Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "A ⊂ B is read as ________________.",
+      "answer": "A is a proper subset of B",
+      "choices": [
+        "A is less than B",
+        "A is a subset of B",
+        "B is a subset of A",
+        "A is a proper subset of B"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "A is less than B",
+        "A is a subset of B",
+        "B is a subset of A"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "A' will contain how many elements from the original set A?",
+      "answer": "0",
+      "choices": [
+        "1",
+        "all elements in A",
+        "infinite",
+        "0"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "1",
+        "all elements in A",
+        "infinite"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "According to the 5-tuple representation i.e. FA= {Q, ∑, δ, q, F} Statement 1: q ϵ Q'; Statement 2: FϵQ",
+      "answer": "Statement 1 is false, Statement 2 is true",
+      "choices": [
+        "Statement 1 is false, Statement 2 is true"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "According to what concept is CFL a superset of RL?",
+      "answer": "Chomsky Hierarchy",
+      "choices": [
+        "Chomsky Hierarchy",
+        "Chomsky Normal Form",
+        "Backus-Naur Form",
+        "None of the given choices"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Chomsky Normal Form",
+        "Backus-Naur Form",
+        "None of the given choices"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "All functions are relations",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "All relations are functions",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "All trees contain loops.",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "An algorithms to shampoo your hair.",
+      "answer": "rinse, lather, repeat",
+      "choices": [
+        "rinse, lather, repeat"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "An alphabet is any finite set of symbols.",
+      "answer": "TRUE",
+      "choices": [
+        "TRUE",
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "An automaton that produces outputs based on current input and/or previous state is called ____________.",
@@ -896,9 +1849,9 @@
         "Transducer"
       ],
       "verified": true,
-      "confirmations": 25,
+      "confirmations": 30,
       "firstSeenAt": "2026-09-16T01:21:50Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
@@ -928,15 +1881,65 @@
         "Assembly Language"
       ],
       "verified": true,
-      "confirmations": 25,
+      "confirmations": 30,
       "firstSeenAt": "2026-09-16T01:21:50Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
       "questionType": "multichoice",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "An example string w of a language L characterized by equal number of As and Bs is _______________.",
+      "answer": "ABBBAA",
+      "choices": [
+        "BABAE",
+        "ABABA",
+        "ABBBAA",
+        "ALIBABA"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "BABAE",
+        "ABABA",
+        "ALIBABA"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "An indirect way of building a CFG is to _____________",
+      "answer": "build a PDA and then construct a CFG from it",
+      "choices": [
+        "build a regular expression and then construct a PDA from it, and then construct CDF from it",
+        "You can only build a CFG directly",
+        "build a PDA and then construct a CFG from it",
+        "none of the given choices"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "build a regular expression and then construct a PDA from it, and then construct CDF from it",
+        "You can only build a CFG directly",
+        "none of the given choices"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "An initial state q0 ∈ Q",
@@ -957,11 +1960,11 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-11T18:36:42Z",
-      "source": "review_screen",
+      "source": "amauoed",
       "lastEvidenceAt": "2026-10-18T15:00:43Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
     },
@@ -980,18 +1983,110 @@
         "a. derivation tree",
         "c. vertex",
         "a. leaves",
-        "Derivation tree"
+        "Derivation tree",
+        "d. vertex",
+        "b. leaves",
+        "c. parse tree"
       ],
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 11,
+      "confirmations": 17,
       "firstSeenAt": "2026-09-30T10:43:07Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "questionType": "multichoice",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "An ε-NFA with a stack is also regarded as:",
+      "answer": "A PDA",
+      "choices": [
+        "A CFG",
+        "A FSA",
+        "A PDA",
+        "A RE"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "A CFG",
+        "A FSA",
+        "A RE"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "Any production rule in the form A → B where A, B ∈ Non-terminal is called unit production.",
+      "answer": "Unit Production",
+      "choices": [
+        "Unit Production",
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
+      "conflictHistory": [
+        {
+          "rejectedAnswer": "True",
+          "timestamp": "2026-11-27T04:26:32Z"
+        }
+      ]
+    },
+    {
+      "question": "Any production rule in the form A → B where A, B ∈ Non-terminal is called.",
+      "answer": "Unit Production",
+      "choices": [
+        "Unit Production"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "Any set that represents the value of the Regular Expression is called a Property set.",
+      "answer": "FALSE",
+      "choices": [
+        "FALSE",
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "Are ambiguous grammar context free?",
@@ -1004,19 +2099,44 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 11,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-30T10:43:07Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "questionType": "multichoice",
       "originType": "exam",
       "originLabel": "Exam"
     },
     {
+      "question": "are parameterized statement, they are true or false depending on the values of their parameters.",
+      "answer": "predicates",
+      "choices": [
+        "predicates"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
       "question": "Blank symbol",
       "answer": "∆",
       "choices": [
-        "Δ"
+        "Δ",
+        "Γ",
+        "F",
+        "Q",
+        "M",
+        "∑",
+        "q0",
+        "∆"
       ],
       "questionType": "shortanswer",
       "wrongAnswers": [
@@ -1025,13 +2145,95 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 6,
       "firstSeenAt": "2026-10-11T18:45:32Z",
       "source": "review_screen",
       "lastEvidenceAt": "2026-10-11T18:49:41Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "challenged the mathematical community to find an infallible, mechanical method for constructing and checking truth of mathematical statements.",
+      "answer": "David Hilbert",
+      "choices": [
+        "David Hilbert"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "Checking whether there is a matching parenthesis in a computer code can be done by a ______________.",
+      "answer": "context-free grammar",
+      "choices": [
+        "regular expression",
+        "automatically by a very patient debugger",
+        "context-free language",
+        "context-free grammar"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "regular expression",
+        "automatically by a very patient debugger",
+        "context-free language"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "Circuits in graphs are always simple paths.",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "Computer science has roots in two fields :",
+      "answer": "Mathematics",
+      "choices": [
+        "Mathematics"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "Computers are general purpose because they can perform many different tasks.",
@@ -1044,9 +2246,9 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 16,
+      "confirmations": 19,
       "firstSeenAt": "2026-09-23T15:14:23Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "questionType": "multichoice",
       "originType": "exam",
@@ -1059,13 +2261,104 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 5,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-25T06:10:56Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "Review",
       "questionType": "shortanswer",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "Connected graphs have components.",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "Context Free Languages is closed under intersection.",
+      "answer": "False",
+      "choices": [
+        "False",
+        "True"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "Context-free grammars are more expressive than finite automata; if a language L is _____ by a finite automata then L can be _______ by a context-free grammar.",
+      "answer": "accepted, generated",
+      "choices": [
+        "accepted, generated",
+        "Accepted, Ignored"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
+      "alternateAnswers": [
+        {
+          "answer": "Accepted, Ignored",
+          "timestamp": "2026-11-26T04:23:54Z"
+        }
+      ],
+      "conflictHistory": [
+        {
+          "rejectedAnswer": "Accepted, Ignored",
+          "timestamp": "2026-11-27T04:26:32Z"
+        }
+      ]
+    },
+    {
+      "question": "Context-free grammars are more expressive than finite automata; if a language L is by a finite automata then L can be blank by a context-free grammar.",
+      "answer": "Accepted",
+      "choices": [
+        "Accepted"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "ContrapositiveConcatenationSubjectPredicates are parameterized statement, they are true or false depending on the values of their parameters.",
@@ -1074,9 +2367,9 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 6,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-23T15:14:23Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "Grades-Harvester",
       "questionType": "shortanswer",
       "originType": "exam",
@@ -1089,9 +2382,9 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 10,
       "firstSeenAt": "2026-09-30T09:46:00Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "questionType": "shortanswer",
       "originType": "exam",
@@ -1107,9 +2400,9 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-30T10:43:07Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "alternateAnswers": [
         {
@@ -1122,6 +2415,54 @@
       "originLabel": "Exam"
     },
     {
+      "question": "Elimination of productions and symbols is called simplification of CFGs. Simplification essentially comprises of the following steps:",
+      "answer": "Reduction of CFG",
+      "choices": [
+        "Reduction of CFG"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "Empty string",
+      "answer": "Σ",
+      "choices": [
+        "Σ",
+        "S",
+        "a & b",
+        "N",
+        "P",
+        "ε",
+        "S & A"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
+      "conflictHistory": [
+        {
+          "rejectedAnswer": "ε",
+          "timestamp": "2026-11-27T04:26:32Z"
+        }
+      ]
+    },
+    {
       "question": "Every context free grammar can be transformed into an equvalent non deterministic push down automata.",
       "answer": "True",
       "choices": [
@@ -1132,19 +2473,61 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 12,
+      "confirmations": 15,
       "firstSeenAt": "2026-09-30T10:43:07Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "questionType": "multichoice",
       "originType": "exam",
       "originLabel": "Exam"
     },
     {
+      "question": "Finite Automata [Dropdown 1: accept] all regular languages and only regular languages",
+      "answer": "accept",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "Finite Automata all regular languages and only regular languages.",
+      "answer": "Accept",
+      "choices": [
+        "Accept"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
       "question": "Finite set of input alphabets",
       "answer": "∑",
       "choices": [
-        "Σ"
+        "Σ",
+        "Γ",
+        "F",
+        "Q",
+        "M",
+        "∑",
+        "δ",
+        "q0",
+        "∆"
       ],
       "questionType": "shortanswer",
       "wrongAnswers": [
@@ -1154,11 +2537,11 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 6,
       "firstSeenAt": "2026-10-11T18:45:32Z",
       "source": "review_screen",
       "lastEvidenceAt": "2026-10-11T18:49:41Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
     },
@@ -1166,7 +2549,14 @@
       "question": "Finite set of states",
       "answer": "Q",
       "choices": [
-        "Q"
+        "Q",
+        "Γ",
+        "F",
+        "M",
+        "∑",
+        "δ",
+        "q0",
+        "∆"
       ],
       "questionType": "shortanswer",
       "wrongAnswers": [
@@ -1176,13 +2566,31 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 6,
       "firstSeenAt": "2026-10-11T18:45:32Z",
       "source": "review_screen",
       "lastEvidenceAt": "2026-10-11T18:49:41Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "For a regular expression 'a', we can construct the following FA:",
+      "answer": "TRUE",
+      "choices": [
+        "TRUE"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "For a regular expression ‘a’, we can construct the following FA: [Image: [moodle-asset:39744/FA-a.PNG]]",
@@ -1196,12 +2604,49 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-11T18:36:42Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "For a regular expression ‘a’, we can construct the following FA: [Image: [moodle-asset:49689/FA-a.PNG]]",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "For bottom-up parsing, a PDA has the following four types of transitions:",
+      "answer": "Push the current input symbol into the stack., Replace the right‑hand side of a production at the top of the stack with its left‑hand side. , If the top of the stack element matches with the current input symbol, pop it. , If the input string is fully read and only if the start symbol 'S' remains in the stack, pop it and go to the final state .",
+      "choices": [
+        "Push the current input symbol into the stack., Replace the right‑hand side of a production at the top of the stack with its left‑hand side. , If the top of the stack element matches with the current input symbol, pop it. , If the input string is fully read and only if the start symbol 'S' remains in the stack, pop it and go to the final state ."
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "For every CFL, G, there exists a PDA M such that L(G) = L(M) and vice versa.",
@@ -1216,10 +2661,10 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 8,
+      "confirmations": 11,
       "firstSeenAt": "2026-10-11T18:45:32Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
     },
@@ -1236,12 +2681,105 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 5,
+      "confirmations": 8,
       "firstSeenAt": "2026-10-11T18:36:42Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "For the given Regular expression, the minimum number of terminals required to derive its grammar (011+1)*(01)* is",
+      "answer": "3,6,2,5,4",
+      "choices": [
+        "3,6,2,5,4"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "Given that the language L = {ε}, is L empty?",
+      "answer": "No, because the language has an empty symbol",
+      "choices": [
+        "None of the given choices",
+        "No, because the language has an empty symbol",
+        "Definitely, because ε is an empty symbol",
+        "This is a case of apples and oranges, you really can't compare!"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "None of the given choices",
+        "Definitely, because ε is an empty symbol",
+        "This is a case of apples and oranges, you really can't compare!"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "Given the language L = {ε}, is L empty?",
+      "answer": "No, because the language has an empty symbol",
+      "choices": [
+        "none of the given choices",
+        "Definitely, because ε is an empty symbol",
+        "No, because the language has an empty symbol",
+        "You can't say"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "none of the given choices",
+        "Definitely, because ε is an empty symbol",
+        "You can't say"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "Given the productions S → αXβ, X → a, ___________________.",
+      "answer": "X is useful",
+      "choices": [
+        "X is not reachable nor generating",
+        "X is reachable but not generating",
+        "X is useful",
+        "X is not reachable but is generating"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "X is not reachable nor generating",
+        "X is reachable but not generating",
+        "X is not reachable but is generating"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "Global Positioning System (GPS) calculates latitude and longitude from satellite signals.",
@@ -1252,9 +2790,9 @@
         "True"
       ],
       "verified": true,
-      "confirmations": 26,
+      "confirmations": 29,
       "firstSeenAt": "2026-09-16T01:21:50Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
@@ -1263,15 +2801,160 @@
       "originLabel": "Exam"
     },
     {
+      "question": "Having the initial state as a final state, give the deterministic finite state automaton that accepts the regular expression.",
+      "answer": "((a.b)+c)*",
+      "choices": [
+        "((a.b)+c)*"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "Having the initial state as a final state, give the deterministic finite state automaton that accepts the regular expression. [Image: [moodle-asset:49674/finite%20automaton.PNG]]",
+      "answer": "((a.b)+c)*",
+      "choices": [
+        "a. ((a.b)+c)",
+        "b. ((a.b)+c)*",
+        "c. ((a.b)+(a.c))",
+        "d. ((a+(b.c)*",
+        "a. ((a.b)+c)*",
+        "b. ((a.b)+(a.c))",
+        "c. ((a+(b.c)*",
+        "d. ((a.b)+c)"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "How many sets belong to the power set of A = {a,b,c,d}?",
+      "answer": "16",
+      "choices": [
+        "4",
+        "8",
+        "7",
+        "16"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "4",
+        "8",
+        "7"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "Identify the modeling recognition of the word \"then\"",
+      "answer": "Start State",
+      "choices": [
+        "Start State"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "If A = {0,2) and B = {1,3), then Cartesian product is?",
+      "answer": "A x B not equal B x A",
+      "choices": [
+        "none of the choices",
+        "A x B not equal B x A",
+        "A x B = B x A",
+        "is not possible"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "none of the choices",
+        "A x B = B x A",
+        "is not possible"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "If A = {3, 4, 6, 8} and",
+      "answer": "{ 4,6}",
+      "choices": [
+        "{ 4,6}"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "If A = {3, 4, 6, 8} and B = { 1, 2, 3, 5, 6} then A ∩ B = [Dropdown 1 ({3, 5, 6} | {3, 6} | {4, 6} | {3, 4, 6})]",
+      "answer": "{3, 6}",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "moodle_100_percent",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
       "question": "If A = {3, 4, 6, 8} and B = { 1, 2, 3, 5, 6} then A ∩ B = [Dropdown 1: {3, 6}]",
       "answer": "{3, 6}",
       "choices": [],
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 11,
+      "confirmations": 12,
       "firstSeenAt": "2026-09-25T14:27:17Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "questionType": "shortanswer",
       "originType": "exam",
@@ -1284,9 +2967,9 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 6,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-23T15:14:23Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "Grades-Harvester",
       "questionType": "shortanswer",
       "originType": "exam",
@@ -1299,13 +2982,158 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 5,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-25T06:10:56Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "Review",
       "questionType": "shortanswer",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "If A = {5,6,7} and B = {7,8,9} then A U B is equal to:",
+      "answer": "{5,6,7,8,9}",
+      "choices": [
+        "{5,6,7}",
+        "None of the choices",
+        "{7,8,9}",
+        "{5,6,7,8,9}"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "{5,6,7}",
+        "None of the choices",
+        "{7,8,9}"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "If a context free grammar G has more than one derivation tree for some string w ∈ L(G), it is called ________________.",
+      "answer": "ambiguous grammar",
+      "choices": [
+        "a. regular grammar",
+        "b. context free language",
+        "c. ambiguous grammar"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "If A has m elements and B has n elements, then A x B has elements?",
+      "answer": "m x n",
+      "choices": [
+        "m - n",
+        "m + n",
+        "2n",
+        "m x n"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "m - n",
+        "m + n",
+        "2n"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "If a problem can be shown that it belongs to the class of recursively enumerable languages then ______________________.",
+      "answer": "It may be solved by any TM",
+      "choices": [
+        "It may be solved by any TM",
+        "It may be solved by a special RE",
+        "It may be solved by a special TM",
+        "It may be solved by any RE"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "It may be solved by a special RE",
+        "It may be solved by a special TM",
+        "It may be solved by any RE"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "If A →* ε, then we can say that:",
+      "answer": "A is nullable",
+      "choices": [
+        "A is not generating",
+        "A is not reachable",
+        "A is nullable",
+        "A is not generally useful"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "A is not generating",
+        "A is not reachable",
+        "A is not generally useful"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "If L is recursively enumerable then ________________.",
+      "answer": "L may not be recursively enumerable",
+      "choices": [
+        "none of the choices given is correct",
+        "L is also recursively enumerable",
+        "L is definitely not recursively enumerable",
+        "L may not be recursively enumerable"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "none of the choices given is correct",
+        "L is also recursively enumerable",
+        "L is definitely not recursively enumerable"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "If L1 and L2 are regular sets then intersection of these two will be __________.",
@@ -1331,13 +3159,224 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 16,
+      "confirmations": 21,
       "firstSeenAt": "2026-09-23T15:14:23Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "questionType": "multichoice",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "If R = {(1,1),(2,3),(4,5)}, then domain of the function is?",
+      "answer": "Dom R = {1,2,4}",
+      "choices": [
+        "Dom R = {2,3,4,5}",
+        "Dom R = {1,2,4}",
+        "Dom R {1,3,5}",
+        "Dom R {1,1,4,5}"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Dom R = {2,3,4,5}",
+        "Dom R {1,3,5}",
+        "Dom R {1,1,4,5}"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "If R ={(1,1),(2,3),(4,5)}, then the Range of the function is?",
+      "answer": "Range R = {1,3,5}",
+      "choices": [
+        "Range R {1,1,4,5}",
+        "Range R {1,2,5}",
+        "Range R = {2,3,4,5}",
+        "Range R = {1,3,5}"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Range R {1,1,4,5}",
+        "Range R {1,2,5}",
+        "Range R = {2,3,4,5}"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "If we can successfully and correctly stimulate a TM with storage by two standard TMs, then ______________________.",
+      "answer": "we have already shown that the two are equivalent",
+      "choices": [
+        "None of the choices",
+        "we have already shown that the TM with storage is at least twice as powerful as one standard TM",
+        "we have already shown that the two are equivalent",
+        "we have already shown that one standard TM is half as powerful as the TM with storage"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "None of the choices",
+        "we have already shown that the TM with storage is at least twice as powerful as one standard TM",
+        "we have already shown that one standard TM is half as powerful as the TM with storage"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "If we can successfully and ly stimulate a TM with storage by two standard TMs, then ______________________",
+      "answer": "we have already shown that the two are equivalent",
+      "choices": [
+        "we have already shown that the two are equivalent"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "If Σ2 is {00, 01, 10, 11}, then Σ =",
+      "answer": "{0, 1}",
+      "choices": [
+        "{0, 1}",
+        "{false, true}",
+        "{true, false}",
+        "{F, T}"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "{false, true}",
+        "{true, false}",
+        "{F, T}"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "In Allan M. Turing proposed the Turing machine as a model of \"any possible computation\".",
+      "answer": "1936",
+      "choices": [
+        "1936"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "In mathematical notation, the symbol → means...",
+      "answer": "implication",
+      "choices": [
+        "implication",
+        "an element of",
+        "not an element of",
+        "assignment statement"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "an element of",
+        "not an element of",
+        "assignment statement"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "In the Chomsky Hierarchy:",
+      "answer": "Regular Language ⊂ Context-sensitive Language",
+      "choices": [
+        "Regular Language ⊂ Context-sensitive Language",
+        "Regular Language ⊃ Context-sensitive Language",
+        "Regular Language| • |Context-sensitive Language",
+        "Regular Language = Context-sensitive Language"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Regular Language ⊃ Context-sensitive Language",
+        "Regular Language| • |Context-sensitive Language",
+        "Regular Language = Context-sensitive Language"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "In words, H → C means…",
+      "answer": "Whenever H holds, C follows",
+      "choices": [
+        "Whenever H holds, C follows",
+        "Whenever H does not follow, C does not follow either",
+        "Whenever H is true, then it becomes C",
+        "Whenever H, then it becomes C"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Whenever H does not follow, C does not follow either",
+        "Whenever H is true, then it becomes C",
+        "Whenever H, then it becomes C"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "Increasing accuracy, or precision",
@@ -1355,11 +3394,11 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 6,
       "firstSeenAt": "2026-10-11T18:36:42Z",
       "source": "review_screen",
       "lastEvidenceAt": "2026-10-11T18:36:42Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
     },
@@ -1377,12 +3416,66 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 5,
+      "confirmations": 7,
       "firstSeenAt": "2026-10-11T18:36:42Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "Is a set of final state/states of Q (F ⊆ Q).",
+      "answer": "F",
+      "choices": [
+        "F"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "Is the transition function where δ: Q × Σ → Q.",
+      "answer": "δ",
+      "choices": [
+        "δ"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "Is to be applied to show that certain languages are not regular. It should never be used to show a language is regular.",
+      "answer": "Pumping Lemma",
+      "choices": [
+        "Pumping Lemma"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "It generate context-free languages. The productions must be in the form A → γ",
@@ -1411,12 +3504,30 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 8,
+      "confirmations": 11,
       "firstSeenAt": "2026-10-11T18:45:32Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "IT generate recursively enumerable languages. The productions have no restrictions and phase structure grammar including all formal grammars.",
+      "answer": "Type-0 grammars",
+      "choices": [
+        "Type-0 grammars"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "IT generate recursively enumerable languages. The productions have no restrictions and phase structure grammar including all formal grammars. They generate the languages that are recognized by a Turing machine.",
@@ -1436,19 +3547,42 @@
         "a. Type-0 grammars",
         "b. Type-1 grammars",
         "d. Type-2 grammars",
-        "Type-0 grammars"
+        "Type-0 grammars",
+        "d. Type-3 grammars",
+        "c. Type-2 grammars"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 8,
+      "confirmations": 12,
       "firstSeenAt": "2026-10-11T18:45:32Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "It is a finite, non-empty set of symbols.",
+      "answer": "alphabet",
+      "choices": [
+        "a. language",
+        "b. none of the mentioned",
+        "c. expression",
+        "d. alphabet"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "It is a machine in FSM whose output depends on the present state as well as the present input.",
@@ -1459,12 +3593,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-17T18:03:16Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z"
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "It is a mathematical model of a computing device or machines.",
@@ -1475,12 +3609,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-17T18:03:16Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z"
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "It is a unary operator on a set of symbols or strings, that gives the infinite set of all possible strings of all possible lengths.",
@@ -1498,9 +3632,9 @@
         "Σ *"
       ],
       "verified": true,
-      "confirmations": 25,
+      "confirmations": 30,
       "firstSeenAt": "2026-09-16T01:21:50Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
@@ -1517,10 +3651,10 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-11T18:36:42Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
     },
@@ -1528,15 +3662,16 @@
       "question": "It process information in their efforts to eat, survive, and reproduce.",
       "answer": "Living Organisms",
       "choices": [
-        "Living Organisms"
+        "Living Organisms",
+        "Verified Answer: Living Organisms Fill"
       ],
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 16,
+      "confirmations": 18,
       "firstSeenAt": "2026-09-23T15:14:23Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
-      "source": "review_screen",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
+      "source": "moodle_100_percent",
       "questionType": "shortanswer",
       "originType": "exam",
       "originLabel": "Exam"
@@ -1558,17 +3693,19 @@
         "b. Type-0 grammar",
         "c. Type-1 grammar",
         "a. Type-1 grammar",
-        "Time Complexity"
+        "Time Complexity",
+        "b. Type-2 grammar",
+        "c. time complexity"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 8,
+      "confirmations": 13,
       "firstSeenAt": "2026-10-11T18:45:32Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
     },
@@ -1576,7 +3713,10 @@
       "question": "It starts from the bottom with the string and comes to the start symbol using a parse tree.",
       "answer": "Bottom-Up Parser",
       "choices": [
-        "Bottom-Up Parser"
+        "Bottom-Up Parser",
+        "double parser",
+        "top bottom parser",
+        "Top-Down Parser"
       ],
       "questionType": "shortanswer",
       "wrongAnswers": [
@@ -1585,11 +3725,11 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 6,
+      "confirmations": 9,
       "firstSeenAt": "2026-10-11T18:47:19Z",
       "source": "review_screen",
       "lastEvidenceAt": "2026-10-11T18:47:19Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
     },
@@ -1597,7 +3737,10 @@
       "question": "It starts from the top with the start-symbol and derives a string using a parse tree.",
       "answer": "Top-Down Parser",
       "choices": [
-        "Top-Down Parser"
+        "Top-Down Parser",
+        "double parser",
+        "top bottom parser",
+        "Bottom-Up Parser"
       ],
       "questionType": "shortanswer",
       "wrongAnswers": [
@@ -1606,13 +3749,106 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 6,
+      "confirmations": 9,
       "firstSeenAt": "2026-10-11T18:47:19Z",
       "source": "review_screen",
       "lastEvidenceAt": "2026-10-11T18:47:19Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "JASON can generally be parsed by ______________.",
+      "answer": "A CFG",
+      "choices": [
+        "A C parser",
+        "A CFG",
+        "A Java parser",
+        "A RE"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "A C parser",
+        "A Java parser",
+        "A RE"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "Labeled by a non-terminal symbol.",
+      "answer": "Vertex",
+      "choices": [
+        "Vertex",
+        "Leaves",
+        "Tree",
+        "Root vertex",
+        "Nodes"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Nodes"
+      ],
+      "wrongAnswerEvidence": true,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "Labeled by a terminal symbol or ε.",
+      "answer": "Leaves",
+      "choices": [
+        "Leaves",
+        "Vertex",
+        "Tree",
+        "Root vertex",
+        "Nodes"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "Labeled by the start symbol.",
+      "answer": "Root Vertex",
+      "choices": [
+        "Root Vertex",
+        "Vertex",
+        "Leaves",
+        "Tree",
+        "Nodes"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "Language may be derived from other strings using the productions in a grammar.",
@@ -1627,10 +3863,10 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 8,
+      "confirmations": 11,
       "firstSeenAt": "2026-10-11T18:45:32Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
     },
@@ -1644,13 +3880,34 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 10,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-30T10:43:07Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "questionType": "multichoice",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "Left recursion:",
+      "answer": "A → A a",
+      "choices": [
+        "A ← a A",
+        "A → a A",
+        "A ← A a",
+        "A → A a"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "Leibniz introduced binary notation of calculation.",
@@ -1663,9 +3920,9 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 16,
+      "confirmations": 19,
       "firstSeenAt": "2026-09-23T15:14:23Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "questionType": "multichoice",
       "originType": "exam",
@@ -1683,30 +3940,62 @@
         "c. L1<L2",
         "d. L1>=L2",
         "c. L1>=L2",
-        "L1=L2"
+        "L1=L2",
+        "b. L1<L2",
+        "a. L1<L2",
+        "c. L1=L2",
+        "d. L1 U L2 = .*"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 6,
+      "confirmations": 11,
       "firstSeenAt": "2026-10-11T18:36:42Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
     },
     {
+      "question": "Let w = 100011, is w a member of a language of string with equal number of 0s and 1s?",
+      "answer": "Yes, because the number of 1s is the same as the number of 0s, which is 3",
+      "choices": [
+        "Yes, because the number of 1s is the same as the number of 0s, which is 3",
+        "It is hard to ascertain because 100011 is 35 in decimal, which is an odd number",
+        "No, because even if the symbols 1 and 0 are of the same number, they are not palindromic",
+        "This is an NP-hard problem"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "It is hard to ascertain because 100011 is 35 in decimal, which is an odd number",
+        "No, because even if the symbols 1 and 0 are of the same number, they are not palindromic",
+        "This is an NP-hard problem"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
       "question": "Living organisms [____: process] information in their efforts to eat, survive, and reproduce.",
       "answer": "process",
-      "choices": [],
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 19,
+      "confirmations": 20,
       "firstSeenAt": "2026-09-23T15:14:23Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "questionType": "shortanswer",
       "originType": "exam",
@@ -1717,16 +4006,113 @@
       "answer": "process",
       "choices": [],
       "questionType": "shortanswer",
-      "wrongAnswers": [],
-      "wrongAnswerEvidence": false,
+      "wrongAnswers": [
+        "living organisms use information",
+        "use",
+        "living organisms"
+      ],
+      "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-18T15:01:53Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z"
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "NFA means:",
+      "answer": "Nondeterministic Finite Automaton",
+      "choices": [
+        "Nondeterministic Finite Automaton",
+        "Nondeterministic Final Automaton",
+        "Nondifferentiable Final Automaton",
+        "Nondifferential Finite Automaton"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Nondeterministic Final Automaton",
+        "Nondifferentiable Final Automaton",
+        "Nondifferential Finite Automaton"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "Noam Chomsky gave a mathematical model in _______ which is effective for writing computer languages.",
+      "answer": "1956",
+      "choices": [
+        "1956"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "Non-terminal symbols",
+      "answer": "S & A",
+      "choices": [
+        "S & A",
+        "S",
+        "a & b",
+        "N",
+        "P",
+        "ε"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "N"
+      ],
+      "wrongAnswerEvidence": true,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "NP-Hard problems are problems that are...",
+      "answer": "intractable",
+      "choices": [
+        "Easy (they are called hard so that computer programmers can be paid more)",
+        "intractable",
+        "none of the choices",
+        "hard"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Easy (they are called hard so that computer programmers can be paid more)",
+        "none of the choices",
+        "hard"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "Number of final state require to accept in minimal finite automata.",
@@ -1751,12 +4137,13 @@
         "c. none of the mentioned",
         "b. none of the mentioned",
         "c. none of the mentioned NO final state requires",
-        "None of the mentioned"
+        "None of the mentioned",
+        "d. none of the mentioned"
       ],
       "verified": true,
-      "confirmations": 19,
+      "confirmations": 23,
       "firstSeenAt": "2026-09-16T01:21:50Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [
         "1",
@@ -1773,6 +4160,14 @@
         {
           "rejectedAnswer": "None of the mentioned",
           "timestamp": "2026-11-26T04:23:54Z"
+        },
+        {
+          "rejectedAnswer": "None of the mentioned",
+          "timestamp": "2026-11-27T04:26:32Z"
+        },
+        {
+          "rejectedAnswer": "none of the mentioned",
+          "timestamp": "2026-11-27T04:26:32Z"
         }
       ]
     },
@@ -1783,9 +4178,9 @@
         "3"
       ],
       "verified": true,
-      "confirmations": 24,
+      "confirmations": 25,
       "firstSeenAt": "2026-09-16T01:21:50Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
@@ -1800,9 +4195,9 @@
         "ENIAC"
       ],
       "verified": true,
-      "confirmations": 24,
+      "confirmations": 25,
       "firstSeenAt": "2026-09-16T01:21:50Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
@@ -1826,18 +4221,44 @@
         "a. Context Sensitive Language",
         "b. Context free Language",
         "c. Recursively Ennumerable Language",
-        "Context Sensitive Language"
+        "Context Sensitive Language",
+        "d. Context Sensitive Language"
       ],
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 11,
+      "confirmations": 16,
       "firstSeenAt": "2026-09-30T10:43:07Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "questionType": "multichoice",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "Recursive : TM that always halt = ________________ : TM that may or may not halt",
+      "answer": "recursively enumerable",
+      "choices": [
+        "iterative",
+        "recursively enumerable",
+        "none of the choices given",
+        "iteratively enumerable"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "iterative",
+        "none of the choices given",
+        "iteratively enumerable"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "Regular expression Φ* is equivalent to _________ .",
@@ -1849,17 +4270,20 @@
         "d. ϵ",
         "c. ϵ",
         "d. Φ",
-        "ϵ"
+        "ϵ",
+        "a. 1",
+        "b. Φ",
+        "c. 0"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 5,
+      "confirmations": 9,
       "firstSeenAt": "2026-10-11T18:36:42Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
     },
@@ -1874,19 +4298,70 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 16,
+      "confirmations": 19,
       "firstSeenAt": "2026-09-23T15:14:23Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "questionType": "multichoice",
       "originType": "exam",
       "originLabel": "Exam"
     },
     {
+      "question": "Right recursion:",
+      "answer": "A → a A",
+      "choices": [
+        "A ← a A",
+        "A → a A",
+        "A ← A a",
+        "A → A a"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "S → aAb, aA →aaAb, A→ε",
+      "answer": "P",
+      "choices": [
+        "P",
+        "S",
+        "a & b",
+        "N",
+        "ε",
+        "S & A"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
       "question": "Set of all tape symbols",
       "answer": "Γ",
       "choices": [
-        "Γ"
+        "Γ",
+        "F",
+        "Q",
+        "M",
+        "∑",
+        "δ",
+        "q0",
+        "∆"
       ],
       "questionType": "shortanswer",
       "wrongAnswers": [
@@ -1896,11 +4371,11 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 6,
       "firstSeenAt": "2026-10-11T18:45:32Z",
       "source": "review_screen",
       "lastEvidenceAt": "2026-10-11T18:49:41Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
     },
@@ -1908,7 +4383,14 @@
       "question": "Set of final or accepting states",
       "answer": "F",
       "choices": [
-        "F"
+        "F",
+        "Γ",
+        "Q",
+        "M",
+        "∑",
+        "δ",
+        "q0",
+        "∆"
       ],
       "questionType": "shortanswer",
       "wrongAnswers": [
@@ -1918,11 +4400,11 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 6,
       "firstSeenAt": "2026-10-11T18:45:32Z",
       "source": "review_screen",
       "lastEvidenceAt": "2026-10-11T18:49:41Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
     },
@@ -1936,13 +4418,57 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 15,
+      "confirmations": 16,
       "firstSeenAt": "2026-09-23T15:14:23Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "questionType": "multichoice",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "Some graphs contain cycles.",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "Start symbol, S ∈ N",
+      "answer": "S",
+      "choices": [
+        "S",
+        "a & b",
+        "N",
+        "P",
+        "ε",
+        "S & A"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "Starting state",
@@ -1963,6 +4489,100 @@
       "lastVerifiedAt": "2026-10-14T00:23:23Z"
     },
     {
+      "question": "T generate recursively enumerable languages. The productions have no restrictions and phase structure grammar including all formal grammars.",
+      "answer": "Type-0 grammars",
+      "choices": [
+        "Type-0 grammars"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "Telegraph uses electricity to convey letters and transmit information quickly.",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "Terminal symbols",
+      "answer": "a & b",
+      "choices": [
+        "a & b",
+        "S",
+        "N",
+        "P",
+        "ε",
+        "S & A"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "The [Dropdown 1: union] of two sets A and B is the set containing those elements which are elements of A or elements of B.",
+      "answer": "union",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "The _____ of two sets A and B is the set containing those elements which are elements of A or elements of B.",
+      "answer": "union",
+      "choices": [
+        "union"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
       "question": "The __________ of a Turing machine depends on the current state of finite control and the tape symbol present in the input tape.",
       "answer": "single move",
       "choices": [
@@ -1977,12 +4597,238 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 7,
+      "confirmations": 10,
       "firstSeenAt": "2026-10-11T18:45:32Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "The algebraic law of regular expression described by φE = φ = Eφ is _______________.",
+      "answer": "Annihilator",
+      "choices": [
+        "Annihilator",
+        "Associative",
+        "Commutative",
+        "Identity"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Associative",
+        "Commutative",
+        "Identity"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "The basic model of a Turing machine consists of _______ and _______ , in which the finite control has finite set of states and the transition between the states.",
+      "answer": "finite control, input tape",
+      "choices": [
+        "finite control, input tape"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "The body of a production in CFG is composed of:",
+      "answer": "a string of terminals and non-terminals",
+      "choices": [
+        "a string of terminals only",
+        "none of the choices given because a CFG production does not have a body",
+        "a string of non-terminals only",
+        "a string of terminals and non-terminals"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "a string of terminals only",
+        "none of the choices given because a CFG production does not have a body",
+        "a string of non-terminals only"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "The cardinality of the union of two disjoint sets is less than the sum of the cardinality of the given sets.",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "The CFG \"S → (S) | SS | ε\" accepts:",
+      "answer": "the string \"((()))(())(())\"",
+      "choices": [
+        "the string \" > >\"",
+        "the string \"(((((((((())))))))))\"",
+        "the string \"((()))(())(())\"",
+        "the string \"{} { {} } [[]]\""
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "the string \" > >\"",
+        "the string \"(((((((((())))))))))\"",
+        "the string \"{} { {} } [[]]\""
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "The commutativity property of set operations states that the union of any set with same set is the set itself.",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "The complement of an infinite language is necessarily finite.",
+      "answer": "FALSE",
+      "choices": [
+        "FALSE",
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "The difference between DFA and NFA",
+      "answer": "DFA can exist in only one state at a given time while NFA can exist in multiple states",
+      "choices": [
+        "DFA is where you get your passport while NFA is where you get your cheap rice",
+        "NFA can exist in only one state at a given time while DFA can exist in multiple states",
+        "DFA can exist in only one state at a given time while NFA can exist in multiple states",
+        "DFA is also an NFA"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "DFA is where you get your passport while NFA is where you get your cheap rice",
+        "NFA can exist in only one state at a given time while DFA can exist in multiple states",
+        "DFA is also an NFA"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "The difference between regular expressions and finite automata is _____________.",
+      "answer": "that regular expressions are more program syntax-like while automata are more machine-like",
+      "choices": [
+        "that automata are more program syntax-like while regular expression are more machine-like",
+        "|regular expression| - |finite automata| = |Turing Machine| because you can only get the difference by computing for their respective lengths",
+        "that regular expressions are more program syntax-like while automata are more machine-like",
+        "{regular expression} - {finite automata} = { } because they are sets and they are equivalent"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "that automata are more program syntax-like while regular expression are more machine-like",
+        "|regular expression| - |finite automata| = |Turing Machine| because you can only get the difference by computing for their respective lengths",
+        "{regular expression} - {finite automata} = { } because they are sets and they are equivalent"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "The empty set is always a subset of any set.",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "The entity which generate Language is termed as regular languages.",
@@ -1997,12 +4843,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 6,
       "firstSeenAt": "2026-10-17T18:03:16Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z"
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "The entity which generate Language is termed as:",
@@ -2027,9 +4873,9 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 12,
+      "confirmations": 17,
       "firstSeenAt": "2026-09-30T10:43:07Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "questionType": "multichoice",
       "originType": "exam",
@@ -2039,15 +4885,16 @@
       "question": "The first counting machine developed 5000 years ago in the Middle East.",
       "answer": "Abacus",
       "choices": [
-        "Abacus"
+        "Abacus",
+        "Verified Answer: Abacus Fill"
       ],
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 16,
+      "confirmations": 18,
       "firstSeenAt": "2026-09-23T15:14:23Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
-      "source": "review_screen",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
+      "source": "moodle_100_percent",
       "questionType": "shortanswer",
       "originType": "exam",
       "originLabel": "Exam"
@@ -2069,9 +4916,9 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 16,
+      "confirmations": 21,
       "firstSeenAt": "2026-09-23T15:14:23Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "questionType": "multichoice",
       "originType": "exam",
@@ -2086,12 +4933,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-17T18:03:16Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z"
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "The following are phases of C++ Programs except __________.",
@@ -2116,9 +4963,9 @@
         "Process"
       ],
       "verified": true,
-      "confirmations": 25,
+      "confirmations": 30,
       "firstSeenAt": "2026-09-16T01:21:50Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
@@ -2144,10 +4991,10 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 12,
       "firstSeenAt": "2026-10-11T18:47:19Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
     },
@@ -2169,10 +5016,10 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 12,
       "firstSeenAt": "2026-10-11T18:47:19Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
     },
@@ -2187,9 +5034,9 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 5,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-30T11:50:33Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "questionType": "multichoice",
       "originType": "exam",
@@ -2206,9 +5053,9 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-30T11:50:33Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "alternateAnswers": [
         {
@@ -2221,6 +5068,31 @@
       "originLabel": "Exam"
     },
     {
+      "question": "The intersection of sets A and B is expressed as _________________.",
+      "answer": "A ∩ B",
+      "choices": [
+        "A - B",
+        "A / B",
+        "A x B",
+        "A ∩ B"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "A - B",
+        "A / B",
+        "A x B"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
       "question": "The language L contains all strings over the alphabet {a,b} that begin with [Dropdown 1: a] and end with [Dropdown 2: b]",
       "answer": "The language L contains all strings over the alphabet {a,b} that begin with [a] and end with [b]",
       "choices": [],
@@ -2229,12 +5101,48 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-11T18:36:42Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "The language L contains all strings over the alphabet {a,b} that begin with and end with",
+      "answer": "a,b",
+      "choices": [
+        "a,b"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "The minimum number of states required to recognize an octal number divisible by 3 are/is.",
+      "answer": "3",
+      "choices": [
+        "3"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "The number of edges attached to a node is called its [____: degree] .",
@@ -2243,13 +5151,29 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 15,
+      "confirmations": 16,
       "firstSeenAt": "2026-09-23T15:14:23Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "questionType": "shortanswer",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "The number of edges attached to a node is called its [____] .",
+      "answer": "degree",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "quiz",
+      "originLabel": "Prelim Quiz 2",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "The number of elements in the set for the Language L={xϵ(∑r) *|length if x is at most 2} and ∑={0,1} is_________",
@@ -2264,19 +5188,62 @@
         "d. 8",
         "a. 5",
         "c. 8",
-        "7"
+        "7",
+        "a. 8",
+        "b. 5",
+        "c. 7",
+        "d. 6"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 5,
+      "confirmations": 10,
       "firstSeenAt": "2026-10-11T18:36:42Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "The PDA has infinite memory and access in _____ order and the finite automata has ____ memory.",
+      "answer": "LIFO, finite",
+      "choices": [
+        "LIFO, finite"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "The power set of a given set does not contain the set itself.",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "The recursive inference procedure determines that string w is in the language of the variable A, A being the starting variable.",
@@ -2289,13 +5256,56 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 11,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-30T10:43:07Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "questionType": "multichoice",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "The relationship between recursive and recursively enumerable languages is ________________.",
+      "answer": "⊂",
+      "choices": [
+        "∈",
+        "⊂",
+        "∉",
+        "⊃"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "∈",
+        "∉",
+        "⊃"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "The stack content",
+      "answer": "s",
+      "choices": [
+        "s"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "The stack contents",
@@ -2305,7 +5315,8 @@
         "u",
         "s",
         "w",
-        "I"
+        "I",
+        "c"
       ],
       "questionType": "shortanswer",
       "wrongAnswers": [
@@ -2314,10 +5325,10 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 13,
+      "confirmations": 18,
       "firstSeenAt": "2026-10-11T18:47:19Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "lastEvidenceAt": "2026-10-14T00:27:30Z",
       "originType": "exam",
       "originLabel": "Exam"
@@ -2332,9 +5343,9 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-30T11:50:33Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "alternateAnswers": [
         {
@@ -2362,10 +5373,10 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 6,
+      "confirmations": 8,
       "firstSeenAt": "2026-10-11T18:38:40Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
     },
@@ -2377,7 +5388,8 @@
         "u",
         "s",
         "w",
-        "I"
+        "I",
+        "c"
       ],
       "questionType": "shortanswer",
       "wrongAnswers": [
@@ -2388,13 +5400,63 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 10,
+      "confirmations": 14,
       "firstSeenAt": "2026-10-11T18:47:19Z",
       "source": "review_screen",
       "lastEvidenceAt": "2026-10-14T00:27:30Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "The string \"0000111\" is accepted by _____________.",
+      "answer": "the CFG S → 0S1 | A, A → 0A | ε",
+      "choices": [
+        "the CFG S → 0S1 | A, A → A1 | ε",
+        "the CFG S → 1S0 | A, A → A0 | ε",
+        "the CFG S → 0S1 | A, A → 0A | ε",
+        "none of the choices"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "the CFG S → 0S1 | A, A → A1 | ε",
+        "the CFG S → 1S0 | A, A → A0 | ε",
+        "none of the choices"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "The symbol used for the empty string is ____________.",
+      "answer": "ε",
+      "choices": [
+        "ε",
+        "φ",
+        "a blank",
+        "ψ"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "φ",
+        "a blank",
+        "ψ"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "The tape head is positioned at one of the tape cells for scanning the input symbol from the input tape and initially the tape head points at the left most cell of the input tape.",
@@ -2409,12 +5471,30 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 8,
+      "confirmations": 11,
       "firstSeenAt": "2026-10-11T18:45:32Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "The theory of formal languages finds its applicability extensively in the fields of Computer Science. gave a mathematical model of grammar in which is effective for writing computer languages.",
+      "answer": "Noam Chomsky, 1956",
+      "choices": [
+        "Noam Chomsky, 1956"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "The top symbol is read and removed.",
@@ -2430,12 +5510,30 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 12,
       "firstSeenAt": "2026-10-11T18:47:19Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "The transition a Push down automaton makes it additionally dependent upon the _____.",
+      "answer": "stack",
+      "choices": [
+        "stack"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "The unconsumed input",
@@ -2452,12 +5550,37 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 12,
       "firstSeenAt": "2026-10-11T18:47:19Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "The union of sets A and B is expressed as?",
+      "answer": "A U B",
+      "choices": [
+        "A U B",
+        "A - B",
+        "A / B",
+        "A x B"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "A - B",
+        "A / B",
+        "A x B"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "There are 5 tuples in finite state machine.",
@@ -2468,9 +5591,9 @@
         "TRUE"
       ],
       "verified": true,
-      "confirmations": 25,
+      "confirmations": 28,
       "firstSeenAt": "2026-09-16T01:21:50Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
@@ -2482,7 +5605,14 @@
       "question": "Transition function",
       "answer": "δ",
       "choices": [
-        "δ"
+        "δ",
+        "Γ",
+        "F",
+        "Q",
+        "M",
+        "∑",
+        "q0",
+        "∆"
       ],
       "questionType": "shortanswer",
       "wrongAnswers": [
@@ -2491,11 +5621,11 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 5,
+      "confirmations": 7,
       "firstSeenAt": "2026-10-11T18:45:32Z",
       "source": "review_screen",
       "lastEvidenceAt": "2026-10-11T18:45:32Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
     },
@@ -2512,10 +5642,10 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 8,
+      "confirmations": 11,
       "firstSeenAt": "2026-10-11T18:45:32Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
     },
@@ -2529,9 +5659,9 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-30T11:50:33Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "alternateAnswers": [
         {
@@ -2547,7 +5677,11 @@
       "question": "Unconsumed input",
       "answer": "w",
       "choices": [
-        "w"
+        "w",
+        "i",
+        "s",
+        "c",
+        "q"
       ],
       "questionType": "shortanswer",
       "wrongAnswers": [
@@ -2556,13 +5690,331 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 6,
+      "confirmations": 9,
       "firstSeenAt": "2026-10-11T18:47:19Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "lastEvidenceAt": "2026-10-11T18:53:27Z",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "What are strings?",
+      "answer": "A string is a finite sequence of symbols chosen from Σ",
+      "choices": [
+        "A string is an infinite area of symbols chosen from Σ",
+        "A string is a finite sequence of symbols chosen from Σ",
+        "A string is a finite area of symbols chosen from Σ",
+        "A string is an infinite sequence of symbols chosen from Σ"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "A string is an infinite area of symbols chosen from Σ",
+        "A string is a finite area of symbols chosen from Σ",
+        "A string is an infinite sequence of symbols chosen from Σ"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "What can be said about CFLs?",
+      "answer": "It is closed under •",
+      "choices": [
+        "It is closed under ~",
+        "It is closed under ∩",
+        "All of the given choices",
+        "It is closed under •"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "It is closed under ~",
+        "It is closed under ∩",
+        "All of the given choices"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "What can be said about undecidable problems?",
+      "answer": "They are not recursive",
+      "choices": [
+        "They are definitely recursive",
+        "They are surely iterative",
+        "They are not recursive",
+        "They are not iterative"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "They are definitely recursive",
+        "They are surely iterative",
+        "They are not iterative"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "What can not be said about CFLs?",
+      "answer": "It is closed under —",
+      "choices": [
+        "It is closed under ~",
+        "It is closed under —",
+        "All of the given choices",
+        "It is closed under ∩"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "It is closed under ~",
+        "All of the given choices",
+        "It is closed under ∩"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "What cannot be said about automata theory?",
+      "answer": "None of the choices",
+      "choices": [
+        "None of the choices",
+        "Automata theory is the study of abstract computing devices or machines",
+        "Automata theory is used to find out if a problem is computable",
+        "Automata theory answers the fundamental questions in computer science"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Automata theory is the study of abstract computing devices or machines",
+        "Automata theory is used to find out if a problem is computable",
+        "Automata theory answers the fundamental questions in computer science"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "What concept did Alan Turing introduce?",
+      "answer": "The concept of decidability",
+      "choices": [
+        "The concept of programs and programmabilities of problems",
+        "The concept of decidability",
+        "The concept of functions and relations",
+        "The concept of undecidability"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "The concept of programs and programmabilities of problems",
+        "The concept of functions and relations",
+        "The concept of undecidability"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "What is a grammar?",
+      "answer": "A device that enumerates the sentences of a language",
+      "choices": [
+        "How a sentence should be constructed to avoid syntax error",
+        "\"Them cowboys is dumb!\" is an example of a wrong grammar",
+        "\"We ain't gonna make mistakes\" is an example of correct grammar",
+        "A device that enumerates the sentences of a language"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "How a sentence should be constructed to avoid syntax error",
+        "\"Them cowboys is dumb!\" is an example of a wrong grammar",
+        "\"We ain't gonna make mistakes\" is an example of correct grammar"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "What is a language?",
+      "answer": "A collection of finite-length sentences that were constructed from a finite set of symbols",
+      "choices": [
+        "A way to communicate with other humans",
+        "A collection of finite-length sentences that were constructed from a finite set of symbols",
+        "A code that you use when writing a computer program",
+        "English, Filipino and Valyrian are examples of a language"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "A way to communicate with other humans",
+        "A code that you use when writing a computer program",
+        "English, Filipino and Valyrian are examples of a language"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "What is a Universal TM?",
+      "answer": "a TM that stimulates another TM",
+      "choices": [
+        "a TM that stimulates another TM",
+        "A TM that can solve all problems",
+        "A TM that can solve all undecidable problems",
+        "a Universal TM does not exist"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "A TM that can solve all problems",
+        "A TM that can solve all undecidable problems",
+        "a Universal TM does not exist"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "What is an undecidable problem?",
+      "answer": "When a TM cannot make a decision on an instance of the problem",
+      "choices": [
+        "When a TM cannot make a decision on an instance of the problem",
+        "When a CFG cannot make a decision on an instance of the problem",
+        "When a PDA cannot make a decision on an instance of the problem",
+        "When a RE cannot make a decision on an instance of the problem"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "When a CFG cannot make a decision on an instance of the problem",
+        "When a PDA cannot make a decision on an instance of the problem",
+        "When a RE cannot make a decision on an instance of the problem"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "What is an ε-NFA?",
+      "answer": "It is an NFA with at least one explicit ε-transition defined",
+      "choices": [
+        "It is a DFA where all transitions are ε-transitions",
+        "It is an NFA where all transitions are ε-transitions",
+        "It is a DFA with at least one explicit ε-transition defined",
+        "It is an NFA with at least one explicit ε-transition defined"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "It is a DFA where all transitions are ε-transitions",
+        "It is an NFA where all transitions are ε-transitions",
+        "It is a DFA with at least one explicit ε-transition defined"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "What is automata theory?",
+      "answer": "All of the choices",
+      "choices": [
+        "To answer the fundamental questions in computer science",
+        "All of the choices",
+        "To find out if a problem is computable",
+        "Study of abstract computing devices or machines"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "To answer the fundamental questions in computer science",
+        "To find out if a problem is computable",
+        "Study of abstract computing devices or machines"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "What is the final result after converting the following NFA-ε to NFA without Null move.",
+      "answer": "What is the final result after converting the following NFA-ε to NFA without Null move.",
+      "choices": [
+        "What is the final result after converting the following NFA-ε to NFA without Null move."
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "What is the final result after converting the following NFA-ε to NFA without Null move. [Image: [moodle-asset:39741/ndfa%20question.PNG]]",
@@ -2574,7 +6026,9 @@
         "a. [Image: [moodle-asset:105496/final%20ndfa.PNG]]",
         "b. [Image: [moodle-asset:105498/ndfa%20step%202.PNG]]",
         "c. [Image: [moodle-asset:105497/ndfa%20step%203.PNG]]",
-        "c. [Image: [moodle-asset:105496/final%20ndfa.PNG]]"
+        "c. [Image: [moodle-asset:105496/final%20ndfa.PNG]]",
+        "a. [Image: [moodle-asset:105498/ndfa%20step%202.PNG]]",
+        "b. [Image: [moodle-asset:105497/ndfa%20step%203.PNG]]"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [
@@ -2584,12 +6038,61 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 7,
       "firstSeenAt": "2026-10-11T18:36:42Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "What is the final result after converting the following NFA-ε to NFA without Null move. [Image: [moodle-asset:49686/ndfa%20question.PNG]]",
+      "answer": "[Image: [moodle-asset:84759/final%20ndfa.PNG]]",
+      "choices": [
+        "a. [Image: [moodle-asset:84761/ndfa%20step%202.PNG]]",
+        "b. [Image: [moodle-asset:84759/final%20ndfa.PNG]]",
+        "c. [Image: [moodle-asset:84760/ndfa%20step%203.PNG]]",
+        "a. [Image: [moodle-asset:84759/final%20ndfa.PNG]]",
+        "b. [Image: [moodle-asset:84761/ndfa%20step%202.PNG]]"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "[Image: [moodle-asset:84761/ndfa%20step%202.PNG]]"
+      ],
+      "wrongAnswerEvidence": true,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "What kind of languages does a TM decide?",
+      "answer": "recursively enumerable",
+      "choices": [
+        "regular expression",
+        "context-sensitive",
+        "recursively enumerable",
+        "context-free"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "regular expression",
+        "context-sensitive",
+        "context-free"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "Which among the following cannot be accepted by a regular grammar?",
@@ -2606,23 +6109,29 @@
         "a. L is a set of binary complement",
         "b. L is a set of string with odd number of 0",
         "c. L is a set of 0ⁿ1ⁿ",
-        "L is a set of 0n1n"
+        "L is a set of 0n1n",
+        "d. L is a set of 0ⁿ1ⁿ",
+        "b. L is a set of binary complement"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 7,
+      "confirmations": 10,
       "firstSeenAt": "2026-10-11T18:45:32Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam",
       "conflictHistory": [
         {
           "rejectedAnswer": "L is a set of 0n1n",
           "timestamp": "2026-11-26T04:23:54Z"
+        },
+        {
+          "rejectedAnswer": "L is a set of 0n1n",
+          "timestamp": "2026-11-27T04:26:32Z"
         }
       ]
     },
@@ -2642,25 +6151,144 @@
         "a. Production",
         "c. Production",
         "d. End symbol",
-        "End SymbolCorre"
+        "End SymbolCorre",
+        "a. End symbol",
+        "b. Start symbol",
+        "c. Variable",
+        "d. Variable"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 7,
+      "confirmations": 11,
       "firstSeenAt": "2026-10-11T18:45:32Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "originType": "exam",
       "originLabel": "Exam",
       "conflictHistory": [
         {
           "rejectedAnswer": "End SymbolCorre",
           "timestamp": "2026-11-26T04:23:54Z"
+        },
+        {
+          "rejectedAnswer": "End SymbolCorre",
+          "timestamp": "2026-11-27T04:26:32Z"
         }
       ]
+    },
+    {
+      "question": "Which among the following is the correct option for the given grammar? G->X111|G1,X->X0|00.",
+      "answer": "{0a1b|a=2,b=3}",
+      "choices": [
+        "{0a1b|a=2,b=3}",
+        "a. {0ᵃ1ᵇ|a=1,b=5}",
+        "b. {0ᵃ1ᵇ|a=2,b=3}",
+        "c. {0ᵃ1ᵇ|a=b}",
+        "d. More than one of the mentioned is correct"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
+      "conflictHistory": [
+        {
+          "rejectedAnswer": "{0ᵃ1ᵇ|a=2,b=3}",
+          "timestamp": "2026-11-27T04:26:32Z"
+        }
+      ]
+    },
+    {
+      "question": "Which among the following is the option for the given grammar? G->X111|G1,X->X0|00",
+      "answer": "{0a1b|a=2,b=3}",
+      "choices": [
+        "{0a1b|a=2,b=3}"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "Which of the following is a not a part of 5-tuple finite automata?",
+      "answer": "Output Alphabet",
+      "choices": [
+        "Output Alphabet"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "Which of the following Set Operations produces the set that contains everything that is in Set A and in Set B?",
+      "answer": "Union",
+      "choices": [
+        "Complement",
+        "Union",
+        "Intersection",
+        "Set Difference"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Complement",
+        "Intersection",
+        "Set Difference"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "Which of the following statement is false in context of tree terminology?",
+      "answer": "Root with no children is called a leaf",
+      "choices": [
+        "Root with no children is called a leaf",
+        "a. Root has no parent",
+        "b. A node can have three children",
+        "c. Root with no children is called a leaf",
+        "d. Trees are collection of nodes, with a parent child relationship"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "Which of the following statement is false?",
@@ -2686,13 +6314,120 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 16,
+      "confirmations": 18,
       "firstSeenAt": "2026-09-30T10:43:07Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "questionType": "multichoice",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "Which of the following statements are correct for a concept called inherent ambiguity in CFL?",
+      "answer": "Every CFG for L is ambiguous",
+      "choices": [
+        "Every CFG for L is ambiguous",
+        "a. Every CFG for L is ambiguous",
+        "b. Every CFG is also non-regular",
+        "c. Every CFG is also regular",
+        "d. Every CFG for L is unambiguous"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "Which of the following statements are for a concept called inherent ambiguity in CFL?",
+      "answer": "Every CFG for L is ambiguous",
+      "choices": [
+        "Every CFG for L is ambiguous"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "Which of the following statements is true about NPDA, DPDA, and RL?",
+      "answer": "RL ⊂ DPDA ⊂ NPDA",
+      "choices": [
+        "RL • DPDA • NPDA",
+        "RL* • DPDA* • NPDA*",
+        "RL ⊃ DPDA ⊃ NPDA",
+        "RL ⊂ DPDA ⊂ NPDA"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "RL • DPDA • NPDA",
+        "RL* • DPDA* • NPDA*",
+        "RL ⊃ DPDA ⊃ NPDA"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "Which of the following ways can be done to simplify a CFG?",
+      "answer": "Eliminate productions of the form A → B",
+      "choices": [
+        "Eliminate symbols that are not useful",
+        "Eliminate the ε symbol",
+        "Eliminate productions of the form A → B",
+        "Eliminate productions of the form A → b"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Eliminate symbols that are not useful",
+        "Eliminate the ε symbol"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "Which of the following will not be accepted by the following DFA?",
+      "answer": "ababaabaa",
+      "choices": [
+        "ababaabaa"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "Which one is a computer system?",
@@ -2704,15 +6439,33 @@
         "d. [Image: [moodle-asset:105591/washing%20machine.PNG]]"
       ],
       "verified": true,
-      "confirmations": 24,
+      "confirmations": 25,
       "firstSeenAt": "2026-09-16T01:21:50Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
       "questionType": "multichoice",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "Which one is the answer?",
+      "answer": "Computer",
+      "choices": [
+        "Computer"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "Who is the father of modern computer science?",
@@ -2724,10 +6477,10 @@
         "Bill Gates"
       ],
       "verified": true,
-      "confirmations": 18,
+      "confirmations": 19,
       "firstSeenAt": "2026-09-16T01:21:50Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
-      "source": "review_screen",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
+      "source": "community_contribution",
       "wrongAnswers": [
         "Charles Babbage",
         "Noam Chomsky",
@@ -2745,20 +6498,22 @@
       "question": "Who is the father of modern computer?",
       "answer": "Charles Babbage",
       "choices": [
-        "Charles Babbage"
+        "Charles Babbage",
+        "Verified Answer: Charles Babbage Fill"
       ],
       "wrongAnswers": [
         "Alan Turing"
       ],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-30T10:00:58Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
-      "source": "review_screen",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
+      "source": "moodle_100_percent",
       "questionType": "shortanswer",
       "originType": "exam",
-      "originLabel": "Exam"
+      "originLabel": "Exam",
+      "wrongAnswerEvidence": true
     },
     {
       "question": "Z2 uses electricity to convey letters and transmit information quickly in 1844.",
@@ -2769,9 +6524,9 @@
         "TRUE"
       ],
       "verified": true,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-09-16T01:21:50Z",
-      "lastVerifiedAt": "2026-11-26T04:23:54Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [
         "True"
@@ -2870,7 +6625,131 @@
       "isAiSuggestion": false,
       "wrongAnswerEvidence": true,
       "originType": "exam",
-      "originLabel": "Exam"
+      "originLabel": "Exam",
+      "conflictHistory": [
+        {
+          "rejectedAnswer": "False",
+          "timestamp": "2026-11-27T04:26:32Z"
+        }
+      ]
+    },
+    {
+      "question": "{Q, Σ, q0, F, δ, Q × Σ → Q} is…",
+      "answer": "There is no such tuple",
+      "choices": [
+        "An NFA",
+        "Either DFA or NFA",
+        "There is no such tuple",
+        "A DFA"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "An NFA",
+        "Either DFA or NFA",
+        "A DFA"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "|-* is the _____ closure of |-",
+      "answer": "transitive and reflexive",
+      "choices": [
+        "transitive and reflexive"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "“C if H” is also the same as saying _______.",
+      "answer": "“If H then ”",
+      "choices": [
+        "“If H then ”",
+        "“If C then H”",
+        "“If H then C else {}”",
+        "“If H then C else do nothing”"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "“If C then H”",
+        "“If H then C else {}”",
+        "“If H then C else do nothing”"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "“If H then ” is also the same as saying _______.",
+      "answer": "“C if H”",
+      "choices": [
+        "“If H then C else do nothing”",
+        "“If C then H”",
+        "“If H then C else {}”",
+        "“C if H”"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "“If H then C else do nothing”",
+        "“If C then H”",
+        "“If H then C else {}”"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "“Whenever H holds, C follows” can also be said as _______.",
+      "answer": "H → C",
+      "choices": [
+        "H → ε and ε → C",
+        "H → C",
+        "C → H",
+        "ε → H and C → ε"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "H → ε and ε → C",
+        "C → H",
+        "ε → H and C → ε"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-26T04:23:54Z",
+      "source": "amauoed",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     }
   ]
 }

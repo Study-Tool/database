@@ -1,10 +1,35 @@
 {
   "subjectCode": "IT6201B",
   "subjectName": "Data Structures and Algorithm Analysis",
-  "updatedAt": "2026-10-15T22:34:40Z",
-  "totalQuestions": 114,
+  "updatedAt": "2026-11-27T04:26:33Z",
+  "totalQuestions": 116,
   "tier": "verified",
   "questions": [
+    {
+      "question": "\"The elements are removal from a stack in _________ order. \"",
+      "answer": "Reverse",
+      "choices": [
+        "Reverse",
+        "Hierarchical",
+        "Alternative",
+        "Sequential"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Hierarchical",
+        "Alternative",
+        "Sequential"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
     {
       "question": "A [____: loopback] address is defined as a reserved address that routes packets back to the host",
       "answer": "loopback",
@@ -14,10 +39,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-14T01:54:21Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-15T22:22:49Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "A [____: Scalable] network is able to expand to accept new devices and applications without affecting performance.",
@@ -28,10 +55,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:49:46Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "A collision fragment, also known as a [____: runt] frame, is a frame of fewer than 64 bytes in length.",
@@ -42,10 +71,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T01:57:00Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T10:11:43Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "A data center has recently updated a physical server to host multiple operating systems on a single CPU. The data center can now provide each customer with a separate web server without having to allocate an actual discrete server for each customer. What is the network trend that is being implemented by the data center in this situation?",
@@ -65,10 +96,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:49:46Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "A network administer has forgotten the argument of an IOS command. How would the administrator get help from the IOS CLI to complete the command correctly?",
@@ -90,10 +123,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:49:46Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "A network administrator notices that the default gateway devices sends an ICMP Redirect message to the workstation when the workstation tries to connect to file server on another network. What is the purpose for this ICMP message?",
@@ -114,10 +149,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-14T02:08:50Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-15T22:28:34Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "A technician configures a switch with these commands:SwitchA(config)# interface vlan 1 SwitchA(config-if)#ip address 192.168.1.1 255.255.255.0 SwitchA(config-if)# no shutdown What is the technician configuring?",
@@ -135,10 +172,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:49:46Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "A user is unable to access the company server from a computer. On issuing the ipconfig command, the user finds that the IP address of the computer is displayed as 169.254.0.2. What type of address is this?",
@@ -158,10 +197,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-14T02:08:50Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-15T22:28:34Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "An [____: intranet] is a private connection of LANs and WANs that belongs to an organization, and is designed to be accessible only by the members and employees of the organization, or others with authorization.",
@@ -172,10 +213,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:49:46Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "An administrator has just changed the IP address of an interface on an IOS device. What else must be done in order to apply those changes to the device?",
@@ -194,10 +237,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:49:46Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "During a routine inspection, a technician discovered that software that was installed on a computer was secretly collecting data about websites that were visited by users of the computer. Which type of threat is affecting this computer?",
@@ -217,10 +262,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:49:46Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "During the boot process, in what memory location will the router bootstrap program look for the IOS image if a TFTP server is not used?",
@@ -239,10 +286,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T01:57:00Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T10:11:43Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "During troubleshooting procedures, from which location will most Cisco routers load a limited IOS",
@@ -260,10 +309,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T01:57:00Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T10:11:43Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "For which three reasons was a packet switched connectionless data communications technology used when developing the Internet (Choose three.)",
@@ -280,10 +331,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-13T22:58:20Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Frame flooding can occur in which circumstance?",
@@ -299,12 +352,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-15T22:34:40Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-15T22:34:40Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
     },
     {
       "question": "How does the network layer use the MTU value?",
@@ -324,10 +377,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T01:57:00Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T10:11:43Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "How is the Cisco IOS generally accessed and navigated?",
@@ -345,10 +400,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:49:46Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "In fiber optic meda, the signals are represented as patterns of [____: light] .",
@@ -359,10 +416,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-14T01:54:21Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-15T22:22:49Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "In which scenario would the use of a WISP be recommended",
@@ -388,10 +447,10 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:49:46Z",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
       "alternateAnswers": [
         {
           "answer": "a farm in a rural area without wired broadband access",
@@ -401,7 +460,9 @@
           "answer": "a farm in a rural area without wired broadband access",
           "timestamp": "2026-10-14T01:49:46Z"
         }
-      ]
+      ],
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "On Ethernet networks, the hexadecimal address FF-FF-FF-FF-FF-FF represent the [____: broadcast] MAC address.",
@@ -412,10 +473,37 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T01:57:00Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T10:11:43Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
+    },
+    {
+      "question": "State True or False for internal sorting algorithms. i. Internal sorting are applied when the entire collection if data to be sorted is small enough that the sorting can take place within main memory. ii. The time required to read or write is considered significant in evaluating the performance of internal sorting.",
+      "answer": "True, False",
+      "choices": [
+        "True, False",
+        "True, True",
+        "False, True",
+        "False, False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True, True",
+        "False, True",
+        "False, False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
     },
     {
       "question": "The 8-bit binary value for 41 is [____: 00101001]",
@@ -426,10 +514,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T02:08:50Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T10:13:34Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "The farther you are from the central office when utilizing a DSL connection, the [____: slower] the connection speed",
@@ -440,10 +530,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:49:46Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "The last host address on the 10.15.25.0/24 network is [____: 10.15.25.254]",
@@ -454,10 +546,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-14T02:08:50Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-15T22:28:34Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "The shortest compressed format of the IPv6 address 2001: 0DB8:0000:1470:0000:0000:0000:0200 is [____: 2001:DB8:0:1470::200]",
@@ -468,10 +562,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-14T02:08:50Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-15T22:28:34Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "To save time, IOS commands may be partially entered and then completed by typing which key or key combination?",
@@ -494,10 +590,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:49:46Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "What are the primary requirements of information security? (Choose three.)",
@@ -518,16 +616,18 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-13T22:58:20Z",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
       "alternateAnswers": [
         {
           "answer": "Availability, Confidentiality, Integrity",
           "timestamp": "2026-10-14T01:49:46Z"
         }
-      ]
+      ],
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "What are two functions that are provided by the network layer? (Choose two.)",
@@ -547,10 +647,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T01:57:00Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T10:11:43Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "What command will display a list of keywords available for viewing the status of an IOS switch?",
@@ -570,10 +672,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:49:46Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "What command will prevent all unencrypted passwords from displaying in plain text in a configuration file?",
@@ -599,10 +703,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-14T01:54:21Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-15T22:22:49Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "What happens if part of an FTP message is not delivered to the destination?",
@@ -622,10 +728,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T01:57:00Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T10:11:43Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "What happens to frames that are too long or too short for the channel used?",
@@ -646,10 +754,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T01:54:21Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T10:06:07Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "What happens when two devices on the same subnet are communicating?",
@@ -671,10 +781,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-14T01:54:21Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-15T22:22:49Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "What is a converged network?",
@@ -693,10 +805,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:49:46Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "What is a fault-tolerant network?",
@@ -715,10 +829,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:49:46Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "What is a group of web pages that groups of individuals can edit and view together called?",
@@ -742,10 +858,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:49:46Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "What is a wiki?",
@@ -761,10 +879,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:49:46Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "What is an advantage of UDP over TCP?",
@@ -783,10 +903,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T01:57:00Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T10:11:43Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "What is an advantage of using standards to develop and implement protocols?",
@@ -808,10 +930,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-14T01:54:21Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-15T22:22:49Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "What is and advantage of using standards to develop and implement protocols?",
@@ -831,10 +955,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T01:54:21Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T10:06:07Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "What is encrypted with the enable secret command?",
@@ -850,10 +976,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:49:46Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "What is initially entered at the CLI of the Cisco IOS when typing a command sequence?",
@@ -871,10 +999,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:49:46Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "What is the Cisco IOS?",
@@ -893,10 +1023,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:49:46Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "What is the command netstat –r used for?",
@@ -914,10 +1046,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T01:57:00Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T10:11:43Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "what is the easiest way to verify the Layer 3 path from a router to host 192.168.2.1?",
@@ -933,12 +1067,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-15T22:34:40Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-15T22:34:40Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
     },
     {
       "question": "What is the minimum size of an Ethernet frame?",
@@ -954,12 +1088,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-15T22:34:40Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-15T22:34:40Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
     },
     {
       "question": "What is the name given to a one-to-many message delivery option?",
@@ -977,10 +1111,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T01:54:21Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T10:06:07Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "What is the primary defense against unauthorized remote access to network devices?",
@@ -998,10 +1134,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:49:46Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "What is the purpose of protocols in data communications?",
@@ -1024,10 +1162,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-14T01:54:21Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-15T22:22:49Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "What is the purpose of using a source port number in a TCP communication?",
@@ -1048,10 +1188,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-14T02:08:50Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-15T22:28:34Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "What is the transport layer PDU?",
@@ -1072,10 +1214,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T01:54:21Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T10:06:07Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "What name is given to a group of interrelated protocols necessary to perform a communication function?",
@@ -1094,10 +1238,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T01:54:21Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T10:06:07Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "What organization is responsible for the overall management and development of Internet standards?",
@@ -1118,10 +1264,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T01:54:21Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T10:06:07Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "What three functions are defined by network protocols to allow communication between known source and destination IP addresses? (Choose three.)",
@@ -1148,10 +1296,10 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-14T01:54:21Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:54:21Z",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
       "alternateAnswers": [
         {
           "answer": "message size, delivery options, data encoding",
@@ -1161,7 +1309,9 @@
           "answer": "delivery options, data encoding, message size",
           "timestamp": "2026-10-15T22:22:49Z"
         }
-      ]
+      ],
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "What type of connection to a Cisco IOS switch is used to make the initial configuration?",
@@ -1182,10 +1332,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:49:46Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "What type of delivery uses data link layer addresses?",
@@ -1201,12 +1353,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-15T22:22:49Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-15T22:22:49Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
     },
     {
       "question": "What type of information would be found on a logical topology diagram?",
@@ -1224,10 +1376,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:49:46Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "What type of protocol describes communication over a data link and the physical transmission of data on the network media?",
@@ -1246,10 +1400,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T01:54:21Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T10:06:07Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "What will a network administrator use to modify a configuration on a Cisco router?",
@@ -1274,10 +1430,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-14T01:54:21Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-15T22:22:49Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "When a client connects to an HTTP server by the use of a randomly generated source port number, what destination port number will the HTTP server use when building a response?",
@@ -1297,10 +1455,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T01:57:00Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T10:11:43Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "When the command “Switch(config)# hostname EaSt2+56” is entered in a Cisco IOS device using the CLI, what will be returned in the CLI?",
@@ -1323,10 +1483,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:49:46Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "When transporting data from real-time applications, such as streaming audio and video, which field in the IPv6 header can be used to inform the routers and switches to maintain the same path for the packets in the same conversation?",
@@ -1346,10 +1508,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T01:57:00Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T10:11:43Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Where is the configuration used during startup on Cisco IOS devices located?",
@@ -1368,10 +1532,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:49:46Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which action is performed by a client when establishing communication with a server via the use of UDP at the transport layer?",
@@ -1390,10 +1556,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T01:57:00Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T10:11:43Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which adverse circumstance can occur when you connect when you connect full-duplex devices to a shared Ethernet hub?",
@@ -1409,12 +1577,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-15T22:34:40Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-15T22:34:40Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
     },
     {
       "question": "Which application layer protocol allows users on one network to reliably transfer files to and from a host on another network?",
@@ -1435,10 +1603,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T01:54:21Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T10:06:07Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which application use UDP as the transport layer protocol?",
@@ -1461,10 +1631,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-14T02:08:50Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-15T22:28:34Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "which commands should you enter to prevent a Cisco device from Sharing information with upstream device?",
@@ -1481,12 +1653,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-15T22:34:40Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-15T22:34:40Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
     },
     {
       "question": "Which destination address is used in an ARP request frame?",
@@ -1506,10 +1678,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T01:57:00Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T10:11:43Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which device acts as gateway to allow hosts to send traffic to remote IP networks?",
@@ -1528,10 +1702,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:49:46Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which devices would be considered end devices on a network? (Choose four.)",
@@ -1553,16 +1729,18 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-13T22:58:20Z",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
       "alternateAnswers": [
         {
           "answer": "Tablet computer, Printer, Server, IP phone",
           "timestamp": "2026-10-14T01:49:46Z"
         }
-      ]
+      ],
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which entities are involve in a temporary communication that is established by the transport layer?",
@@ -1584,10 +1762,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T01:57:00Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T10:11:43Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which feature on a Cisco router permits the forwarding of traffic for which there is no specific route?",
@@ -1605,10 +1785,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T01:57:00Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T10:11:43Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "which IP address can send traffic to all hosts on network 10.101.0.0/16?",
@@ -1624,12 +1806,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-15T22:34:40Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-15T22:34:40Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
     },
     {
       "question": "Which is a function of the Logical Link Control (LLC) sublayer?",
@@ -1652,10 +1834,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-14T01:54:21Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-15T22:22:49Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which logical address is used for delivery of data to a remote network?",
@@ -1680,10 +1864,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-14T01:54:21Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-15T22:22:49Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which message delivery option is used when all devices need to receive the same message simultaneously?",
@@ -1701,10 +1887,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-14T01:54:21Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-15T22:22:49Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which message timing factor impacts how much information can be sent and the speed at which it can be delivered?",
@@ -1724,10 +1912,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T01:54:21Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T10:06:07Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which number or set of numbers represents a socket?",
@@ -1747,10 +1937,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-14T02:08:50Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-15T22:28:34Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which of the following are business-class Internet connection technologies normally supplied by a service provider? (Choose two.)",
@@ -1767,10 +1959,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-14T01:49:46Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:49:46Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which of the following are disadvantages of peer-to-peer networking? (Choose two.)",
@@ -1786,10 +1980,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-14T01:49:46Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:49:46Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which of the following are examples of proprietary protocols? (Choose two.)",
@@ -1807,16 +2003,18 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-14T01:54:21Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:54:21Z",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
       "alternateAnswers": [
         {
           "answer": "AppleTalk, Novell NetWare",
           "timestamp": "2026-10-14T10:06:07Z"
         }
-      ]
+      ],
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which of the following elements do both human and computer communication systems have in common? (Choose three.)",
@@ -1838,16 +2036,18 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-14T01:54:21Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:54:21Z",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
       "alternateAnswers": [
         {
           "answer": "Receiver, Channel, Source",
           "timestamp": "2026-10-14T10:06:07Z"
         }
-      ]
+      ],
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which of the following OSI model layers have the same functionality as the network access layer in the TCP/IP model? (Choose two.)",
@@ -1872,10 +2072,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T01:54:21Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T10:06:07Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which of the following TCP/IP protocols exist at the transport layer of the TCP/IP reference model? (Choose two.)",
@@ -1895,10 +2097,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T01:54:21Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T10:06:07Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which organization develops the 802 family of standard for wired and wireless LANs and MANs?",
@@ -1925,10 +2129,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-14T01:54:21Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-15T22:22:49Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which organization is responsible for developing communications standards for Voice over IP (VoIP) devices?",
@@ -1947,10 +2153,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T01:54:21Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T10:06:07Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which organization is responsible for the standard that defines Media Access Control for wired Ethernet?",
@@ -1971,10 +2179,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T01:54:21Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T10:06:07Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which OSI reference model layer is responsible for common representation of the data transferred between application layer services?",
@@ -1997,10 +2207,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T01:54:21Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T10:06:07Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which pieces of information about a Cisco device can Cisco Discovery Protocol communicate?",
@@ -2017,12 +2229,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-15T22:34:40Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-15T22:34:40Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
     },
     {
       "question": "Which statement accurately describes public IP addresses?",
@@ -2047,10 +2259,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-14T02:08:50Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-15T22:28:34Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which statement describes a feature of an IOS host name configuration?",
@@ -2070,10 +2284,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:49:46Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which statement describes a network that supports QoS?",
@@ -2093,10 +2309,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:49:46Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which statement is correct about network protocols?",
@@ -2118,10 +2336,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-14T01:54:21Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-15T22:22:49Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which statement is true about an interface that is configured with the IPv6 address command?",
@@ -2143,10 +2363,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-14T02:08:50Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-15T22:28:34Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which statements about exterior routing protocols are true?",
@@ -2163,12 +2385,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-15T22:34:40Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-15T22:34:40Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
     },
     {
       "question": "Which statements about NTP operations are true?",
@@ -2185,12 +2407,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-15T22:34:40Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-15T22:34:40Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
     },
     {
       "question": "Which statements about UTP cables are true?",
@@ -2207,12 +2429,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-15T22:34:40Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-10-15T22:34:40Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
     },
     {
       "question": "Which TCP/IP model layer is responsible for providing the best path through the network?",
@@ -2231,10 +2453,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T01:54:21Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T10:06:07Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which technology would be best to provide a home user with a highspeed, always-on Internet connection?",
@@ -2252,10 +2476,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:49:46Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which term defines the processing capabilities of a switch by rating how much data can be processed per second?",
@@ -2274,10 +2500,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T01:57:00Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T10:11:43Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which three fields are used in a UDP segment header? (Choose three.)",
@@ -2299,16 +2527,18 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-14T01:57:00Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:57:00Z",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
       "alternateAnswers": [
         {
           "answer": "Length, Checksum, Source Port",
           "timestamp": "2026-10-14T10:11:43Z"
         }
-      ]
+      ],
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which two components are added to the PDU at the network access layer? (Choose two.)",
@@ -2333,16 +2563,18 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T01:54:21Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-15T22:22:49Z",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
       "alternateAnswers": [
         {
           "answer": "frame header, Trailer",
           "timestamp": "2026-10-14T10:06:07Z"
         }
-      ]
+      ],
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which two factors influence the method that is used for media access control? (Choose two.)",
@@ -2365,16 +2597,18 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T01:54:21Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-15T22:22:49Z",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
       "alternateAnswers": [
         {
           "answer": "how nodes share the media, how connection between nodes appears to the data link layer",
           "timestamp": "2026-10-14T10:06:07Z"
         }
-      ]
+      ],
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which two files are loaded into RAM by the router when it boots? (Choose two.)",
@@ -2396,16 +2630,18 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-14T01:57:00Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:57:00Z",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
       "alternateAnswers": [
         {
           "answer": "IOS image, startup configuration",
           "timestamp": "2026-10-14T10:11:43Z"
         }
-      ]
+      ],
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which two functions or operations are performed by the MAC sublayer? (Choose two.)",
@@ -2422,10 +2658,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-14T01:57:00Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:57:00Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which two message timing mechanisms are used in data communication? (Choose two.)",
@@ -2450,10 +2688,10 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-14T01:54:21Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:54:21Z",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
       "alternateAnswers": [
         {
           "answer": "response timeout, flow control",
@@ -2463,7 +2701,9 @@
           "answer": "response timeout, flow control",
           "timestamp": "2026-10-15T22:22:49Z"
         }
-      ]
+      ],
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which two statements are true of the deterministic access method?(Choose two.)",
@@ -2484,16 +2724,18 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-14T10:06:07Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T10:06:07Z",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
       "alternateAnswers": [
         {
           "answer": "Devices take turns transmitting, The throughput is predictable",
           "timestamp": "2026-10-15T22:22:49Z"
         }
-      ]
+      ],
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which two statements are true regarding the user EXEC mode? (Choose two.)",
@@ -2516,16 +2758,18 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T01:54:21Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T10:06:07Z",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
       "conflictHistory": [
         {
           "rejectedAnswer": "Only some aspects of the router configuration can be viewed, This is the default mode on an unconfigured router when first powered up.",
           "timestamp": "2026-10-15T22:22:49Z"
         }
-      ]
+      ],
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which type of network design combines voice, video, and data on the same communication channel?",
@@ -2544,10 +2788,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:49:46Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which type of traffic must receive the highest priority from QoS?",
@@ -2567,10 +2813,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:49:46Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Which value, that is contained in an IPv4 header field, is decremented by each router that receives a packet?",
@@ -2588,10 +2836,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T01:57:00Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T10:11:43Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Why would a network administrator use the CLI of the Cisco IOS?",
@@ -2609,10 +2859,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:49:46Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Why would a technician enter the command copy startup-config running config?",
@@ -2630,10 +2882,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T01:49:46Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     },
     {
       "question": "Within a production network, what is the purpose of configuring a switch with a default gateway address?",
@@ -2651,10 +2905,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T01:57:00Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-14T10:11:43Z"
+      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "originType": "quiz",
+      "originLabel": "Quiz"
     }
   ]
 }

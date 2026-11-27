@@ -1,8 +1,8 @@
 {
   "subjectCode": "IT6209",
   "subjectName": "Introduction to Multimedia",
-  "updatedAt": "2026-10-09T06:16:13Z",
-  "totalQuestions": 136,
+  "updatedAt": "2026-11-27T04:26:31Z",
+  "totalQuestions": 266,
   "tier": "verified",
   "questions": [
     {
@@ -13,13 +13,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 2,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-22T07:50:21Z",
-      "lastVerifiedAt": "2026-10-04T10:53:38Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "(™) symbol is used for Copyrighting.",
@@ -33,26 +35,210 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-06T09:43:06Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-06T09:43:06Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": ".swf file extension stands for?",
+      "answer": "Small Web Formats",
+      "choices": [
+        "a. Simple Web File",
+        "b. Small Web Formats",
+        "c. Small Webpage File",
+        "d. Synchronous Web Format",
+        "Small Web Formats"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "A \"concept\" in multimedia aims to solve or provide a solution to a certain need or problem.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-22T07:33:52Z",
-      "lastVerifiedAt": "2026-10-09T06:16:13Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Prelim Exam"
+    },
+    {
+      "question": "A brush tool in GIMP which selectively lighten or darken an area",
+      "answer": "Dodge",
+      "choices": [
+        "a. Smudge",
+        "b. Dodge",
+        "c. Convolve",
+        "d. Heal",
+        "Dodge"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "A classified bit file format that is used for simple animations on web.",
+      "answer": "GIF",
+      "choices": [
+        "a. GIF",
+        "b. MPEG",
+        "c. JPEG",
+        "d. Flash",
+        "GIF"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "A collection of characters of a single size and style belonging to a particular typeface family- Arial Black and Arial Narrow.",
+      "answer": "Font",
+      "choices": [
+        "a. Serif",
+        "b. Text",
+        "c. San serif",
+        "d. Font"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Midterm Lab Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "A digital audio editing suite by Sony Creative Software which is aimed at the professional and semi-professional markets.",
+      "answer": "Sound forge",
+      "choices": [
+        "a. Audacity",
+        "b. Sound forge",
+        "c. Spinnr",
+        "d. Spotify",
+        "Sound forge"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "A family of graphic characters that usually includes many type sizes and styles is called a:",
+      "answer": "Typefaces",
+      "choices": [
+        "a. Typefaces",
+        "b. Text",
+        "c. Face",
+        "d. Point",
+        "a. Face",
+        "c. Typefaces"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "A file format designed for large bitmap images. This file format is typically used for print, where a very high resolution is required.",
+      "answer": "TIFF",
+      "choices": [
+        "a. JPG",
+        "b. TIFF",
+        "c. PNG",
+        "d. BMP",
+        "c. BMP",
+        "d. PNG"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "A file format for Adobe Photoshop.",
+      "answer": "PSD",
+      "choices": [
+        "a. EPS",
+        "b. CAD",
+        "c. PSD",
+        "d. APD",
+        "a. CAD",
+        "b. EPS",
+        "PSD"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 4,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "A font is a collection of characters of a single size and style belonging to a particular type face family.",
@@ -62,13 +248,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-22T07:36:59Z",
-      "lastVerifiedAt": "2026-10-06T09:38:50Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "A frame is an electronically coded still image in video technology",
@@ -78,13 +266,61 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-22T07:55:24Z",
-      "lastVerifiedAt": "2026-10-06T09:41:05Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "A graphic organizer in the form of illustrations or images displayed in sequence for pre-visualizing a motion picture, animation, motion graphic or interactive media sequence",
+      "answer": "Storyboard",
+      "choices": [
+        "a. Storyboard",
+        "b. Authoring",
+        "c. Webpage",
+        "d. Scripting"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "A mobile device that functions as a personal information manager.",
+      "answer": "PDA",
+      "choices": [
+        "a. Operating System",
+        "b. PDF",
+        "c. PDA",
+        "d. JPG",
+        "a. JPG",
+        "b. PDA",
+        "c. PDF",
+        "d. Operating System"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "A Patent protects an invention which gives the holder an exclusive right to prevent others from selling, making and using the patented invention for a certain period.",
@@ -98,10 +334,34 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T11:07:04Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-04T11:07:04Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "A program that has pre-programmed elements for the development of interactive multimedia software titles.",
+      "answer": "Authoring",
+      "choices": [
+        "a. Webpage",
+        "b. Storyboard",
+        "c. Authoring",
+        "d. Scripting",
+        "Authoring"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "A software applications that people use to connect to internet and have a graphical interface for researching, viewing of text and documents, sounds, animation, video, etc.",
@@ -117,10 +377,128 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-06T09:43:06Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-06T09:43:06Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "A stage of multimedia development where in it defines the overall project needs.",
+      "answer": "Planning and Costing",
+      "choices": [
+        "a. Delivery Management",
+        "b. Planning and Costing",
+        "c. Designing and Budgeting",
+        "d. Testing",
+        "a. Designing and Budgeting",
+        "b. Testing",
+        "c. Delivery Management",
+        "d. Planning and Costing"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "A symbol used for Copyright.",
+      "answer": "©",
+      "choices": [
+        "a. C",
+        "b. ™",
+        "c. ®",
+        "d. ©",
+        "©"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "A technique of an art production which various materials such as images, shapes and any arts are glued together to assemble a whole new art creation",
+      "answer": "Collage",
+      "choices": [
+        "a. Collage",
+        "b. Webpage",
+        "c. Portfolio",
+        "d. Showreel",
+        "Collage"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "A technique used video editing which the clip or shots are combined with the use of special effects like fade.",
+      "answer": "Transition",
+      "choices": [
+        "a. Transition",
+        "b. Trimming",
+        "c. Keyframing",
+        "d. Degaussing",
+        "Transition"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "A tool in GIMP to heal image irregularities.",
+      "answer": "Heal Tool",
+      "choices": [
+        "a. Conclove",
+        "b. Clone Tool",
+        "c. Heal Tool",
+        "d. Smudge",
+        "b. Heal Tool",
+        "c. Smudge",
+        "d. Clone Tool",
+        "Heal Tool"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 4,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "A Type face is a family of graphic characters that usually includes many type sizes and styles",
@@ -130,13 +508,39 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-22T07:36:59Z",
-      "lastVerifiedAt": "2026-10-06T09:38:50Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "A vector file format primarily designed for two-dimensional graphics and is extremely useful for web interactivity and animation.",
+      "answer": "SVG",
+      "choices": [
+        "a. DXF",
+        "b. PDF",
+        "c. AI",
+        "d. SVG",
+        "a. SVG",
+        "b. DXF",
+        "d. PDF"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "AAC format was created by Microsoft Corporation.",
@@ -150,10 +554,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-04T10:53:38Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-06T09:40:26Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Additive color is an example of a computerized color.",
@@ -163,26 +569,34 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 5,
+      "confirmations": 8,
       "firstSeenAt": "2026-09-22T07:41:31Z",
-      "lastVerifiedAt": "2026-10-06T09:39:40Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "All multimedia titles or project starts with a concept for every design.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "verified": true,
-      "confirmations": 1,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-22T07:34:13Z",
-      "lastVerifiedAt": "2026-09-22T07:34:13Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "Alphabets are classified in phonological writing wherein it is the most recently invented writing system and commonly used as of today",
@@ -196,10 +610,54 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T11:07:04Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-04T11:07:04Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "Alphabets are the more recent representation of text.",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False",
+        "True"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Prelim Lab Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "Among the following choices, which refers to showcasing a talent or past work on an individual into a medium?",
+      "answer": "portfolio",
+      "choices": [
+        "a. modules",
+        "b. blog",
+        "c. portfolio",
+        "d. website",
+        "portfolio"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "An action that requires calculating the number of frames between keyframes and the path the action takes, and then actually sketching with pencil the series of progressively different outlines.",
@@ -215,46 +673,159 @@
         "d. Streaming"
       ],
       "verified": true,
-      "confirmations": 2,
-      "firstSeenAt": "2026-09-22T08:04:10Z",
-      "lastVerifiedAt": "2026-10-06T09:43:06Z",
-      "source": "review_screen",
-      "wrongAnswers": [],
-      "questionType": "multichoice",
-      "isAiSuggestion": false
-    },
-    {
-      "question": "An image on the web could be represented by an image type called JPG.",
-      "answer": "True",
-      "choices": [
-        "a. True",
-        "b. False"
-      ],
-      "verified": true,
       "confirmations": 3,
-      "firstSeenAt": "2026-09-22T08:01:44Z",
-      "lastVerifiedAt": "2026-10-06T09:41:28Z",
+      "firstSeenAt": "2026-09-22T08:04:10Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
-      "question": "An intangible tool does not have a physical presence.",
-      "answer": "True",
+      "question": "An aspect in font where the line upon which most letters \"sit\" and below which descenders extend.",
+      "answer": "Baseline",
       "choices": [
-        "a. True",
-        "b. False"
+        "a. Ascender",
+        "b. Baseline",
+        "c. Mean line",
+        "d. Descenders"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "An aspect in general design or development where the process of identifying what should be retained and removed from all the gathered data.",
+      "answer": "Data Analysis and filtering",
+      "choices": [
+        "a. Composite",
+        "b. Data Analysis and filtering",
+        "c. Data Collection",
+        "d. Data Testing",
+        "Data Analysis and filtering"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "An image is a simulation of moving frames",
+      "answer": "False",
+      "choices": [
+        "a. True",
+        "b. False",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "An image is the most utilized method in showing or presenting information or in communicating an idea",
+      "answer": "False",
+      "choices": [
+        "a. True",
+        "b. False",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Prelim Lab Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "An image on the web could be represented by an image type called JPG.",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False",
+        "True"
+      ],
+      "verified": true,
+      "confirmations": 5,
+      "firstSeenAt": "2026-09-22T08:01:44Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "source": "review_screen",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "An intangible tool does not have a physical presence.",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False",
+        "True"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-06T09:37:40Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-06T09:37:40Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "originType": "exam",
+      "originLabel": "Prelim Exam"
+    },
+    {
+      "question": "An intellectual property right which protects an invention and gives the holder an exclusive right to prevent others from selling, making and using the patented invention for a certain period.",
+      "answer": "Patent",
+      "choices": [
+        "a. Fair use",
+        "b. Copyright",
+        "c. Patent",
+        "d. trademark",
+        "Patent"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "Analog and Digital are the two basic types of audio recording.",
@@ -268,10 +839,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-04T11:00:09Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-04T11:00:09Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Analog audio are often recorded by taking samples of the original sound waves at a specified rate.",
@@ -285,27 +858,72 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-04T10:53:38Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-06T09:40:26Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Analog is a basic audio type.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-04T10:53:38Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-04T10:53:38Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "Animation became popular on TVs in the 1950s.",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False",
+        "True"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 4,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "Animation is an element of Multimedia",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False",
+        "True"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 4,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "Animation is not content.",
@@ -319,10 +937,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-06T09:43:06Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-06T09:43:06Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Audacity is a Video Editing software",
@@ -332,13 +952,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 2,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-22T07:50:21Z",
-      "lastVerifiedAt": "2026-10-04T10:56:05Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Audacity is an open-source application",
@@ -348,13 +970,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 2,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-22T07:50:21Z",
-      "lastVerifiedAt": "2026-10-04T11:00:09Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Audiences are factors in creating an animation",
@@ -364,13 +988,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-22T07:45:16Z",
-      "lastVerifiedAt": "2026-10-06T09:40:26Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Audio sounds are used to add emotion to the videos.",
@@ -384,58 +1010,91 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-04T10:56:05Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-04T10:56:05Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Audio, in multimedia presentations is used to grab attention from the viewers.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "verified": true,
-      "confirmations": 2,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-22T07:50:21Z",
-      "lastVerifiedAt": "2026-10-04T11:00:09Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Bitmap is an example of a Still image.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "verified": true,
-      "confirmations": 5,
+      "confirmations": 9,
       "firstSeenAt": "2026-09-22T07:41:31Z",
-      "lastVerifiedAt": "2026-10-06T09:39:40Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Branding is insignificant in multimedia.",
       "answer": "False",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "False"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-22T07:33:52Z",
-      "lastVerifiedAt": "2026-10-09T06:16:13Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Prelim Lab Exam"
+    },
+    {
+      "question": "Cassette tapes are example of what medium?",
+      "answer": "Analog",
+      "choices": [
+        "a. Digital Audio",
+        "b. Transmission",
+        "c. Decompression",
+        "d. Analog",
+        "Analog"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "Choosing the right tools is a factor in animation",
@@ -449,26 +1108,52 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-04T11:00:09Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-06T09:40:26Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "Classified in phonological writing wherein it is the most recently invented writing system and commonly used as of today.",
+      "answer": "Alphabets",
+      "choices": [
+        "a. Syllabaries",
+        "b. Logographic",
+        "c. Ideogram",
+        "d. Alphabets"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Midterm Lab Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "Colors do not affect a multimedia project in any way.",
       "answer": "False",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "False"
       ],
       "verified": true,
-      "confirmations": 5,
+      "confirmations": 9,
       "firstSeenAt": "2026-09-22T07:41:31Z",
-      "lastVerifiedAt": "2026-10-06T09:39:40Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Commonly refers to display of moving visual media. It transmits a series of electronic signals that generates still images to record, reproduce or broadcast a program, a movie or other visual media product.",
@@ -480,43 +1165,54 @@
         "d. GIF"
       ],
       "verified": true,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-09-22T08:04:10Z",
-      "lastVerifiedAt": "2026-09-22T08:04:10Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "Content Design deals with how the content will be arranged for the design.",
       "answer": "False",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "False"
       ],
       "verified": true,
-      "confirmations": 2,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-22T07:34:13Z",
-      "lastVerifiedAt": "2026-10-06T09:37:40Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Prelim Exam"
     },
     {
       "question": "Copyright law is what gives you the right over the things you have created.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-04T11:07:04Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-04T11:07:04Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Copyright laws establish rights for the creators or owners of original creation.",
@@ -526,10 +1222,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-09-22T08:04:10Z",
-      "lastVerifiedAt": "2026-09-22T08:04:10Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "Costing is the final stage in multimedia application development which provide the finish product to the client",
@@ -543,42 +1244,50 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T11:07:04Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-04T11:07:04Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Design in multimedia deals with how the entire project is designed.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-22T07:33:52Z",
-      "lastVerifiedAt": "2026-10-09T06:16:13Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Prelim Exam"
     },
     {
       "question": "Design is an important part of Multimedia.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-22T07:33:52Z",
-      "lastVerifiedAt": "2026-10-09T06:16:13Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Prelim Exam"
     },
     {
       "question": "Digital recording refers to audio recorded using methods that replicate the original sound waves",
@@ -588,29 +1297,56 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-22T07:50:21Z",
-      "lastVerifiedAt": "2026-10-04T11:01:11Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "During the concept development phase, one of the aspects is Information and resource availability which determines what approach will be used in the project.",
       "answer": "False",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "False"
       ],
       "verified": true,
-      "confirmations": 2,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-22T07:34:13Z",
-      "lastVerifiedAt": "2026-10-06T09:37:40Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Prelim Exam"
+    },
+    {
+      "question": "DXF file format stands for?",
+      "answer": "Drawing Interchange Format",
+      "choices": [
+        "a. Drawing Interchange Format",
+        "b. Drawing eXtreme Format",
+        "c. Draw X-Files",
+        "d. None of the above",
+        "Drawing Interchange Format"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "Flipbook is one of the earliest predecessor to the animation we know today",
@@ -620,29 +1356,34 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-22T07:45:16Z",
-      "lastVerifiedAt": "2026-10-04T11:01:11Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "For users to view animation on web users have to install flash plug-ins.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-22T08:01:44Z",
-      "lastVerifiedAt": "2026-10-06T09:41:28Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Gathering references is a factor in animation.",
@@ -656,10 +1397,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-04T10:56:05Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-04T10:56:05Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "GIF stands for Graphical User Interface",
@@ -687,40 +1430,60 @@
         {
           "answer": "True",
           "timestamp": "2026-10-06T09:41:05Z"
+        },
+        {
+          "answer": "True",
+          "timestamp": "2026-11-27T04:26:31Z"
+        },
+        {
+          "answer": "True",
+          "timestamp": "2026-11-27T04:26:31Z"
+        },
+        {
+          "answer": "True",
+          "timestamp": "2026-11-27T04:26:31Z"
         }
-      ]
+      ],
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "GIF stands for Graphics Interchange format",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "verified": true,
-      "confirmations": 5,
+      "confirmations": 8,
       "firstSeenAt": "2026-09-22T07:41:31Z",
-      "lastVerifiedAt": "2026-10-06T09:39:40Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Midterm Lab Exam"
     },
     {
       "question": "Google.com in an example of video sharing site.",
       "answer": "False",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "False"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-22T08:01:44Z",
-      "lastVerifiedAt": "2026-10-06T09:41:28Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "GUI stands for Graphical User Interface",
@@ -734,10 +1497,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T11:07:04Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-04T11:07:04Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Higher bandwidth has slower connection.",
@@ -747,10 +1512,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-09-22T08:04:10Z",
-      "lastVerifiedAt": "2026-09-22T08:04:10Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "Image cropping is an image enhancement technique",
@@ -760,9 +1530,9 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-09-22T07:41:31Z",
-      "lastVerifiedAt": "2026-10-04T10:48:57Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "alternateAnswers": [
         {
@@ -783,7 +1553,53 @@
       ],
       "isAiSuggestion": false,
       "wrongAnswerEvidence": true,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "Images are expressed in the form of pictures and photographs.",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False",
+        "True"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 4,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "In 16th century, these were considered as the first mass communication medium using texts, graphics, and images to communicate ideas.",
+      "answer": "Newspapers",
+      "choices": [
+        "a. Billboards",
+        "b. Booklet",
+        "c. Book",
+        "d. Newspapers",
+        "a. Newspapers",
+        "b. Billboards",
+        "d. Booklet"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "In animation, what does CGI stands for?",
@@ -799,39 +1615,72 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T11:07:04Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-04T11:07:04Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "In Audio, DAT stands for",
+      "answer": "Digital Audio Tape",
+      "choices": [
+        "a. Digital Audio Transmitter",
+        "b. Data Audio Tape",
+        "c. Digital Animation Tape",
+        "d. Digital Audio Tape",
+        "Digital Audio Tape"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "In concept development it can be either be verbal or nonverbal.",
       "answer": "False",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "False"
       ],
       "verified": true,
-      "confirmations": 1,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-22T07:34:13Z",
-      "lastVerifiedAt": "2026-09-22T07:34:13Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "In concept development, verbal approach is centered more on what needs to be depicted to the users which relies more words to describe the project.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "TRUE"
       ],
       "verified": true,
-      "confirmations": 2,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-22T07:34:13Z",
-      "lastVerifiedAt": "2026-10-06T09:37:40Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Prelim Exam"
     },
     {
       "question": "In general, lossless compression stores data in less space without losing any information and it will not degrade the audio quality during compression.",
@@ -841,90 +1690,546 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-22T07:50:21Z",
-      "lastVerifiedAt": "2026-10-04T11:01:11Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "In graphics, usually it describes theamount of the shade in the color.",
+      "answer": "Saturation",
+      "choices": [
+        "a. Lightness",
+        "b. Brightness",
+        "c. Saturation",
+        "d. Contrast",
+        "a. Saturation",
+        "c. Lightness",
+        "Saturation"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 4,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "In multimedia development, which among the following is done during planning and costing phase?A stage of multimedia development where in it defines the overall project needs.",
+      "answer": "Defines the overall project needs.",
+      "choices": [
+        "a. Designing the proposal for the project.",
+        "b. Determine the elements to be used in the projects",
+        "c. Defines the overall project needs.",
+        "d. Design the illustrations",
+        "Defines the overall project needs."
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "In multimedia workforce, who handles the overall development and implementation of the project including budgeting and scheduling of work.",
+      "answer": "Project Manager",
+      "choices": [
+        "a. CEO of the company",
+        "b. Project Manager",
+        "c. Team Lead",
+        "d. Senior Manager",
+        "a. Senior Manager",
+        "c. CEO of the company",
+        "d. Team Lead",
+        "a. Project Manager",
+        "b. Senior Manager",
+        "d. CEO of the company",
+        "Project Manager"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 5,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "In multimedia, GUI stands for?",
+      "answer": "Graphical User Interface",
+      "choices": [
+        "a. Graphics underIllustration",
+        "b. None of the above",
+        "c. GIMP Using Interface",
+        "d. Graphical User Interface"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "In music sequencing and notion, it is a well known older name for what is now called Pro Audio.",
+      "answer": "Cakewalk",
+      "choices": [
+        "a. Computerwalk",
+        "b. Cakewalk",
+        "c. CBT",
+        "d. Catwalk",
+        "a. Catwalk",
+        "b. Computerwalk",
+        "d. Cakewalk"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "In sound, trimming refers to what?",
+      "answer": "A method of removing the blank spaces from the recording.",
+      "choices": [
+        "a. A method of adjusting the sounds so that it would be pleasant to hear.",
+        "b. A method of removing the blank spaces from the recording.",
+        "c. Method of playing the recording without the blank parts of the music.",
+        "d. A method of removing unwanted parts of the sound.",
+        "a. Method of playing the recording without the blank parts of the music.",
+        "b. A method of removing unwanted parts of the sound.",
+        "c. A method of removing the blank spaces from the recording.",
+        "d. A method of adjusting the sounds so that it would be pleasant to hear.",
+        "A method of removing the blank spaces from the recording."
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 4,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "In the stages of multimedia development, \"planning\" is the first phase.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-06T09:37:40Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-06T09:37:40Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "originType": "exam",
+      "originLabel": "Prelim Lab Exam"
     },
     {
       "question": "In the stages of multimedia development, the cost in not relevant.",
       "answer": "False",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "False"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-06T09:37:40Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-06T09:37:40Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "originType": "exam",
+      "originLabel": "Prelim Lab Exam"
+    },
+    {
+      "question": "In this stage of development, it ensures the project to meet the overall objective and clients need.",
+      "answer": "Testing",
+      "choices": [
+        "a. Delivery Management",
+        "b. Testing",
+        "c. Planning and Costing",
+        "d. Designing and Budgeting",
+        "a. Designing and Budgeting",
+        "c. Delivery Management",
+        "d. Planning and Costing"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "In what stage of development which usually ensures the output in the projects meets the requirements given by the client correctly and fully.",
+      "answer": "Testing",
+      "choices": [
+        "a. Designing and Budgeting",
+        "b. Planning and Costing",
+        "c. Delivery Management",
+        "d. Testing",
+        "Testing"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "In what year does Thaumatrope was created?",
+      "answer": "1824",
+      "choices": [
+        "a. 1825",
+        "b. 1824",
+        "c. 1826",
+        "d. 1827",
+        "1824"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "In what year does the first MBone audio multicast on the net was made?",
+      "answer": "1992",
+      "choices": [
+        "a. 1992",
+        "b. 1994",
+        "c. 1991",
+        "d. 1993",
+        "1992"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "Intellectual property is the results of a creative mind it maybe a work or invention such as design, logos, artworks, trademarks etc., and for which one may apply for a patent, copyright.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "verified": true,
-      "confirmations": 1,
+      "confirmations": 3,
       "firstSeenAt": "2026-09-22T08:04:10Z",
-      "lastVerifiedAt": "2026-09-22T08:04:10Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "Internet is a method of transmitting or receiving data those are broken into packets over a computer to allow playback while receiving the other part of the data.",
       "answer": "False",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "False"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-04T11:07:04Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-04T11:07:04Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "It 20th century, what device has been considered as new medium of mass communication?",
+      "answer": "Televisions",
+      "choices": [
+        "a. Televisions",
+        "b. Movies",
+        "c. Newspaper",
+        "d. Commercials",
+        "Televisions"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "It adjusts the zoom level in GIMP",
+      "answer": "Magnify",
+      "choices": [
+        "a. Path",
+        "b. Scale",
+        "c. View",
+        "d. Magnify",
+        "Magnify"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "It is a free and an open-source program for photo retouching, image composition, free-form drawing and image authoringwritten by Peter Mattis and Spencer Kimball.",
+      "answer": "GIMP",
+      "choices": [
+        "a. GIMP",
+        "b. Audacity",
+        "c. Photoshop",
+        "d. Paintshop"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Midterm Lab Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "It is a technique of transforming the images into another with the use of various effects.",
+      "answer": "Morphing",
+      "choices": [
+        "a. Trimming",
+        "b. Morphing",
+        "c. Onion Skinning",
+        "d. Keyframing",
+        "Morphing"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "It is a term for the process of using films as reference point for animation.",
+      "answer": "Rotoscoping",
+      "choices": [
+        "a. Rotoscoping",
+        "b. CelAnimation",
+        "c. Keyframing",
+        "d. Tweening.",
+        "Rotoscoping"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "It is a tool in Brush Tool for filling the selected area with a color or pattern.",
+      "answer": "[Image: [moodle-asset:421879/C.png]]",
+      "choices": [
+        "a. [Image: [moodle-asset:421881/w2.png]]",
+        "b. [Image: [moodle-asset:421880/w1.png]]",
+        "c. [Image: [moodle-asset:421879/C.png]]",
+        "d. [Image: [moodle-asset:421882/w3.png]]"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "It is also known as hypermedia content.",
+      "answer": "Non Linear",
+      "choices": [
+        "a. Computer based Training",
+        "b. Linear",
+        "c. Non Linear",
+        "d. Progression",
+        "Non Linear"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "It is an animation software created by Patrick Corrier.",
+      "answer": "Pencil 2D",
+      "choices": [
+        "a. Flash",
+        "b. Pencil 2D",
+        "c. Corel Draw",
+        "d. Photoshop",
+        "a. Corel Draw",
+        "b. Photoshop",
+        "c. Pencil 2D",
+        "d. Flash",
+        "Pencil 2D"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 4,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "It is important to determine the audience, budget and the appropriate market when considering the concept development.",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False",
+        "True"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "It is not necessary to check the information authenticity of content.",
       "answer": "False",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "False"
       ],
       "verified": true,
-      "confirmations": 1,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-22T07:34:13Z",
-      "lastVerifiedAt": "2026-09-22T07:34:13Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "It is the actual representation of a sound, stored in the form of thousands of individual samples that represent the loudness of a sound at a discrete point in time.",
@@ -940,10 +2245,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T11:07:04Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-04T11:07:04Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "It is the process of making the illusion of motion and change by means of rapid display of successive drawings or images in sequence.",
@@ -955,13 +2262,124 @@
         "d. Graphics"
       ],
       "verified": true,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-09-22T08:04:10Z",
-      "lastVerifiedAt": "2026-10-06T09:43:06Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "It is used to create online training courses, assessments, and presentations. It is also used for the conversion of Microsoft PowerPoint presentations into e-learning content.",
+      "answer": "Lectora",
+      "choices": [
+        "a. GIMP",
+        "b. Adobe Captivate",
+        "c. Flash",
+        "d. Lectora",
+        "Lectora"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "It permits the limited use of any copyrighted material without the permission from the copyright holder.",
+      "answer": "Fair Use",
+      "choices": [
+        "a. Intellectual Property Right",
+        "b. Fair Use",
+        "c. Trademark",
+        "d. Patent",
+        "Fair Use"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "It refers to the portion of a letter that extends above the mean line of a font.",
+      "answer": "Ascender",
+      "choices": [
+        "a. Lower Case",
+        "b. Caps Lock",
+        "c. Ascender",
+        "d. Cap Height",
+        "Ascender"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "It refers to the portion of a letter that extends below the baseline of a font.",
+      "answer": "Descenders",
+      "choices": [
+        "a. Cap Height",
+        "b. Ascender",
+        "c. Mean Line",
+        "d. Descenders",
+        "Descenders"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "It specifies the intensity of the hue.",
+      "answer": "Saturation",
+      "choices": [
+        "a. Saturation",
+        "b. Contrast",
+        "c. Brightness",
+        "d. Lightness"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Midterm Lab Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "Italics is an example of a typeface",
@@ -971,10 +2389,37 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-09-22T08:04:10Z",
-      "lastVerifiedAt": "2026-09-22T08:04:10Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
+    },
+    {
+      "question": "JPG stands for?",
+      "answer": "Joint Photographic Experts Group",
+      "choices": [
+        "a. Joint Pictorial Experts Graphics",
+        "b. Joint Photographic Experts Group",
+        "c. Joint Pixel Experts Group",
+        "d. Join Photographical Experts Graphics",
+        "Joint Photographic Experts Group"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "KDEN Live is an alternative for Photoshop",
@@ -984,13 +2429,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-22T07:55:24Z",
-      "lastVerifiedAt": "2026-10-06T09:41:05Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "KDEN Live is used for Video Editing",
@@ -1000,45 +2447,75 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-22T07:55:24Z",
-      "lastVerifiedAt": "2026-10-06T09:41:05Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "LCD stands for?",
+      "answer": "Liquid Crystal Display",
+      "choices": [
+        "a. Laser Crystal Display",
+        "b. Liquid Cathode Display",
+        "c. Liquid Crystal Display",
+        "d. Laser Cathode Display",
+        "Liquid Crystal Display"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "Light plays an important role in displaying colors on the screen.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "verified": true,
-      "confirmations": 5,
+      "confirmations": 9,
       "firstSeenAt": "2026-09-22T07:41:31Z",
-      "lastVerifiedAt": "2026-10-06T09:39:40Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "MIDI stands for (Musical Instrument Digital Interface)",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-22T07:45:16Z",
-      "lastVerifiedAt": "2026-10-04T11:01:11Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "MP3 files are examples of audio in analog format.",
@@ -1048,13 +2525,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 2,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-22T07:45:16Z",
-      "lastVerifiedAt": "2026-10-04T10:53:38Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "MP3 format is a commonly used lossless compression audio format.",
@@ -1064,46 +2543,54 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 2,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-22T07:45:16Z",
-      "lastVerifiedAt": "2026-10-04T11:00:09Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "MS word is considered an authoring tool.",
       "answer": "False",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "False"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 4,
       "firstSeenAt": "2026-10-06T09:37:40Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-06T09:37:40Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "originType": "exam",
+      "originLabel": "Prelim Lab Exam"
     },
     {
       "question": "Multimedia concept can either be verbal or visual",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-22T07:33:52Z",
-      "lastVerifiedAt": "2026-10-09T06:16:13Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Prelim Exam"
     },
     {
       "question": "Multimedia elements are typically saved and transmitted on the Internet in the appropriate MIME-type format.",
@@ -1117,42 +2604,50 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-06T09:43:06Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-06T09:43:06Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Multimedia starts with a \"concept\".",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-22T07:33:52Z",
-      "lastVerifiedAt": "2026-10-09T06:16:13Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Prelim Exam"
     },
     {
       "question": "Multimedia with the proper branding has the ability to generate profit",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-22T07:33:52Z",
-      "lastVerifiedAt": "2026-10-09T06:16:13Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Prelim Exam"
     },
     {
       "question": "Multiple Choice. Choose the Letter of the Best Answer. A German Jesuit priest who developed Magic Lantern.",
@@ -1165,16 +2660,21 @@
         "a. Athanasius Carter",
         "b. Athanasius Kircher",
         "c. Steve Jobs",
-        "d. Peter Mark"
+        "d. Peter Mark",
+        "a. Steve Jobs",
+        "b. Athanasius Carter",
+        "c. Athanasius Kircher"
       ],
       "verified": true,
-      "confirmations": 2,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-22T07:39:41Z",
-      "lastVerifiedAt": "2026-10-04T10:45:10Z",
-      "source": "review_screen",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Midterm Lab Exam"
     },
     {
       "question": "Multiple Choice. Choose the Letter of the Best Answer. Classified in phonological writing wherein it is the most recently invented writing system and commonly used as of today.",
@@ -1186,16 +2686,47 @@
         "d. Syllabaries",
         "a. Syllabaries",
         "b. Ideogram",
-        "d. Logographic"
+        "d. Logographic",
+        "b. Syllabaries"
       ],
       "verified": true,
-      "confirmations": 2,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-22T07:39:41Z",
-      "lastVerifiedAt": "2026-10-04T10:45:10Z",
-      "source": "review_screen",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Midterm Lab Exam"
+    },
+    {
+      "question": "Multiple Choice. Choose the Letter of the Best Answer. Considered as the most utilized method in showing or presenting information of in communications an idea.",
+      "answer": "Text",
+      "choices": [
+        "a. Text",
+        "b. JPEG",
+        "c. Graphics",
+        "d. Animation",
+        "b. Graphics",
+        "c. JPEG",
+        "a. Animation",
+        "d. Text"
+      ],
+      "verified": true,
+      "confirmations": 4,
+      "firstSeenAt": "2026-09-22T07:36:59Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "wrongAnswers": [
+        "Graphics"
+      ],
+      "isAiSuggestion": false,
+      "wrongAnswerEvidence": true,
+      "questionType": "multichoice",
+      "lastEvidenceAt": "2026-10-04T10:45:10Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Multiple Choice. Choose the Letter of the Best Answer. In multimedia, this refers to moving images that have been recorded or created electronically by a computer and usually accompanied by sound.",
@@ -1208,16 +2739,24 @@
         "a. Graphics",
         "b. Animation",
         "c. Text",
-        "d. Video"
+        "d. Video",
+        "a. Animation",
+        "b. Graphics",
+        "c. Video",
+        "d. Text",
+        "a. Text",
+        "b. Video"
       ],
       "verified": true,
-      "confirmations": 2,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-22T07:39:41Z",
-      "lastVerifiedAt": "2026-10-04T10:48:16Z",
-      "source": "review_screen",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Multiple Choice. Choose the Letter of the Best Answer. It is a device used in multimedia to take still images or photographs",
@@ -1226,16 +2765,22 @@
         "a. Digital Camera or Camera",
         "b. Mobile phones",
         "c. Computer Monitor",
-        "d. Telecommunication"
+        "d. Telecommunication",
+        "a. Computer Monitor",
+        "c. Digital Camera or Camera",
+        "b. Telecommunication",
+        "d. Mobile phones"
       ],
       "verified": true,
-      "confirmations": 2,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-22T07:39:41Z",
-      "lastVerifiedAt": "2026-10-04T10:45:10Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Multiple Choice. Choose the Letter of the Best Answer. It is a vital part of multimedia that acts as the listening pleasure of music, the startling accent of special effects, or the ambience of a mood-setting background",
@@ -1249,16 +2794,22 @@
         "b. Animation",
         "c. Text",
         "d. Images",
-        "c. Animation"
+        "c. Animation",
+        "a. Text",
+        "b. Images",
+        "c. Sound",
+        "d. Animation"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-22T07:39:41Z",
-      "lastVerifiedAt": "2026-10-06T09:38:50Z",
-      "source": "review_screen",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Multiple Choice. Choose the Letter of the Best Answer. It is simply a graphic symbol that represents an idea or concept, independent of any particular language and specific words or phrases.",
@@ -1269,16 +2820,22 @@
         "c. Graphics",
         "d. Ideogram",
         "a. Ideogram",
-        "d. Pictures"
+        "d. Pictures",
+        "a. Characters",
+        "b. Graphics",
+        "c. Pictures",
+        "d. Characters"
       ],
       "verified": true,
-      "confirmations": 2,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-22T07:36:59Z",
-      "lastVerifiedAt": "2026-10-04T10:48:16Z",
-      "source": "review_screen",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Multiple Choice. Choose the Letter of the Best Answer. PCM stands for",
@@ -1291,16 +2848,20 @@
         "b. Picture Code Modulation",
         "d. Pulse Code Modulation",
         "a. Pulse Code Modulation",
-        "d. Pulse Code Multimedia"
+        "d. Pulse Code Multimedia",
+        "c. Pulse Code Multimedia",
+        "d. Picture Code Motion"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-22T07:36:59Z",
-      "lastVerifiedAt": "2026-10-06T09:38:50Z",
-      "source": "review_screen",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Multiple Choice. Choose the Letter of the Best Answer. These are often represented in the form of still picture, painting or a photograph.",
@@ -1311,16 +2872,21 @@
         "c. Language",
         "d. Animation",
         "a. Images",
-        "b. Text"
+        "b. Text",
+        "b. Language",
+        "c. Animation",
+        "d. Text"
       ],
       "verified": true,
-      "confirmations": 2,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-22T07:36:59Z",
-      "lastVerifiedAt": "2026-10-04T10:48:16Z",
-      "source": "review_screen",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Multiple Choice. Choose the Letter of the Best Answer. They are designed as a simulation of movement created by a series of pictures of frame those are usually in motion.",
@@ -1336,29 +2902,38 @@
         "d. Computer",
         "a. Text",
         "b. Computer",
-        "d. Images"
+        "d. Images",
+        "c. Text"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-22T07:39:41Z",
-      "lastVerifiedAt": "2026-10-06T09:38:50Z",
-      "source": "review_screen",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "One of the concept development phase considers the topic's capability to be communicated through the selected or various types of media.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "verified": true,
-      "confirmations": 1,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-22T07:34:13Z",
-      "lastVerifiedAt": "2026-09-22T07:34:13Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "One purpose of Videos in Multimedia is entertainment",
@@ -1368,13 +2943,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-22T07:55:24Z",
-      "lastVerifiedAt": "2026-10-06T09:41:05Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "One purpose of Videos in Multimedia is information",
@@ -1384,13 +2961,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-22T07:55:24Z",
-      "lastVerifiedAt": "2026-10-06T09:41:05Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Pencil 2D can create animations.",
@@ -1400,13 +2979,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-22T07:45:16Z",
-      "lastVerifiedAt": "2026-10-06T09:40:26Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Pencil 2D has the Logo [Image: [moodle-asset:148621/a7q9.png]]",
@@ -1416,9 +2997,9 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-09-22T07:50:21Z",
-      "lastVerifiedAt": "2026-10-04T11:00:09Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [
         "False"
@@ -1431,7 +3012,28 @@
           "answer": "True",
           "timestamp": "2026-10-04T11:01:11Z"
         }
-      ]
+      ],
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "Pencil 2D has the Logo [Image: [moodle-asset:6352522/a7q9.png]]",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "Pencil 2D is an alternative to Photoshop",
@@ -1455,8 +3057,42 @@
         {
           "answer": "False",
           "timestamp": "2026-10-04T11:01:11Z"
+        },
+        {
+          "answer": "False",
+          "timestamp": "2026-11-27T04:26:31Z"
+        },
+        {
+          "answer": "False",
+          "timestamp": "2026-11-27T04:26:31Z"
+        },
+        {
+          "answer": "False",
+          "timestamp": "2026-11-27T04:26:31Z"
         }
-      ]
+      ],
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "Pictographic writing are some of the earliest written text.",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False",
+        "True"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "Plug-ins add capability to web browsers by allowing people to view and interact with special types of images and animations.",
@@ -1466,13 +3102,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-22T08:01:44Z",
-      "lastVerifiedAt": "2026-10-06T09:41:28Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Plug-ins is used in web browsers which allow the users to view and interact with new types of documents and images.",
@@ -1482,10 +3120,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-09-22T08:04:10Z",
-      "lastVerifiedAt": "2026-09-22T08:04:10Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "PNG stands for Portable Network Graphics",
@@ -1495,13 +3138,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 5,
+      "confirmations": 8,
       "firstSeenAt": "2026-09-22T07:41:31Z",
-      "lastVerifiedAt": "2026-10-06T09:39:40Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Podcasts are examples of multimedia on the Web.",
@@ -1511,13 +3156,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-22T08:01:44Z",
-      "lastVerifiedAt": "2026-10-06T09:41:28Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Promoting invention and the authorship of new work by safeguarding the right of creators from others simply copying their ideas or works is part of a person's intellectual property",
@@ -1531,10 +3178,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-06T09:43:06Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-06T09:43:06Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Proper usage of Text in any kind of multimedia presentation enables developers to fully communicate what the users need to see in the multimedia project.",
@@ -1544,13 +3193,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 2,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-22T07:39:41Z",
-      "lastVerifiedAt": "2026-10-04T10:48:16Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Retouching is an image enhancement technique.",
@@ -1560,30 +3211,60 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 5,
+      "confirmations": 8,
       "firstSeenAt": "2026-09-22T07:41:31Z",
-      "lastVerifiedAt": "2026-10-06T09:39:40Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
-      "question": "Sound can add appeal in multimedia",
-      "answer": "True",
+      "question": "RGB, HSB, CYMK area ________ for multimedia elements.",
+      "answer": "Color Specification Format",
       "choices": [
-        "a. True",
-        "b. False"
+        "a. Rendering Specification Format",
+        "b. Color Specification Format",
+        "c. Font Style Specification Format",
+        "d. File Format System",
+        "a. File Format System",
+        "c. Rendering Specification Format",
+        "d. Font Style Specification Format",
+        "Color Specification Format"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 4,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "Sound can add appeal in multimedia",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False",
+        "True"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 6,
       "firstSeenAt": "2026-10-04T11:00:09Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-06T09:40:26Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Sound in multimedia does not affect its overall presentation.",
@@ -1593,13 +3274,55 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 2,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-22T07:50:21Z",
-      "lastVerifiedAt": "2026-10-04T10:56:05Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "Sound is an element of multimedia",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False",
+        "True"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 4,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "Sound/audio is considered the most powerful type of multimedia.",
+      "answer": "False",
+      "choices": [
+        "a. True",
+        "b. False",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 4,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "Spotify is an audio streaming service on the web",
@@ -1609,13 +3332,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-22T08:01:44Z",
-      "lastVerifiedAt": "2026-10-06T09:41:28Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Steaming is a type of plug-in to play video.",
@@ -1625,27 +3350,35 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-09-22T08:04:10Z",
-      "lastVerifiedAt": "2026-09-22T08:04:10Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "Tangible tools are tools that are perceptible by touch or can be held and bought.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-06T09:37:40Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-06T09:37:40Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "originType": "exam",
+      "originLabel": "Prelim Exam"
     },
     {
       "question": "Text is considered as the most commonly used method of presenting or explaining information in the clearest most precise manner.",
@@ -1655,26 +3388,34 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-22T07:36:59Z",
-      "lastVerifiedAt": "2026-10-06T09:38:50Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Text is the important aspect of Multimedia which affects and impacts everything.",
       "answer": "False",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "False"
       ],
       "verified": true,
-      "confirmations": 1,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-22T07:34:13Z",
-      "lastVerifiedAt": "2026-09-22T07:34:13Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "The \"Arial\" font belongs to the Sans-serif Family.",
@@ -1684,13 +3425,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 2,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-22T07:36:59Z",
-      "lastVerifiedAt": "2026-10-04T10:48:16Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The \"Times New Roman\" font belongs to the Sans-serif Family.",
@@ -1700,30 +3443,35 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-22T07:39:41Z",
-      "lastVerifiedAt": "2026-10-06T09:38:50Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Midterm Lab Exam"
     },
     {
       "question": "The audio in multimedia usually sets the mood for the viewers or listeners.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-06T09:43:06Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-06T09:43:06Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The Baseline is the line upon which most letters \"sit\" and below which descenders extend",
@@ -1733,17 +3481,41 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-22T07:39:41Z",
-      "lastVerifiedAt": "2026-10-06T09:38:50Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "The final stage in multimedia application development which provide the finish product to the client",
+      "answer": "Delivery",
+      "choices": [
+        "a. Costing",
+        "b. Testing",
+        "c. Delivery",
+        "d. Planning",
+        "Testing (wrong) Delivery (not sure)"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "The first animated feature film was Snow white and the 7 dwarves.",
-      "answer": "True",
+      "answer": "b. False",
       "choices": [
         "a. True",
         "b. False"
@@ -1751,9 +3523,11 @@
       "verified": true,
       "confirmations": 1,
       "firstSeenAt": "2026-09-22T07:50:21Z",
-      "lastVerifiedAt": "2026-09-22T07:50:21Z",
-      "source": "community_contribution",
-      "wrongAnswers": [],
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "source": "review_screen",
+      "wrongAnswers": [
+        "True"
+      ],
       "questionType": "multichoice",
       "alternateAnswers": [
         {
@@ -1763,8 +3537,20 @@
         {
           "answer": "False",
           "timestamp": "2026-10-04T11:01:11Z"
+        },
+        {
+          "answer": "False",
+          "timestamp": "2026-11-27T04:26:31Z"
+        },
+        {
+          "answer": "False",
+          "timestamp": "2026-11-27T04:26:31Z"
         }
-      ]
+      ],
+      "isAiSuggestion": false,
+      "wrongAnswerEvidence": true,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The first to use a full colour animation was Disney.",
@@ -1783,7 +3569,23 @@
       "confirmations": 1,
       "firstSeenAt": "2026-10-04T10:56:05Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-04T10:56:05Z"
+      "lastVerifiedAt": "2026-10-04T10:56:05Z",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "alternateAnswers": [
+        {
+          "answer": "True",
+          "timestamp": "2026-11-27T04:26:31Z"
+        },
+        {
+          "answer": "True",
+          "timestamp": "2026-11-27T04:26:31Z"
+        },
+        {
+          "answer": "True",
+          "timestamp": "2026-11-27T04:26:31Z"
+        }
+      ]
     },
     {
       "question": "The GIMP tool [Image: [moodle-asset:148560/8.png]] is used to elect a square or rectangular region.",
@@ -1793,13 +3595,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-09-22T07:33:52Z",
-      "lastVerifiedAt": "2026-10-04T10:43:31Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The GIMP tool [Image: [moodle-asset:148561/9.png]] is used elect an elliptical region.",
@@ -1809,13 +3613,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-09-22T07:33:52Z",
-      "lastVerifiedAt": "2026-10-04T10:43:31Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The GIMP tool [Image: [moodle-asset:148571/9.png]] is used to heal image irregularities",
@@ -1825,10 +3631,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-09-22T07:34:13Z",
-      "lastVerifiedAt": "2026-09-22T07:34:13Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "The GIMP tool [Image: [moodle-asset:148572/10.png]] is used to move layers, selections or other objects polygonal segments.",
@@ -1838,13 +3649,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-09-22T07:34:13Z",
-      "lastVerifiedAt": "2026-10-06T09:37:40Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The GIMP tool [Image: [moodle-asset:258892/8.png]] is used to elect a square or rectangular region.",
@@ -1858,10 +3671,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-09T06:16:13Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-09T06:16:13Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The GIMP tool [Image: [moodle-asset:258893/9.png]] is used elect an elliptical region.",
@@ -1875,13 +3690,15 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-09T06:16:13Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-09T06:16:13Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
-      "question": "The navigation structure design is concerned more with the information and how it will be collected, gathered and verified.",
+      "question": "The GIMP tool [Image: [moodle-asset:6352461/8.png]] is used to elect a square or rectangular region.",
       "answer": "False",
       "choices": [
         "a. True",
@@ -1892,10 +3709,108 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "The GIMP tool [Image: [moodle-asset:6352462/9.png]] is used elect an elliptical region.",
+      "answer": "False",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "The GIMP tool [Image: [moodle-asset:6352471/8.png]] is used to fill the selected area with a color or pattern",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "The GIMP tool [Image: [moodle-asset:6352472/9.png]] is used to heal image irregularities",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "The GIMP tool [Image: [moodle-asset:6352473/10.png]] is used to move layers, selections or other objects polygonal segments.",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "The navigation structure design is concerned more with the information and how it will be collected, gathered and verified.",
+      "answer": "False",
+      "choices": [
+        "a. True",
+        "b. False",
+        "FALSE"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-06T09:37:40Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-06T09:37:40Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The symbol for the GIMP text tool is [Image: [moodle-asset:148591/a4q9.png]]",
@@ -1905,13 +3820,34 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-22T07:39:41Z",
-      "lastVerifiedAt": "2026-10-06T09:38:50Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "The symbol for the GIMP text tool is [Image: [moodle-asset:6352492/a4q9.png]]",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Midterm Lab Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "The Text Tool in GIMP can be used to create or add text on the canvas..",
@@ -1921,13 +3857,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 2,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-22T07:36:59Z",
-      "lastVerifiedAt": "2026-10-04T10:45:10Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Midterm Lab Exam"
     },
     {
       "question": "The tool [Image: [moodle-asset:148562/10.png]] is used to elect the hand-drawn region with free and polygonal segments.",
@@ -1937,13 +3875,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-09-22T07:33:52Z",
-      "lastVerifiedAt": "2026-10-04T10:43:31Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The tool [Image: [moodle-asset:258894/10.png]] is used to elect the hand-drawn region with free and polygonal segments.",
@@ -1957,26 +3897,239 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-09T06:16:13Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-09T06:16:13Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "There are two kinds of computerized colors.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "verified": true,
-      "confirmations": 5,
+      "confirmations": 8,
       "firstSeenAt": "2026-09-22T07:41:31Z",
-      "lastVerifiedAt": "2026-10-06T09:39:40Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "These are often represented in the form of still picture, painting or a photograph.",
+      "answer": "Images",
+      "choices": [
+        "a. Animation",
+        "b. Language",
+        "c. Images",
+        "d. Text",
+        "a. Text",
+        "b. Animation",
+        "d. Language"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "These are tools that allow users to interact with the computer. Usually they are being installed in the computers.",
+      "answer": "Software",
+      "choices": [
+        "a. Professionals",
+        "b. Hardware",
+        "c. Software",
+        "d. Money",
+        "a. Money",
+        "b. Professionals",
+        "c. Hardware",
+        "d. Software",
+        "Software"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 4,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "This elements usually depicted to add emotions or feelings on a film or any presentation?",
+      "answer": "Audio",
+      "choices": [
+        "a. Audio",
+        "b. Speech",
+        "c. Animation",
+        "d. Text",
+        "Audio"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "This ensures that the multimedia project is unique and consistently different from other works.",
+      "answer": "Creativity",
+      "choices": [
+        "a. Creativity",
+        "b. Coloring",
+        "c. Skill",
+        "d. Designing",
+        "Creativity"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "This is a system software that manages computer hardware and software resources and provides common services for computer programs. All computer programs, excluding firmware, require an operating system to function.",
+      "answer": "Operating System",
+      "choices": [
+        "a. PDA",
+        "b. JPG",
+        "c. PDF",
+        "d. Operating System",
+        "a. JPG",
+        "b. PDA"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "This is the option dialog in GIMP where we can change the font, color and size of the text interactively.",
+      "answer": "Text Option Dialog",
+      "choices": [
+        "a. Text Tool",
+        "b. Text Layer Dialog",
+        "c. Layering Panel",
+        "d. Text Option Dialog",
+        "Text Option Dialog"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "This is where the data or information for streaming is located.",
+      "answer": "Server",
+      "choices": [
+        "a. Protocol",
+        "b. HTML",
+        "c. Server",
+        "d. IP Address",
+        "a. Server",
+        "c. IP Address",
+        "d. Protocol",
+        "Server"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 4,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "This tool selects a contagious region on the basis of the color.",
+      "answer": "Magic Wand Tool",
+      "choices": [
+        "a. Magic Wand Tool",
+        "b. Free Select Tool",
+        "c. Ellipse Select Tool",
+        "d. Rectangle Select Tool",
+        "b. Rectangle Select Tool",
+        "d. Free Select Tool"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "This tool selects a region containing foreground objects.",
+      "answer": "[Image: [moodle-asset:421863/C.png]]",
+      "choices": [
+        "a. [Image: [moodle-asset:421863/C.png]]",
+        "b. [Image: [moodle-asset:421866/w3.png]]",
+        "c. [Image: [moodle-asset:421865/w2.png]]",
+        "d. [Image: [moodle-asset:421864/w1.png]]"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "To produce high quality commercial product, a recording studio with DAT equipment might be needed.",
@@ -1986,13 +4139,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-22T07:45:16Z",
-      "lastVerifiedAt": "2026-10-04T11:01:11Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Trimming is the method of removing a certain portion of an audio file.",
@@ -2006,10 +4161,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-04T11:00:09Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-06T09:40:26Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Uncompressed audio formats are usually large in size and give the exactly the same quality even processed.",
@@ -2019,13 +4176,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-22T07:50:21Z",
-      "lastVerifiedAt": "2026-10-06T09:40:26Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Underline, boldface, and italics are examples of font styles.",
@@ -2049,8 +4208,42 @@
         {
           "answer": "True",
           "timestamp": "2026-10-06T09:38:50Z"
+        },
+        {
+          "answer": "True",
+          "timestamp": "2026-11-27T04:26:31Z"
+        },
+        {
+          "answer": "True",
+          "timestamp": "2026-11-27T04:26:31Z"
+        },
+        {
+          "answer": "True",
+          "timestamp": "2026-11-27T04:26:31Z"
         }
-      ]
+      ],
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "Using text to convey information has been around for a long time.",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False",
+        "True"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 4,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "Vector images are examples of Still images.",
@@ -2060,13 +4253,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 5,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-22T07:41:31Z",
-      "lastVerifiedAt": "2026-10-06T09:39:40Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Video indexing is usually necessary to facilitate efficient content-based retrieval and browsing of visual information stored in large multimedia databases.",
@@ -2076,13 +4271,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-22T07:55:24Z",
-      "lastVerifiedAt": "2026-10-06T09:41:05Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Video is not considered as a moving media",
@@ -2092,13 +4289,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-22T07:55:24Z",
-      "lastVerifiedAt": "2026-10-06T09:41:05Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Video rendering refers to the process of finalizing a compilation of video edits, audio clips, animation and effects into one video file to watch and listen",
@@ -2108,13 +4307,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-22T07:55:24Z",
-      "lastVerifiedAt": "2026-10-06T09:41:05Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Videos cannot be used for advertisement.",
@@ -2124,13 +4325,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-22T07:55:24Z",
-      "lastVerifiedAt": "2026-10-06T09:41:05Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "WAV was introduced and created by Apple Computer Corporation and used in Macintosh.",
@@ -2140,29 +4343,104 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-22T07:45:16Z",
-      "lastVerifiedAt": "2026-10-06T09:40:26Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Web browsers are applications that people use to connect to internet and have a graphical interface for researching, viewing of text and documents, sounds, animation, video, etc.",
       "answer": "True",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "True"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-22T08:01:44Z",
-      "lastVerifiedAt": "2026-10-06T09:41:28Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "What are CBT or computer-based trainings?",
+      "answer": "A method of training with the use of a computer for the certain topics",
+      "choices": [
+        "a. WEBSITE",
+        "b. Software used for multimedia",
+        "c. A method of training with the use of a computer for the certain topics",
+        "d. A programming software",
+        "a. A programming software",
+        "b. WEBSITE",
+        "d. Software used for multimedia"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "What company made the floppy disk commercially available to the public?",
+      "answer": "IBM",
+      "choices": [
+        "a. Microsoft Corporation",
+        "b. MIT",
+        "c. Apple",
+        "d. IBM",
+        "IBM"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "What do you call a handheld device that serves as personal organizer or assistant with internet features?",
+      "answer": "PDA",
+      "choices": [
+        "a. Windows",
+        "b. MPEG",
+        "c. PDF",
+        "d. PDA",
+        "c. PDA",
+        "d. PDF",
+        "PDA"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 4,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "What do you call the animation technique to make a physically manipulated object appear to move on its own?",
@@ -2178,10 +4456,328 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T11:07:04Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-04T11:07:04Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "What does a video sequences consist of?",
+      "answer": "Frames",
+      "choices": [
+        "a. Pictures",
+        "b. Frames",
+        "c. Signals",
+        "d. Pixels",
+        "a. Signals",
+        "b. Pictures",
+        "c. Frames",
+        "Frames"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 4,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "What does Athanasius Kircher developed?",
+      "answer": "Magic Lantern",
+      "choices": [
+        "a. Light",
+        "b. Camera",
+        "c. Magic Lantern",
+        "d. Motion Picture",
+        "Magic Lantern"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "What does John Paris popularizedin 1824?",
+      "answer": "Thaumatrope",
+      "choices": [
+        "a. Cartoons",
+        "b. Stop Motion",
+        "c. Thaumatrope",
+        "d. CelAnimation",
+        "Thaumatrope"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "What does this tool ( [Image: [moodle-asset:6352339/47.png]] ) is used for in GIMP?",
+      "answer": "Remove the edges on the area from the image",
+      "choices": [
+        "a. Create path to select shapes",
+        "b. Selects a rectangular region",
+        "c. It is not available in GIMP",
+        "d. Remove the edges on the area from the image"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "What does Thomas Edison invetented from the following?",
+      "answer": "Motion Picture Camera",
+      "choices": [
+        "a. Film",
+        "b. Motion Picture Camera",
+        "c. Newspaper",
+        "d. Television",
+        "Motion Picture Camera"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "What format has been approved as an international standard for digital video in 1991?",
+      "answer": "MPEG-1",
+      "choices": [
+        "a. MPEG -2 and MPEG-4",
+        "b. MPEG-1",
+        "c. MP3",
+        "d. JPEG"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Midterm Lab Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "What is a cakewalk?",
+      "answer": "A music sequencing and notion software",
+      "choices": [
+        "a. A type of operating system for music production",
+        "b. A video editor",
+        "c. A music sequencing and notion software",
+        "d. A image and graphical editing software",
+        "A music sequencing and notion software"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "What is a Phenakistoscope?",
+      "answer": "It is the first widespread animation device that created a fluent illusion of motion which figures are viewed through a slit",
+      "choices": [
+        "a. A technique invented by Winsor Maccay",
+        "b. It is the first widespread animation device that created a fluent illusion of motion which figures are viewed through a slit",
+        "c. A device for transforming the images into another with the use of various effects",
+        "d. A technique used to make a physically manipulated object appear to move on its own.",
+        "a. It is the first widespread animation device that created a fluent illusion of motion which figures are viewed through a slit",
+        "b. A device for transforming the images into another with the use of various effects",
+        "c. A technique invented by Winsor Maccay",
+        "It is the first widespread animation device that created a fluent illusion of motion which figures are viewed through a slit"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 4,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "What is a rendering in terms of multimedia?",
+      "answer": "The process of finalizing a compilation of video edits, audio clips, animation and effects into one video file to watch and listen",
+      "choices": [
+        "a. The process of finalizing a compilation of video edits, audio clips, animation and effects into one video file to watch and listen",
+        "b. A method of transmitting or receiving data those are broken into packets over a computer to allow playback while receiving the other part of the data.",
+        "c. These are the short video which was originally part of the longer recording or the original videog",
+        "d. The process of video editing where special effects are used to show the next clip or shots",
+        "The process of finalizing a compilation of video edits, audio clips, animation and effects into one video file to watch and listen"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "What is multimedia?",
+      "answer": "Content that uses a combination of different content forms such as text, audio, images, animations, video and interactive content.",
+      "choices": [
+        "a. An output project of audio and images only",
+        "b. Content that uses a combination of different content forms such as text, audio, images, animations, video and interactive content.",
+        "c. Motion Pictures",
+        "d. Creates advertisements",
+        "a. Motion Pictures",
+        "b. Creates advertisements",
+        "c. An output project of audio and images only",
+        "d. Content that uses a combination of different content forms such as text, audio, images, animations, video and interactive content."
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "What is not an element in multimedia?",
+      "answer": "Web Browsers",
+      "choices": [
+        "a. Sound",
+        "b. Web Browsers",
+        "c. Motion Pictures",
+        "d. Still Images",
+        "Web Browsers"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "What is the amount of data that can be transmitted through a network with a given amount of time usually expressed in bits per second (bps).",
+      "answer": "Bandwidth",
+      "choices": [
+        "a. Bandwidth",
+        "b. Server",
+        "c. Protocol",
+        "d. Buffering",
+        "Bandwidth"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "What is the multimedia application that allows users of the media to participate or interact with the presentation such as CBTs.",
+      "answer": "Interactive Multimedia",
+      "choices": [
+        "a. None of the above",
+        "b. Linear",
+        "c. Presentations",
+        "d. Interactive Multimedia",
+        "Interactive Multimedia"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "What is the official GIMP mascot name?",
+      "answer": "Wilber",
+      "choices": [
+        "a. Wilber",
+        "b. Wilbert",
+        "c. Albert",
+        "d. Amber",
+        "b. Amber",
+        "d. Wilbert"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "What is the unit for measuring the Sound's loudness or volume?",
@@ -2197,10 +4793,130 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-06T09:43:06Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-06T09:43:06Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "What is Tweening?.",
+      "answer": "An action that requires calculating the number of frames between keyframes and the path the action takes, and then actually sketching with pencil the series of progressively different outlines",
+      "choices": [
+        "a. An animation technique with the use of clay which is manipulated everytime to create motion",
+        "b. It is an animation technique which physically manipulate a physical object and make it appear like its moving with the series of frames used.",
+        "c. An action that requires calculating the number of frames between keyframes and the path the action takes, and then actually sketching with pencil the series of progressively different outlines",
+        "d. it is the process of defining the first and last frames of an action in animation.",
+        "An action that requires calculating the number of frames between keyframes and the path the action takes, and then actually sketching with pencil the series of progressively different outlines"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "What storage device has been commercially available as a component of IBM products?",
+      "answer": "Floppy disks",
+      "choices": [
+        "a. Magnetic Tapes",
+        "b. Flash Drives",
+        "c. Floppy disks",
+        "d. CD-ROM",
+        "a. CD-ROM",
+        "d. Magnetic Tapes"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "What tool in GIMP is being used select elliptical region form the image?",
+      "answer": "[Image: [moodle-asset:421860/C2.png]]",
+      "choices": [
+        "a. [Image: [moodle-asset:421860/C2.png]]",
+        "b. [Image: [moodle-asset:421859/w11.png]]",
+        "c. [Image: [moodle-asset:421862/w33.png]]",
+        "d. [Image: [moodle-asset:421861/w22.png]]"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "What tool in GIMP is being used to remove the edges on the area from the image?",
+      "answer": "[Image: 25-c - [moodle-asset:421385/25-c.png]]",
+      "choices": [
+        "a. [Image: 25-w1 - [moodle-asset:421383/25-w1.png]]",
+        "b. [Image: 25-c - [moodle-asset:421385/25-c.png]]",
+        "c. [Image: 25-w2 - [moodle-asset:421384/25-w2.png]]",
+        "d. [Image: 25-w3 - [moodle-asset:421386/25-w3.png]]",
+        "a. [Image: 25-c - [moodle-asset:421385/25-c.png]]",
+        "b. [Image: 25-w3 - [moodle-asset:421386/25-w3.png]]",
+        "d. [Image: 25-w1 - [moodle-asset:421383/25-w1.png]]"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "[Image: 25-w1 - [moodle-asset:421383/25-w1.png]]"
+      ],
+      "wrongAnswerEvidence": true,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastEvidenceAt": "2026-11-27T04:26:31Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "When doestelevision became the new medium of mass communication?",
+      "answer": "20th century",
+      "choices": [
+        "a. 20th century",
+        "b. 21st century",
+        "c. 15th century",
+        "d. 16th century",
+        "a. 15th century",
+        "b. 16th century",
+        "c. 21st century",
+        "d. 20th century"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "Which among the choices refers to audio recorded using methods that replicate the original sound waves?",
@@ -2216,10 +4932,34 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-04T11:07:04Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-04T11:07:04Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "Which among the following best describes the Presentation?",
+      "answer": "Provides information of a certain topic with the use of multimedia elements which stimulates imaginations.",
+      "choices": [
+        "a. Provides information of a certain topic with the use of multimedia elements which stimulates imaginations.",
+        "b. A motion picture",
+        "c. A method of showcasing a talents or skill of the individual.",
+        "d. Still images stored in a storage device.",
+        "Provides information of a certain topic with the use of multimedia elements which stimulates imaginations"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "Which among the following is commonly used as lossy compression audio format?",
@@ -2235,10 +4975,295 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-06T09:43:06Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-06T09:43:06Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "Which among the following is false for WMV?",
+      "answer": "stands for Windows Movie Video",
+      "choices": [
+        "a. Developed by Microsoft",
+        "b. A video format",
+        "c. A video codec",
+        "d. stands for Windows Movie Video",
+        "stands for Windows Movie Video"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "Which among the following is NOT a layer property in GIMP",
+      "answer": "Size",
+      "choices": [
+        "a. Opacity",
+        "b. Size",
+        "c. Mode",
+        "d. Name",
+        "Size"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "Which among the following is not classified as images?These are often represented in the form of still picture, painting or a photograph.",
+      "answer": "Video Clipping",
+      "choices": [
+        "a. Video Clipping",
+        "b. Photograph",
+        "c. Still picture",
+        "d. Painting",
+        "Video Clipping"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "Which among the following is not Content?",
+      "answer": "None of the above",
+      "choices": [
+        "a. Animation",
+        "b. None of the above",
+        "c. Song",
+        "d. Musical Notes",
+        "c. Musical Notes",
+        "d. Song",
+        "None of the above"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 4,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "Which among the following is not part of general design or development process?",
+      "answer": "Data Testing",
+      "choices": [
+        "a. Data Arrangement and Sequence",
+        "b. Data Testing",
+        "c. Data Verification",
+        "d. Data collection",
+        "a. Data collection",
+        "b. Data Arrangement and Sequence",
+        "c. Data Testing",
+        "d. Data Verification",
+        "Data Testing"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 4,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "Which among the following sentence is true about Content?",
+      "answer": "This is the heart of the multimedia Project",
+      "choices": [
+        "a. Contents are cannot be copyrighted.",
+        "b. Contents can be used freely from all users",
+        "c. Contents are created and cannot be reproduced at any cause.",
+        "d. This is the heart of the multimedia Project",
+        "a. Contents can be used freely from all users",
+        "b. This is the heart of the multimedia Project",
+        "c. Contents are cannot be copyrighted.",
+        "d. Contents are created and cannot be reproduced at any cause.",
+        "This is the heart of the multimedia Project"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 4,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "Which among the following statement describes baseline in font?",
+      "answer": "It line upon which most letters \"sit\" and below which descenders extend.",
+      "choices": [
+        "a. It line upon which most letters \"sit\" and below which descenders extend.",
+        "b. Where the uppercase sit",
+        "c. A measurement of size for Font",
+        "d. Itline upon which most letters \"sit\" and below which ascender extend",
+        "It line upon which most letters \"sit\" and below which descenders extend."
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "Which among the given choices doesn't belong in GIMP's Toolbox?",
+      "answer": "Text Editor Tool",
+      "choices": [
+        "a. Transform Tool",
+        "b. Brush Tools",
+        "c. Text Editor Tool",
+        "d. Selection Tool",
+        "a. Text Editor Tool",
+        "b. Transform Tool",
+        "c. Brush Tools"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "Which among the given choices is a multimedia application?",
+      "answer": "Journalism",
+      "choices": [
+        "a. Planning",
+        "b. Text",
+        "c. Delivery",
+        "d. Journalism",
+        "a. Journalism",
+        "b. Delivery",
+        "c. Planning",
+        "d. Text",
+        "Journalism"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 4,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "Which among the given choices is a raster and vector graphics editor for Microsoft Windows.",
+      "answer": "Painshop",
+      "choices": [
+        "a. Photoshop",
+        "b. Audacity",
+        "c. GIMP",
+        "d. Painshop",
+        "a. Painshop",
+        "b. GIMP",
+        "c. Photoshop",
+        "d. Audacity"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "Which among the given choices is not a multimedia application?",
+      "answer": "None of the above",
+      "choices": [
+        "a. None of the above",
+        "b. Medicine",
+        "c. Engineering",
+        "d. Scientific Research",
+        "Medicine (wrong) None of the above JPG stands for?"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "Which among the given file extension is the image file format of GIMP image-editing program?",
+      "answer": ".xct",
+      "choices": [
+        "a. .psd",
+        "b. .gimp",
+        "c. .jpeg",
+        "d. .xct",
+        ".xct"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "Which among the given names created and started the Pencil-2D software?",
@@ -2250,26 +5275,342 @@
         "d. Patrick Carter"
       ],
       "verified": true,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-09-22T08:04:10Z",
-      "lastVerifiedAt": "2026-09-22T08:04:10Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
+    },
+    {
+      "question": "Which among the given tools in GIMP is used to select a square or rectangular region on the canvas?",
+      "answer": "[Image: 17-c - [moodle-asset:421351/17-c.png]]",
+      "choices": [
+        "a. [Image: 17-c - [moodle-asset:421351/17-c.png]]",
+        "b. [Image: 17-w1 - [moodle-asset:421352/17-w1.png]]",
+        "c. [Image: 17-w3 - [moodle-asset:421354/17-w3.png]]",
+        "d. [Image: 17-w2 - [moodle-asset:421353/17-w2.png]]"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "Which among the given tools is used to select the color from image's pixel?",
+      "answer": "[Image: [moodle-asset:421951/C.png]]",
+      "choices": [
+        "a. [Image: [moodle-asset:421954/w3.png]]",
+        "b. [Image: [moodle-asset:421953/w2.png]]",
+        "c. [Image: [moodle-asset:421952/w1.png]]",
+        "d. [Image: [moodle-asset:421951/C.png]]"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "Which of the following best describes the Alphabet?",
+      "answer": "Classified in phonological writing wherein it is the most recently invented writing system and commonly used as of today.",
+      "choices": [
+        "a. Syllabaries",
+        "b. It is simply a graphic symbol that represents an idea or concept, independent of any particular language and specific words or phrases",
+        "c. Classified in phonological writing wherein it is the most recently invented writing system and commonly used as of today.",
+        "d. These are often represented in the form of still picture, painting or a photograph.",
+        "Classified in phonological writing wherein it is the most recently invented writing system and commonly used as of today."
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "Which of the following corporation created the WAV audio format?",
+      "answer": "Microsoft Corpotation",
+      "choices": [
+        "a. Microsoft Corpotation",
+        "b. Autodesk",
+        "c. IBM",
+        "d. AppleInc",
+        "Microsoft Corporation"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "Which of the following defines Vector in multimedia?",
+      "answer": "These are graphics usually uses lines, polylines and polygons to represent images in computer graphics",
+      "choices": [
+        "a. A digital representation of an art",
+        "b. Moving designs that uses elements like lines and poylines.",
+        "c. These are graphics usually uses lines, polylines and polygons to represent images in computer graphics",
+        "d. A file format system for images.",
+        "These are graphics usually uses lines, polylines and polygons to represent images in computer graphics"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "Which of the following is not a browser?",
+      "answer": "Spotify",
+      "choices": [
+        "a. Spotify",
+        "b. Safari",
+        "c. Chrome",
+        "d. Mozilla",
+        "Spotify"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "Which of the following is not a color specification format?",
+      "answer": "ROYGBIV",
+      "choices": [
+        "a. RGB",
+        "b. CMYK",
+        "c. HSB",
+        "d. ROYGBIV",
+        "b. HSB",
+        "c. CMYK"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "Which of the following is NOT true about GUI?",
+      "answer": "A software for creating and editing the interface of the software system.",
+      "choices": [
+        "a. A software for creating and editing the interface of the software system.",
+        "b. GUI stands for Graphical User Interface",
+        "c. It consists of windows, buttons, and icons on the desktop.",
+        "d. An interface where it allows the user to interact with the computer with graphical and visual icons on the computer.",
+        "A software for creating and editing the interface of the software system."
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "Which of the following statement doesn't describe MIDI? A communications standard developed in the early 1980s for electronic musical instruments and computers which provides protocol for passing detailed descriptions of musical scores.",
+      "answer": "A lossy compression file format",
+      "choices": [
+        "a. Stands for Musical Instrument Digital Interface",
+        "b. A communication standard developed for electronic musical instruments and computers in 1980.",
+        "c. A protocol and connector of various electronic instruments and with the use of computer for which enables the creation of the musical scores",
+        "d. A lossy compression file format",
+        "A lossy compression file format"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "Who among the given choices usually responsible for handling and ensuring that project meet the requirements .",
+      "answer": "Tester",
+      "choices": [
+        "a. Project Manager",
+        "b. Designer",
+        "c. Tester",
+        "d. Programmer",
+        "Tester"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "Who among the given choices usually responsible for handling the overall content and determines the design elements required in for its structure.",
+      "answer": "Designer",
+      "choices": [
+        "a. Tester",
+        "b. Designer",
+        "c. Programmer",
+        "d. Writer",
+        "b. Writer",
+        "d. Designer"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "Who developed the video file format MOV?",
+      "answer": "AppleInc",
+      "choices": [
+        "a. IBM",
+        "b. Adobe",
+        "c. Microsoft Corporation",
+        "d. AppleInc",
+        "AppleInc"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "Who invented the motion picture camera?",
+      "answer": "Thomas Edison",
+      "choices": [
+        "a. Thompson Alva",
+        "b. Thompson Edison",
+        "c. Thomas Edison",
+        "d. Alvarez Edison",
+        "a. Thompson Edison",
+        "b. Thomas Edison",
+        "c. Thompson Alva"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "Windows movie maker is an authoring tool.",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False",
+        "True"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Prelim Lab Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "WMA stands for Windows Multimedia Audio",
       "answer": "False",
       "choices": [
         "a. True",
-        "b. False"
+        "b. False",
+        "False"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-22T07:45:16Z",
-      "lastVerifiedAt": "2026-10-06T09:40:26Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "WWW stands for Wide World Web",
@@ -2279,13 +5620,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-22T08:01:44Z",
-      "lastVerifiedAt": "2026-10-06T09:41:28Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "You can access Multimedia on the web",
@@ -2295,13 +5638,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-22T08:01:44Z",
-      "lastVerifiedAt": "2026-10-06T09:41:28Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Youtube.com is an example of a video streaming site",
@@ -2311,13 +5656,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-22T08:01:44Z",
-      "lastVerifiedAt": "2026-10-06T09:41:28Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     }
   ]
 }

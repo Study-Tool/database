@@ -1,8 +1,8 @@
 {
   "subjectCode": "IT6206",
   "subjectName": "Information Assurance and Security 2",
-  "updatedAt": "2026-10-06T10:43:29Z",
-  "totalQuestions": 135,
+  "updatedAt": "2026-11-27T04:26:31Z",
+  "totalQuestions": 151,
   "questions": [
     {
       "question": "20 different risk markers grouped under five main categories",
@@ -11,117 +11,167 @@
         "Security, Medical, Political, Environmental and Infrastructural Risks"
       ],
       "verified": true,
-      "confirmations": 22,
+      "confirmations": 28,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "[____: Availability] : assuring that authorized users have continued access to information and resources.",
       "answer": "Availability",
       "choices": [],
       "verified": true,
-      "confirmations": 17,
+      "confirmations": 23,
       "firstSeenAt": "2026-09-22T05:27:41Z",
-      "lastVerifiedAt": "2026-10-06T08:56:56Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "shortanswer"
+      "questionType": "shortanswer",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "[____: Confidential Information] was stored in servers in multiple areas, leaving us open to risk.",
       "answer": "Confidential Information",
       "choices": [],
       "verified": true,
-      "confirmations": 32,
+      "confirmations": 38,
       "firstSeenAt": "2026-09-22T05:21:54Z",
-      "lastVerifiedAt": "2026-10-06T10:43:29Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "shortanswer"
+      "questionType": "shortanswer",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "[____: Confidentiality] :controlling who gets to read information.",
       "answer": "Confidentiality",
       "choices": [],
       "verified": true,
-      "confirmations": 17,
+      "confirmations": 23,
       "firstSeenAt": "2026-09-22T05:27:41Z",
-      "lastVerifiedAt": "2026-10-06T08:56:56Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "shortanswer"
+      "questionType": "shortanswer",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "[____: Confidentiality] is a requirement whose purpose is to keep sensitive information from being disclosed to unauthorized recipients.",
       "answer": "Confidentiality",
       "choices": [],
       "verified": true,
-      "confirmations": 13,
+      "confirmations": 19,
       "firstSeenAt": "2026-09-22T05:30:01Z",
-      "lastVerifiedAt": "2026-10-06T09:00:33Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "shortanswer",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "[____: Cybersecurity] is all about protecting data that is found in electronic form (such as computers, servers, networks, mobile devices, etc.) from being compromised or attacked.",
       "answer": "Cybersecurity",
       "choices": [],
       "verified": true,
-      "confirmations": 19,
+      "confirmations": 25,
       "firstSeenAt": "2026-09-22T05:34:36Z",
-      "lastVerifiedAt": "2026-10-06T09:15:32Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "shortanswer"
+      "questionType": "shortanswer",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "[____: Information security] is another way of saying “data security.”",
       "answer": "Information security",
       "choices": [],
       "verified": true,
-      "confirmations": 19,
+      "confirmations": 25,
       "firstSeenAt": "2026-09-22T05:34:36Z",
-      "lastVerifiedAt": "2026-10-06T09:15:32Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "shortanswer"
+      "questionType": "shortanswer",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "[____: Integrity] :assuring that information and programs are changed only in a specified and authorized manner.",
       "answer": "Integrity",
       "choices": [],
       "verified": true,
-      "confirmations": 17,
+      "confirmations": 23,
       "firstSeenAt": "2026-09-22T05:27:41Z",
-      "lastVerifiedAt": "2026-10-06T08:56:56Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "shortanswer"
+      "questionType": "shortanswer",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "[____: Management controls] are the mechanisms and techniques—administrative, procedural, and technical—that are instituted to implement a security policy.",
       "answer": "Management controls",
       "choices": [],
       "verified": true,
-      "confirmations": 15,
+      "confirmations": 21,
       "firstSeenAt": "2026-09-22T05:55:46Z",
-      "lastVerifiedAt": "2026-10-06T09:15:32Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "shortanswer"
+      "questionType": "shortanswer",
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "[____] consists of changing the data located in files into unreadable bits of characters unless a key to decode the file is provided.",
+      "answer": "Encryption",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 13,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "[____] was stored in servers in multiple areas, leaving us open to risk.",
+      "answer": "Confidential Information",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 14,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "_______ : assuring that authorized users have continued access to information and resources",
@@ -130,13 +180,15 @@
         "Availability"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 27,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "_______ is a weakness or fault in a system that exposes information to attack.",
@@ -145,13 +197,15 @@
         "Vulnerability"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "________ :assuring that information and programs are changed only in a specified and authorized manner.",
@@ -160,13 +214,15 @@
         "Integrity"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 23,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
-      "source": "community_contribution",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "_________ are the mechanisms and techniques—administrative, procedural, and technical—that are instituted to implement a security policy",
@@ -175,13 +231,15 @@
         "Management controls"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 31,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "__________:controlling who gets to read information",
@@ -190,13 +248,15 @@
         "Confidentiality"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 27,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "___________________ or security ratings are the cyber equivalent of a credit score.",
@@ -205,13 +265,15 @@
         "Cybersecurity ratings"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "A [____: phishing] that must be restored within an hour after disruption represents, and requires, a more demanding set of policies and controls than does a similar system that need not be restored for two to three days.",
@@ -234,13 +296,15 @@
       "answer": "system",
       "choices": [],
       "verified": true,
-      "confirmations": 12,
+      "confirmations": 18,
       "firstSeenAt": "2026-09-22T05:30:01Z",
-      "lastVerifiedAt": "2026-10-06T09:00:33Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "shortanswer",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "A ______ is a concise statement, by those responsible for a system (e.g., senior management), of information values, protection responsibilities, and organizational commitment.",
@@ -249,13 +313,15 @@
         "security policy"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 26,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "A ______ that must be restored within an hour after disruption represents, and requires, a more demanding set of policies and controls than does a similar system that need not be restored for two to three days.",
@@ -264,13 +330,15 @@
         "system"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 23,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "a data endowed with relevance and purpose.",
@@ -279,26 +347,30 @@
         "Information"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "A major conclusion of this report is that the lack of a clear [____: ARTICULATION] of security policy for general computing is a major impediment to improved security in computer systems.",
       "answer": "ARTICULATION",
       "choices": [],
       "verified": true,
-      "confirmations": 15,
+      "confirmations": 21,
       "firstSeenAt": "2026-09-22T05:55:46Z",
-      "lastVerifiedAt": "2026-10-06T09:15:32Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "shortanswer"
+      "questionType": "shortanswer",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "A major conclusion of this report is that the lack of a clear_____of security policy for general computing is a major impediment to improved security in computer systems.",
@@ -307,26 +379,46 @@
         "articulation"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 26,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "A principle which is a core requirement of information security for the safe utilization, flow, and storage of information is the [____: CIA triad] .",
       "answer": "CIA triad",
       "choices": [],
       "verified": true,
-      "confirmations": 22,
+      "confirmations": 28,
       "firstSeenAt": "2026-09-22T05:41:01Z",
-      "lastVerifiedAt": "2026-10-06T09:10:43Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "shortanswer"
+      "questionType": "shortanswer",
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "A principle which is a core requirement of information security for the safe utilization, flow, and storage of information is the [____] .",
+      "answer": "CIA triad",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 10,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "quiz",
+      "originLabel": "Quiz 1",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "a variety of ongoing measures taken to reduce the likelihood and severity of accidental and intentional alteration, destruction, misappropriation, misuse, misconfiguration, unauthorized distribution, and unavailability of an organization’s logical and physical assets, as the result of action or inaction by insiders and known outsiders, such as business partners.”",
@@ -335,13 +427,15 @@
         "Personnel security"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Accepted facts, principles, or rules of thumb that are useful for specific domains.",
@@ -350,13 +444,15 @@
         "Knowledge"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "According to _____ , IA can be thought of as protecting information at three distinct levels.",
@@ -365,13 +461,15 @@
         "Blyth and Kovacich"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "According to _______ IA has four major categories: physical security personnel security IT security operational security.",
@@ -380,13 +478,15 @@
         "Debra Herrmann"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "According to ______taxonomy of information security, a computing environment is made up of five continuously interacting components",
@@ -395,13 +495,15 @@
         "Raggad’s"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Always closely guard their personal effects when it comes to identity theft.",
@@ -410,13 +512,15 @@
         "True"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "An _____ must have administrative procedures in place to bring peculiar actions to the attention of someone who can legitimately inquire into the appropriateness of such actions, and that person must actually make the inquiry.",
@@ -425,26 +529,30 @@
         "organization"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 24,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "An effective [____: program of management] controls is needed to cover all aspects of information security, including physical security, classification of information, the means of recovering from breaches of security, and above all training to instill awareness and acceptance by people.",
       "answer": "program of management",
       "choices": [],
       "verified": true,
-      "confirmations": 14,
+      "confirmations": 20,
       "firstSeenAt": "2026-09-22T05:55:46Z",
-      "lastVerifiedAt": "2026-10-06T09:15:32Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "shortanswer"
+      "questionType": "shortanswer",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "An effective [____: set of] controls is needed to cover all aspects of information security, including physical security, classification of information, the means of recovering from breaches of security, and above all training to instill awareness and acceptance by people.",
@@ -469,13 +577,31 @@
         "program of management"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 25,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
-      "source": "community_contribution",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
+    },
+    {
+      "question": "As regards to [____] , its means of protection are somewhat similar – access to the area where the information is kept may be granted only with the proper badge or any different form of authorization, it can be physically locked in a safe or a file cabinet, there could be access controls, cameras, security, etc.",
+      "answer": "physical data",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 13,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "As viruses have escalated from a hypothetical to a commonplace threat, it has become necessary to rethink such policies in regard to methods of distribution and acquisition of",
@@ -484,13 +610,15 @@
         "software"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 27,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "assurance that information is not disclosed to unauthorized persons.",
@@ -499,13 +627,15 @@
         "Confidentiality"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "assurance that the sender is provided with proof of a data delivery and recipient is provided with proof of the sender’s identity, so that neither can later deny having processed the data.",
@@ -514,13 +644,15 @@
         "Non-repudiation"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Because ratings are easy to understand, they are a useful mechanism for ____________________ and vendor risk to a non-technical audience in the C-suite, boardroom, or with the vendor in question.",
@@ -529,28 +661,36 @@
         "communicating internal"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Both individuals need to know what data is most critical to the organization so they can focus on placing the right ____________________ and monitoring controls on that data.",
       "answer": "cyber risk management",
       "choices": [
-        "cyber risk management"
+        "cyber risk management",
+        "physical access controls",
+        "data evaluation business",
+        "information security professional",
+        "fusion"
       ],
       "verified": true,
-      "confirmations": 14,
+      "confirmations": 22,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T09:08:50Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "Business partners and investors are increasingly aware of the importance of this topic, and companies are asked regularly about their effectiveness in securing data and managing both ___________________.",
@@ -559,13 +699,15 @@
         "physical and cyber risk"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Carrying items makes you more vulnerable targets for criminals.",
@@ -574,13 +716,31 @@
         "True"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "CIA stands for [____] , integrity, and availability and these are the three main objectives of information security.",
+      "answer": "Confidentiality",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 13,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Grades-Harvester",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "Computer security and cybersecurity are both children of ______________________.",
@@ -589,13 +749,15 @@
         "information security"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Computer security and cybersecurity are completely ___________________, and require digital computer technology from 1946’s ENIAC to now.",
@@ -604,26 +766,30 @@
         "interchangeable terms"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Computers are [____: ACTIVE] entities, and programs can be changed in a twinkling, so that past happiness is no predictor of future bliss.",
       "answer": "ACTIVE",
       "choices": [],
       "verified": true,
-      "confirmations": 15,
+      "confirmations": 21,
       "firstSeenAt": "2026-09-22T05:55:46Z",
-      "lastVerifiedAt": "2026-10-06T09:15:32Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "shortanswer"
+      "questionType": "shortanswer",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Computers are ______ entities, and programs can be changed in a twinkling, so that past happiness is no predictor of future bliss.",
@@ -632,13 +798,15 @@
         "active"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 28,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "Criminals are constantly surveying the environment for an opportunity to commit crimes.",
@@ -647,28 +815,39 @@
         "True"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Cybersecurity professionals traditionally understand the technology, firewalls, and intrusion protection systems needed, but weren’t necessarily brought up in the ___________________.",
       "answer": "data evaluation business",
       "choices": [
-        "data evaluation business"
+        "data evaluation business",
+        "physical access controls",
+        "information security professional",
+        "fusion",
+        "cyber risk management"
       ],
       "verified": true,
-      "confirmations": 14,
+      "confirmations": 22,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T09:08:50Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "information security professional"
+      ],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "wrongAnswerEvidence": true,
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "Data and data processing activities in physical space.",
@@ -677,13 +856,15 @@
         "physical"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "different risk markers grouped under five main categories",
@@ -708,10 +889,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 11,
+      "confirmations": 19,
       "firstSeenAt": "2026-10-04T12:54:46Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-10-06T10:43:29Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "Disruptions in their day-to-day business: Time is money.",
@@ -722,26 +905,30 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 32,
+      "confirmations": 48,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T10:39:01Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "Early disclosure may jeopardize [____: competitive] advantage, but disclosure just before the intended announcement may be insignificant.",
       "answer": "competitive",
       "choices": [],
       "verified": true,
-      "confirmations": 13,
+      "confirmations": 19,
       "firstSeenAt": "2026-09-22T05:30:01Z",
-      "lastVerifiedAt": "2026-10-06T09:00:33Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "shortanswer",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Early disclosure may jeopardize______ advantage, but disclosure just before the intended announcement may be insignificant.",
@@ -750,13 +937,15 @@
         "competitive"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 27,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "Ensuring proper HTTPS implementation for an ecommerce website or mobile app falls under cybersecurity and computer security, so it’s ___________________.",
@@ -765,13 +954,15 @@
         "information security"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Feeling confident about their organization's security level: When information security community members participated in the Cybersecurity Trends Report, they were asked how positive they felt about their security stance.",
@@ -782,13 +973,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 52,
+      "confirmations": 75,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T10:43:29Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "Fifth Reason why investing in information security is significant",
@@ -797,9 +990,9 @@
         "Regulatory compliance's"
       ],
       "verified": true,
-      "confirmations": 28,
+      "confirmations": 50,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T10:43:29Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "alternateAnswers": [
         {
@@ -874,7 +1067,9 @@
       "isAiSuggestion": false,
       "wrongAnswerEvidence": true,
       "questionType": "shortanswer",
-      "lastEvidenceAt": "2026-10-04T11:56:56Z"
+      "lastEvidenceAt": "2026-10-04T11:56:56Z",
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "First Reason why investing in information security is significant",
@@ -883,13 +1078,15 @@
         "Rising cost of breaches"
       ],
       "verified": true,
-      "confirmations": 68,
+      "confirmations": 91,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T10:43:29Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "shortanswer"
+      "questionType": "shortanswer",
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "For a [____: For a Answer Question 3 , the chief concern may be ensuring the confidentiality of classified information, whereas a funds transfer system may require strong integrity controls.] , the chief concern may be ensuring the confidentiality of classified information, whereas a funds transfer system may require strong integrity controls.",
@@ -960,13 +1157,15 @@
       "answer": "national defense system",
       "choices": [],
       "verified": true,
-      "confirmations": 11,
+      "confirmations": 17,
       "firstSeenAt": "2026-09-22T05:27:41Z",
-      "lastVerifiedAt": "2026-10-06T08:56:56Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "shortanswer"
+      "questionType": "shortanswer",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "For a ________ , the chief concern may be ensuring the confidentiality of classified information, whereas a funds transfer system may require strong integrity controls",
@@ -975,13 +1174,15 @@
         "national defense system"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 27,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "for assets are one that has known threats",
@@ -990,13 +1191,15 @@
         "hostile environment"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Fourth Reason why investing in information security is significant",
@@ -1065,12 +1268,20 @@
         "Avoiding financial losses",
         "Protecting reputation and customer trust",
         "Evolving or increasing cyber threats",
-        "Protecting sensitive data or intellectual property"
+        "Protecting sensitive data or intellectual property",
+        "Increased cyberattacks and evolving security threats",
+        "Funded hackers and wide availability of hacking tools.",
+        "Funded hackers and wide availability of hacking tool/s",
+        "funded hackers and widely available hacking tools",
+        "The need for skilled workers and allocation of funds for security within their budget",
+        "Funded hackers and w ide availability of hacking tools"
       ],
       "isAiSuggestion": false,
       "wrongAnswerEvidence": true,
       "questionType": "shortanswer",
-      "lastEvidenceAt": "2026-10-06T10:43:29Z"
+      "lastEvidenceAt": "2026-11-27T04:26:31Z",
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "If you feel vulnerable do not ask Police or Security to escort you to your car",
@@ -1079,13 +1290,15 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "If you have an intuitive feeling something is wrong, trust your instincts.",
@@ -1094,41 +1307,67 @@
         "True"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "If your data is stored physically or digitally, you need to be sure you have all the right ____________________ in place to prevent unauthorized individuals from gaining access.",
       "answer": "physical access controls",
       "choices": [
-        "physical access controls"
+        "physical access controls",
+        "data evaluation business",
+        "information security professional",
+        "fusion",
+        "cyber risk management"
       ],
       "verified": true,
-      "confirmations": 14,
+      "confirmations": 26,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T09:08:50Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "If you’re in information security, your main concern is protecting your company's data from unauthorized access of any sort — and if you’re in cybersecurity, your main concern is protecting your company’s data from [____: unauthorized electronic access] .",
       "answer": "unauthorized electronic access",
       "choices": [],
       "verified": true,
-      "confirmations": 12,
+      "confirmations": 18,
       "firstSeenAt": "2026-09-22T06:04:05Z",
-      "lastVerifiedAt": "2026-10-06T09:15:32Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "shortanswer",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "If you’re in information security, your main concern is protecting your company's data from unauthorized access of any sort — and if you’re in cybersecurity, your main concern is protecting your company’s data from [____] .",
+      "answer": "unauthorized electronic access",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 6,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "review_screen",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "In any particular circumstance, some threats are more probable than others, and a______ must assess the threats, assign a level of concern to each, and state a policy in terms of which threats are to be resisted.",
@@ -1137,28 +1376,39 @@
         "prudent policy setter"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 24,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "In some scenarios, an __________________ would help a cybersecurity professional prioritize data protection — and then the cybersecurity professional would determine the best course of action for the data protection.",
       "answer": "information security professional",
       "choices": [
-        "information security professional"
+        "information security professional",
+        "physical access controls",
+        "data evaluation business",
+        "fusion",
+        "cyber risk management"
       ],
       "verified": true,
-      "confirmations": 14,
+      "confirmations": 22,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T09:08:50Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "data evaluation business"
+      ],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "wrongAnswerEvidence": true,
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "Info security is concerned with making sure data in any form is kept secure and is a bit broader than",
@@ -1167,26 +1417,30 @@
         "cybersecurity"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 22,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
-      "source": "community_contribution",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "Info security is concerned with making sure data in any form is kept secure and is a bit broader than [____: cybersecurity] .",
       "answer": "cybersecurity",
       "choices": [],
       "verified": true,
-      "confirmations": 27,
+      "confirmations": 33,
       "firstSeenAt": "2026-09-22T05:34:36Z",
-      "lastVerifiedAt": "2026-10-06T09:10:43Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "shortanswer"
+      "questionType": "shortanswer",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Information and data manipulation abilities in cyberspace.",
@@ -1195,13 +1449,15 @@
         "information infrastructure"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Information is one of the most significant [____: business] resources.",
@@ -1224,9 +1480,9 @@
       "answer": "non-substantial",
       "choices": [],
       "verified": true,
-      "confirmations": 31,
+      "confirmations": 37,
       "firstSeenAt": "2026-09-17T16:46:15Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [
         "non substantial",
@@ -1235,7 +1491,9 @@
       "isAiSuggestion": false,
       "questionType": "shortanswer",
       "wrongAnswerEvidence": true,
-      "lastEvidenceAt": "2026-10-04T13:29:13Z"
+      "lastEvidenceAt": "2026-10-04T13:29:13Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Information is one of the most significant [____: non-substantials] resources.",
@@ -1276,13 +1534,15 @@
         "non-substantial"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 33,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
-      "source": "community_contribution",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "involves the implementation of standard operational security procedures that define the nature and frequency of the interaction between users, systems, and system resources, the purpose.",
@@ -1291,13 +1551,15 @@
         "Operational security"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "is a collection of computing environments connected by one or more internal networks under the control of a single authority and security policy, including personnel and physical security.",
@@ -1306,13 +1568,15 @@
         "enclave"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "is a nonhostile environment that may be protected from external hostile elements by physical, personnel, and procedural countermeasures.",
@@ -1321,13 +1585,15 @@
         "Benign environment"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "is a requirement whose purpose is to keep sensitive information from being disclosed to unauthorized recipients.",
@@ -1336,13 +1602,15 @@
         "Confidentiality"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 25,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
-      "source": "community_contribution",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "is all about protecting data that is found in electronic form (such as computers, servers, networks, mobile devices, etc.) from being compromised or attacked.",
@@ -1351,13 +1619,15 @@
         "Cybersecurity"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 22,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
-      "source": "community_contribution",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "is another way of saying “data security.”",
@@ -1366,13 +1636,15 @@
         "Information security"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 22,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
-      "source": "community_contribution",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "is the study of how to protect your information assets from destruction, degradation, manipulation and exploitation. But also, how to recover should any of those happen.",
@@ -1381,13 +1653,15 @@
         "Information Assurance"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IT is the ___________________for practical purposes, largely for industry (mainframes, supercomputers, datacentres, servers, PCs and mobile devices as endpoints for worker interaction) and consumers (PCs, mobile devices, IoT devices, and video game console endpoints for enduser lifestyles.)",
@@ -1396,13 +1670,15 @@
         "application of computer science"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "IT security can probably be used interchangeably with cybersecurity, computer security and information security if ___________________.",
@@ -1411,13 +1687,15 @@
         "it pertains to business"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Keeping information___________________ electronic computers (such as ancient cryptography) to this very day falls under the banner of information security.",
@@ -1426,13 +1704,15 @@
         "secure for the history of data predating"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Knowledge and understanding in human decision space.",
@@ -1441,13 +1721,15 @@
         "perceptual"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Layer describes the notion that data ought to be secured while in motion.",
@@ -1456,13 +1738,15 @@
         "data in motion"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Layer describes the notion that the physical access to any system, server, computer, data center, or another physical object storing confidential information has to be constrained to business ought-to-know.",
@@ -1471,13 +1755,15 @@
         "Physical Access"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Match the term/details to complete each statement.",
@@ -1490,9 +1776,9 @@
         "e. Answer 5 Question 1"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-22T05:37:22Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "isAiSuggestion": false,
@@ -1502,7 +1788,9 @@
           "rejectedAnswer": "data evaluation business, cyber risk management, fusion, information security professional, physical access controls",
           "timestamp": "2026-10-04T13:46:31Z"
         }
-      ]
+      ],
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "may prevent people from doing unauthorized things but cannot prevent them from doing things that their job functions entitle them to do.",
@@ -1511,13 +1799,15 @@
         "Technical measure"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 23,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
-      "source": "community_contribution",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Method of reducing criminal opportunity.",
@@ -1526,13 +1816,15 @@
         "Be alert and aware, Display confidence, Keep your hands free, Trust your instincts, Ask for help, Closely Guard your personal Effects"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "One can implement that policy by taking specific actions guided by management control principles and utilizing specific security standards, procedures, and",
@@ -1541,28 +1833,36 @@
         "mechanisms"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 25,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
-      "source": "community_contribution",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Over the last decade, we’ve seen a _________________ between cybersecurity and information security, as these previously siloed positions have come together.",
       "answer": "fusion",
       "choices": [
-        "fusion"
+        "fusion",
+        "physical access controls",
+        "data evaluation business",
+        "information security professional",
+        "cyber risk management"
       ],
       "verified": true,
-      "confirmations": 14,
+      "confirmations": 22,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T09:08:50Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "protection against unauthorized modification or destruction of information",
@@ -1571,13 +1871,15 @@
         "Integrity"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Raw facts with a known coding system",
@@ -1586,13 +1888,15 @@
         "Data"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Raw facts with an unknown coding system",
@@ -1601,13 +1905,15 @@
         "Noise"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "refers to the protection of hardware, software, and data against physical threats to reduce or prevent disruptions to operations and services and loss of assets.”.",
@@ -1616,13 +1922,15 @@
         "Physical security"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Second Reason why investing in information security is significant",
@@ -1631,9 +1939,9 @@
         "Increasingly sophisticated attacker"
       ],
       "verified": true,
-      "confirmations": 27,
+      "confirmations": 50,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T10:43:29Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "alternateAnswers": [
         {
@@ -1755,7 +2063,9 @@
       "isAiSuggestion": false,
       "wrongAnswerEvidence": true,
       "questionType": "shortanswer",
-      "lastEvidenceAt": "2026-10-04T12:18:01Z"
+      "lastEvidenceAt": "2026-10-04T12:18:01Z",
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "security measures to establish the validity of a transmission, message, or originator.",
@@ -1764,13 +2074,15 @@
         "Authentication"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "sing this high-level, objectively-derived data can simplify the ______________________ around risk.",
@@ -1779,13 +2091,15 @@
         "conversation"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Some [____: control objectives] are explicitly concerned with protecting information and information systems, but the concept of management controls includes much more than a computer's specific role in enforcing security.",
@@ -1808,13 +2122,15 @@
       "answer": "management controls",
       "choices": [],
       "verified": true,
-      "confirmations": 14,
+      "confirmations": 20,
       "firstSeenAt": "2026-09-22T05:55:46Z",
-      "lastVerifiedAt": "2026-10-06T09:15:32Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "shortanswer"
+      "questionType": "shortanswer",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Some ____are explicitly concerned with protecting information and information systems, but the concept of management controls includes much more than a computer's specific role in enforcing security.",
@@ -1823,13 +2139,15 @@
         "management controls"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 26,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "The [____: management controls] must be managed by auditing, backup, and recovery procedures supported by general alertness and creative responses.",
@@ -1868,13 +2186,143 @@
       "answer": "RESIDUAL RISK",
       "choices": [],
       "verified": true,
-      "confirmations": 12,
+      "confirmations": 18,
       "firstSeenAt": "2026-09-22T05:59:34Z",
-      "lastVerifiedAt": "2026-10-06T09:15:32Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "shortanswer"
+      "questionType": "shortanswer",
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "The [____] Layer describes the notion that access to end-user applications have to be constrained to business ought-to-know.",
+      "answer": "Application Access",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 12,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "The [____] Layer describes the notion that access to infrastructure components has to be constrained to business ought-to-know. For instance, access to servers.",
+      "answer": "Infrastructure Access",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 11,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "The [____] Layer describes the notion that data ought to be secured while in motion.",
+      "answer": "data in motion",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 9,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "The [____] Layer describes the notion that the physical access to any system, server, computer, data center, or another physical object storing confidential information has to be constrained to business ought-to-know.",
+      "answer": "Physical Access",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 12,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "The [____] principle dictates that information should solely be viewed by people with appropriate and correct privileges.",
+      "answer": "confidentiality",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 15,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "The aim of [____] is to ensure that information is hidden from people unauthorized to access it.",
+      "answer": "confidentiality",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 17,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "The contemporary [____] differs substantially from the classic one, which used pen and paper for encryption and which was far less complex.",
+      "answer": "cryptography",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 13,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "The establishment of the [____] rotor machine and the subsequent emergence of electronics and computing enabled the usage of much more elaborate schemes and allowed confidentiality to be protected much more effectively.",
+      "answer": "Enigma",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 12,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "The framework within which an organization strives to meet its needs for information security is codified as _____",
@@ -1883,13 +2331,15 @@
         "Security policy"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 26,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "the inherent technical features and functions that collectively contribute to an IT infrastructure achieving and sustaining confidentiality, integrity, availability, accountability, authenticity, and reliability.”",
@@ -1898,13 +2348,15 @@
         "IT security"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The need for skilled workers and allocation of funds for security within their budget: Companies are making the effort to allocate more funds in their budgets for security.",
@@ -1915,13 +2367,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 32,
+      "confirmations": 51,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T10:39:01Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "The process to protect that data requires more advanced",
@@ -1930,26 +2384,30 @@
         "IT security tool"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 22,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
-      "source": "community_contribution",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "The process to protect that data requires more advanced [____: IT security tool] .",
       "answer": "IT security tool",
       "choices": [],
       "verified": true,
-      "confirmations": 19,
+      "confirmations": 25,
       "firstSeenAt": "2026-09-22T05:34:36Z",
-      "lastVerifiedAt": "2026-10-06T09:15:32Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "shortanswer"
+      "questionType": "shortanswer",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The requirements for applications that are connected to [____: a network] will differ from those for applications without such interconnection.",
@@ -1972,13 +2430,15 @@
       "answer": "external systems",
       "choices": [],
       "verified": true,
-      "confirmations": 13,
+      "confirmations": 19,
       "firstSeenAt": "2026-09-22T05:27:41Z",
-      "lastVerifiedAt": "2026-10-06T08:56:56Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "shortanswer"
+      "questionType": "shortanswer",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The requirements for applications that are connected to [____: the Internet] will differ from those for applications without such interconnection.",
@@ -2003,13 +2463,15 @@
         "external systems"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 34,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "The weight given to each of the three major requirements describing needs for information security—confidentiality, integrity, and availability—depends strongly on",
@@ -2018,26 +2480,30 @@
         "circumstances"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 27,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "The weight given to each of the three major requirements describing needs for information security—confidentiality, integrity, and availability—depends strongly on [____: circumstances] .",
       "answer": "circumstances",
       "choices": [],
       "verified": true,
-      "confirmations": 13,
+      "confirmations": 19,
       "firstSeenAt": "2026-09-22T05:30:01Z",
-      "lastVerifiedAt": "2026-10-06T09:00:33Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "shortanswer",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "The_____must be managed by auditing, backup, and recovery procedures supported by general alertness and creative responses.",
@@ -2046,13 +2512,15 @@
         "residual risk"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 29,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "Theft of personal items such as pursues can result in more criminal opportunities such as:",
@@ -2061,13 +2529,15 @@
         "Identity Theft, Stolen Auto, Residential Burglary"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Third Reason why investing in information security is significant",
@@ -2076,13 +2546,15 @@
         "Proliferation of IoT devices"
       ],
       "verified": true,
-      "confirmations": 68,
+      "confirmations": 91,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T10:43:29Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "shortanswer"
+      "questionType": "shortanswer",
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "timely, reliable access to data and information services for authorized users.",
@@ -2091,13 +2563,15 @@
         "Availability"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "To be useful, a ______ must not only state the security need (e.g., for confidentiality—that data shall be disclosed only to authorized individuals), but also address the range of circumstances under which that need must be met and the associated operating standards.",
@@ -2106,13 +2580,31 @@
         "Security policy"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 27,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "To continue, confidentiality can be easily breached so each employee in an organization or company should be aware of his responsibilities in maintaining confidentiality of the [____] delegated to him for the exercise of his duties.",
+      "answer": "information",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 12,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "Types of private security.",
@@ -2121,13 +2613,15 @@
         "Technology, Private Alarm Response, Private Patrol Services, Private Security Guards"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Walk without purpose, scan the area around you and make casual eye contact with others to display confidence.",
@@ -2136,13 +2630,15 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "What jobs in information security is this? Salary: $103,560 Responsibilities: Software developers can be tasked with a wide range of responsibilities that may include designing parts of computer programs and applications and designing how those pieces work together.",
@@ -2151,13 +2647,19 @@
         "Software developer"
       ],
       "verified": true,
-      "confirmations": 69,
+      "confirmations": 91,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T10:43:29Z",
-      "source": "review_screen",
-      "wrongAnswers": [],
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "wrongAnswers": [
+        "Software nDeveloper"
+      ],
       "isAiSuggestion": false,
-      "questionType": "shortanswer"
+      "questionType": "shortanswer",
+      "wrongAnswerEvidence": true,
+      "originType": "quiz",
+      "originLabel": "Quiz 1",
+      "lastEvidenceAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "What jobs in information security is this? Salary: $104,000 Responsibilities: Create an in-office network for a small business or a cloud infrastructure for a business with corporate locations in cities on opposite coasts",
@@ -2166,21 +2668,25 @@
         "Computer Network Architects"
       ],
       "verified": true,
-      "confirmations": 34,
+      "confirmations": 44,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T10:43:29Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [
         "Computer Network Architect",
         "Network Security Architect",
         "Network Security",
         "Network Architect",
-        "Network Engineer"
+        "Network Engineer",
+        "Computer Network Architectsn",
+        "Computer Network Architectn"
       ],
       "isAiSuggestion": false,
       "wrongAnswerEvidence": true,
       "questionType": "shortanswer",
-      "lastEvidenceAt": "2026-10-06T08:53:34Z"
+      "lastEvidenceAt": "2026-11-27T04:26:31Z",
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "What jobs in information security is this? Salary: $139,000 Responsibilities: Information systems managers work toward ensuring a company's tech is capable of meeting their IT goals.",
@@ -2189,9 +2695,9 @@
         "Computer and Information Systems Managers"
       ],
       "verified": true,
-      "confirmations": 26,
+      "confirmations": 32,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:47:24Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "conflictHistory": [
         {
@@ -2217,6 +2723,14 @@
         {
           "rejectedAnswer": "Suggested (Verified DB): Computer and Information Systems Managers Filled",
           "timestamp": "2026-09-23T14:42:49Z"
+        },
+        {
+          "rejectedAnswer": "Computer, Information Systems Managers",
+          "timestamp": "2026-11-27T04:26:31Z"
+        },
+        {
+          "rejectedAnswer": "Computer, Information Systems Managers",
+          "timestamp": "2026-11-27T04:26:31Z"
         }
       ],
       "wrongAnswers": [
@@ -2231,7 +2745,9 @@
       "questionType": "shortanswer",
       "isAiSuggestion": false,
       "wrongAnswerEvidence": true,
-      "lastEvidenceAt": "2026-10-06T10:43:29Z"
+      "lastEvidenceAt": "2026-11-27T04:26:31Z",
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "What jobs in information security is this? Salary: $95,510 Responsibilities: Information security analysts monitor their companies' computer networks to combat hackers and compile reports of security breaches.",
@@ -2240,13 +2756,19 @@
         "Information Security Analyst"
       ],
       "verified": true,
-      "confirmations": 69,
+      "confirmations": 87,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T10:43:29Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "Information Security Analystn"
+      ],
       "isAiSuggestion": false,
-      "questionType": "shortanswer"
+      "questionType": "shortanswer",
+      "wrongAnswerEvidence": true,
+      "originType": "quiz",
+      "originLabel": "Quiz 1",
+      "lastEvidenceAt": "2026-11-27T04:26:31Z"
     },
     {
       "question": "While you are walking, keep your mind on what is going on around you.",
@@ -2255,13 +2777,15 @@
         "True"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "With [____: phishing] attacks, for example, even legitimate and honest users of an owner mechanism can be tricked into disclosing secret data.",
@@ -2284,13 +2808,15 @@
       "answer": "Trojan horse",
       "choices": [],
       "verified": true,
-      "confirmations": 9,
+      "confirmations": 15,
       "firstSeenAt": "2026-09-22T05:32:36Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "shortanswer",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "With [____: With [____] attacks, for example, even legitimate and honest users of an owner mechanism can be tricked into disclosing secret data. [Fill-in-the-Blank / Short Answer Question] [The blank is marked as [____] in the question text above.] [DETECTED ANSWER IN DATABASE]: - Suggested: Trojan horse (Verified • 100% Probability • community_contribution) Instructions: Answer ONLY with the exact word or phrase that fills the blank [____]. No explanation.] attacks, for example, even legitimate and honest users of an owner mechanism can be tricked into disclosing secret data.",
@@ -2315,13 +2841,31 @@
         "Trojan horse"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 24,
       "firstSeenAt": "2026-09-17T16:43:14Z",
-      "lastVerifiedAt": "2026-10-06T08:49:18Z",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
+    },
+    {
+      "question": "Тhe concept of layers illustrates that data communications and [____] are designated to function in a layered manner, transferring the data from one layer to the next.",
+      "answer": "computer network protocols",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 12,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "Review",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:31Z"
     }
   ]
 }

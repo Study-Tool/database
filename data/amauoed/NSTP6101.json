@@ -1,0 +1,6001 @@
+{
+  "subjectCode": "NSTP6101",
+  "subjectName": "National Service Training Program 1",
+  "updatedAt": "2026-11-27T04:26:33Z",
+  "totalQuestions": 256,
+  "tier": "amauoed",
+  "questions": [
+    {
+      "question": "\"Give fish to a man and he will have food for a day teach him how to fish and he shall have food to eat throughout this lifetime\"-Mahatma Ghandi",
+      "answer": "False",
+      "choices": [
+        "False",
+        "True"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "\"Hands-off style\" leadership",
+      "answer": "laissez-faire",
+      "choices": [
+        "autocratic",
+        "laissez-faire",
+        "democratic",
+        "bureaucratic"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "autocratic",
+        "democratic",
+        "bureaucratic"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "\"It is...\" is an example of this self- talk...",
+      "answer": "negative self- acceptance",
+      "choices": [
+        "universal affirmation",
+        "negative self- acceptance",
+        "decision to change",
+        "recognition and decision to change"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "universal affirmation",
+        "decision to change",
+        "recognition and decision to change"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "\"It's just no use!\" is an example of...",
+      "answer": "self-talk",
+      "choices": [
+        "self-awareness",
+        "self-motivation",
+        "self-talk",
+        "None of the choices"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "self-awareness",
+        "self-motivation",
+        "None of the choices"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "\"Literacy Training Service\" is a program designed to train students to become teachers of religious education and numeracy skills to school children, out of school youth, and other segments of society in need of their service",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "\"Truth is important in our society because it is condition for what\"",
+      "answer": "Freedom",
+      "choices": [
+        "Dignity",
+        "Freedom",
+        "Patriotism",
+        "Humility"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Dignity",
+        "Patriotism",
+        "Humility"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "A leader may only possess this power as a result of his or her knowledge and expertise regarding the tasks to be performed by subordinates",
+      "answer": "expert power",
+      "choices": [
+        "expert power",
+        "legitimate power",
+        "coercive power",
+        "reward power"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "legitimate power",
+        "coercive power",
+        "reward power"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "A person who is caught to possess any drug paraphernalia will have a penalty of 6 months to four-year imprisonment and fine of 10,000 to 50,000",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "A substance that increases alertness is called ________",
+      "answer": "stimulants",
+      "choices": [
+        "hallucinogens",
+        "narcotics",
+        "stimulants",
+        "sedatives"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "hallucinogens",
+        "narcotics",
+        "sedatives"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "A type of substance that affects sensation, thinking, emotion and sometimes gives delusions",
+      "answer": "hallucinogens",
+      "choices": [
+        "sedatives",
+        "stimulants",
+        "narcotics",
+        "hallucinogens"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "sedatives",
+        "stimulants",
+        "narcotics"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "A type of substance that reduces anxiety and excitement is called ________",
+      "answer": "sedatives",
+      "choices": [
+        "sedatives",
+        "stimulants",
+        "narcotics",
+        "hallucinogens"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "stimulants",
+        "narcotics",
+        "hallucinogens"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "According to the Philippine Institute on Volcanology and Seismology (PHIVLOCS), the country experiences an average of eight (8)earthquakes a day",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Acting in good faith, which means he or she has no good intentions is part of Good Samaritan Laws",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Activate Medical Assistance: Nurses can tell you what happened or can make a call for help while you are doing first aid to the victim",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "After how many compressions, before gently tip the head back by lifting the chin with one hand and pushing down on the forehead with the other hand",
+      "answer": "30 compressions",
+      "choices": [
+        "20 compressions",
+        "15 compressions",
+        "30 compressions",
+        "25 compressions"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "20 compressions",
+        "15 compressions",
+        "25 compressions"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Aid the servant leader in understanding issues that evolve ethics and values and view most situations from a more integrated and holistic position",
+      "answer": "Awareness",
+      "choices": [
+        "Awareness",
+        "Instincts",
+        "Logic",
+        "Self-Esteem"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Instincts",
+        "Logic",
+        "Self-Esteem"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "All incoming freshman students, male female, starting school year (SY) 2002-2003, enrolled in any baccalaureate are covered by the NSTP Law",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "All of the following are qualities of a bureaucratic style of leadership EXCEPT:",
+      "answer": "The leader retains as much power and decision-making authority as possible",
+      "choices": [
+        "The leader enforces the rules",
+        "The leader manages \"by the book\"",
+        "Everything must be done according to procedure or policy",
+        "The leader retains as much power and decision-making authority as possible"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "The leader enforces the rules",
+        "The leader manages \"by the book\"",
+        "Everything must be done according to procedure or policy"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "All of the following are self-help concepts EXCEPT:",
+      "answer": "Doubt more than the usual",
+      "choices": [
+        "Focus on what you want",
+        "Doubt more than the usual",
+        "Control stress",
+        "Believe in yourself"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Focus on what you want",
+        "Control stress",
+        "Believe in yourself"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "All of the following encourage substance abuse EXCEPT",
+      "answer": "substance education",
+      "choices": [
+        "family problems",
+        "peer pressure",
+        "curiosity",
+        "substance education"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "family problems",
+        "peer pressure",
+        "curiosity"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "All of the following is a sign of substance abuse EXCEPT",
+      "answer": "attending school regularly",
+      "choices": [
+        "attending school regularly",
+        "generally lazy and irritable",
+        "low-frustration tolerance",
+        "abrupt change in overall attitude"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "generally lazy and irritable",
+        "low-frustration tolerance",
+        "abrupt change in overall attitude"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "All of the following refer to the characteristics of a leader EXCEPT:",
+      "answer": "None of the choices",
+      "choices": [
+        "A leader has followers",
+        "None of the choices",
+        "A leader makes decisions to direct community activities",
+        "A leader has the ability to influence others towards desired goals"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "A leader has followers",
+        "A leader makes decisions to direct community activities",
+        "A leader has the ability to influence others towards desired goals"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "All of the following will help in alleviating climate change EXCEPT:",
+      "answer": "building more factories",
+      "choices": [
+        "building more factories",
+        "rehabilitation of ecosystem",
+        "promotion of environmental education",
+        "strengthening citizens' participation"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "rehabilitation of ecosystem",
+        "promotion of environmental education",
+        "strengthening citizens' participation"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "All the following tasks are the responsibility of the Department of Education in disaster management EXCEPT:",
+      "answer": "maintains normal level of prices of commodities during emergencies",
+      "choices": [
+        "maintains normal level of prices of commodities during emergencies",
+        "makes available school buildings as evacuation centers",
+        "organizes and trains disaster control groups and reaction teams in all schools",
+        "provides assistance in the public education and campaign regarding disaster preparedness"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "makes available school buildings as evacuation centers",
+        "organizes and trains disaster control groups and reaction teams in all schools",
+        "provides assistance in the public education and campaign regarding disaster preparedness"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Aluminum foil - these are hypoallergenic, porous and transparent, suitable for fixation of all types of dressings, for transparent fixation of cannulas, probes, catheters etc",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "An act of omission is the failure to do what a reasonably prudent person with the same or similar training would do in the same or similar circumstances",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "An element of good governance that is needed for sustainable development that operates in an ethical, accountable and appropriately regulated environment, which facilitates competition in the marketplace",
+      "answer": "Economy",
+      "choices": [
+        "Governance",
+        "Economy",
+        "Implementation",
+        "Civilization"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Governance",
+        "Implementation",
+        "Civilization"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "An individual who abuse drug (s) on a regular basis three (3) to four (4) times a week is called ______",
+      "answer": "mentally ill chemical abuser",
+      "choices": [
+        "drug dependent",
+        "occasional abuser",
+        "regular abuser",
+        "mentally ill chemical abuser"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "drug dependent",
+        "occasional abuser",
+        "regular abuser"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "An individual who abuse drug(s) for experimental basis is called ______",
+      "answer": "experimenter",
+      "choices": [
+        "mentally ill chemical abuser",
+        "occasional user",
+        "drug dependent",
+        "experimenter"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "mentally ill chemical abuser",
+        "occasional user",
+        "drug dependent"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "An individual who shows signs and symptoms of psychotic disorder is categorized as ______",
+      "answer": "mentally ill chemical abuser",
+      "choices": [
+        "mentally ill chemical abuser",
+        "experimenter",
+        "regular user",
+        "drug dependent"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "experimenter",
+        "regular user",
+        "drug dependent"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "An investor from private sector, operating in a properly functioning competitive market system creates jobs and income, generates wealth and helps ensure that resources are used efficiently",
+      "answer": "False",
+      "choices": [
+        "False",
+        "True"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Annual reporting of National Disaster Risk Reduction and Management Plan 2011-2028is done by the NDRRMC through the _______________________to the Office of the President, Senate and House of Representatives, within the quarter of the succeeding year",
+      "answer": "Office of Civil Defense",
+      "choices": [
+        "Office of National Disaster Risk Reduction and Management",
+        "Office of Civil Defense",
+        "Office of President",
+        "Office of Senate"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Office of National Disaster Risk Reduction and Management",
+        "Office of President",
+        "Office of Senate"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Are encouraged by competition so that a person's rewards reflect his or her personal trait",
+      "answer": "Achievement and success",
+      "choices": [
+        "Non-rationalism",
+        "Illustrados",
+        "Achievement and success",
+        "Democracy and free enterprise"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Non-rationalism",
+        "Illustrados",
+        "Democracy and free enterprise"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Are used for the fixation of bone and joint injuries",
+      "answer": "Splint",
+      "choices": [
+        "Joints",
+        "Splint",
+        "Ankles",
+        "Muscles"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Joints",
+        "Ankles",
+        "Muscles"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Arrange the following in proper order:1 Place one hand on the forehead and gently tilt the head back2 Remove any obvious obstructions from the victim's mouth, including dislodgeddentures, but leave well-fitting dentures in place3 Place the fingertips of two fingers under the point of the victim's chin and lift thechin If injury to the neck is suspected, handle the head very gently and try to avoid tilting the head too much",
+      "answer": "1-2-3",
+      "choices": [
+        "1-3-2",
+        "1-2-3",
+        "2-1-3",
+        "3-1-2"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "1-3-2",
+        "2-1-3",
+        "3-1-2"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "As a Direct Client Contact virtual volunteer you can __________________ \"visit\" with someone who is home bound, in a hospital or a rest home; this can be done in addition to on-site, in-person visits",
+      "answer": "Electronically",
+      "choices": [
+        "Online",
+        "Manually",
+        "Virtual",
+        "Electronically"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Online",
+        "Manually",
+        "Virtual"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Aside from natural causes, the country also experiences human-induced disasters These are brought about by hazards that are of political and socio-economic origins, among others",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Badgovernance requires strong and pluralistic civil society, where there is freedom of expression and association",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Based on the data from the National Disaster Risk Reduction and Management Council (NDRRMC) between 1990 and 2006, annual direct damages caused by disasters amount to PhP30-B per year",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Bending of elbows while doing the compressions is not correct you should always keep your elbows locked and _____________________on top or perpendicular to your hands",
+      "answer": "Arms Straight",
+      "choices": [
+        "Arms Resting",
+        "Arms Straight",
+        "Arms in Motion",
+        "Arms Bend"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Arms Resting",
+        "Arms in Motion",
+        "Arms Bend"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Between 1997 and 2005, eighty-four (84) tropical cyclones entered the Philippine Area of Responsibility (PAR)",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Careful looking of the number of victims involved, if somebody is screaming for help is part of surveying a scene",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Certain types of requests and directions issued by leaders to subordinates are viewed to be valid What source of leader power is being referred by this fact?",
+      "answer": "legitimate power",
+      "choices": [
+        "reward power",
+        "coercive power",
+        "legitimate power",
+        "expert power"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "reward power",
+        "coercive power",
+        "expert power"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Characterized by anonymity, formality, contractualism, and coldness arising from nationalism, impersonalism and universalism",
+      "answer": "gesselschaft society",
+      "choices": [
+        "gesselschaft society",
+        "child-rearing",
+        "progress",
+        "Flag Law (1907)"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "child-rearing",
+        "progress",
+        "Flag Law (1907)"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Civilization has learned a great deal over the Filipino about how to create a social order in which people can live peaceably together, secure in their persons and property, respectful to one another's liberty, working cooperatively for the common good",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Climate change may have an impact on which of the following:",
+      "answer": "all are correct",
+      "choices": [
+        "air quality",
+        "energy and human health",
+        "all are correct",
+        "agriculture"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "air quality",
+        "energy and human health",
+        "agriculture"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Clothes are also used to support the muscles in the lower limbs, thereby supporting and improving venous blood return",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Complete the following statement: The more that subordinates admire and identify the leader, the greater the leader's ____ power over subordinates",
+      "answer": "referent power",
+      "choices": [
+        "coercive power",
+        "referent power",
+        "reward power",
+        "legitimate power"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "coercive power",
+        "reward power",
+        "legitimate power"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Compressing the victim's chest straight down will help you reach the necessary ________depth for adult and child",
+      "answer": "2 inches",
+      "choices": [
+        "1 inch",
+        "25 inches",
+        "2 inches",
+        "15 inches"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "1 inch",
+        "25 inches",
+        "15 inches"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Develop mission and vision statements with group members",
+      "answer": "Empowering Leadership",
+      "choices": [
+        "Emphasizing Leadership",
+        "Empowering Leadership",
+        "Enhancing Leadership",
+        "Engaging Leadership"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Emphasizing Leadership",
+        "Enhancing Leadership",
+        "Engaging Leadership"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Disaster Risk Reduction aims to reduce socio-economic vulnerabilities to disaster as well as dealing with the environmental and other hazards that trigger them",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Duty to respond may occur in the following situations: When a pre-existing responsibility exists",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Each NSTP program components shall be undertaken for an academic period of one (1) semester",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Each of the NSTP components shall be undertaken for an academic period of two (2) semesters for 54 to 90 training hours per semester",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Earth has been warmer today than in the past",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Ecosystem management should maintain ecosystem appropriate condition to achieve desired social benefits",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Employees and team members feel in control of their own destiny, and so are motivated to work hard by more than just a financial reward",
+      "answer": "Democratic Leadership or Participative Leadership",
+      "choices": [
+        "Democratic Leadership or Spectating Leadership",
+        "Democratic Leadership or Participative Leadership",
+        "Demonstrating Leadership or Spectating Leadership",
+        "Demonstrating Leadership or Participative Leadership"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Democratic Leadership or Spectating Leadership",
+        "Demonstrating Leadership or Spectating Leadership",
+        "Demonstrating Leadership or Participative Leadership"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Enable the servant leader to understand the lessons and events from the past, the realities and phenomena of the present, and the likely impact of a decision for the future",
+      "answer": "Foresight",
+      "choices": [
+        "Backsight",
+        "Blindsight",
+        "Foresight",
+        "Hindsight"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Backsight",
+        "Blindsight",
+        "Hindsight"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Every person is unique",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Everyone is affected by climate change",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Expressed consent must be obtained from every conscious, mentally competent (ie, able to make a rational decision) adult (ie, a person of legal age)",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Eye contact, truthfulness, sincerity, empathetic listening, honest, praise, open-mindedness, and positivity are necessary for this process of valuing",
+      "answer": "Active Listening",
+      "choices": [
+        "Decision Making",
+        "Memory Appraisal",
+        "Active Listening"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Decision Making",
+        "Memory Appraisal"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Factors involved in negligence include injury and damages inflicted -other than physical damage",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Feeling is a power to make something appear to be something different than what it really is",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Feelings create beliefs",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Filipino values are not merely private",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Filipinos are influenced by American rationalism, although they are still fundamentally non-rational",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Filipinos demonstrated the highest nationalist fervor when they spontaneously heeded the call of the EDSA revolution and fought an anti-colonial revolution against Spain",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Flexible elastic bandages - hydrofile gauze Is used to cover wounds; the sterile forms are used as individual wound dressings The bandages are light and permeable",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Freedom consists not in doing what we like, but in having the right to do what we ought\" is inspired by who?",
+      "answer": "Pope John Paul II",
+      "choices": [
+        "Pope John Paul II",
+        "Pope John Paul IV",
+        "Pope Benedict V",
+        "Pope Benedict IX"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Pope John Paul IV",
+        "Pope Benedict V",
+        "Pope Benedict IX"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Freedom is the power to act or not to act",
+      "answer": "True",
+      "choices": [
+        "False",
+        "True"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Gemeinschaft society characterized by anonymity, formality, contractualism, and coldness arising from nationalism, impersonalism and universalism",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Goals that are set by the student",
+      "answer": "Independent Goals",
+      "choices": [
+        "Problem-solving",
+        "Assigned Goals",
+        "Independent Goals"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Problem-solving",
+        "Assigned Goals"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Good attitudes are created, controlled, or influenced entirely by our beliefs",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Good Governance comprises the mechanisms, processes and institutions through which citizens and groups articulate their interests, exercise their legal rights, meet their obligations, and mediate their differences",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "He or she will actively define the work and the roles required, put structures in place, plan, organize and monitor",
+      "answer": "Task-Oriented Leadership",
+      "choices": [
+        "Task-Oriented Leadership",
+        "Risk-Oriented Leadership",
+        "Managing Leadership",
+        "Goal-Oriented Leadership"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Risk-Oriented Leadership",
+        "Managing Leadership",
+        "Goal-Oriented Leadership"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "He/she seeks knowledge that would transform the society and the world",
+      "answer": "Intellectual Being",
+      "choices": [
+        "Social Being",
+        "Economic Being",
+        "Intellectual Being"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Social Being",
+        "Economic Being"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "He/she sometimes have to move things backwards before they can move them forward again",
+      "answer": "Doctor Volunteers",
+      "choices": [
+        "Engineer Volunteers",
+        "Medical Volunteers",
+        "Carpenter Volunteers",
+        "Doctor Volunteers"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Engineer Volunteers",
+        "Medical Volunteers",
+        "Carpenter Volunteers"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "How can scrap tires help save the environment?",
+      "answer": "recycle into useful thing",
+      "choices": [
+        "drive fewer miles",
+        "recycle into useful thing",
+        "burn as fuel",
+        "better education"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "drive fewer miles",
+        "burn as fuel",
+        "better education"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "How we feel about something will always determine or affect what we do and how we will do it",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Human being must see the ways in which he/she has been respected, or recognized as a unique person",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Human being needs to see himself/herself as person of ideas, someone unique",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Human being needs to see himself/herself as someone important, someone unique He needs to be able to understand that he/she is the only one his/her kind on earth and that his/her has a contribution to make that no one else can make",
+      "answer": "First Dimension",
+      "choices": [
+        "First Dimension",
+        "Third Dimension",
+        "Second Dimension"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Third Dimension",
+        "Second Dimension"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Humankind shares integral human values, it is obvious that certain values take on for us a distinctively Filipino flavor",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Hydrocolloid compressions (Hydrocoll, Hydrosorb) - is a self - adhesive with gel pad core They are made in different shapes and sizes",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Hydrofile gauze - fabric with a high content of natural fibers (approximately 70% cotton and 30% viscose), ie ensures high absorbency",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Identify the difficulty in decision- making as referred by the following scenario: Reek, a member of a school organization, cajoled different members of the group to make a decision for a true reason he keeps within himself",
+      "answer": "Fear of Consequences",
+      "choices": [
+        "Blundering Methods",
+        "Inadequate Leadership",
+        "Fear of Consequences",
+        "Hidden Agenda"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Blundering Methods",
+        "Inadequate Leadership",
+        "Hidden Agenda"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "If a person is allowed the opportunity of being free to be his or her true self, he/she makes choices and interest affected by the internal process of willing, feeling, thinking and intending",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Implied consent involves an unconscious victim and a life-threatening condition",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Imposed the death penalty or a long prison term on anyone who advocated independence from the United States even by peaceful means",
+      "answer": "Sedition Law (1901)",
+      "choices": [
+        "Sedition Law (1901)",
+        "Progress",
+        "Rationalism",
+        "Personalism"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Progress",
+        "Rationalism",
+        "Personalism"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "In 1980, this law mandated compulsory national service to all Filipino citizens",
+      "answer": "National Service Law",
+      "choices": [
+        "National Defense Law",
+        "National Military Training Law",
+        "National Service Law",
+        "National Allegiance Law"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "National Defense Law",
+        "National Military Training Law",
+        "National Allegiance Law"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "In check for responsiveness of the victim, be sure that you are heard by the victim shouting him/her at his/her attention",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "In Sec 6 of Republic Act 10121 the one of powers and functions of NDRRMC is: Ensure a _________________participation in the development, updating, and sharing of a Disaster Risk Reduction and Management Information System and Geographic Information System-based national risk map as policy, planning and decision-making tools;",
+      "answer": "Multi-StakeHolder",
+      "choices": [
+        "Multi-Leadership",
+        "Multi-StakeHolder",
+        "Multi-RiskTaker",
+        "Multi-Management"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Multi-Leadership",
+        "Multi-RiskTaker",
+        "Multi-Management"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "In the 2011 Asian Risk Report published by United Nations University and the Institute of Environment and Human Security, looking into the four components of risk (exposure, susceptibility, coping and adapt capacities), the Philippines is the third most disaster risk country worldwide",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "In this university, a military training course was first organized by Father Domingo Collantes",
+      "answer": "UST",
+      "choices": [
+        "Siliman University",
+        "DLSU",
+        "UP",
+        "UST"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Siliman University",
+        "DLSU",
+        "UP"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Is the belief that one can actively control and manipulate his/her destiny by systematic planning, studying, and training",
+      "answer": "Rationalism",
+      "choices": [
+        "Progress",
+        "Sedition Law (1901)",
+        "Rationalism",
+        "Personalism"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Progress",
+        "Sedition Law (1901)",
+        "Personalism"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Is the exercise of power or authority - political, economic, administrative or otherwise - to manage a country's resources and affairs",
+      "answer": "Governance",
+      "choices": [
+        "Governance",
+        "Freedom",
+        "Common Good",
+        "Patriotism"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Freedom",
+        "Common Good",
+        "Patriotism"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "It entails sacrifice, responsibility and service",
+      "answer": "Love",
+      "choices": [
+        "Love",
+        "Work",
+        "Humble",
+        "Care"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Work",
+        "Humble",
+        "Care"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "It is every person's sense of duty and responsibility: to contribute to development of our country, protecting our integrity, and upholding the rights and dignity of our people",
+      "answer": "Patriotism",
+      "choices": [
+        "Modesty",
+        "Patriotism",
+        "Humility",
+        "Hospitality"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Modesty",
+        "Humility",
+        "Hospitality"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "It is prepared from a 6 cm wide bandage A strip is cut off and adjusted, the middle,uncut part, is placed over the nose and the bottom strips are brought over the top of the ear and tied at the back of the neck",
+      "answer": "Four-tail nose Bandage",
+      "choices": [
+        "Four-tail chin Bandage",
+        "Four-tail nose Bandage",
+        "Two-tail nose Bandage",
+        "Two-tail chin Bandage"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Four-tail chin Bandage",
+        "Two-tail nose Bandage",
+        "Two-tail chin Bandage"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "It is recommended that no fees or similar charges be assessed against an enrollee in the ROTC Program and that an allowance scheme be studied by the implementing agencies like the Department of National Defense (DND) and the Commission of Higher Education (CHED) to assist the students",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Itis similar to the shoulder bandage The triangular bandage is folded into a cravat and attached at the waist",
+      "answer": "Hip Bandage",
+      "choices": [
+        "Arm Bandage",
+        "Body Bandage",
+        "Hip Bandage",
+        "Leg Bandage"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Arm Bandage",
+        "Body Bandage",
+        "Leg Bandage"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Leadership \"by the book\"",
+      "answer": "bureaucratic",
+      "choices": [
+        "autocratic",
+        "laissez-faire",
+        "democratic",
+        "bureaucratic"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "autocratic",
+        "laissez-faire",
+        "democratic"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Local Disaster Risk Reduction and Management Office (LDRRMO)shall be under the office of the governor, ____________________, and the punong barangay in case of the BDRRMC",
+      "answer": "City or Municipal Mayor",
+      "choices": [
+        "President",
+        "Chairperson",
+        "City or Municipal Mayor",
+        "Councilors"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "President",
+        "Chairperson",
+        "Councilors"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Love of country is also patronizing Filipino cultural arts, products, and inventions, promoting and conserving the natural resources of the country",
+      "answer": "True",
+      "choices": [
+        "False",
+        "True"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "LTS stands for Literacy Technical Service",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Male students who have completed two semesters of the expanded ROTC/NSP are deemed to have complied with the NSTP requirement",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Means that you should be a good citizen ever vigilant for the welfare of your country",
+      "answer": "Patriotism",
+      "choices": [
+        "Patriotism",
+        "Hospitality",
+        "Humility",
+        "Modesty"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Hospitality",
+        "Humility",
+        "Modesty"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Modeling is so potent a means of action because it presents a vivid example of values in action",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Most cardiac arrests in babies occur from ___________________, such as from drowning or choking",
+      "answer": "Lack of Oxygen",
+      "choices": [
+        "Fast Breathing",
+        "Too much sweating",
+        "Weak Pulse",
+        "Lack of Oxygen"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Fast Breathing",
+        "Too much sweating",
+        "Weak Pulse"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Most of what happens to you happens because of other people's decisions",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Mr Takitani, a jazz bar manager, provides little direction and gives his employee freedom resolving problems on their own Which leadership style is shown in this scenario?",
+      "answer": "laissez-faire",
+      "choices": [
+        "bureaucratic",
+        "democratic",
+        "laissez-faire",
+        "autocratic"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "bureaucratic",
+        "democratic",
+        "autocratic"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Mr Thoreau, the leader of an organization, has been observed to remain true to his subordinates and his principles even in times of difficulty Which of the following virtues shows most this trait of Mr Thoreau?",
+      "answer": "loyalty",
+      "choices": [
+        "cheerfulness",
+        "justice",
+        "prudence",
+        "loyalty"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "cheerfulness",
+        "justice",
+        "prudence"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "National election in the Philippines happens every ________ years",
+      "answer": "6",
+      "choices": [
+        "9",
+        "3",
+        "6",
+        "4"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "9",
+        "3",
+        "4"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Nationalism as anti-colonialism was raised to new heights of necessity by the brutal Chinese occupation",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "NDCC stands for National Disaster Coordinating _____",
+      "answer": "Council",
+      "choices": [
+        "Council",
+        "Committee",
+        "Commission",
+        "Chamber"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Committee",
+        "Commission",
+        "Chamber"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "No other fees shall be collected for the NSTP course except basic tuition fees, which should not be more than 50% of the charges of the school per academic unit",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "NSTP-OSP is created under RA9163 or the NSTP Act of 1989",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Number of minutes to perform CPR to a baby before calling for help unless someone else can make the call while you attend to the baby",
+      "answer": "2 minutes",
+      "choices": [
+        "2 minutes",
+        "7 minute",
+        "10 minutes",
+        "5 minutes"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "7 minute",
+        "10 minutes",
+        "5 minutes"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Offers greater access to community resources and provides more ways for people to support community groups, nonprofit agencies, schools and other organizations",
+      "answer": "Virtual volunteering",
+      "choices": [
+        "Self volunteering",
+        "Online volunteering",
+        "Nominated volunteering",
+        "Virtual volunteering"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Self volunteering",
+        "Online volunteering",
+        "Nominated volunteering"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "On behalf of the Committee on Education, Arts and Culture, I urge my fellow senators to approve Committee Report No3 on the Senate Bill 1824, in substitution of the aforementioned Senate bills as an act of solidarity with youth of the nation who hunger for a meaningful change in the ROTC program",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Once you have responded to an emergency, you must leave a victim who needs continuing first aid until another competent and trained person takes responsibility for the victim",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "One of its component is the selection of an alternative for trial purposes",
+      "answer": "Problem-solving",
+      "choices": [
+        "Modeling",
+        "Problem-solving",
+        "Goal-Setting"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Modeling",
+        "Goal-Setting"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "One of the National Disaster Risk Reduction and Management Plan 2011-2028 is competency and _______________________capacity building activities alongside the nurturing of continuous learning through knowledge development and management of good DRRM practices on the ground",
+      "answer": "Science Based",
+      "choices": [
+        "Psychology Based",
+        "Book Based",
+        "Science Based",
+        "Nature Based"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Psychology Based",
+        "Book Based",
+        "Nature Based"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Only the government should act to combat pollution",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Organization of DRRM at Regional Level,in the case of the Autonomous Region in Muslim Mindanao (ARMM), the ___________________________shall be the RDRRMC Chairperson",
+      "answer": "Regional Governor",
+      "choices": [
+        "Councilor",
+        "City Mayor",
+        "Regional Governor",
+        "Spokesperson"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Councilor",
+        "City Mayor",
+        "Spokesperson"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Originally, there were only three programs offered in the Presidential Decree 1506 namely the Civic Welfare Service (CWS), Law Enforcement Service (LES) and the Military Service (MS)",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "People should develop the habit of negative self- talk to boost their confidence",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Plaster bandages are made of stiff hydrofile gauze, impregnated with wheat, potato or rice starch They are wrapped in strips of paper, and stored in a dry place until application",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Plastic strips are used to reinforce bandages They are made of woven and non woven fabric, which is coated with rubber resin or with non-irritating polyacrylate adhesive",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Prohibited the display of the Philippine flag, that symbol of Filipino nationalism, from 1907 to 1919",
+      "answer": "Flag Law (1907)",
+      "choices": [
+        "progress",
+        "Flag Law (1907)",
+        "child-rearing",
+        "gesselschaft society"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "progress",
+        "child-rearing",
+        "gesselschaft society"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Racism and group superiority - individual rate others according to sex, race, ethnicity and religion",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Recognizing the youth's vital role in nation-building, the State shall promote equality among the youth and shall develop their physical, moral, spiritual, intellectual and social well-being",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Refers to the sum of the total of goods and social conditions which allow people, either as groups or as individuals, to reach their fulfillment more fully and more easily",
+      "answer": "Common Good",
+      "choices": [
+        "Common Good",
+        "Average Good",
+        "Simple Good",
+        "Normal Good"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Average Good",
+        "Simple Good",
+        "Normal Good"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Refers to the tendency to eliminate the influence of friendship or kinship in working situations",
+      "answer": "Impersonalism",
+      "choices": [
+        "Impersonalism",
+        "Material comfort",
+        "Freedom",
+        "Universalistic"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Material comfort",
+        "Freedom",
+        "Universalistic"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Reflected during elections, when we emphasize our needs and choices",
+      "answer": "Democracy and free enterprise",
+      "choices": [
+        "Democracy and free enterprise",
+        "Ilustrados"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Ilustrados"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Release the two fingers and place such hand on top of the other interlocking the fingers from both hands to secure the position: keep your arms and elbows as straight as possible enabling your shoulders directly over your hands is what technique",
+      "answer": "Technique in Compression",
+      "choices": [
+        "CPR",
+        "Recovery Position",
+        "Technique in Compression",
+        "Breathing Principles"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "CPR",
+        "Recovery Position",
+        "Breathing Principles"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Reserved Officer's Training Corps (ROTC) is designed to provide military training to motivate, train, organize, and mobilize them for national defense preparedness",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Section15 Amendatory Clause - If any section or provision of this Act shall be declared unconstitutional or invalid, the other sections or provisions not affected thereby shall remain in full force and effect",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Section9 Scholarships - There is hereby created a Special Scholarship Program for qualified students taking the NSTP which shall be administered by the CHED and TESDA",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Senate Bill Nos 41 and 60, introduced by Senator Juan M Flavier",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "She/he\"work by the book\", ensuring that their staff follow procedures exactly",
+      "answer": "Bureaucratic leaders",
+      "choices": [
+        "Bureaucratic managers",
+        "Bureaucratic authors",
+        "Bureaucratic officers",
+        "Bureaucratic leaders"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Bureaucratic managers",
+        "Bureaucratic authors",
+        "Bureaucratic officers"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Spain colonial policy suppressed Philippine nationalism by military campaigns against resistance groups",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Success in self-management is always the result of something else, something that leads up to it",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Suggest that true community can be created among those who work in businesses and other institutions",
+      "answer": "Building Community",
+      "choices": [
+        "Building Community",
+        "Developing",
+        "Aiding Community",
+        "Volunteering"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Developing",
+        "Aiding Community",
+        "Volunteering"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Supporting - maintains a particular part of the body in the desired position, ie injury, paralysis, eg starch, Zink paste bandages, splints",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "The 1935 Commonwealth Act No1 is also known as...",
+      "answer": "National Defense Act",
+      "choices": [
+        "NTSP Act",
+        "Military Training Act",
+        "ROTC Act",
+        "National Defense Act"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "NTSP Act",
+        "Military Training Act",
+        "ROTC Act"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "The 1985 Philippines Constitution states that it is the duty of the government to defend the State and in the performance of this duty, it may require by law all its citizens to render military or civil service",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "The ____________________________shall cease to exist and its powers and functions shall henceforth be assumed by the existing Barangay Development Councils (BDCs) which shall serve as the Local Disaster Risk Reduction and Management Councils (LDRRMCs) in every barangay",
+      "answer": "Barangay Disaster Coordinating Council",
+      "choices": [
+        "Barangay Disaster Coordinating Council",
+        "Barangay Disaster Management Council",
+        "Barangay Disaster Safety Precaution Management",
+        "Barangay Disaster Cooperative Council"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Barangay Disaster Management Council",
+        "Barangay Disaster Safety Precaution Management",
+        "Barangay Disaster Cooperative Council"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "The accepted treatment for a nose bleed is:",
+      "answer": "se direct pressure, elevation and pressure points to control the bleeding",
+      "choices": [
+        "Have the victim lean forward Apply gentle pressure on the nostril Apply cold towels",
+        "Tilt the head back and tightly squeeze the nostrils",
+        "Lay the victim on his back and treat for shock Apply heat if available",
+        "se direct pressure, elevation and pressure points to control the bleeding"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Have the victim lean forward Apply gentle pressure on the nostril Apply cold towels",
+        "Tilt the head back and tightly squeeze the nostrils",
+        "Lay the victim on his back and treat for shock Apply heat if available"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "The back of the hand is entirely covered with spica turns",
+      "answer": "Spica hand bandage",
+      "choices": [
+        "Spiral foot bandage",
+        "Spica foot Bandage",
+        "Spiral Hand bandage",
+        "Spica hand bandage"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Spiral foot bandage",
+        "Spica foot Bandage",
+        "Spiral Hand bandage"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "The bandaging also includes a dressing, ie a gauze square or cotton wool A circular turn is made at the upper third of the arm This is followed by a turn which begins on the outside of the arm, goes across the shoulder and then back under the armpit of the unaffected arm",
+      "answer": "Ascending shoulder bandage",
+      "choices": [
+        "Descending shoulder bandage",
+        "Ascending shoulder bandage",
+        "Down-spiral bandage",
+        "Upward-down bandage"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Descending shoulder bandage",
+        "Down-spiral bandage",
+        "Upward-down bandage"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "The bandaging starts with a circular turn at the wrist, then a turn across the hand and around the thumb",
+      "answer": "Spica Thumb Bandage",
+      "choices": [
+        "Spica Thumb Bandage",
+        "Spica Bandage",
+        "Spiral Turns",
+        "Finger Bandage"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Spica Bandage",
+        "Spiral Turns",
+        "Finger Bandage"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "The belief that individuals should be free to pursue one's personal goals with little or no interference from anyone else",
+      "answer": "Freedom",
+      "choices": [
+        "Material comfort",
+        "Universalistic",
+        "Impersonalism",
+        "Freedom"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Material comfort",
+        "Universalistic",
+        "Impersonalism"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "The completion of ROTC training as requisite for graduation is set aside for students who have completed all their academic requirements for their respective courses",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "The cultivation of faith is what is meant by morality",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "The employees enjoyed free lunch after meeting the company's target quota What source of leader power is at work in this scenario?",
+      "answer": "reward power",
+      "choices": [
+        "expert power",
+        "reward power",
+        "legitimate power",
+        "coercive power"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "expert power",
+        "legitimate power",
+        "coercive power"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "The employees of a university are expected to obey without receiving any explanation What leadership style is exercised in this scenario?",
+      "answer": "autocratic",
+      "choices": [
+        "bureaucratic",
+        "democratic",
+        "laissez-faire",
+        "autocratic"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "bureaucratic",
+        "democratic",
+        "laissez-faire"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "The Filipino concept of \"amor propio\" strongly denotes particularism",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "The following words may relate to the concept of reward power EXCEPT:",
+      "answer": "sanction",
+      "choices": [
+        "attention",
+        "sanction",
+        "praise",
+        "recognition"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "attention",
+        "praise",
+        "recognition"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "The government's response to disaster was focused on ________________________",
+      "answer": "Disaster response",
+      "choices": [
+        "Disaster response",
+        "Disaster reflection",
+        "Disaster reaction",
+        "Disaster management"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Disaster reflection",
+        "Disaster reaction",
+        "Disaster management"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "The Hyogo Framework for Action outlines five prioritiesfor action and offers guiding principles and practical means for achieving disaster resilience area",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "The Hyogo Framework Priority Action 3: Use knowledge, innovation and education to build a culture of safety and resilience at all levels",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "The inclusion of _____________that result in internally displace persons, public anxiety, loss of lives, destruction of property and sometimes socio-political stability Encompassing conflict resolution approaches, the plan seeks to mainstream DRRM into the peace process",
+      "answer": "Human Induced Disasters",
+      "choices": [
+        "Human Inducted Nature",
+        "Human Induced Nature",
+        "Human Inducted Disasters",
+        "Human Induced Disasters"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Human Inducted Nature",
+        "Human Induced Nature",
+        "Human Inducted Disasters"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "The law enforcement agency who is responsible for preventing, investigation and combating any dangerous drug is _______",
+      "answer": "PDEA",
+      "choices": [
+        "NBI",
+        "PNP",
+        "DOST",
+        "PDEA"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "NBI",
+        "PNP",
+        "DOST"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "The main objectives of values clarification are to help students use both practicality and emotion to analyze personal behavior patterns",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "The National Defense Act was signed under the government of...",
+      "answer": "Manuel Quezon",
+      "choices": [
+        "Elpidio Quirino",
+        "Manuel Quezon",
+        "Ramon Magsaysay",
+        "Andres Bonifacio"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Elpidio Quirino",
+        "Ramon Magsaysay",
+        "Andres Bonifacio"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "The National Disaster Risk Reduction and Management Framework, envisions the Philippinesto be safer, adaptive and disaster resilient Filipino communities toward _____________________, thusthe NDRRMP is consistent with this vision",
+      "answer": "Sustainable Development",
+      "choices": [
+        "Perspective Development",
+        "Sustainable Development",
+        "Unsustained Development",
+        "Consistent Development"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Perspective Development",
+        "Unsustained Development",
+        "Consistent Development"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "The National Service Training Program (NSTP) Law or RA 9163 also known as \"An Act Establishing the National Service Training Program (NSTP) for tertiary level students",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "The natural disasterscaused by armed fighting's in the South continue to threaten the security of civilian communities which result into the displacement of thousands of civilians in the Philippines",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "The NDCC is composed of the following EXCEPT:",
+      "answer": "Department of Energy",
+      "choices": [
+        "Department of Energy",
+        "Department of Transportation and Communication",
+        "Department of Public Works and Highways",
+        "Department of National Defense"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Department of Transportation and Communication",
+        "Department of Public Works and Highways",
+        "Department of National Defense"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "The NSTP curriculum shall be formulated by the Program coordinator duly approved by the school authorities, copy furnished CHED/ TESDA Regional Offices",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "The pace of deforestation in the Philippines since the 1930s accelerated in the 1940s and 1960s, before falling slightly in the 1980s",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "The republic Act 9165 also known as Comprehensive Dangerous Drugs Act of 2002 establishes the rules for substance abuse",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "The right of people to vote or to choose officials as their representatives",
+      "answer": "right to suffrage",
+      "choices": [
+        "right to live",
+        "right to power",
+        "right to democracy",
+        "right to suffrage"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "right to live",
+        "right to power",
+        "right to democracy"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "The right-thinking individuals would want to have the best of everything for themselves",
+      "answer": "True",
+      "choices": [
+        "False",
+        "True"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "The rising agitation to abolish the ROTC Program altogether has given birth to optionalization via two additional programs in lieu of the ROTC program: the peacekeeping program and civic welfare service",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "The school authorities shall exercise academic and administrative supervision on the design, formulation, adoption and implementation of the different NSTP components in their respective schools",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "The supreme value that characterizes education is human dignity, and all other values are pursued because of the inner worth of the human being",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "The triangle bandage is placed on the table, the fingers being towards the point; the base of the triangle is below the wrist",
+      "answer": "Full hand bandage",
+      "choices": [
+        "Full Foot Bandage",
+        "Full hand bandage",
+        "Half-hand bandage",
+        "Half-Foot Bandage"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Full Foot Bandage",
+        "Half-hand bandage",
+        "Half-Foot Bandage"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "The use of dangerous drugs has a penalty of life imprisonment",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "There are more trees today in the Philippines than hundred years ago",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "These types of individuals should not work alone; you can put them in the back room, but you cannot leave theme there permanently",
+      "answer": "The Designer, Planner and Scheduler",
+      "choices": [
+        "The Scheduler, Documentator and Auditor",
+        "The Designer, Planner and Scheduler",
+        "The Author, Designer and Scheduler",
+        "The Auditor, Designer, and Planner"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "The Scheduler, Documentator and Auditor",
+        "The Author, Designer and Scheduler",
+        "The Auditor, Designer, and Planner"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "They are environmentally friendly-no car exhausts, less paper waste, etc",
+      "answer": "Online Volunteers",
+      "choices": [
+        "Nominated Volunteers",
+        "Self Volunteers",
+        "Virtual Volunteers",
+        "Online Volunteers"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Nominated Volunteers",
+        "Self Volunteers",
+        "Virtual Volunteers"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "They are highly visible, and spend a lot of time communicating",
+      "answer": "Transformational Leaders",
+      "choices": [
+        "Flexible Leaders",
+        "Enhanced Leaders",
+        "Transformational Leaders",
+        "Beginning Leaders"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Flexible Leaders",
+        "Enhanced Leaders",
+        "Beginning Leaders"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "They can motivate others and show them the path to completion",
+      "answer": "The Builder",
+      "choices": [
+        "The Motivator",
+        "The Builder",
+        "The Leader",
+        "The Assistant"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "The Motivator",
+        "The Leader",
+        "The Assistant"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "They can sometimes be overlooked, but it is very important to acknowledge their contributions continuously",
+      "answer": "The Maintenance Volunteer",
+      "choices": [
+        "The Maintenance Volunteer",
+        "The Online Volunteer",
+        "The Virtual Volunteer",
+        "The Self Volunteer"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "The Online Volunteer",
+        "The Virtual Volunteer",
+        "The Self Volunteer"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "They surround themselves with content experts, have an extreme ability to understand processes and systems, and have a passion for helping others to succeed",
+      "answer": "The Pure Project Manager",
+      "choices": [
+        "The Pure Data Gatherer",
+        "The Pure Programmer",
+        "The Pure Project Manager",
+        "The Pure Documentator"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "The Pure Data Gatherer",
+        "The Pure Programmer",
+        "The Pure Documentator"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "This is a condition that is declared by the President of the country in the event of a widespread destruction to property and lives due to destructive forces of nature and emergencies",
+      "answer": "state of calamity",
+      "choices": [
+        "red alert",
+        "state of calamity",
+        "disaster management",
+        "vulnerability"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "red alert",
+        "disaster management",
+        "vulnerability"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "This refers to having a clear perception of your personality, including strengths, weaknesses, thoughts, beliefs, motivation, and emotions",
+      "answer": "self-awareness",
+      "choices": [
+        "self-awareness",
+        "confidence",
+        "self-management",
+        "self- efficacy"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "confidence",
+        "self-management",
+        "self- efficacy"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "This refers to knowing the difference between your biological or inherited traits and your environmental or acquired traits",
+      "answer": "you as you",
+      "choices": [
+        "you and your faith",
+        "you as a Filipino",
+        "you and your belief",
+        "you as you"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "you and your faith",
+        "you as a Filipino",
+        "you and your belief"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "This refers to what we do or do not do",
+      "answer": "behavior",
+      "choices": [
+        "judgment",
+        "attitude",
+        "behavior",
+        "feelings"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "judgment",
+        "attitude",
+        "feelings"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "This step in decision-making involves determining the extent to which the decision options meet the decision objectives",
+      "answer": "Evaluating Options",
+      "choices": [
+        "Collecting Information",
+        "Identifying Alternative Decision",
+        "Setting objectives",
+        "Evaluating Options"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Collecting Information",
+        "Identifying Alternative Decision",
+        "Setting objectives"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "This step in decision-making is necessary to gain sufficient information for the choices one has to make",
+      "answer": "Collecting Information",
+      "choices": [
+        "Setting objectives",
+        "Identifying Alternative Decision",
+        "Evaluating Options",
+        "Collecting Information"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Setting objectives",
+        "Identifying Alternative Decision",
+        "Evaluating Options"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "This technique is used on the body parts that are narrowing or widening such as limbs Each subsequent turn partially overlaps the previous layer, proceeding upwards",
+      "answer": "Spiral Turns",
+      "choices": [
+        "Spica Bandage",
+        "Four-tail chin Bandage",
+        "Spiral Turns",
+        "Four-tail nose Bandage"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Spica Bandage",
+        "Four-tail chin Bandage",
+        "Four-tail nose Bandage"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "This value mean that all we Filipino citizens are expected to be one as a people",
+      "answer": "Unity",
+      "choices": [
+        "Group",
+        "Unity",
+        "Dignity",
+        "Self-Proclaimed"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Group",
+        "Dignity",
+        "Self-Proclaimed"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Through work, human being should exercise human mastery over the resources of the family, and creative imagination in the solutions of problems to achieve economic efficiency",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "To treat a first degree burn you should:",
+      "answer": "Apply cool running water until there is little or no remaining pain",
+      "choices": [
+        "Apply cool running water until there is little or no remaining pain",
+        "Apply a constricting band between the burn and the heart",
+        "Apply a good quality burn cream or ointment",
+        "Clean the area thoroughly with hot soapy water"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Apply a constricting band between the burn and the heart",
+        "Apply a good quality burn cream or ointment",
+        "Clean the area thoroughly with hot soapy water"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Traditional plasters is made from cellulose It is used in many nursing interventions It is absorbent paper in rolls or in various sized squares, depending on the use",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Type of bandaging technique where two triangular bandages are needed",
+      "answer": "Shoulder bandage",
+      "choices": [
+        "Shoulder bandage",
+        "Arm Bandage",
+        "Ankle Bandage",
+        "Leg Bandage"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Arm Bandage",
+        "Ankle Bandage",
+        "Leg Bandage"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Type of Risk-Takers that can be difficult to work with at times, as they are often idealistic, and can get cranky when no one listens to their solutions",
+      "answer": "Entrepreneurs",
+      "choices": [
+        "Managers",
+        "Leaders",
+        "Entrepreneurs",
+        "StakeHolders"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Managers",
+        "Leaders",
+        "StakeHolders"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Use pediatric pads if available, for children ages 1 through ___________________",
+      "answer": "8",
+      "choices": [
+        "8",
+        "10",
+        "12",
+        "9"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "10",
+        "12",
+        "9"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Useful information during emergencies1 type of illness2 number of people injured3 contact phone number4 home address of the injured",
+      "answer": "1, 2 and 3",
+      "choices": [
+        "1, 2, 3 and 4",
+        "3 and 4",
+        "1, 2 and 3",
+        "3 only"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "1, 2, 3 and 4",
+        "3 and 4",
+        "3 only"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Values are the elements of life prevailing in any society",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "What counter measure can be taken if a person is categorized as drug dependent?",
+      "answer": "drug rehabilitation",
+      "choices": [
+        "drug rehabilitation",
+        "psychiatric treatment",
+        "preventive education",
+        "counseling"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "psychiatric treatment",
+        "preventive education",
+        "counseling"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "What counter measure can be taken if a person is categorized as mentally ill chemical abuser?",
+      "answer": "psychiatric treatment",
+      "choices": [
+        "preventive education",
+        "drug rehabilitation",
+        "psychiatric treatment",
+        "counseling"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "preventive education",
+        "drug rehabilitation",
+        "counseling"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "What is first aid?",
+      "answer": "The first help given to the victim of an accident",
+      "choices": [
+        "Treating a victim for shock",
+        "Completing a primary survey",
+        "Assessing a victim's vital signs",
+        "The first help given to the victim of an accident"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Treating a victim for shock",
+        "Completing a primary survey",
+        "Assessing a victim's vital signs"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "What is referred as the efficient and effective utilization of resources and the application of measure that will mitigate the impact of unfortunate events and facilitate return to normalcy and redevelopment?",
+      "answer": "disaster management",
+      "choices": [
+        "relief",
+        "disaster management",
+        "disaster control",
+        "rehabilitation"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "relief",
+        "disaster control",
+        "rehabilitation"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "What is the lowest, least beneficial, and the most harmful level of self-talk?",
+      "answer": "negative self- acceptance",
+      "choices": [
+        "decision to change",
+        "universal affirmation",
+        "recognition and decision to change",
+        "negative self- acceptance"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "decision to change",
+        "universal affirmation",
+        "recognition and decision to change"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "What kind of decision involves mostly those who are affected by the results of the decision?",
+      "answer": "Consultative Decision",
+      "choices": [
+        "Urgent Decision",
+        "Consultative Decision",
+        "Routine Decision",
+        "Problematic Decision"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Urgent Decision",
+        "Routine Decision",
+        "Problematic Decision"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "What kind of decision usually deals with immediate or life-and-death matters?",
+      "answer": "Urgent Decision",
+      "choices": [
+        "Operational Decision",
+        "Strategic Decision",
+        "Routine Decision",
+        "Urgent Decision"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Operational Decision",
+        "Strategic Decision",
+        "Routine Decision"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "What to wear before starting CPR?",
+      "answer": "Surgical Gloves",
+      "choices": [
+        "Surgical Gloves",
+        "Lab Coat",
+        "Stetoscope",
+        "All of the choices"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Lab Coat",
+        "Stetoscope",
+        "All of the choices"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "What treatment does a victim who's life threatening condition is \"not breathing\" need?",
+      "answer": "Start CPR immediately",
+      "choices": [
+        "The Heimlich Maneuver, two rescue breaths and CPR",
+        "You should follow the steps for rescue breathing",
+        "Start CPR immediately",
+        "Twelve to fifteen rescue breaths per minute and correct CPR"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "The Heimlich Maneuver, two rescue breaths and CPR",
+        "You should follow the steps for rescue breathing",
+        "Twelve to fifteen rescue breaths per minute and correct CPR"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "What type of trash take up the most space in Philippine landfills?",
+      "answer": "plastic",
+      "choices": [
+        "paper",
+        "metal",
+        "plastic",
+        "yard waste"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "paper",
+        "metal",
+        "yard waste"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "When a victim stops breathing, spontaneous respiration can restart, if stimulated by suffocations However, a victim in respiratory arrest is likely to fall into \"cardio respiratory arrest\" is what principle?",
+      "answer": "Breathing Principles",
+      "choices": [
+        "Recovery Position",
+        "CPR",
+        "Technique in Compression",
+        "Breathing Principles"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Recovery Position",
+        "CPR",
+        "Technique in Compression"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "When a victim stops______________, spontaneous respiration can restart, if stimulated by suffocations",
+      "answer": "Breathing",
+      "choices": [
+        "Moving",
+        "Seizing",
+        "Pulsing",
+        "Breathing"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Moving",
+        "Seizing",
+        "Pulsing"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "When are elections held for barangay officials?",
+      "answer": "every last Monday of October",
+      "choices": [
+        "every last Monday of October",
+        "every last Friday of October",
+        "every last Friday of November",
+        "every last Monday of November"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "every last Friday of October",
+        "every last Friday of November",
+        "every last Monday of November"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "When did the military instruction start in the University of the Philippines?",
+      "answer": "1912",
+      "choices": [
+        "1910",
+        "1911",
+        "1912",
+        "1889"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "1910",
+        "1911",
+        "1889"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "When group may be so bound by rigid procedures, there is little chance for a free expression of differences Which of the following is best referred by this situation?",
+      "answer": "Blundering Methods",
+      "choices": [
+        "Fear of Consequences",
+        "Blundering Methods",
+        "Clash of Interest",
+        "Inadequate Leadership"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Fear of Consequences",
+        "Clash of Interest",
+        "Inadequate Leadership"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "When one's main concern is the advancement of the collective national good, he/she is said to be what?",
+      "answer": "Universalistic",
+      "choices": [
+        "Impersonalism",
+        "Freedom",
+        "Material comfort",
+        "Universalistic"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Impersonalism",
+        "Freedom",
+        "Material comfort"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "When you say peaceis a good citizenship value, you mean that all we Filipino citizens are expected to be one as a people",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Where have some of the strongest and earliest impacts on global warming occurred?",
+      "answer": "distributed among different parts of the world",
+      "choices": [
+        "distributed among different parts of the world",
+        "in northern latitude",
+        "in the tropic",
+        "equally over the planet"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "in northern latitude",
+        "in the tropic",
+        "equally over the planet"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Where the human will is trained to choose the good",
+      "answer": "Personal formation",
+      "choices": [
+        "Physical Being",
+        "Personal formation",
+        "Academic formation"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Physical Being",
+        "Academic formation"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Which agency issues rules and regulations with the relevant agencies concerned for the funding by local government of the requirements for organizing, equipping, and training of their disaster coordinating councils and reaction teams?",
+      "answer": "Secretary of Finance",
+      "choices": [
+        "Secretary of Environment and Natural Resources",
+        "Secretary of Public Works and Highways",
+        "Secretary of Tourism",
+        "Secretary of Finance"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Secretary of Environment and Natural Resources",
+        "Secretary of Public Works and Highways",
+        "Secretary of Tourism"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Which agency organizes and trains disaster control groups and reaction teams in hotels, pension houses, restaurants and other tourist-oriented facilities?",
+      "answer": "Secretary of Tourism",
+      "choices": [
+        "Secretary of Public Works and Highways",
+        "Secretary of Finance",
+        "Secretary of Tourism",
+        "Secretary of Environment and Natural Resources"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Secretary of Public Works and Highways",
+        "Secretary of Finance",
+        "Secretary of Environment and Natural Resources"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Which agency provides emergency employment opportunities to disaster victims?",
+      "answer": "Secretary of Labor and Employment",
+      "choices": [
+        "Secretary of Interior and Local Government",
+        "Secretary of Health",
+        "Secretary of Labor and Employment",
+        "Secretary of Social Welfare and Development"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Secretary of Interior and Local Government",
+        "Secretary of Health",
+        "Secretary of Social Welfare and Development"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Which agency provides health services during emergencies as necessary, and organizes reaction teams in hospitals, clinics and sanitary and other health institutions?",
+      "answer": "Secretary of Health",
+      "choices": [
+        "Secretary of Interior and Local Government",
+        "Secretary of Labor and Employment",
+        "Secretary of Health",
+        "Secretary of Social Welfare and Development"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Secretary of Interior and Local Government",
+        "Secretary of Labor and Employment",
+        "Secretary of Social Welfare and Development"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Which leadership style is also known as the \"participative style\"?",
+      "answer": "democratic",
+      "choices": [
+        "laissez-faire",
+        "autocratic",
+        "bureaucratic",
+        "democratic"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "laissez-faire",
+        "autocratic",
+        "bureaucratic"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Which leadership style is structured on a set of rewards and punishments?",
+      "answer": "autocratic",
+      "choices": [
+        "autocratic",
+        "democratic",
+        "laissez-faire",
+        "bureaucratic"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "democratic",
+        "laissez-faire",
+        "bureaucratic"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Which of the following can be done first if faced with several injured people?",
+      "answer": "approach the quietest first",
+      "choices": [
+        "approach the person who is shouting",
+        "leave the scene immediately",
+        "interview each of them first",
+        "approach the quietest first"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "approach the person who is shouting",
+        "leave the scene immediately",
+        "interview each of them first"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Which of the following drugs is an example of hallucinogens?",
+      "answer": "marijuana",
+      "choices": [
+        "amphetamine",
+        "alcohol",
+        "marijuana",
+        "heroin"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "amphetamine",
+        "alcohol",
+        "heroin"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Which of the following drugs is an example of sedatives?",
+      "answer": "LSD",
+      "choices": [
+        "alcohol",
+        "LSD",
+        "Morphine",
+        "cocaine"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "alcohol",
+        "Morphine",
+        "cocaine"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Which of the following forms of assistance can the youth render for the calamity victims?",
+      "answer": "All of the choices",
+      "choices": [
+        "Disseminating information to concerned individual",
+        "All of the choices",
+        "Sorting, loading and distribution of relief goods",
+        "Surveying of affected families and areas"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Disseminating information to concerned individual",
+        "Sorting, loading and distribution of relief goods",
+        "Surveying of affected families and areas"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Which of the following is a ground for disqualification for voting?",
+      "answer": "at least 16 years of age",
+      "choices": [
+        "registered in COMELEC",
+        "resident of Philippines for at least 1 year and a half",
+        "a Filipino citizen",
+        "at least 16 years of age"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "registered in COMELEC",
+        "resident of Philippines for at least 1 year and a half",
+        "a Filipino citizen"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Which of the following is an example of inhalant substance?",
+      "answer": "rugby",
+      "choices": [
+        "opium",
+        "cocaine",
+        "barbiturates",
+        "rugby"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "opium",
+        "cocaine",
+        "barbiturates"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Which of the following is an example of narcotics?",
+      "answer": "heroin",
+      "choices": [
+        "LSD",
+        "heroin",
+        "Tranquilizers",
+        "amphetamine"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "LSD",
+        "Tranquilizers",
+        "amphetamine"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Which of the following is considered as the most important rule of first aid?",
+      "answer": "Speak loudly and clearly",
+      "choices": [
+        "Do not rush to the scene",
+        "Shout for help",
+        "Never put yourself in danger",
+        "Speak loudly and clearly"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Do not rush to the scene",
+        "Shout for help",
+        "Never put yourself in danger"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Which of the following is most discussed impact of climate change?",
+      "answer": "increase in average sea level",
+      "choices": [
+        "strong typhoons",
+        "increase in average sea level",
+        "deforestation",
+        "soil erosion"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "strong typhoons",
+        "deforestation",
+        "soil erosion"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Which of the following is not safe to throw out in trash?",
+      "answer": "household hazardous waste",
+      "choices": [
+        "domestic particular waste",
+        "household hazardous waste",
+        "vacuum cleaner bags",
+        "yard waste and cuttings"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "domestic particular waste",
+        "vacuum cleaner bags",
+        "yard waste and cuttings"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Which of the following is the highest government body responsible in advising the President of the country on the status of disaster preparedness program and disaster relief and rehabilitation effort at the national level?",
+      "answer": "National Disaster Coordinating Council",
+      "choices": [
+        "Civil Defense Office",
+        "Department of Education",
+        "National Disaster Coordinating Council",
+        "Philippine Red Cross"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Civil Defense Office",
+        "Department of Education",
+        "Philippine Red Cross"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Which of the following leadership styles retains as much power and decision-making authority as possible?",
+      "answer": "autocratic",
+      "choices": [
+        "autocratic",
+        "bureaucratic",
+        "laissez-faire",
+        "democratic"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "bureaucratic",
+        "laissez-faire",
+        "democratic"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Which of the following sources of leader power refers to the leader's capacity to punish followers?",
+      "answer": "coercive power",
+      "choices": [
+        "legitimate power",
+        "expert power",
+        "reward power",
+        "coercive power"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "legitimate power",
+        "expert power",
+        "reward power"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Which of the following statements refers to the virtue of justice?",
+      "answer": "Giving each one his due with constant and perpetual will",
+      "choices": [
+        "Remaining true to your friends and to your principles in times of difficulty",
+        "Bringing desires and natural inclination of man under the control of reason",
+        "Giving each one his due with constant and perpetual will",
+        "Overcoming the difficulties and pressures of life in the pursuit of good"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Remaining true to your friends and to your principles in times of difficulty",
+        "Bringing desires and natural inclination of man under the control of reason",
+        "Overcoming the difficulties and pressures of life in the pursuit of good"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Which of the following substance is prohibited by the law?",
+      "answer": "Cocaine",
+      "choices": [
+        "Paracetamol",
+        "Mefenamic Acid",
+        "Cough syrup",
+        "Cocaine"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Paracetamol",
+        "Mefenamic Acid",
+        "Cough syrup"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Which of the following traits develop one's self- awareness?",
+      "answer": "all of the choices",
+      "choices": [
+        "all of the choices",
+        "commitment",
+        "knowledge",
+        "participation"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "commitment",
+        "knowledge",
+        "participation"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Which virtue of leadership refers to the habit of being accountable for one's duties and obligations",
+      "answer": "responsibility",
+      "choices": [
+        "cheerfulness",
+        "responsibility",
+        "generosity",
+        "magnanimity"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "cheerfulness",
+        "generosity",
+        "magnanimity"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Which virtue of leadership refers to the habit of overcoming the difficulties and pressures of life in the pursuit of good?",
+      "answer": "fortitude",
+      "choices": [
+        "fortitude",
+        "justice",
+        "temperance",
+        "prudence"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "justice",
+        "temperance",
+        "prudence"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "While beliefs create attitudes, attitudes create...",
+      "answer": "feelings",
+      "choices": [
+        "attitude",
+        "judgment",
+        "behavior",
+        "feelings"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "attitude",
+        "judgment",
+        "behavior"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Who led the Propaganda Movement and were expressing the nationalist goals of the Filipino elite when they demanded reforms which would give them participation in political rule and a greater share in economic benefits",
+      "answer": "Illustrados",
+      "choices": [
+        "Non-rationalism",
+        "Achievement and success",
+        "Democracy and free enterprise",
+        "Illustrados"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Non-rationalism",
+        "Achievement and success",
+        "Democracy and free enterprise"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Who said this statement \"the servant-leader is servant first\"",
+      "answer": "Robert K Greenleaf",
+      "choices": [
+        "Robert K Benedict",
+        "Robert F Greenleaf",
+        "Robert K Greenleaf",
+        "Robert F Benedict"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Robert K Benedict",
+        "Robert F Greenleaf",
+        "Robert F Benedict"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Works for teams in which the individuals are very experienced and skilled self-starters",
+      "answer": "laissez-faire leadership",
+      "choices": [
+        "laissez-faere leadership",
+        "laessez-faire leadership",
+        "laissez-faire leadership",
+        "laissez-fairs leadership"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "laissez-faere leadership",
+        "laessez-faire leadership",
+        "laissez-fairs leadership"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "You should always remember that no matter how much work you do what counts in the end is not the volume of work but the amount of love you put into your work",
+      "answer": "True",
+      "choices": [
+        "False",
+        "True"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "You should be a person of peace a builder of friendship among your fellowmen",
+      "answer": "False",
+      "choices": [
+        "False",
+        "True"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "You should treat who as your own mother and masterpiece, giving it great care and appreciating its wonder and beauty",
+      "answer": "Mother Nature",
+      "choices": [
+        "Self",
+        "Mother Nature",
+        "Everyone",
+        "Art"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Self",
+        "Everyone",
+        "Art"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "You value justice by means of promoting ethical practices that enhance the essence of social justice",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    },
+    {
+      "question": "Zink paste bandages - These are impregnated with a special paste When attaching these bandages, it is necessary to take into account that they contract during drying; therefore they should be attached loosely",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:33Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-27T04:26:33Z"
+    }
+  ]
+}

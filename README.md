@@ -123,8 +123,8 @@ Course databases are stored in [`data/`](data/) as structured JSON files named b
 | :--- | :--- | :---: | :--- |
 | `BAMM6301` | BAMM6301 | **59** | Active |
 | `CS6200` | CS6200 | **17** | Active |
-| `CS6204` | Computer Architecture and Organization | **186** | Active |
-| `CS6205` | Automata Theory and Formal Languages | **284** | Active |
+| `CS6204` | Computer Architecture and Organization | **189** | Active |
+| `CS6205` | Automata Theory and Formal Languages | **306** | Active |
 | `CS6206` | Principles of Operating Systems | **165** | Active |
 | `CS6207` | CS6207 | **57** | Active |
 | `CS6209` | Software Engineering 1 | **223** | Active |
@@ -134,22 +134,23 @@ Course databases are stored in [`data/`](data/) as structured JSON files named b
 | `GE6301` | Gender and Society | **0** | Answer sharing disabled (non-reviewable) |
 | `HMS6301` | HMS6301 | **10** | Active |
 | `IT6200` | IT6200 | **19** | Active |
-| `IT6201B` | Data Structures and Algorithm Analysis | **117** | Active |
+| `IT6201B` | Data Structures and Algorithm Analysis | **328** | Active |
 | `IT6205A` | Information Assurance and Security 1 | **430** | Active |
-| `IT6206` | Information Assurance and Security 2 | **135** | Active |
-| `IT6208` | System Integration and Architecture 1 | **113** | Active |
-| `IT6209` | Introduction to Multimedia | **137** | Active |
-| `IT6224B` | Data Communications and Networking 3 | **238** | Active |
-| `IT6310` | Network Security | **109** | Active |
+| `IT6206` | Information Assurance and Security 2 | **151** | Active |
+| `IT6208` | System Integration and Architecture 1 | **159** | Active |
+| `IT6209` | Introduction to Multimedia | **510** | Active |
+| `IT6224B` | Data Communications and Networking 3 | **513** | Active |
+| `IT6310` | Network Security | **149** | Active |
 | `IT6314` | IT6314 | **239** | Active |
 | `IT6322A` | Mobile Application Development | **100** | Active |
 | `ITE6200` | Application Development and Emerging Technology | **656** | Active |
-| `ITE6202` | ITE6202 | **112** | Active |
+| `ITE6202` | ITE6202 | **505** | Active |
 | `ITE6301` | Technopreneurship | **200** | Active |
 | `MATH6100` | Calculus 1 | **65** | Active |
 | `MATH6200` | MATH6200 | **80** | Active |
 | `MKTG6256` | MKTG6256 | **54** | Active |
 | `NSCI6100` | NSCI6100 | **112** | Active |
+| `NSTP6101` | National Service Training Program 1 | **256** | Active |
 | `NSTP6102` | National Service Training Program 2 | **45** | Active |
 | `OFAD6303A` | OFAD6303A | **22** | Active |
 | `PHYED6102` | PHYED6102 | **63** | Active |

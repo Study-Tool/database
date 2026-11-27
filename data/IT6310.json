@@ -1,8 +1,8 @@
 {
   "subjectCode": "IT6310",
   "subjectName": "Network Security",
-  "updatedAt": "2026-10-06T10:32:15Z",
-  "totalQuestions": 109,
+  "updatedAt": "2026-11-27T04:26:32Z",
+  "totalQuestions": 149,
   "questions": [
     {
       "question": "A popular feature of Windows that allows you to harden multiple systems quickly.",
@@ -16,13 +16,15 @@
       ],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 7,
+      "confirmations": 8,
       "firstSeenAt": "2026-09-23T14:39:58Z",
-      "lastVerifiedAt": "2026-10-06T10:22:47Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswerEvidence": true,
       "questionType": "shortanswer",
-      "lastEvidenceAt": "2026-10-04T11:17:32Z"
+      "lastEvidenceAt": "2026-10-04T11:17:32Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "A security layer used in mobile devices that employ the Wireless Applications Protocol (WAP).",
@@ -31,11 +33,54 @@
         "WTLS"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-18T08:05:39Z",
-      "lastVerifiedAt": "2026-09-23T14:39:58Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "community_contribution",
-      "wrongAnswers": []
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
+    },
+    {
+      "question": "A set of instructions and execute a specific task/s",
+      "answer": "",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [
+        "Program"
+      ],
+      "wrongAnswerEvidence": true,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastEvidenceAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "A software that can detect malware.",
+      "answer": "Antivirus Software",
+      "choices": [
+        "a. Scanner",
+        "b. Firewall",
+        "c. Application Software",
+        "d. Antivirus Software"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "A tool (typically based on IPsec or SSL) that authenticates the communication between a device and a secure network, creating a secure, encrypted \"tunnel\" across the open internet",
@@ -44,11 +89,15 @@
         "VPN"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-18T08:05:39Z",
-      "lastVerifiedAt": "2026-09-23T14:39:58Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "community_contribution",
-      "wrongAnswers": []
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "A type of malware that automatically sends advertisements to the users.",
@@ -62,9 +111,9 @@
         "d. Adware"
       ],
       "verified": true,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-09-22T12:31:44Z",
-      "lastVerifiedAt": "2026-09-23T14:39:58Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "questionType": "multichoice",
@@ -73,7 +122,29 @@
           "rejectedAnswer": "Advertising-supported software",
           "timestamp": "2026-10-06T10:18:50Z"
         }
-      ]
+      ],
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
+    },
+    {
+      "question": "Adware is a type of malware that restricts user access to the computer either by encrypting files on the hard drive or locking down the system",
+      "answer": "False",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "Always disable unnecessary features of the web server that are not going to be used",
@@ -85,11 +156,86 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 6,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-23T14:39:58Z",
-      "lastVerifiedAt": "2026-10-06T10:27:20Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "An abbreviation that is consider as the brains of the computer.",
+      "answer": "CPU",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "An act that exploits a weakness in a system.",
+      "answer": "Attack",
+      "choices": [
+        "a. Vulnerabilities",
+        "b. Malware",
+        "c. Threat",
+        "d. Attack"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "An attack that allows any unauthorized users a way or passage to get inside a restricted area.",
+      "answer": "",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [
+        "Backdoor Attack"
+      ],
+      "wrongAnswerEvidence": true,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastEvidenceAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "An attack where the hacker mimics another employee in the company.",
+      "answer": "",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [
+        "Impersonation Attack"
+      ],
+      "wrongAnswerEvidence": true,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastEvidenceAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "An information that is only accessed by an authorized person.",
@@ -104,13 +250,15 @@
       ],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 10,
       "firstSeenAt": "2026-09-23T14:39:58Z",
-      "lastVerifiedAt": "2026-10-06T10:16:37Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "questionType": "shortanswer",
       "wrongAnswerEvidence": true,
-      "lastEvidenceAt": "2026-10-04T11:15:41Z"
+      "lastEvidenceAt": "2026-10-04T11:15:41Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Any form of security incident that is not properly handled can and eventually wont turn into a bigger problem that will lead to a damaging data breach and wont cause large amount of expense or it will collapse the whole system",
@@ -120,13 +268,34 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 8,
       "firstSeenAt": "2026-09-18T08:20:16Z",
-      "lastVerifiedAt": "2026-10-04T11:14:52Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "Any form of security incident that is properly handled can and eventually will turn into a bigger problem.",
+      "answer": "False",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "any program design to damage specific file or computer system.",
@@ -136,13 +305,15 @@
         "b. Virus"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-22T12:31:44Z",
-      "lastVerifiedAt": "2026-10-06T10:18:50Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Areas of Security Trinity where they need to have a good security measures to avoid hackers from getting access to the network.",
@@ -155,13 +326,15 @@
         "b. Detection"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 8,
       "firstSeenAt": "2026-09-18T08:20:16Z",
-      "lastVerifiedAt": "2026-10-04T11:14:52Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "As a philosophy, it complements midpoint security, which focuses on individual devices; preventive security instead focuses on how those devices interact, and on the connective tissue between them.",
@@ -170,11 +343,33 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-18T08:05:39Z",
-      "lastVerifiedAt": "2026-09-23T14:39:58Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "community_contribution",
-      "wrongAnswers": []
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
+    },
+    {
+      "question": "Attack that send an email that contains attachment that loads malware onto your computer",
+      "answer": "",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [
+        "Email Malware Attack"
+      ],
+      "wrongAnswerEvidence": true,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastEvidenceAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "Availability refers to the ability of a network to protect its information from any unauthorized access.",
@@ -184,13 +379,36 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 14,
+      "confirmations": 15,
       "firstSeenAt": "2026-09-18T08:20:16Z",
-      "lastVerifiedAt": "2026-10-06T10:16:37Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "Based with SANS Technology Institute, it is the process of making preventative measures to keep the underlying networking infrastructure from any unauthorized access.",
+      "answer": "Network Security",
+      "choices": [
+        "a. Security",
+        "b. Application Security",
+        "c. Cyber Security",
+        "d. Network Security"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "Big corporations are not at risks to any form of security breach.",
@@ -200,13 +418,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 14,
+      "confirmations": 15,
       "firstSeenAt": "2026-09-18T08:20:16Z",
-      "lastVerifiedAt": "2026-10-06T10:16:37Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Brute force attack are often successful because most of the users uses different ordinary words as their passwords.",
@@ -216,13 +436,50 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-22T12:31:44Z",
-      "lastVerifiedAt": "2026-10-06T10:18:50Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "Combination of brute force and dictionary attack.",
+      "answer": "Hybrid Attack",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "Data Link Layer enables data transfer between two devices on the same network.",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "Developers should always implement validation at both the client and the server to obtain high level of security.",
@@ -234,37 +491,43 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 6,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-23T14:39:58Z",
-      "lastVerifiedAt": "2026-10-06T10:27:20Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "File system that has a features like permissions, encryption, quotas, and auditing services.",
       "answer": "NTFS",
       "choices": [],
       "verified": true,
-      "confirmations": 5,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-22T13:14:15Z",
-      "lastVerifiedAt": "2026-10-06T10:20:55Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "shortanswer",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "How many key phases are there in an incident response plan ?",
       "answer": "6",
       "choices": [],
       "verified": true,
-      "confirmations": 21,
+      "confirmations": 22,
       "firstSeenAt": "2026-09-18T08:20:16Z",
-      "lastVerifiedAt": "2026-10-06T10:16:37Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "shortanswer"
+      "questionType": "shortanswer",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Human beings are inevitably the weakest security link. You need to implement technologies and processes to ensure that staffers don't deliberately or inadvertently send sensitive data outside the network.",
@@ -273,11 +536,15 @@
         "Data Loss Prevention"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-18T08:05:39Z",
-      "lastVerifiedAt": "2026-09-23T14:39:58Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "community_contribution",
-      "wrongAnswers": []
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "If the network isn't a line or a point: it's a _____________.",
@@ -286,11 +553,15 @@
         "territory"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-18T08:05:39Z",
-      "lastVerifiedAt": "2026-09-23T14:39:58Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "community_contribution",
-      "wrongAnswers": []
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "If there's one common theme among security experts, it's that relying on one single line of defense is dangerous, because any single defensive tool can be defeated by a determined adversary.",
@@ -299,11 +570,52 @@
         "defense in depth strategy"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-18T08:05:39Z",
-      "lastVerifiedAt": "2026-09-23T14:39:58Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "community_contribution",
-      "wrongAnswers": []
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
+    },
+    {
+      "question": "In implementing network security, company should invest more in preventing or avoiding any security breach over detecting and responding to any form of attack",
+      "answer": "a. True",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": true,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "Information policy where the data should be access by an authorized person/s only.",
+      "answer": "Confidentiality",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "Internet is an example of a network.",
@@ -313,13 +625,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 8,
       "firstSeenAt": "2026-09-18T08:20:16Z",
-      "lastVerifiedAt": "2026-10-04T11:14:52Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "is a crucial security update that you should always apply to your system",
@@ -334,13 +648,15 @@
         "a. Security hot-fix"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-22T13:14:15Z",
-      "lastVerifiedAt": "2026-10-06T10:20:55Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Is a service responsible for sending messages to other computers or users.",
@@ -359,13 +675,57 @@
         "d. Messenger service"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-22T13:14:15Z",
-      "lastVerifiedAt": "2026-10-06T10:20:55Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "Is any program that is harmful to a computer user.",
+      "answer": "Malware",
+      "choices": [
+        "a. Trojan horse",
+        "b. Virus",
+        "c. Malware",
+        "d. Worm"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "Is the process of using social skills to encourage people to disclose their credentials",
+      "answer": "Social Engineering",
+      "choices": [
+        "a. Spam",
+        "b. Social Engineering",
+        "c. Phishing",
+        "d. Tailgating"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "It can manipulate your system including the deletion of the important files on your computer.",
@@ -378,11 +738,13 @@
       ],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 10,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-23T14:39:58Z",
-      "lastVerifiedAt": "2026-10-06T10:27:20Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
-      "questionType": "shortanswer"
+      "questionType": "shortanswer",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "It could be exploited because of an encryption key that was vulnerable to decoding.",
@@ -391,24 +753,30 @@
         "WEP 64"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-18T08:05:39Z",
-      "lastVerifiedAt": "2026-09-23T14:39:58Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "community_contribution",
-      "wrongAnswers": []
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "It determines whether you are allowed to access a specific information or file.",
       "answer": "Authorization",
       "choices": [],
       "verified": true,
-      "confirmations": 10,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-18T08:20:16Z",
-      "lastVerifiedAt": "2026-10-04T11:14:52Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "shortanswer"
+      "questionType": "shortanswer",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "It disguises as useful software.",
@@ -417,11 +785,15 @@
         "trojan horse"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-18T08:05:39Z",
-      "lastVerifiedAt": "2026-09-23T14:39:58Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "community_contribution",
-      "wrongAnswers": []
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "It ensure that the essential and vital services are only running on the system",
@@ -434,13 +806,15 @@
       ],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 7,
+      "confirmations": 8,
       "firstSeenAt": "2026-09-23T14:39:58Z",
-      "lastVerifiedAt": "2026-10-06T10:22:47Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswerEvidence": true,
       "questionType": "shortanswer",
-      "lastEvidenceAt": "2026-10-04T11:16:57Z"
+      "lastEvidenceAt": "2026-10-04T11:16:57Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "It ensures that the information in an information system is accurate.",
@@ -453,13 +827,15 @@
         "b. Availability"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 8,
       "firstSeenAt": "2026-09-18T08:20:16Z",
-      "lastVerifiedAt": "2026-10-04T11:14:52Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "It has a vital role in an information system because it is the one that allows a company to link their computers and its users",
@@ -473,13 +849,36 @@
         "c. Router"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 8,
       "firstSeenAt": "2026-09-18T08:20:16Z",
-      "lastVerifiedAt": "2026-10-04T11:14:52Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "It has an additional ability where they can modify security settings of a software.",
+      "answer": "Spyware",
+      "choices": [
+        "a. Adware",
+        "b. Ransomware",
+        "c. Spyware",
+        "d. Malware"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "It has been developed by ISO in the year 1984.",
@@ -494,13 +893,15 @@
         "c. ISO Reference Model"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-22T12:31:44Z",
-      "lastVerifiedAt": "2026-10-06T10:18:50Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "It helps keep data and equipment safe by giving only the appropriate people access.",
@@ -509,11 +910,15 @@
         "network security"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-18T08:05:39Z",
-      "lastVerifiedAt": "2026-09-23T14:39:58Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "community_contribution",
-      "wrongAnswers": []
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "It helps prevent attackers from monitoring or recording traffic between resources and computers.",
@@ -522,24 +927,50 @@
         "data encryption"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-18T08:05:39Z",
-      "lastVerifiedAt": "2026-09-23T14:39:58Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "community_contribution",
-      "wrongAnswers": []
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
+    },
+    {
+      "question": "It is a combined set of components for collecting, storing and processing data and for providing information, facts and knowledge.",
+      "answer": "Information System",
+      "choices": [
+        "a. Computer System",
+        "b. Database Management System",
+        "c. Information System"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "It is a core feature of Windows that allow the network administrator to enable and disable different features in Windows",
       "answer": "Group Policy",
       "choices": [],
       "verified": true,
-      "confirmations": 9,
+      "confirmations": 10,
       "firstSeenAt": "2026-09-22T13:14:15Z",
-      "lastVerifiedAt": "2026-10-06T10:22:47Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "shortanswer"
+      "questionType": "shortanswer",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "It is a model designed to guide policies for information security within an organization.",
@@ -555,13 +986,15 @@
         "d. CIA Triad Information Security"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 8,
       "firstSeenAt": "2026-09-18T08:20:16Z",
-      "lastVerifiedAt": "2026-10-04T11:14:52Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "It is a restricted area with a resource that these Java applications can access.",
@@ -585,11 +1018,13 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 6,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-23T14:39:58Z",
-      "lastVerifiedAt": "2026-10-06T10:27:20Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "It is a security concern because most scripting languages can make some alteration to your system.",
@@ -612,11 +1047,31 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 10,
       "firstSeenAt": "2026-09-23T14:39:58Z",
-      "lastVerifiedAt": "2026-10-06T10:27:20Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "It is a security solution by organization to notice any malicious activity in a network.",
+      "answer": "",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [
+        "Intrusion Detection System"
+      ],
+      "wrongAnswerEvidence": true,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastEvidenceAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "It is a self-replicating program that is harmful to networks.",
@@ -625,24 +1080,30 @@
         "worm"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-18T08:05:39Z",
-      "lastVerifiedAt": "2026-09-23T14:39:58Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "community_contribution",
-      "wrongAnswers": []
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "It is a set of standards that are widely used as a basis for communication.",
       "answer": "Protocol",
       "choices": [],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-22T12:31:44Z",
-      "lastVerifiedAt": "2026-10-06T10:18:50Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "shortanswer",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "It is a software service that manages the process of printing in the Windows environment.",
@@ -658,13 +1119,15 @@
         "c. Messenger service"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-22T13:14:15Z",
-      "lastVerifiedAt": "2026-10-06T10:20:55Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "It is a special system used in industrial environments and settings to monitor their operations",
@@ -688,11 +1151,13 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 6,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-23T14:39:58Z",
-      "lastVerifiedAt": "2026-10-06T10:27:20Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "It is a standard configuration that is approved by any company for a specific type of system or device for being secure",
@@ -716,13 +1181,15 @@
       ],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-23T14:39:58Z",
-      "lastVerifiedAt": "2026-10-06T10:20:55Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswerEvidence": true,
       "questionType": "multichoice",
-      "lastEvidenceAt": "2026-10-04T11:16:57Z"
+      "lastEvidenceAt": "2026-10-04T11:16:57Z",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "It is a structured procedure for taking care of any security incidents, breaches, and network threats.",
@@ -736,13 +1203,35 @@
         "c. Preventive"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 8,
       "firstSeenAt": "2026-09-18T08:20:16Z",
-      "lastVerifiedAt": "2026-10-04T11:14:52Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "It is a type of an injection attack that makes it possible to insert and execute malicious SQL statements",
+      "answer": "SQL Injection",
+      "choices": [
+        "a. Buffer Overflow",
+        "b. SQL Injection",
+        "c. SOL Injection"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "It is a wireless security protocol created by Cisco to address the weaknesses in WEP and WPA.",
@@ -751,24 +1240,30 @@
         "LEAP"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-18T08:05:39Z",
-      "lastVerifiedAt": "2026-09-23T14:39:58Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "community_contribution",
-      "wrongAnswers": []
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "It is an act that exploits a vulnerability.",
       "answer": "Attack",
       "choices": [],
       "verified": true,
-      "confirmations": 6,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-22T12:31:44Z",
-      "lastVerifiedAt": "2026-10-06T10:19:36Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "shortanswer",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "It is an advanced method of handling an error.",
@@ -779,11 +1274,34 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 10,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-23T14:39:58Z",
-      "lastVerifiedAt": "2026-10-06T10:27:20Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
-      "questionType": "shortanswer"
+      "questionType": "shortanswer",
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "It is an end-to-end layer used to deliver messages to a host",
+      "answer": "Transport Layer",
+      "choices": [
+        "a. Physical Layer",
+        "b. Network Layer",
+        "c. Session Layer",
+        "d. Transport Layer"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "It is another term for a runtime error",
@@ -794,24 +1312,28 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 10,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-23T14:39:58Z",
-      "lastVerifiedAt": "2026-10-06T10:27:20Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
-      "questionType": "shortanswer"
+      "questionType": "shortanswer",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "It is anything that can disrupt the operation, functioning, integrity, or availability of a network or system",
       "answer": "Threat",
       "choices": [],
       "verified": true,
-      "confirmations": 6,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-22T12:31:44Z",
-      "lastVerifiedAt": "2026-10-06T10:19:36Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "shortanswer",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "It is considered as a crucial part of information systems",
@@ -825,9 +1347,9 @@
         "c. Security"
       ],
       "verified": true,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-09-18T08:20:16Z",
-      "lastVerifiedAt": "2026-09-22T04:32:32Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "community_contribution",
       "conflictHistory": [
         {
@@ -844,10 +1366,86 @@
         }
       ],
       "wrongAnswers": [
-        "Information",
         "Data"
       ],
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
+    },
+    {
+      "question": "It is designed to appear as a legit program to gain access to a network.",
+      "answer": "Trojan horse",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "It is sometimes called TCP hijacking attack.",
+      "answer": "Man-in-the-middle attack",
+      "choices": [
+        "a. Sniffer",
+        "b. Man-in-the-middle attack",
+        "c. DoS and DDoS Attacks",
+        "d. IP Spoofing"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "It is the connection of two or more computer that share its resources",
+      "answer": "Computer Network",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "It is the foundation for all security policies.",
+      "answer": "Security Trinity",
+      "choices": [
+        "a. Prevention",
+        "b. Detection",
+        "c. Security Trinity",
+        "d. Response"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "It is the idea of developing a database system to store and retrieve large volumes of data",
@@ -862,39 +1460,66 @@
       ],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 6,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-23T14:39:58Z",
-      "lastVerifiedAt": "2026-10-06T10:27:20Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
-      "questionType": "shortanswer"
+      "questionType": "shortanswer",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "It is the network security solution by an institute to [____: detect] any malicious activity in a network.",
       "answer": "detect",
       "choices": [],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 8,
       "firstSeenAt": "2026-09-18T08:20:16Z",
-      "lastVerifiedAt": "2026-10-04T11:14:52Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "shortanswer"
+      "questionType": "shortanswer",
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "it is the one managing the computer hardware resources in addition to applications and data.",
+      "answer": "Operating System",
+      "choices": [
+        "a. System Software",
+        "b. Operating System",
+        "c. Application Software",
+        "d. Information System"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "It is the process of taking preventative measures to keep the network infrastructure from any unauthorized access, misuse of important information",
       "answer": "Network security",
       "choices": [],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 9,
       "firstSeenAt": "2026-09-22T11:51:23Z",
-      "lastVerifiedAt": "2026-10-04T11:14:52Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [
         "Prevention"
       ],
       "isAiSuggestion": false,
-      "questionType": "shortanswer"
+      "questionType": "shortanswer",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "It is the tangible parts of a computer system.",
@@ -908,26 +1533,30 @@
         "c. Hardware"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 8,
       "firstSeenAt": "2026-09-18T08:20:16Z",
-      "lastVerifiedAt": "2026-10-04T11:14:52Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "It may contain phishing scams and malware.",
       "answer": "Spam",
       "choices": [],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-22T12:31:44Z",
-      "lastVerifiedAt": "2026-10-06T10:18:50Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "shortanswer",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "It pretends to be a legitimate programs in order to gain access to a system.",
@@ -941,13 +1570,15 @@
         "b. Virus"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-22T12:31:44Z",
-      "lastVerifiedAt": "2026-10-06T10:18:50Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "It provides data routing paths where data will take for network communication.",
@@ -965,13 +1596,36 @@
         "d. Session Layer"
       ],
       "verified": true,
-      "confirmations": 5,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-22T12:31:44Z",
-      "lastVerifiedAt": "2026-10-06T10:19:36Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "It serves as a proof and verifies that you are the person you say you are or what you claim to be.",
+      "answer": "Authentication",
+      "choices": [
+        "a. Authorization",
+        "b. Accountability",
+        "c. Authentication",
+        "d. Availability"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "It uses available resources, such as passwords or scripts.",
@@ -980,11 +1634,15 @@
         "unstructured attacks"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-18T08:05:39Z",
-      "lastVerifiedAt": "2026-09-23T14:39:58Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "community_contribution",
-      "wrongAnswers": []
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "It uses code to access operating systems and software.",
@@ -993,11 +1651,15 @@
         "structured attacks"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-18T08:05:39Z",
-      "lastVerifiedAt": "2026-09-23T14:39:58Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "community_contribution",
-      "wrongAnswers": []
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "It was the first generation security standard for wireless network.",
@@ -1006,11 +1668,15 @@
         "WEP"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-18T08:05:39Z",
-      "lastVerifiedAt": "2026-09-23T14:39:58Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "community_contribution",
-      "wrongAnswers": []
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "It will help the company to provide a better strategy in keeping a data secured while avoiding intruders to alter or steal important and confidential information.",
@@ -1028,9 +1694,9 @@
         "c. CIA Triad of Information"
       ],
       "verified": true,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-09-18T08:20:16Z",
-      "lastVerifiedAt": "2026-10-06T10:16:37Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "conflictHistory": [
         {
@@ -1072,7 +1738,30 @@
       "questionType": "multichoice",
       "isAiSuggestion": false,
       "wrongAnswerEvidence": true,
-      "lastEvidenceAt": "2026-10-06T10:16:12Z"
+      "lastEvidenceAt": "2026-10-06T10:16:12Z",
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "It's anything that can interrupt the operation, functioning, integrity, or availability of a network or system.",
+      "answer": "Threat",
+      "choices": [
+        "a. Malware",
+        "b. Threat",
+        "c. Vulnerabilities",
+        "d. Attack"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "Large volume of data is also known as",
@@ -1083,11 +1772,34 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 6,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-23T14:39:58Z",
-      "lastVerifiedAt": "2026-10-06T10:27:20Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
-      "questionType": "shortanswer"
+      "questionType": "shortanswer",
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "Layer that is responsible for establishing and maintaining connections.",
+      "answer": "Session Layer",
+      "choices": [
+        "a. Network Layer",
+        "b. Session Layer",
+        "c. Presentation Layer",
+        "d. Physical Layer"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "Network security is the practice of preventing and protecting against unauthorized intrusion into corporate networks.",
@@ -1096,11 +1808,15 @@
         "True"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-18T08:05:39Z",
-      "lastVerifiedAt": "2026-09-23T14:39:58Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "community_contribution",
-      "wrongAnswers": []
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "Network security is the process of taking physical and software preventative measures to protect the underlying networking infrastructure from unauthorized access",
@@ -1109,24 +1825,30 @@
         "True"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-18T08:05:39Z",
-      "lastVerifiedAt": "2026-09-23T14:39:58Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "community_contribution",
-      "wrongAnswers": []
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "NTFS and FAT/FAT32 is an example of?",
       "answer": "File system",
       "choices": [],
       "verified": true,
-      "confirmations": 5,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-22T13:14:15Z",
-      "lastVerifiedAt": "2026-10-06T10:20:55Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "shortanswer",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "One example is when an employee intends to cause damage.",
@@ -1135,11 +1857,33 @@
         "malicious threats"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-18T08:05:39Z",
-      "lastVerifiedAt": "2026-09-23T14:39:58Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "community_contribution",
-      "wrongAnswers": []
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
+    },
+    {
+      "question": "OSI Layer that is sometimes called HCI layer.",
+      "answer": "",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [
+        "Presentation Layer"
+      ],
+      "wrongAnswerEvidence": true,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastEvidenceAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "Preventive security is implemented by the tasks and tools you use to prevent unauthorized people or programs from accessing your networks and the devices connected to them.",
@@ -1148,11 +1892,31 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-18T08:05:39Z",
-      "lastVerifiedAt": "2026-09-23T14:39:58Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "community_contribution",
-      "wrongAnswers": []
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
+    },
+    {
+      "question": "Refers to the information system which ensures that the information remains accurate.",
+      "answer": "Integrity",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "SMTP and FTP are used to transfer information over a computer network.",
@@ -1164,11 +1928,13 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 6,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-23T14:39:58Z",
-      "lastVerifiedAt": "2026-10-06T10:27:20Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Software designed to detect, disable, and remove viruses, worms, and Trojans.",
@@ -1177,11 +1943,15 @@
         "antivirus"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-18T08:05:39Z",
-      "lastVerifiedAt": "2026-09-23T14:39:58Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "community_contribution",
-      "wrongAnswers": []
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "SQL stands for?",
@@ -1196,13 +1966,15 @@
         "d. Structured Query Language"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-22T12:31:44Z",
-      "lastVerifiedAt": "2026-10-06T10:18:50Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Stephen Northcutt wrote an essay on the basics of network security for CS) online last year.",
@@ -1211,11 +1983,15 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-18T08:05:39Z",
-      "lastVerifiedAt": "2026-09-23T14:39:58Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "community_contribution",
-      "wrongAnswers": []
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "System that are intended to manage the computer itself such as the operating system.",
@@ -1229,13 +2005,15 @@
         "d. Software"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 8,
       "firstSeenAt": "2026-09-18T08:20:16Z",
-      "lastVerifiedAt": "2026-10-04T11:14:52Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "System that plays a vital part in Network security since it is the information that an organization is trying to protect and avoid from any unauthorized access",
@@ -1278,11 +2056,13 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 10,
       "firstSeenAt": "2026-09-23T14:39:58Z",
-      "lastVerifiedAt": "2026-10-06T10:27:20Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "These are created with malicious intent and sent by attackers.",
@@ -1291,11 +2071,15 @@
         "virus"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-18T08:05:39Z",
-      "lastVerifiedAt": "2026-09-23T14:39:58Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "community_contribution",
-      "wrongAnswers": []
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "These are logon information from all the websites you visit and is stored in memory on computer",
@@ -1306,11 +2090,13 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 6,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-23T14:39:58Z",
-      "lastVerifiedAt": "2026-10-06T10:27:20Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
-      "questionType": "shortanswer"
+      "questionType": "shortanswer",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "These are the events or attacks that remove, corrupt, deny access to, allow access to, or steal information.",
@@ -1319,24 +2105,30 @@
         "data security attacks"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-18T08:05:39Z",
-      "lastVerifiedAt": "2026-09-23T14:39:58Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "community_contribution",
-      "wrongAnswers": []
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "These are what make networks prone to information loss and downtime",
       "answer": "Vulnerabilities",
       "choices": [],
       "verified": true,
-      "confirmations": 6,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-22T12:31:44Z",
-      "lastVerifiedAt": "2026-10-06T10:19:36Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "shortanswer",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "These layers work together to transmit the data from one person to another world wide.",
@@ -1351,13 +2143,73 @@
         "c. ISO Layer"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-22T12:31:44Z",
-      "lastVerifiedAt": "2026-10-06T10:18:50Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "This attack happens when the attacker or hacker sends too much information to the application causing it to overflow",
+      "answer": "",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [
+        "Buffer Overflow Attack"
+      ],
+      "wrongAnswerEvidence": true,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastEvidenceAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "This attack tries to defeat an authentication mechanism by systematically entering each word in a dictionary as a password.",
+      "answer": "Dictionary Attack",
+      "choices": [
+        "a. Brute-Force Attack",
+        "b. Dictionary Attack",
+        "c. Hybrid Attack"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "This attack uses any password-cracking software to mathematically calculate every possible password.",
+      "answer": "Brute-Force Attack",
+      "choices": [
+        "a. Dictionary Attack",
+        "b. Hybrid Attack",
+        "c. Brute-Force Attack"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "This is a networking infrastructure company.",
@@ -1366,11 +2218,36 @@
         "CISCO"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-18T08:05:39Z",
-      "lastVerifiedAt": "2026-09-23T14:39:58Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "community_contribution",
-      "wrongAnswers": []
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
+    },
+    {
+      "question": "This is a way of adding secondary layer of security to your account password.",
+      "answer": "Two-factor authentication",
+      "choices": [
+        "a. Two-factor authentication",
+        "b. Complex Password",
+        "c. OTP Codes",
+        "d. Biometric Authentication"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "This is a way of protecting a computer from intrusion through the ports.",
@@ -1379,11 +2256,15 @@
         "firewall"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-18T08:05:39Z",
-      "lastVerifiedAt": "2026-09-23T14:39:58Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "community_contribution",
-      "wrongAnswers": []
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "This is an enhanced encryption protocol combining a 104-bit key and a 24-bit initializing vector.",
@@ -1392,11 +2273,15 @@
         "WEP 128"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-18T08:05:39Z",
-      "lastVerifiedAt": "2026-09-23T14:39:58Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "community_contribution",
-      "wrongAnswers": []
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "This is an improved version of WEP.",
@@ -1405,11 +2290,15 @@
         "WPA"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-18T08:05:39Z",
-      "lastVerifiedAt": "2026-09-23T14:39:58Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "community_contribution",
-      "wrongAnswers": []
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "This is data being transported on a network.",
@@ -1418,11 +2307,15 @@
         "traffic"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-18T08:05:39Z",
-      "lastVerifiedAt": "2026-09-23T14:39:58Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "community_contribution",
-      "wrongAnswers": []
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "This is when the user damages data or equipment unintentionally.",
@@ -1431,11 +2324,15 @@
         "accidental threats"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-18T08:05:39Z",
-      "lastVerifiedAt": "2026-09-23T14:39:58Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "community_contribution",
-      "wrongAnswers": []
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "This layer involves devices such as router, UTP Cables and other networking devices to transfer data.",
@@ -1452,26 +2349,30 @@
         "d. Transport Layer"
       ],
       "verified": true,
-      "confirmations": 5,
+      "confirmations": 6,
       "firstSeenAt": "2026-09-22T12:31:44Z",
-      "lastVerifiedAt": "2026-10-06T10:19:36Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "This layer is also called human-computer interaction layer.",
       "answer": "Application Layer",
       "choices": [],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-22T12:31:44Z",
-      "lastVerifiedAt": "2026-10-06T10:18:50Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "shortanswer",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "This refers to the events or attacks that steal, damage, or destroy equipment.",
@@ -1480,11 +2381,15 @@
         "physical security threats"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-18T08:05:39Z",
-      "lastVerifiedAt": "2026-09-23T14:39:58Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "community_contribution",
-      "wrongAnswers": []
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "This service is the one responsible for handling connections to a remote network resources.",
@@ -1500,13 +2405,15 @@
         "d. Messenger service"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-22T13:14:15Z",
-      "lastVerifiedAt": "2026-10-06T10:20:55Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "To avoid and prevent this type of attack, users should always choose the “Remember Me” option when logging in to any web site.",
@@ -1518,11 +2425,13 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 6,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-23T14:39:58Z",
-      "lastVerifiedAt": "2026-10-06T10:27:20Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "True or False? 802.1X can be configured on all switch interfaces, including Layer-3 interfaces.",
@@ -1536,11 +2445,13 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-23T14:39:58Z",
-      "lastVerifiedAt": "2026-10-06T10:32:15Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "True or False? Cisco switches should be configured in production to send syslog messages to the ISE MNT node.",
@@ -1554,11 +2465,13 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-23T14:39:58Z",
-      "lastVerifiedAt": "2026-10-06T10:32:15Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "True or False? IEEE 802.1X may use TACACS+ to communicate the EAP identity to the authentication server.",
@@ -1570,11 +2483,13 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-23T14:39:58Z",
-      "lastVerifiedAt": "2026-10-06T10:31:49Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "True or False? MSCHAPv2 may be used to perform machine authentication with an LDAP connection to Active Directory.",
@@ -1588,11 +2503,13 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-23T14:39:58Z",
-      "lastVerifiedAt": "2026-10-06T10:31:49Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "True or False? The supplicant is required to trust the certificate of the authentication server before it will form the TLS tunnel within which the EAP transaction will occur.",
@@ -1608,9 +2525,9 @@
       ],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-23T14:39:58Z",
-      "lastVerifiedAt": "2026-10-06T10:31:49Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "alternateAnswers": [
         {
@@ -1618,7 +2535,9 @@
           "timestamp": "2026-09-24T13:51:02Z"
         }
       ],
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Two Categories of a Group Policy. Choose any that apply.",
@@ -1633,13 +2552,15 @@
         "d. User settings"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-22T13:14:15Z",
-      "lastVerifiedAt": "2026-10-06T10:20:55Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Two different devices can communicate with each other regardless of the manufacturer as long as they have the same protocol.",
@@ -1649,26 +2570,46 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-22T12:31:44Z",
-      "lastVerifiedAt": "2026-10-06T10:18:50Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Type of malware that may contain an attachment to an email that loads malware onto your computer system.",
       "answer": "Phishing",
       "choices": [],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-22T12:31:44Z",
-      "lastVerifiedAt": "2026-10-06T10:18:50Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "shortanswer",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "Type of software that is often called as end-user programs.",
+      "answer": "Application Software",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "very single application must go through the options and check whether each application is configured in the most secure state.",
@@ -1680,11 +2621,13 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 6,
+      "confirmations": 7,
       "firstSeenAt": "2026-09-23T14:39:58Z",
-      "lastVerifiedAt": "2026-10-06T10:27:20Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "What are the signs and symptoms that your device/s are getting infected by any malware. (Choose all that applies)",
@@ -1700,9 +2643,9 @@
         "d. Software freezes or crashes"
       ],
       "verified": true,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-09-22T12:31:44Z",
-      "lastVerifiedAt": "2026-09-22T12:31:44Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "community_contribution",
       "wrongAnswers": [],
       "alternateAnswers": [
@@ -1715,7 +2658,10 @@
           "timestamp": "2026-10-06T10:18:50Z"
         }
       ],
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "What is the name of the “secure cookie” used with EAP-FAST that can be used in lieu of a certificate, or even in addition to a certificate?",
@@ -1734,11 +2680,13 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-23T14:39:58Z",
-      "lastVerifiedAt": "2026-10-06T10:31:49Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "What is the purpose of adding a user with the username radiustest password password command?",
@@ -1754,11 +2702,13 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-23T14:39:58Z",
-      "lastVerifiedAt": "2026-10-06T10:32:15Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "When configuring a Cisco Wireless LAN Controller (WLC) for communication with ISE, what must be configured for the wireless LAN (WLAN)? (Choose two.)",
@@ -1774,11 +2724,13 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-23T14:39:58Z",
-      "lastVerifiedAt": "2026-10-06T10:32:15Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Which of the following are not part of OSI Layer?",
@@ -1792,13 +2744,15 @@
         "c. Session Layer"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-22T12:31:44Z",
-      "lastVerifiedAt": "2026-10-06T10:18:50Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Which of the following are not part of the steps in order to harden your system. Choose only one.",
@@ -1816,13 +2770,15 @@
         "d. Uninstall Necessary Software"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-22T13:14:15Z",
-      "lastVerifiedAt": "2026-10-06T10:20:55Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Which of the following are the commands for disabling a port in a Network Switch. Choose any that Apply",
@@ -1845,9 +2801,9 @@
         "d. SWITCH>enableSWITCH#configure terminalSWITCH(config)#interface f0/2SWITCH(config-if)#no shutdown"
       ],
       "verified": true,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-09-22T13:14:15Z",
-      "lastVerifiedAt": "2026-09-24T14:00:49Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "alternateAnswers": [
@@ -1891,7 +2847,30 @@
           "rejectedAnswer": "SWITCH 1>enableSWITCH 1#configure terminalSWITCH 1(config)#interface f0/2SWITCH 1(config-if)#shutdown, SWITCH>enableSWITCH#config termSWITCH(config)#interface range f0/4-8SWITCH(config-if-range)#shutdown",
           "timestamp": "2026-10-06T10:22:47Z"
         }
-      ]
+      ],
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "Which of the following is not a way on improving basic security. (Choose all that applies)",
+      "answer": "Download software to any website available, Use easy to remember password, Reuse password, Ignore Updates",
+      "choices": [
+        "a. Download software to any website available",
+        "b. Use easy to remember password",
+        "c. Reuse password",
+        "d. Ignore Updates"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "Which of the following technologies enables an administrator to maintain the same configuration on all access ports, on all switches, regardless of the type of device connecting to the network?",
@@ -1910,11 +2889,55 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-23T14:39:58Z",
-      "lastVerifiedAt": "2026-10-06T10:32:15Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "Which of these are not part of security model that is very popular to information security.",
+      "answer": "Assurance",
+      "choices": [
+        "a. Confidentiality",
+        "b. Integrity",
+        "c. Assurance",
+        "d. Availability"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+    },
+    {
+      "question": "Which of these are not part of the reason why network security is important (Choose all that applies)",
+      "answer": "To expose company assets, To take advantage of competitors confidential information",
+      "choices": [
+        "a. To expose company assets",
+        "b. To take advantage of competitors confidential information",
+        "c. To keep your job as network administrator",
+        "d. To gain a competitive advantage"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "Which of these are not part of the reason why we need to secure our network?",
@@ -1929,13 +2952,15 @@
         "d. To secure company asset"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 8,
       "firstSeenAt": "2026-09-18T08:20:16Z",
-      "lastVerifiedAt": "2026-10-04T11:14:52Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "isAiSuggestion": false,
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Which supplicant(s) is capable of EAP chaining?",
@@ -1954,11 +2979,13 @@
       "wrongAnswers": [],
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-23T14:39:58Z",
-      "lastVerifiedAt": "2026-10-06T10:31:49Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
-      "questionType": "multichoice"
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam"
     },
     {
       "question": "Without this service on your environment, you won't be able to share any of your resources",
@@ -1975,13 +3002,34 @@
         "d. Messenger service"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-09-22T13:14:15Z",
-      "lastVerifiedAt": "2026-10-06T10:20:55Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
+    },
+    {
+      "question": "Worm has the ability to replicate itself without a host program and spread independently while viruses rely on human activity to spread and damage a system or file.",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-27T04:26:32Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Prelim Exam",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z"
     },
     {
       "question": "Worms can be classified as a type of computer virus that needs a third party or a user to replicate and spread through the system.",
@@ -1991,13 +3039,15 @@
         "b. False"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 4,
       "firstSeenAt": "2026-09-22T12:31:44Z",
-      "lastVerifiedAt": "2026-10-06T10:18:50Z",
+      "lastVerifiedAt": "2026-11-27T04:26:32Z",
       "source": "review_screen",
       "wrongAnswers": [],
       "questionType": "multichoice",
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "originType": "exam",
+      "originLabel": "Exam"
     }
   ]
 }
