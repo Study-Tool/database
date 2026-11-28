@@ -1,8 +1,8 @@
 {
   "subjectCode": "IT6208",
   "subjectName": "System Integration and Architecture 1",
-  "updatedAt": "2026-11-27T04:26:32Z",
-  "totalQuestions": 44,
+  "updatedAt": "2026-11-28T04:17:53Z",
+  "totalQuestions": 43,
   "tier": "amauoed",
   "questions": [
     {
@@ -14,14 +14,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "\"This involves generating alternative designs, or that might reasonably satisfy system specifications.\"",
@@ -32,14 +32,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "1st System Integration Life Cycle : System architecture development ; Requirements definition and specification ; Management plan:program and project plan ; Feasibility analysis",
@@ -50,14 +50,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "2nd System Integration Life Cycle : Management plan:program and project plan ; Feasibility analysis ; System architecture development ; Requirements definition and specification",
@@ -68,14 +68,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "3rd System Integration Life Cycle : Management plan:program and project plan ; System design: logical and physical design ; System architecture development ; System",
@@ -86,14 +86,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "4th System Integration Life Cycle : Management plan: program and project plan ; program ; feasibility ; system",
@@ -104,14 +104,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "5th System Integration Life Cycle : Design ; Command ; Systems design: logical and physical design; System",
@@ -122,14 +122,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "6th System Integration Life Cycle : Design ; Feasibility Analysis ; Evaluation ; Implementation: design implementation, system tests, and operational deployment",
@@ -140,14 +140,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "7th System Integration Life Cycle : Problem Definition ; System Design ; Evaluation: system review and plan for replacement/retirement ; Feasibility Analysis",
@@ -158,14 +158,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Acronym: SDLC",
@@ -176,15 +176,16 @@
       ],
       "questionType": "shortanswer",
       "wrongAnswers": [
-        "Systems Development Life Cycle"
+        "Systems Development Life Cycle",
+        "Software Development Life Cycle"
       ],
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 10,
+      "confirmations": 18,
       "firstSeenAt": "2026-10-06T09:35:59Z",
       "source": "amauoed",
-      "lastEvidenceAt": "2026-10-06T09:35:59Z",
+      "lastEvidenceAt": "2026-11-28T04:17:53Z",
       "originType": "exam",
       "originLabel": "Exam",
       "alternateAnswers": [
@@ -193,7 +194,7 @@
           "timestamp": "2026-11-27T04:26:32Z"
         }
       ],
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Advantages of EA",
@@ -204,14 +205,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Characteristics of Distributed System : Resource Sharing, Openness, Concurrency, Scalable, Fault Tolerant and Transparent; System, Openness, Concurrency, Scalable, Fault Tolerant and Transparent ; Resource Sharing, Personal System, Concurrency, Scalable, Fault Tolerant and Transparent",
@@ -222,14 +223,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Data flow or control flow diagrams : Relationship Model ; System ; Interface Model ; Dynamic Process Model",
@@ -240,14 +241,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Defines subsystem interfaces : Interface Model ; Control Modeling ; Dynamic Process Model ; System Structuring",
@@ -258,14 +259,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Description of the system output by architectural design : System Structuring ; Architectural Design ; Control Modeling ; Software Architecture",
@@ -276,14 +277,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Design is the essence of engineering. : Design Synthesis ; Problem Definition ; System Design ; System Integration",
@@ -294,14 +295,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Designed to run on a single user system : Interface Model ; Dynamic Process Model ; Personal System ; Personal System",
@@ -312,14 +313,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Developers program and must write the tests for their own code.",
@@ -330,14 +331,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Ensures that specific hardware/software components fit together smoothly in a stated configuration : System Integration ; Computer-Integrated Manufacturing ; Computer-Aided Manufacturing ; Computer-Aided Engineering",
@@ -348,14 +349,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Identified subsystems decomposed into modules : Modular Decomposition ; Control Modeling ; System Structuring ; Software Architecture",
@@ -366,14 +367,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Is essential to the development of large, complex engineered systems. : System Integration ; CAM ; CAE ; CIM",
@@ -384,34 +385,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
-      "isAiSuggestion": false,
-      "confirmations": 4,
-      "firstSeenAt": "2026-11-27T04:26:32Z",
-      "source": "amauoed",
-      "originType": "exam",
-      "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
-    },
-    {
-      "question": "Is it true or false: The individual processes transform either data or materials that “flow” between them",
-      "answer": "True",
-      "choices": [
-        "True",
-        "a. True",
-        "b. False"
-      ],
-      "questionType": "multichoice",
-      "wrongAnswers": [],
-      "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 11,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Is the creative process by which our understanding of logic and science is joined with our understanding of human needs and wants to conceive and refine artifacts that serve specific human purposes. : CAD ; CAM ; CAE ; Design",
@@ -422,14 +403,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Is the design upon which many general purpose computers are based. : Blaise Pascal Architecture ; Von Neumann Architecture ; Blase Pascal Architecture ; Von Neuman Architecture",
@@ -440,14 +421,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "May run on a single processor : Relationship Model ; Interface Model ; System ; Embedded System",
@@ -458,14 +439,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Model of control relationships among system components is established : System Structuring ; Software Architecture ; Modular Decomposition ; Control Modeling",
@@ -476,14 +457,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "No distinctions made between clients and servers : Distributed Object ; Dynamic Process model ; Personal System ; Client/Server",
@@ -494,14 +475,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Offer distributed services which may be called by clients : Dynamic System ; Client/Server ; System ; Personal System",
@@ -512,14 +493,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Process for identifying the subsystems that make up a system : Control Modeling ; Software Architecture ; Architectural Design; System Structuring",
@@ -530,14 +511,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Refers to the use of modem computing hardware and software in converting the initial idea for a product into a detailed engineering design. : CIM ; CAM ; CAD ; Computer-Aided Design",
@@ -548,14 +529,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Requires the coordination of preexisting and coexisting system components with newly developed ones : Ranking and Selection ; Problem Definition ; Parameterization ; System Integration",
@@ -566,14 +547,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Shows major system components : Dynamic Process Model ; Relationships Model ; Static Structural Model ; Interface Model",
@@ -584,14 +565,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Shows process structure of the system : Control Modeling ; Dynamic Process Model ; Interface Model ; Relationship Model",
@@ -602,14 +583,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "System decomposed into several subsystems : Architectural Design ; Control Modeling ; System Structuring ; Software Architecture",
@@ -620,14 +601,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "System software runs on loosely integrated group of cooperating processors linked by a network : Personal System ; System ; Distributed System ; Embedded System",
@@ -638,14 +619,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "The design process begins with the identification of a human need and the reduction of this need to a precise set of specifications for the system to be built. : Parameterization ; Analysis ; Design Synthesis; Problem Definition",
@@ -656,14 +637,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "The ranking of design alternatives and the ultimate selection of the most preferred design involves the selection of the best parameterization of the best conceptual design. : Problem Definition ; Design Synthesis ; Parameterization ; Ranking and Selection",
@@ -674,14 +655,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "The result of design synthesis is the selection of a promising set of preliminary or conceptual designs for the system. : Problem Definition ; Design Synthesis ; Parameterization ; Analysis",
@@ -692,14 +673,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "The ultimate step in the design process involves the fabrication and testing of a prototype or system. : Design Synthesis ; Parameterization ; Problem Definition ; Prototype and Testing",
@@ -710,14 +691,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "These design concepts need to be converted into _detailed designs _for all components and subsystems. : Analysis ; Problem Definition ; Design Synthesis ; Parameterization",
@@ -728,14 +709,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "This involves generating alternative designs, or _design options, _that might reasonably satisfy system specifications. : Parameterization ; Design Synthesis ; Analysis ; Problem Definition",
@@ -746,14 +727,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "VDesigned to run on a single user system",
@@ -764,14 +745,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "What is the symbol name for process transforming data flow",
@@ -788,12 +769,15 @@
         "a. Arrow",
         "c. Square",
         "d. Circle",
-        "b. Arrow"
+        "b. Arrow",
+        "d. Open Rectangle",
+        "b. Circle",
+        "a. Square"
       ],
       "verified": true,
       "confirmations": 2,
       "firstSeenAt": "2026-09-22T07:31:52Z",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z",
       "source": "amauoed",
       "wrongAnswers": [
         "Arrow"
@@ -803,7 +787,7 @@
       "originLabel": "Exam",
       "isAiSuggestion": false,
       "wrongAnswerEvidence": true,
-      "lastEvidenceAt": "2026-11-27T04:26:32Z"
+      "lastEvidenceAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "What is the Three Basic O",
@@ -814,14 +798,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 9,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     }
   ]
 }

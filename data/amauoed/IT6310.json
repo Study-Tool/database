@@ -1,14 +1,9 @@
 {
   "subjectCode": "IT6310",
   "subjectName": "Network Security",
-  "updatedAt": "2026-10-03T15:59:05Z",
-  "refreshedAt": "2026-10-03T15:59:05Z",
-  "tier": "study_guide",
-  "sourceName": "AMAUOED",
-  "sourceUrl": "https://amauoed.com/courses/it/network-security-6310-it",
-  "sourceFormat": "AMAUOED course answer cards",
-  "verified": false,
+  "updatedAt": "2026-11-28T04:17:52Z",
   "totalQuestions": 30,
+  "tier": "amauoed",
   "questions": [
     {
       "question": "A security layer used in mobile devices that employ the Wireless Applications Protocol (WAP).",
@@ -16,12 +11,16 @@
       "choices": [
         "WTLS"
       ],
-      "wrongAnswers": [],
-      "verified": false,
-      "confirmations": 1,
+      "verified": true,
+      "confirmations": 19,
+      "firstSeenAt": "2026-09-18T08:05:39Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "amauoed",
-      "evidenceType": "study_guide_candidate",
-      "sourceUrl": "https://amauoed.com/courses/it/network-security-6310-it"
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "A tool (typically based on IPsec or SSL) that authenticates the communication between a device and a secure network, creating a secure, encrypted \"tunnel\" across the open internet",
@@ -29,12 +28,16 @@
       "choices": [
         "VPN"
       ],
-      "wrongAnswers": [],
-      "verified": false,
-      "confirmations": 1,
+      "verified": true,
+      "confirmations": 19,
+      "firstSeenAt": "2026-09-18T08:05:39Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "amauoed",
-      "evidenceType": "study_guide_candidate",
-      "sourceUrl": "https://amauoed.com/courses/it/network-security-6310-it"
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "As a philosophy, it complements midpoint security, which focuses on individual devices; preventive security instead focuses on how those devices interact, and on the connective tissue between them.",
@@ -42,12 +45,16 @@
       "choices": [
         "False"
       ],
-      "wrongAnswers": [],
-      "verified": false,
-      "confirmations": 1,
+      "verified": true,
+      "confirmations": 19,
+      "firstSeenAt": "2026-09-18T08:05:39Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "amauoed",
-      "evidenceType": "study_guide_candidate",
-      "sourceUrl": "https://amauoed.com/courses/it/network-security-6310-it"
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "Human beings are inevitably the weakest security link. You need to implement technologies and processes to ensure that staffers don't deliberately or inadvertently send sensitive data outside the network.",
@@ -55,12 +62,16 @@
       "choices": [
         "Data Loss Prevention"
       ],
-      "wrongAnswers": [],
-      "verified": false,
-      "confirmations": 1,
+      "verified": true,
+      "confirmations": 19,
+      "firstSeenAt": "2026-09-18T08:05:39Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "amauoed",
-      "evidenceType": "study_guide_candidate",
-      "sourceUrl": "https://amauoed.com/courses/it/network-security-6310-it"
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "If the network isn't a line or a point: it's a _____________.",
@@ -68,12 +79,16 @@
       "choices": [
         "territory"
       ],
-      "wrongAnswers": [],
-      "verified": false,
-      "confirmations": 1,
+      "verified": true,
+      "confirmations": 19,
+      "firstSeenAt": "2026-09-18T08:05:39Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "amauoed",
-      "evidenceType": "study_guide_candidate",
-      "sourceUrl": "https://amauoed.com/courses/it/network-security-6310-it"
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "If there's one common theme among security experts, it's that relying on one single line of defense is dangerous, because any single defensive tool can be defeated by a determined adversary.",
@@ -81,12 +96,16 @@
       "choices": [
         "defense in depth strategy"
       ],
-      "wrongAnswers": [],
-      "verified": false,
-      "confirmations": 1,
+      "verified": true,
+      "confirmations": 19,
+      "firstSeenAt": "2026-09-18T08:05:39Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "amauoed",
-      "evidenceType": "study_guide_candidate",
-      "sourceUrl": "https://amauoed.com/courses/it/network-security-6310-it"
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "It could be exploited because of an encryption key that was vulnerable to decoding.",
@@ -94,12 +113,16 @@
       "choices": [
         "WEP 64"
       ],
-      "wrongAnswers": [],
-      "verified": false,
-      "confirmations": 1,
+      "verified": true,
+      "confirmations": 19,
+      "firstSeenAt": "2026-09-18T08:05:39Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "amauoed",
-      "evidenceType": "study_guide_candidate",
-      "sourceUrl": "https://amauoed.com/courses/it/network-security-6310-it"
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "It disguises as useful software.",
@@ -107,12 +130,16 @@
       "choices": [
         "trojan horse"
       ],
-      "wrongAnswers": [],
-      "verified": false,
-      "confirmations": 1,
+      "verified": true,
+      "confirmations": 19,
+      "firstSeenAt": "2026-09-18T08:05:39Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "amauoed",
-      "evidenceType": "study_guide_candidate",
-      "sourceUrl": "https://amauoed.com/courses/it/network-security-6310-it"
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "It helps keep data and equipment safe by giving only the appropriate people access.",
@@ -120,12 +147,16 @@
       "choices": [
         "network security"
       ],
-      "wrongAnswers": [],
-      "verified": false,
-      "confirmations": 1,
+      "verified": true,
+      "confirmations": 19,
+      "firstSeenAt": "2026-09-18T08:05:39Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "amauoed",
-      "evidenceType": "study_guide_candidate",
-      "sourceUrl": "https://amauoed.com/courses/it/network-security-6310-it"
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "It helps prevent attackers from monitoring or recording traffic between resources and computers.",
@@ -133,12 +164,16 @@
       "choices": [
         "data encryption"
       ],
-      "wrongAnswers": [],
-      "verified": false,
-      "confirmations": 1,
+      "verified": true,
+      "confirmations": 19,
+      "firstSeenAt": "2026-09-18T08:05:39Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "amauoed",
-      "evidenceType": "study_guide_candidate",
-      "sourceUrl": "https://amauoed.com/courses/it/network-security-6310-it"
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "It is a self-replicating program that is harmful to networks.",
@@ -146,12 +181,16 @@
       "choices": [
         "worm"
       ],
-      "wrongAnswers": [],
-      "verified": false,
-      "confirmations": 1,
+      "verified": true,
+      "confirmations": 19,
+      "firstSeenAt": "2026-09-18T08:05:39Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "amauoed",
-      "evidenceType": "study_guide_candidate",
-      "sourceUrl": "https://amauoed.com/courses/it/network-security-6310-it"
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "It is a wireless security protocol created by Cisco to address the weaknesses in WEP and WPA.",
@@ -159,12 +198,16 @@
       "choices": [
         "LEAP"
       ],
-      "wrongAnswers": [],
-      "verified": false,
-      "confirmations": 1,
+      "verified": true,
+      "confirmations": 19,
+      "firstSeenAt": "2026-09-18T08:05:39Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "amauoed",
-      "evidenceType": "study_guide_candidate",
-      "sourceUrl": "https://amauoed.com/courses/it/network-security-6310-it"
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "It uses available resources, such as passwords or scripts.",
@@ -172,12 +215,16 @@
       "choices": [
         "unstructured attacks"
       ],
-      "wrongAnswers": [],
-      "verified": false,
-      "confirmations": 1,
+      "verified": true,
+      "confirmations": 19,
+      "firstSeenAt": "2026-09-18T08:05:39Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "amauoed",
-      "evidenceType": "study_guide_candidate",
-      "sourceUrl": "https://amauoed.com/courses/it/network-security-6310-it"
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "It uses code to access operating systems and software.",
@@ -185,12 +232,16 @@
       "choices": [
         "structured attacks"
       ],
-      "wrongAnswers": [],
-      "verified": false,
-      "confirmations": 1,
+      "verified": true,
+      "confirmations": 19,
+      "firstSeenAt": "2026-09-18T08:05:39Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "amauoed",
-      "evidenceType": "study_guide_candidate",
-      "sourceUrl": "https://amauoed.com/courses/it/network-security-6310-it"
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "It was the first generation security standard for wireless network.",
@@ -198,12 +249,16 @@
       "choices": [
         "WEP"
       ],
-      "wrongAnswers": [],
-      "verified": false,
-      "confirmations": 1,
+      "verified": true,
+      "confirmations": 19,
+      "firstSeenAt": "2026-09-18T08:05:39Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "amauoed",
-      "evidenceType": "study_guide_candidate",
-      "sourceUrl": "https://amauoed.com/courses/it/network-security-6310-it"
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "Network security is the practice of preventing and protecting against unauthorized intrusion into corporate networks.",
@@ -211,12 +266,16 @@
       "choices": [
         "True"
       ],
-      "wrongAnswers": [],
-      "verified": false,
-      "confirmations": 1,
+      "verified": true,
+      "confirmations": 19,
+      "firstSeenAt": "2026-09-18T08:05:39Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "amauoed",
-      "evidenceType": "study_guide_candidate",
-      "sourceUrl": "https://amauoed.com/courses/it/network-security-6310-it"
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "Network security is the process of taking physical and software preventative measures to protect the underlying networking infrastructure from unauthorized access",
@@ -224,12 +283,16 @@
       "choices": [
         "True"
       ],
-      "wrongAnswers": [],
-      "verified": false,
-      "confirmations": 1,
+      "verified": true,
+      "confirmations": 19,
+      "firstSeenAt": "2026-09-18T08:05:39Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "amauoed",
-      "evidenceType": "study_guide_candidate",
-      "sourceUrl": "https://amauoed.com/courses/it/network-security-6310-it"
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "One example is when an employee intends to cause damage.",
@@ -237,12 +300,16 @@
       "choices": [
         "malicious threats"
       ],
-      "wrongAnswers": [],
-      "verified": false,
-      "confirmations": 1,
+      "verified": true,
+      "confirmations": 19,
+      "firstSeenAt": "2026-09-18T08:05:39Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "amauoed",
-      "evidenceType": "study_guide_candidate",
-      "sourceUrl": "https://amauoed.com/courses/it/network-security-6310-it"
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "Preventive security is implemented by the tasks and tools you use to prevent unauthorized people or programs from accessing your networks and the devices connected to them.",
@@ -250,12 +317,16 @@
       "choices": [
         "False"
       ],
-      "wrongAnswers": [],
-      "verified": false,
-      "confirmations": 1,
+      "verified": true,
+      "confirmations": 19,
+      "firstSeenAt": "2026-09-18T08:05:39Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "amauoed",
-      "evidenceType": "study_guide_candidate",
-      "sourceUrl": "https://amauoed.com/courses/it/network-security-6310-it"
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "Software designed to detect, disable, and remove viruses, worms, and Trojans.",
@@ -263,12 +334,16 @@
       "choices": [
         "antivirus"
       ],
-      "wrongAnswers": [],
-      "verified": false,
-      "confirmations": 1,
+      "verified": true,
+      "confirmations": 19,
+      "firstSeenAt": "2026-09-18T08:05:39Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "amauoed",
-      "evidenceType": "study_guide_candidate",
-      "sourceUrl": "https://amauoed.com/courses/it/network-security-6310-it"
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "Stephen Northcutt wrote an essay on the basics of network security for CS) online last year.",
@@ -276,12 +351,16 @@
       "choices": [
         "False"
       ],
-      "wrongAnswers": [],
-      "verified": false,
-      "confirmations": 1,
+      "verified": true,
+      "confirmations": 19,
+      "firstSeenAt": "2026-09-18T08:05:39Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "amauoed",
-      "evidenceType": "study_guide_candidate",
-      "sourceUrl": "https://amauoed.com/courses/it/network-security-6310-it"
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "These are created with malicious intent and sent by attackers.",
@@ -289,12 +368,16 @@
       "choices": [
         "virus"
       ],
-      "wrongAnswers": [],
-      "verified": false,
-      "confirmations": 1,
+      "verified": true,
+      "confirmations": 19,
+      "firstSeenAt": "2026-09-18T08:05:39Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "amauoed",
-      "evidenceType": "study_guide_candidate",
-      "sourceUrl": "https://amauoed.com/courses/it/network-security-6310-it"
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "These are the events or attacks that remove, corrupt, deny access to, allow access to, or steal information.",
@@ -302,12 +385,16 @@
       "choices": [
         "data security attacks"
       ],
-      "wrongAnswers": [],
-      "verified": false,
-      "confirmations": 1,
+      "verified": true,
+      "confirmations": 19,
+      "firstSeenAt": "2026-09-18T08:05:39Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "amauoed",
-      "evidenceType": "study_guide_candidate",
-      "sourceUrl": "https://amauoed.com/courses/it/network-security-6310-it"
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "This is a networking infrastructure company.",
@@ -315,12 +402,16 @@
       "choices": [
         "CISCO"
       ],
-      "wrongAnswers": [],
-      "verified": false,
-      "confirmations": 1,
+      "verified": true,
+      "confirmations": 19,
+      "firstSeenAt": "2026-09-18T08:05:39Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "amauoed",
-      "evidenceType": "study_guide_candidate",
-      "sourceUrl": "https://amauoed.com/courses/it/network-security-6310-it"
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "This is a way of protecting a computer from intrusion through the ports.",
@@ -328,12 +419,16 @@
       "choices": [
         "firewall"
       ],
-      "wrongAnswers": [],
-      "verified": false,
-      "confirmations": 1,
+      "verified": true,
+      "confirmations": 19,
+      "firstSeenAt": "2026-09-18T08:05:39Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "amauoed",
-      "evidenceType": "study_guide_candidate",
-      "sourceUrl": "https://amauoed.com/courses/it/network-security-6310-it"
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "This is an enhanced encryption protocol combining a 104-bit key and a 24-bit initializing vector.",
@@ -341,12 +436,16 @@
       "choices": [
         "WEP 128"
       ],
-      "wrongAnswers": [],
-      "verified": false,
-      "confirmations": 1,
+      "verified": true,
+      "confirmations": 19,
+      "firstSeenAt": "2026-09-18T08:05:39Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "amauoed",
-      "evidenceType": "study_guide_candidate",
-      "sourceUrl": "https://amauoed.com/courses/it/network-security-6310-it"
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "This is an improved version of WEP.",
@@ -354,12 +453,16 @@
       "choices": [
         "WPA"
       ],
-      "wrongAnswers": [],
-      "verified": false,
-      "confirmations": 1,
+      "verified": true,
+      "confirmations": 19,
+      "firstSeenAt": "2026-09-18T08:05:39Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "amauoed",
-      "evidenceType": "study_guide_candidate",
-      "sourceUrl": "https://amauoed.com/courses/it/network-security-6310-it"
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "This is data being transported on a network.",
@@ -367,12 +470,16 @@
       "choices": [
         "traffic"
       ],
-      "wrongAnswers": [],
-      "verified": false,
-      "confirmations": 1,
+      "verified": true,
+      "confirmations": 19,
+      "firstSeenAt": "2026-09-18T08:05:39Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "amauoed",
-      "evidenceType": "study_guide_candidate",
-      "sourceUrl": "https://amauoed.com/courses/it/network-security-6310-it"
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "This is when the user damages data or equipment unintentionally.",
@@ -380,12 +487,16 @@
       "choices": [
         "accidental threats"
       ],
-      "wrongAnswers": [],
-      "verified": false,
-      "confirmations": 1,
+      "verified": true,
+      "confirmations": 19,
+      "firstSeenAt": "2026-09-18T08:05:39Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "amauoed",
-      "evidenceType": "study_guide_candidate",
-      "sourceUrl": "https://amauoed.com/courses/it/network-security-6310-it"
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     },
     {
       "question": "This refers to the events or attacks that steal, damage, or destroy equipment.",
@@ -393,12 +504,16 @@
       "choices": [
         "physical security threats"
       ],
-      "wrongAnswers": [],
-      "verified": false,
-      "confirmations": 1,
+      "verified": true,
+      "confirmations": 19,
+      "firstSeenAt": "2026-09-18T08:05:39Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "amauoed",
-      "evidenceType": "study_guide_candidate",
-      "sourceUrl": "https://amauoed.com/courses/it/network-security-6310-it"
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "exam",
+      "originLabel": "Exam",
+      "isAiSuggestion": false
     }
   ]
 }

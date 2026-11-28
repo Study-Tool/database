@@ -1,8 +1,8 @@
 {
   "subjectCode": "IT6201B",
   "subjectName": "Data Structures and Algorithm Analysis",
-  "updatedAt": "2026-11-27T04:26:33Z",
-  "totalQuestions": 328,
+  "updatedAt": "2026-11-28T04:17:52Z",
+  "totalQuestions": 332,
   "questions": [
     {
       "question": "\"The elements are removal from a stack in _________ order. \"",
@@ -177,6 +177,22 @@
       "lastVerifiedAt": "2026-11-27T04:26:33Z",
       "originType": "quiz",
       "originLabel": "Quiz"
+    },
+    {
+      "question": "A [____] network is able to expand to accept new devices and applications without affecting performance.",
+      "answer": "Scalable",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "review_screen",
+      "originType": "quiz",
+      "originLabel": "Quiz 1",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
     },
     {
       "question": "A _______________ is a data structure that organizes data similar to a line in the supermarket, where the first one in line is the first one out.",
@@ -388,17 +404,19 @@
         "a. BYOD",
         "b. virtualization",
         "c. online collaboration",
-        "d. maintaining communication integrity"
+        "d. maintaining communication integrity",
+        "a. maintaining communication integrity",
+        "b. online collaboration"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "originType": "quiz",
       "originLabel": "Quiz"
     },
@@ -562,17 +580,18 @@
         "b. Type the command and then press the Tab key",
         "c. Type the command, type help, and press the Enter key.",
         "d. Type the command and then press CTRL-C",
-        "e. Type help and press the Enter key at the prompt"
+        "e. Type help and press the Enter key at the prompt",
+        "d. Type the command and then press the Tab key"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "originType": "quiz",
       "originLabel": "Quiz"
     },
@@ -882,17 +901,19 @@
         "c. SVI",
         "d. physical switchport access",
         "c. physical switchport access",
-        "d. SVI"
+        "d. SVI",
+        "a. password encryption",
+        "b. Telnet access"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "originType": "quiz",
       "originLabel": "Quiz"
     },
@@ -1091,6 +1112,22 @@
       "originLabel": "Quiz"
     },
     {
+      "question": "An [____] is a private connection of LANs and WANs that belongs to an organization, and is designed to be accessible only by the members and employees of the organization, or others with authorization.",
+      "answer": "intranet",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "review_screen",
+      "originType": "quiz",
+      "originLabel": "Quiz 1",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
       "question": "An Abstract Data Type that stores elements hierarchically.",
       "answer": "Trees",
       "choices": [
@@ -1125,17 +1162,22 @@
         "d. Copy the information in the startup configuration file to the running configuration",
         "a. Nothing must be done. Changes to the configuration on an IOS device take effect as soon as the command is typed correctly and the Enter key has been pressed.",
         "b. Reload the device and type yes when prompted to save the configuration",
-        "c. Copy the running configuration to the startup configuration file."
+        "c. Copy the running configuration to the startup configuration file.",
+        "c. Copy the information in the startup configuration file to the running configuration",
+        "d. Nothing must be done. Changes to the configuration on an IOS device take effect as soon as the command is typed correctly and the Enter key has been pressed.",
+        "a. Copy the information in the startup configuration file to the running configuration",
+        "b. Nothing must be done. Changes to the configuration on an IOS device take effect as soon as the command is typed correctly and the Enter key has been pressed.",
+        "d. Reload the device and type yes when prompted to save the configuration"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "originType": "quiz",
       "originLabel": "Quiz"
     },
@@ -1463,17 +1505,22 @@
         "a. spyware",
         "b. zero – day attack",
         "c. DoS attack",
-        "d. identity theft"
+        "d. identity theft",
+        "a. DoS attack",
+        "b. identity theft",
+        "c. spyware",
+        "d. zero – day attack",
+        "b. DoS attack"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "originType": "quiz",
       "originLabel": "Quiz"
     },
@@ -1836,17 +1883,21 @@
         "c. By the use of a custom GUI",
         "d. With a Cisco-proprietary application",
         "a. By the use of a custom GUI",
-        "c. Using a web browser"
+        "c. Using a web browser",
+        "b. Using a web browser",
+        "c. Through the CLI using a terminal emulator",
+        "a. With a Cisco-proprietary application",
+        "d. By the use of a custom GUI"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "originType": "quiz",
       "originLabel": "Quiz"
     },
@@ -2388,17 +2439,20 @@
         "d. an apartment in a building with cable access to the Internet",
         "a. any home with multiple wireless devices",
         "b. a farm in rural area without wired broadband access",
-        "d. an Internet cafe in a city"
+        "d. an Internet cafe in a city",
+        "c. any home with multiple wireless devices",
+        "c. a farm in rural area without wired broadband access",
+        "d. a farm in rural area without wired broadband access"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "alternateAnswers": [
         {
           "answer": "a farm in a rural area without wired broadband access",
@@ -2410,7 +2464,17 @@
         }
       ],
       "originType": "quiz",
-      "originLabel": "Quiz"
+      "originLabel": "Quiz",
+      "conflictHistory": [
+        {
+          "rejectedAnswer": "a farm in a rural area without wired broadband access",
+          "timestamp": "2026-11-28T04:17:52Z"
+        },
+        {
+          "rejectedAnswer": "a farm in a rural area without wired broadband access",
+          "timestamp": "2026-11-28T04:17:52Z"
+        }
+      ]
     },
     {
       "question": "Indexing the ________________ element in the list is not possible in linked lists.",
@@ -3306,6 +3370,22 @@
       "lastVerifiedAt": "2026-11-27T04:26:33Z",
       "originType": "quiz",
       "originLabel": "Quiz"
+    },
+    {
+      "question": "The farther you are from the central office when utilizing a DSL connection, the [____] the connection speed",
+      "answer": "slower",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "review_screen",
+      "originType": "quiz",
+      "originLabel": "Quiz 1",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
     },
     {
       "question": "The following are some of the applications of heaps except",
@@ -4205,17 +4285,25 @@
         "b. Down Arrow",
         "d. Ctrl-P",
         "e. Ctrl-N",
-        "f. Tab"
+        "f. Tab",
+        "a. Right Arrow",
+        "b. Ctrl-N",
+        "c. Down Arrow",
+        "e. Ctrl-P",
+        "b. Up Arrow",
+        "c. Tab",
+        "e. Right Arrow",
+        "f. Down Arrow"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "originType": "quiz",
       "originLabel": "Quiz"
     },
@@ -4515,7 +4603,11 @@
         "b. Availability",
         "c. Confidentiality",
         "d. Scalability",
-        "e. Integrity"
+        "e. Integrity",
+        "d. Availability",
+        "e. Confidentiality",
+        "c. Scalability",
+        "d. Integrity"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
@@ -4533,7 +4625,43 @@
         }
       ],
       "originType": "quiz",
-      "originLabel": "Quiz"
+      "originLabel": "Quiz",
+      "conflictHistory": [
+        {
+          "rejectedAnswer": "Integrity, Availability, Confidentiality",
+          "timestamp": "2026-11-28T04:17:52Z"
+        },
+        {
+          "rejectedAnswer": "Availability, Integrity, Confidentiality",
+          "timestamp": "2026-11-28T04:17:52Z"
+        }
+      ]
+    },
+    {
+      "question": "What are two benefits of collaboration and video-on-demand applications? (Choose two.)",
+      "answer": "",
+      "choices": [
+        "a. ensuring a more reliable network",
+        "b. providing a richer e-learning environment",
+        "c. providing data storage and retrieval to a business",
+        "d. providing better social media opportunities",
+        "e. providing a richer e-learning environment",
+        "f. providing faster, more secure business communications"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "providing a richer e-learning environment",
+        "providing faster, more secure business communications"
+      ],
+      "wrongAnswerEvidence": true,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "review_screen",
+      "originType": "quiz",
+      "originLabel": "Quiz 1",
+      "lastEvidenceAt": "2026-11-28T04:17:52Z"
     },
     {
       "question": "What are two functions that are provided by the network layer? (Choose two.)",
@@ -4571,17 +4699,20 @@
         "a. Switch# sh?",
         "b. Switch# status?",
         "c. Switch# show?",
-        "d. Switch# help"
+        "d. Switch# help",
+        "a. Switch# help",
+        "b. Switch# sh?",
+        "d. Switch# status?"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "originType": "quiz",
       "originLabel": "Quiz"
     },
@@ -4754,17 +4885,20 @@
         "d. A network where voice, video, and data move over the same infrastructure",
         "a. A network where voice, video, and data move over the same infrastructure",
         "c. A network that makes use of both wired and wireless technology",
-        "d. A network that makes use of both fiber-optic and copper connections"
+        "d. A network that makes use of both fiber-optic and copper connections",
+        "a. A network that makes use of both fiber-optic and copper connections",
+        "b. A network where voice, video, and data move over the same infrastructure",
+        "d. A network that makes use of both wired and wireless technology"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "originType": "quiz",
       "originLabel": "Quiz"
     },
@@ -4778,17 +4912,19 @@
         "d. A network that is incapable of failing",
         "a. A network that can provide priority treatment of voice and video traffic",
         "c. A network that is incapable of failing",
-        "d. A network that offers secure transactions"
+        "d. A network that offers secure transactions",
+        "b. A network that can provide priority treatment of voice and video traffic",
+        "d. A network that can reroute traffic in case of device failure"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "originType": "quiz",
       "originLabel": "Quiz"
     },
@@ -4807,23 +4943,32 @@
         "c. Wiki",
         "d. Access point",
         "e. TelePresence endpoint",
-        "f. Podcasting"
+        "f. Podcasting",
+        "a. Wiki",
+        "c. Weblog (blog)",
+        "d. Podcasting",
+        "f. Access point",
+        "a. TelePresence endpoint",
+        "b. Podcasting",
+        "d. Weblog (blog)",
+        "e. Access point",
+        "f. Instant messaging"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "originType": "quiz",
       "originLabel": "Quiz"
     },
     {
       "question": "What is a network infrastructure that provides access to other networks over a wide geographic area?",
-      "answer": "",
+      "answer": "SAN",
       "choices": [
         "a. SAN",
         "b. LAN",
@@ -4833,20 +4978,29 @@
         "a. LAN",
         "b. SAN",
         "d. MAN",
-        "e. WAN"
+        "e. WAN",
+        "a. WLAN",
+        "c. MAN",
+        "d. LAN",
+        "b. WLAN",
+        "e. SAN"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [
         "WAN",
-        "MAN"
+        "MAN",
+        "WLAN"
       ],
       "wrongAnswerEvidence": true,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
       "confirmations": 1,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastEvidenceAt": "2026-10-14T01:49:46Z"
+      "lastEvidenceAt": "2026-11-28T04:17:52Z",
+      "originType": "quiz",
+      "originLabel": "Quiz 1",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
     },
     {
       "question": "What is a queue?",
@@ -4898,17 +5052,23 @@
         "a. a personal journal that is posted on the internet",
         "b. an audio-based medium that is used to deliver information to a wide audience",
         "c. an online meeting",
-        "d. a web page that groups of people can edit and review"
+        "d. a web page that groups of people can edit and review",
+        "a. an online meeting",
+        "b. a personal journal that is posted on the internet",
+        "c. an audio-based medium that is used to deliver information to a wide audience",
+        "b. a web page that groups of people can edit and review",
+        "c. a personal journal that is posted on the internet",
+        "d. an audio-based medium that is used to deliver information to a wide audience"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "originType": "quiz",
       "originLabel": "Quiz"
     },
@@ -4995,17 +5155,21 @@
         "a. the consoled line password",
         "b. all configured passwords",
         "c. the privileged executive mode password",
-        "d. the VTY line password"
+        "d. the VTY line password",
+        "a. the privileged executive mode password",
+        "b. the VTY line password",
+        "c. the consoled line password",
+        "d. all configured passwords"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "originType": "quiz",
       "originLabel": "Quiz"
     },
@@ -5018,17 +5182,21 @@
         "c. Argument",
         "d. A space",
         "c. A space",
-        "d. Argument"
+        "d. Argument",
+        "b. Argument",
+        "c. Keyword",
+        "a. Argument",
+        "d. Command"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "originType": "quiz",
       "originLabel": "Quiz"
     },
@@ -5067,17 +5235,22 @@
         "d. The configuration for the Cisco network device",
         "a. The configuration for the Cisco network device",
         "c. The memory for the Cisco network device",
-        "d. The CPU for the Cisco network device"
+        "d. The CPU for the Cisco network device",
+        "a. The operating system for the Cisco network device",
+        "b. The CPU for the Cisco network device",
+        "c. The configuration for the Cisco network device",
+        "d. The memory for the Cisco network device",
+        "c. The operating system for the Cisco network device"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "originType": "quiz",
       "originLabel": "Quiz"
     },
@@ -5203,17 +5376,21 @@
         "c. Configuring an IP address",
         "d. Configuring a console password",
         "a. Configuring a console password",
-        "d. Configuring a default gateway"
+        "d. Configuring a default gateway",
+        "b. Configuring a console password",
+        "c. Configuring a VTY password",
+        "d. Configuring an IP address",
+        "c. Configuring a console password"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "originType": "quiz",
       "originLabel": "Quiz"
     },
@@ -5426,17 +5603,22 @@
         "a. Web interface",
         "b. Console port",
         "d. Telnet",
-        "e. SSH"
+        "e. SSH",
+        "a. AUX port",
+        "b. Telnet",
+        "c. Console port",
+        "a. Telnet",
+        "b. AUX port"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "originType": "quiz",
       "originLabel": "Quiz"
     },
@@ -5470,17 +5652,20 @@
         "c. Location of departmental printer",
         "d. Location of departmental switch",
         "b. Location of departmental switch",
-        "d. IP addressing scheme"
+        "d. IP addressing scheme",
+        "a. Location of departmental printer",
+        "b. Length and type of all cable runs",
+        "c. Location of departmental switch"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "originType": "quiz",
       "originLabel": "Quiz"
     },
@@ -5577,17 +5762,22 @@
         "b. Switch EaSt-2+56(config)#",
         "c. EaSt-2+56(config)#",
         "d. East-2+56(config)#",
-        "e. % Invalid input detected"
+        "e. % Invalid input detected",
+        "b. EaSt-58(config)#",
+        "d. % Invalid input detected",
+        "e. Switch EaSt-2+56(config)#",
+        "f. East-2+56(config)#",
+        "f. % Invalid input detected"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "originType": "quiz",
       "originLabel": "Quiz"
     },
@@ -5672,17 +5862,20 @@
         "d. Terminal emulator",
         "a. Terminal emulator",
         "c. Startup config",
-        "d. Running config"
+        "d. Running config",
+        "d. Startup config",
+        "b. Running config",
+        "d. NVRAM"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "originType": "quiz",
       "originLabel": "Quiz"
     },
@@ -5896,17 +6089,20 @@
         "d. DHCP server",
         "b. DHCP server",
         "c. DNS server",
-        "d. local switch"
+        "d. local switch",
+        "a. DHCP server",
+        "c. local router",
+        "b. local router"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "originType": "quiz",
       "originLabel": "Quiz"
     },
@@ -5923,7 +6119,11 @@
         "a. Wireless access point",
         "d. Server",
         "e. Switch",
-        "f. IP phone"
+        "f. IP phone",
+        "b. Server",
+        "c. IP phone",
+        "d. Tablet computer",
+        "e. Printer"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
@@ -5941,7 +6141,13 @@
         }
       ],
       "originType": "quiz",
-      "originLabel": "Quiz"
+      "originLabel": "Quiz",
+      "conflictHistory": [
+        {
+          "rejectedAnswer": "Server, IP phone, Tablet computer, Printer",
+          "timestamp": "2026-11-28T04:17:52Z"
+        }
+      ]
     },
     {
       "question": "Which entities are involve in a temporary communication that is established by the transport layer?",
@@ -6253,7 +6459,14 @@
         "b. Metro Ethernet",
         "c. Leased lines",
         "d. Mobile services",
-        "e. Cellular"
+        "e. Cellular",
+        "b. Mobile services",
+        "d. Metro Ethernet",
+        "a. Cellular",
+        "b. Broadband cable",
+        "c. Mobile services",
+        "d. Leased lines",
+        "e. Metro Ethernet"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
@@ -6265,7 +6478,17 @@
       "source": "review_screen",
       "lastVerifiedAt": "2026-11-27T04:26:33Z",
       "originType": "quiz",
-      "originLabel": "Quiz"
+      "originLabel": "Quiz",
+      "conflictHistory": [
+        {
+          "rejectedAnswer": "Leased lines, Metro Ethernet",
+          "timestamp": "2026-11-28T04:17:52Z"
+        },
+        {
+          "rejectedAnswer": "Leased lines, Metro Ethernet",
+          "timestamp": "2026-11-28T04:17:52Z"
+        }
+      ]
     },
     {
       "question": "Which of the following are disadvantages of peer-to-peer networking? (Choose two.)",
@@ -6274,17 +6497,20 @@
         "a. Scalability",
         "b. Expensive to set up and maintain",
         "c. Complex configuration",
-        "d. No centralized administration"
+        "d. No centralized administration",
+        "b. Complex configuration",
+        "c. No centralized administration",
+        "d. Expensive to set up and maintain"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 2,
+      "confirmations": 3,
       "firstSeenAt": "2026-10-14T01:49:46Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "originType": "quiz",
       "originLabel": "Quiz"
     },
@@ -6947,17 +7173,20 @@
         "a. It does not allow spaces",
         "b. It cannot start with a number",
         "c. It must be registered with a DNS server",
-        "d. Its maximum length is 255 characters."
+        "d. Its maximum length is 255 characters.",
+        "b. Its maximum length is 255 characters.",
+        "a. It must be registered with a DNS server",
+        "d. It does not allow spaces"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "originType": "quiz",
       "originLabel": "Quiz"
     },
@@ -6972,17 +7201,21 @@
         "a. The network provides predictable levels of service to different types of traffic",
         "b. The network should be able to expand to keep up with user demand",
         "c. The fewest possible devices are affected by a failure",
-        "d. Data sent over the network is not altered in transmission"
+        "d. Data sent over the network is not altered in transmission",
+        "c. Data sent over the network is not altered in transmission",
+        "d. The network should be able to expand to keep up with user demand",
+        "b. Data sent over the network is not altered in transmission",
+        "d. The fewest possible devices are affected by a failure"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "originType": "quiz",
       "originLabel": "Quiz"
     },
@@ -7139,17 +7372,21 @@
         "c. Dial-up",
         "d. Cellular",
         "a. Cellular",
-        "d. DSL"
+        "d. DSL",
+        "a. Satellite",
+        "b. DSL",
+        "b. Dial-up",
+        "c. Cellular"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "originType": "quiz",
       "originLabel": "Quiz"
     },
@@ -7451,17 +7688,19 @@
         "d. a traditional network",
         "a. a converged network",
         "c. a traditional network",
-        "d. an extranet"
+        "d. an extranet",
+        "d. a converged network",
+        "a. a traditional network"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "originType": "quiz",
       "originLabel": "Quiz"
     },
@@ -7476,17 +7715,19 @@
         "a. Web traffic",
         "b. Order processing",
         "c. Email",
-        "d. VoIP"
+        "d. VoIP",
+        "b. Email",
+        "c. Order processing"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "originType": "quiz",
       "originLabel": "Quiz"
     },
@@ -7545,17 +7786,23 @@
         "c. to monitor the number of times a device has been powered on and of",
         "d. to add a password to a Cisco network device",
         "b. to monitor the number of times a device has been powered on and of",
-        "c. to provide automatic (unmanned) management of Cisco network devices"
+        "c. to provide automatic (unmanned) management of Cisco network devices",
+        "a. to monitor the number of times a device has been powered on and of",
+        "b. to add a password to a Cisco network device",
+        "d. to test the performance on a particular LAN",
+        "a. to add a password to a Cisco network device",
+        "c. to test the performance on a particular LAN",
+        "d. to provide automatic (unmanned) management of Cisco network devices"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "originType": "quiz",
       "originLabel": "Quiz"
     },
@@ -7568,17 +7815,22 @@
         "c. to remove all configuration from the switch",
         "d. to save an active configuration to NVRAM",
         "b. to save an active configuration to NVRAM",
-        "d. to copy an existing configuration into RAM"
+        "d. to copy an existing configuration into RAM",
+        "a. to copy an existing configuration into RAM",
+        "b. to remove all configuration from the switch",
+        "c. to make a changed configuration the new startup configuration",
+        "a. to save an active configuration to NVRAM",
+        "b. to make a changed configuration the new startup configuration"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-13T22:58:20Z",
       "source": "review_screen",
-      "lastVerifiedAt": "2026-11-27T04:26:33Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "originType": "quiz",
       "originLabel": "Quiz"
     },

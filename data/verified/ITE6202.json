@@ -1,8 +1,8 @@
 {
   "subjectCode": "ITE6202",
   "subjectName": "ITE6202",
-  "updatedAt": "2026-11-27T04:26:31Z",
-  "totalQuestions": 493,
+  "updatedAt": "2026-11-28T04:17:53Z",
+  "totalQuestions": 547,
   "tier": "verified",
   "questions": [
     {
@@ -39,12 +39,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "[____] are used by senior management to make non-routine decisions.",
@@ -58,13 +58,13 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 5,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
       "lastEvidenceAt": "2026-11-27T04:26:31Z",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "[____] consists of raw facts, such as an employee number, total hours worked in a week, inventory part numbers, or sales orders.",
@@ -75,12 +75,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "[____] is a collection of facts organized and processed so that they have additional value beyond the value of the individual facts.",
@@ -91,12 +91,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "[____] is collected in order to create information and knowledge about particular subjects that interest any given organization in order for that organization to make better management decisions.",
@@ -107,12 +107,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 12,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "[____] is often called the lead time.",
@@ -123,12 +123,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "_______ is a software application that is used to create and manage databases, and can take the form of a personal DBMS, used by one person, or an enterprise DBMS that can be used by multiple users.",
@@ -139,19 +139,23 @@
         "c. MIS",
         "d. OLAP",
         "b. MIS",
-        "c. SCM"
+        "c. SCM",
+        "a. OLAP",
+        "b. DBMS",
+        "d. MIS",
+        "d. DBMS"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 6,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "__________ use policies and procedures to outline rules outline courses of action to deal with problems.",
@@ -286,12 +290,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 6,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "A device that receives and analyzes packets and then routes them towards their destination.",
@@ -302,7 +306,11 @@
         "c. Switch",
         "d. Router",
         "b. Router",
-        "d. Hub"
+        "d. Hub",
+        "c. Hub",
+        "d. Switch",
+        "a. Router",
+        "c. Bridge"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [
@@ -311,12 +319,12 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z",
       "lastEvidenceAt": "2026-11-27T04:26:31Z"
     },
     {
@@ -395,12 +403,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "A network device that connects multiple devices together and filters packets based on their destination within the connected devices.",
@@ -411,7 +419,11 @@
         "c. Bridge",
         "d. Switch",
         "b. Bridge",
-        "c. Router"
+        "c. Router",
+        "c. Switch",
+        "d. Bridge",
+        "a. Switch",
+        "b. Hub"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [
@@ -420,12 +432,12 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 6,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z",
       "lastEvidenceAt": "2026-11-27T04:26:31Z"
     },
     {
@@ -439,12 +451,12 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z",
       "lastEvidenceAt": "2026-11-27T04:26:31Z"
     },
     {
@@ -459,12 +471,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 7,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "A notable difference between minor and gross professional misconduct is the respective level of sanctions that can be applied in each case.",
@@ -589,12 +601,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 7,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "A sociologist who wrote a paper \"Broad and Narrow Socialization: The Family in the Context of a Cultural Theory\"",
@@ -637,12 +649,12 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 7,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "A strategic information system is not developed to respond to the corporate world and many business initiatives.",
@@ -656,12 +668,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "A switch will send a packet to another router; in other cases, it will send it directly to its destination.",
@@ -682,7 +694,52 @@
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "conflictHistory": [
+        {
+          "rejectedAnswer": "False",
+          "timestamp": "2026-11-28T04:17:53Z"
+        },
+        {
+          "rejectedAnswer": "False",
+          "timestamp": "2026-11-28T04:17:53Z"
+        },
+        {
+          "rejectedAnswer": "False",
+          "timestamp": "2026-11-28T04:17:53Z"
+        },
+        {
+          "rejectedAnswer": "False",
+          "timestamp": "2026-11-28T04:17:53Z"
+        },
+        {
+          "rejectedAnswer": "False",
+          "timestamp": "2026-11-28T04:17:53Z"
+        },
+        {
+          "rejectedAnswer": "False",
+          "timestamp": "2026-11-28T04:17:53Z"
+        }
+      ]
+    },
+    {
+      "question": "A system analyst is defined as an interactive and reliable computer-based decision-making system which uses both facts and heuristics to solve complex decision-making problems.",
+      "answer": "False",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "A Web site that allows users to add and update content on the site using their own Web browser.",
@@ -693,7 +750,12 @@
         "c. HTML",
         "d. Blog",
         "a. HTML",
-        "c. HTTP"
+        "c. HTTP",
+        "a. Blog",
+        "b. HTTP",
+        "d. Wiki",
+        "c. Blog",
+        "d. HTTP"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [
@@ -702,12 +764,12 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z",
       "lastEvidenceAt": "2026-11-27T04:26:31Z"
     },
     {
@@ -920,6 +982,31 @@
       "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
+      "question": "All of these are advantages of Business Intelligence except one:",
+      "answer": "To improve invisibility",
+      "choices": [
+        "a. To improve invisibility",
+        "b. It streamlines business processes",
+        "c. Fix Accountability",
+        "d. It gives a bird's eye view",
+        "a. It streamlines business processes",
+        "b. Fix Accountability",
+        "c. It gives a bird's eye view",
+        "d. To improve invisibility"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
+    },
+    {
       "question": "All stakeholders should be able to understand the rationale and be able to live with the decision.",
       "answer": "True",
       "choices": [
@@ -991,12 +1078,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 12,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "An AI can achieve its goal without going through consequences",
@@ -1199,12 +1286,12 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "As a legal term, secrecy refers to a duty of an individual to refrain from sharing confidential information with others, except with the express consent of the other party",
@@ -1305,6 +1392,26 @@
       "originLabel": "Exam"
     },
     {
+      "question": "As whole the term \" [____] \" means for this purpose only.",
+      "answer": "Ad hoc",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [
+        "solely",
+        "placeholder"
+      ],
+      "wrongAnswerEvidence": true,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastEvidenceAt": "2026-11-28T04:17:53Z",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
+    },
+    {
       "question": "As you mature in your career, so should your voice.",
       "answer": "True",
       "choices": [
@@ -1330,6 +1437,50 @@
       "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
+      "question": "Assumptions and constraints should also be documented.",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
+    },
+    {
+      "question": "At this stage, business needs are studied with the intention of making business processes more efficient.",
+      "answer": "Analysis",
+      "choices": [
+        "a. Plan",
+        "b. Design",
+        "c. Analysis",
+        "d. Develop",
+        "a. Develop",
+        "b. Plan",
+        "c. Design",
+        "d. Analysis"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
+    },
+    {
       "question": "Attending social business mixers, sending an email just to catch up, or giving them a call to congratulate them on a promotion.",
       "answer": "Stay Connected",
       "choices": [
@@ -1353,6 +1504,25 @@
       "originType": "exam",
       "originLabel": "Exam",
       "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "Audio Modeling helps us understand and organize complex endeavors.",
+      "answer": "False",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Before taking action, it is a good idea to make sure that you have gathered all of the pertinent information, and that all potential sources of information have been consulted.",
@@ -1419,13 +1589,11 @@
       "originLabel": "Exam"
     },
     {
-      "question": "Bluetooth was created in ________by______________, it was intended to replace wired connections between devices.",
-      "answer": "1994; Ericsson",
+      "question": "BI also helps to improve the visibility of these processes and make it possible to identify any areas which need attention.",
+      "answer": "True",
       "choices": [
-        "a. 1994; Ericsson",
-        "b. 1995;Ericson",
-        "c. 1996; Nokia",
-        "d. 1994; Sony"
+        "a. True",
+        "b. False"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
@@ -1433,11 +1601,113 @@
       "verified": true,
       "isAiSuggestion": false,
       "confirmations": 4,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
+    },
+    {
+      "question": "BI system also helps organizations as decision makers get an overall bird's eye view through typical BI features like dashboards and scorecards.",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
+    },
+    {
+      "question": "BI system assigns accountability in the organization as there must be someone who should own accountability and ownership for the organization's performance against its set goals.",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
+    },
+    {
+      "question": "BI system helps them to get fresh insights to develop unique business strategies.",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
+    },
+    {
+      "question": "BI takes out all complexity associated with business processes. It also automates analytics by offering predictive analysis, computer modeling, bench marking and other methodologies.",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
+    },
+    {
+      "question": "Bluetooth was created in ________by______________, it was intended to replace wired connections between devices.",
+      "answer": "1994; Ericsson",
+      "choices": [
+        "a. 1994; Ericsson",
+        "b. 1995;Ericson",
+        "c. 1996; Nokia",
+        "d. 1994; Sony",
+        "a. 1995;Ericson",
+        "b. 1994; Ericsson",
+        "b. 1996; Nokia",
+        "c. 1994; Sony",
+        "d. 1994; Ericsson"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 6,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Both the sender and the receiver each have a pair of keys, one public and one private",
@@ -1565,6 +1835,10 @@
         {
           "rejectedAnswer": "False",
           "timestamp": "2026-11-27T04:26:31Z"
+        },
+        {
+          "rejectedAnswer": "False",
+          "timestamp": "2026-11-28T04:17:53Z"
         }
       ]
     },
@@ -1647,12 +1921,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 12,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "computer programs",
@@ -1817,12 +2091,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 7,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Dating violence is violence by a person who is or has been in a social relationship of a romantic or intimate nature with the victim.",
@@ -1858,12 +2132,31 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 7,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
+    },
+    {
+      "question": "Deliverable then need to be documented along with the project scope.",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Dental and optical care might be offered as part of an overall medical insurance package.",
@@ -1991,12 +2284,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 7,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "DNS which acts as the directory on the Internet.",
@@ -2010,12 +2303,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 7,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Do not listen to customer complaints.",
@@ -2057,7 +2350,17 @@
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "conflictHistory": [
+        {
+          "rejectedAnswer": "False",
+          "timestamp": "2026-11-28T04:17:53Z"
+        },
+        {
+          "rejectedAnswer": "False",
+          "timestamp": "2026-11-28T04:17:53Z"
+        }
+      ]
     },
     {
       "question": "Dramatizations, translations, and adaptations of musicals are example of",
@@ -2099,6 +2402,33 @@
       "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
+      "question": "During this phase of SDLC, the security architecture is designed.",
+      "answer": "Design",
+      "choices": [
+        "a. Planning",
+        "b. Analysis",
+        "c. Design",
+        "d. Develop",
+        "a. Analysis",
+        "b. Planning",
+        "c. Develop",
+        "d. Design",
+        "b. Develop",
+        "c. Analysis"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
+    },
+    {
       "question": "E-business and e-commerce applications involve interconnected business information systems under applications.",
       "answer": "True",
       "choices": [
@@ -2110,12 +2440,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 12,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "E-mail Fraud",
@@ -2521,6 +2851,25 @@
       "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
+      "question": "Facts on their own are of unlimited use.",
+      "answer": "False",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
+    },
+    {
       "question": "Fairness is the provision of services in a reasonably prompt and thorough manner, including the proper planning for, and supervision of, the rendering of professional services.",
       "answer": "False",
       "choices": [
@@ -2540,6 +2889,39 @@
       "originType": "exam",
       "originLabel": "Exam",
       "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "First developed by Tim Berners-Lee in 1990.",
+      "answer": "HTML",
+      "choices": [
+        "a. SMTP",
+        "b. HTML",
+        "c. SCM",
+        "d. HTTP",
+        "a. SCM",
+        "c. HTTP",
+        "d. SMTP",
+        "a. HTML",
+        "b. HTTP",
+        "c. SMTP",
+        "d. SCM",
+        "d. HTML"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "HTTP",
+        "SMTP"
+      ],
+      "wrongAnswerEvidence": true,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Midterm Exam",
+      "lastEvidenceAt": "2026-11-27T04:26:31Z",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "For formal education to be effective in teaching and enforcing the pillars of professionalism it must be _________",
@@ -2611,12 +2993,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Gambling in the workplace, other than harmless team building activities such as workplace Lotto syndicates, football or other sport tipping competitions are welcomed.",
@@ -2808,12 +3190,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 6,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "HTML is the underlying protocol used by the World Wide Web and this protocol defines how messages are formatted and transmitted, and what actions Web servers and browsers should take in response to various commands.",
@@ -2829,12 +3211,12 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 3,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z",
       "alternateAnswers": [
         {
           "answer": "b. False",
@@ -2849,6 +3231,22 @@
           "timestamp": "2026-11-27T04:26:31Z"
         }
       ]
+    },
+    {
+      "question": "HTTP means [____] .",
+      "answer": "Hypertext Transfer Protocol",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Human Nature can result to a bias environment that AIs might learn from.",
@@ -3127,12 +3525,12 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 10,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Impartial moral rules are ideally designed to apply equitably to all participants in the system.",
@@ -3176,6 +3574,10 @@
         {
           "rejectedAnswer": "False",
           "timestamp": "2026-11-27T04:26:31Z"
+        },
+        {
+          "rejectedAnswer": "False",
+          "timestamp": "2026-11-28T04:17:53Z"
         }
       ]
     },
@@ -3203,6 +3605,10 @@
         {
           "rejectedAnswer": "True",
           "timestamp": "2026-11-27T04:26:31Z"
+        },
+        {
+          "rejectedAnswer": "True",
+          "timestamp": "2026-11-28T04:17:53Z"
         }
       ]
     },
@@ -3361,19 +3767,45 @@
         "d. Develop",
         "b. Plan",
         "c. Develop",
-        "d. Return"
+        "d. Return",
+        "b. Develop",
+        "c. Return",
+        "d. Plan"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
+    },
+    {
+      "question": "In this phase, systems are in place and operating, enhancements and/or modifications to the system are developed and tested, and hardware and/or software is added or replaced.",
+      "answer": "Maintenance/Support",
+      "choices": [
+        "a. Implementation",
+        "b. Design",
+        "c. Analysis",
+        "d. Maintenance/Support",
+        "b. Analysis",
+        "c. Design"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "In this stage, mainly concentrate on building a strong relationship with suppliers of the raw materials required for production.",
@@ -3385,19 +3817,22 @@
         "d. Plan",
         "a. Plan",
         "c. Deliver",
-        "d. Develop"
+        "d. Develop",
+        "a. Make",
+        "b. Deliver",
+        "c. Plan"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 10,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "In this stage, the planning should mainly focus on designing a strategy that yields maximum profit.",
@@ -3413,12 +3848,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 10,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "In this stage, the products are designed, produced, tested, packaged, and synchronized for delivery.",
@@ -3430,19 +3865,21 @@
         "d. Develop",
         "a. Develop",
         "c. Plan",
-        "d. Deliver"
+        "d. Deliver",
+        "a. Make",
+        "b. Develop"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 10,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Inappropriate worker behaviour can also be incorporated in a code of conduct.",
@@ -3521,6 +3958,37 @@
       "originLabel": "Exam"
     },
     {
+      "question": "Inference engine contains rules to solve a specific problem.",
+      "answer": "a. True",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": true,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z",
+      "alternateAnswers": [
+        {
+          "answer": "True",
+          "timestamp": "2026-11-28T04:17:53Z"
+        },
+        {
+          "answer": "True",
+          "timestamp": "2026-11-28T04:17:53Z"
+        }
+      ]
+    },
+    {
       "question": "Information systems also help store managers and other business professionals make better decisions.",
       "answer": "Support of Business Decision Making",
       "choices": [
@@ -3533,12 +4001,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Information Systems are used by tactical managers to monitor the organization's current performance status.",
@@ -3564,6 +4032,10 @@
         {
           "rejectedAnswer": "False",
           "timestamp": "2026-11-27T04:26:31Z"
+        },
+        {
+          "rejectedAnswer": "False",
+          "timestamp": "2026-11-28T04:17:53Z"
         }
       ]
     },
@@ -3579,12 +4051,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Instilling fear and doubt and compromising the integrity of the data can lead to",
@@ -3629,12 +4101,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 6,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Is conflict of interest considered professional misconduct?",
@@ -3693,19 +4165,23 @@
         "a. SCM",
         "b. OLAP",
         "c. e-commerce",
-        "d. e-transaction"
+        "d. e-transaction",
+        "a. e-commerce",
+        "c. SCM",
+        "a. OLAP",
+        "b. SCM"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "It also means the quality of possessing high moral principles or professional standards and steadfastly adhering to them.",
@@ -3731,6 +4207,34 @@
       "originType": "exam",
       "originLabel": "Exam",
       "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "It also plays a dominant role in maintaining the BI infrastructure.",
+      "answer": "The IT user",
+      "choices": [
+        "a. The Business Users",
+        "b. The IT user",
+        "c. The head of the company",
+        "d. The Professional Data Analyst",
+        "c. The Professional Data Analyst",
+        "d. The head of the company",
+        "a. The Professional Data Analyst",
+        "b. The head of the company",
+        "c. The Business Users",
+        "d. The IT user",
+        "a. The IT user"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 4,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "It applies the Code of Ethics to a host of relevant situations",
@@ -3800,12 +4304,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 10,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "It can cause harm by failing to uphold standards of accuracy",
@@ -4027,12 +4531,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 11,
+      "confirmations": 15,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "It involves the indirect gathering of personal information through an analysis of implicit patterns discoverable in data.",
@@ -4061,6 +4565,25 @@
       "questionType": "multichoice",
       "originType": "exam",
       "originLabel": "Exam"
+    },
+    {
+      "question": "It is a [____] which solves the most complex issues in a specific domain.",
+      "answer": "Computer application",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [
+        "Expert System"
+      ],
+      "wrongAnswerEvidence": true,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z",
+      "lastEvidenceAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "It is a cornerstone of achieving success in the business world that will serve you well throughout your career.",
@@ -4172,7 +4695,14 @@
         "d. A2B",
         "a. A2A",
         "b. B2C",
-        "c. B2B"
+        "c. B2B",
+        "c. A2B",
+        "d. B2C",
+        "a. B2C",
+        "b. A2B",
+        "d. A2A",
+        "b. B2B",
+        "c. A2A"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [
@@ -4181,12 +4711,12 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 6,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z",
       "lastEvidenceAt": "2026-11-27T04:26:31Z"
     },
     {
@@ -4266,7 +4796,14 @@
         "c. Client Name",
         "d. Host Name",
         "b. Client Name",
-        "c. Domain Name"
+        "c. Domain Name",
+        "b. Host Name",
+        "d. Domain Name",
+        "a. Domain Name",
+        "d. Ip address",
+        "a. Host Name",
+        "c. Ip address",
+        "d. Client Name"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [
@@ -4275,12 +4812,12 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 7,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z",
       "lastEvidenceAt": "2026-11-27T04:26:31Z"
     },
     {
@@ -4378,19 +4915,22 @@
         "d. Instant Messenger",
         "a. Instant Messenger",
         "b. Blog",
-        "d. Podcast"
+        "d. Podcast",
+        "b. Wiki",
+        "c. Blog",
+        "a. Podcast"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 7,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "It is a right to distribute, display, perform, or reproduce an original work in copies or to prepare derivative works based on the work",
@@ -4411,6 +4951,33 @@
       "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
+      "question": "It is a set of processes, architectures, and technologies that convert raw data into meaningful information that drives profitable business actions.",
+      "answer": "Business Intelligence",
+      "choices": [
+        "a. Analysis System",
+        "b. Artificial Intelligence",
+        "c. Management System",
+        "d. Business Intelligence",
+        "a. Artificial Intelligence",
+        "b. Management System",
+        "c. Analysis System",
+        "a. Business Intelligence",
+        "c. Artificial Intelligence",
+        "d. Analysis System"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
+    },
+    {
       "question": "It is a set of rules that allow two (or more) devices to exchange information back and forth across the network.",
       "answer": "Protocol",
       "choices": [],
@@ -4419,12 +4986,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 6,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "It is a situation in which someone in a position of responsibility in an organization has outside conflicting interests and acts in their own interest rather than the interest of the organization.",
@@ -4452,6 +5019,30 @@
       "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
+      "question": "It is a suite of software and services to transform data into actionable intelligence and knowledge.",
+      "answer": "Business Intelligence",
+      "choices": [
+        "a. Artificial Intelligence",
+        "b. Management System",
+        "c. Business Intelligence",
+        "d. Analysis System",
+        "a. Management System",
+        "b. Business Intelligence",
+        "c. Artificial Intelligence"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
+    },
+    {
       "question": "It is a system created by and for human beings usually in public deliberations like a council of elders or representatives in national legislatures.",
       "answer": "Conventional Law",
       "choices": [
@@ -4468,6 +5059,26 @@
       "originType": "exam",
       "originLabel": "Exam",
       "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "It is a technology that takes an Internet signal and converts it into radio waves.",
+      "answer": "Wi-Fi",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [
+        "Wireless Router",
+        "Wi-Fin"
+      ],
+      "wrongAnswerEvidence": true,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Midterm Exam",
+      "lastEvidenceAt": "2026-11-27T04:26:31Z",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "It is a three dimensional interactive computer generated environment that incorporates a first person perspective",
@@ -4514,7 +5125,13 @@
         "c. Instant Messaging",
         "d. Wiki",
         "c. Wiki",
-        "d. Instant Messaging"
+        "d. Instant Messaging",
+        "a. Podcasting",
+        "b. Blog",
+        "a. Wiki",
+        "d. Blog",
+        "b. Wiki",
+        "d. Podcasting"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [
@@ -4523,13 +5140,34 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 6,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z",
       "lastEvidenceAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "It is a way to easily distribute a list of headlines, update notices, and sometimes content to a wide number of people.",
+      "answer": "RSS",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [
+        "RSS (Really Simple Syndication)",
+        "RSS feed",
+        "Really Simple Syndication"
+      ],
+      "wrongAnswerEvidence": true,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Midterm Exam",
+      "lastEvidenceAt": "2026-11-28T04:17:53Z",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "It is a Website that contains an online personal journal with reflections, comments, and often hyperlinks provided by the writer",
@@ -4711,12 +5349,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 6,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "It is an unethical or unprofessional behaviour that falls short of the ethical or professional standards, guides or codes of conduct, accepted by a particular profession.",
@@ -4797,19 +5435,39 @@
         "a. online transaction",
         "b. online system",
         "c. e-business",
-        "d. e- transaction"
+        "d. e- transaction",
+        "b. e- transaction",
+        "c. online system",
+        "d. e-business",
+        "c. online transaction"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
+    },
+    {
+      "question": "It is considered at the highest level of human intelligence and expertise.",
+      "answer": "Expert system",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "It is data about the performance of a system, it is the [____] .",
@@ -4823,13 +5481,13 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 6,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
       "lastEvidenceAt": "2026-11-27T04:26:31Z",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "It is developed over a period of time based on either the religion or culture of the indigenous people in the area.",
@@ -4913,12 +5571,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 7,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "It is for storing numbers.",
@@ -4936,12 +5594,42 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 7,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
+    },
+    {
+      "question": "It is full of some very technical concepts based on some simple principles.",
+      "answer": "Networking Communication",
+      "choices": [
+        "a. Networking Telecommunication",
+        "b. Telecommunication",
+        "c. Networking Communication",
+        "d. Network",
+        "a. Telecommunication",
+        "b. Networking Communication",
+        "c. Network",
+        "d. Networking Telecommunication",
+        "c. Networking Telecommunication"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Network",
+        "Telecommunication"
+      ],
+      "wrongAnswerEvidence": true,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-27T04:26:31Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Midterm Exam",
+      "lastEvidenceAt": "2026-11-27T04:26:31Z",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "It is hardware or software used to isolate the sensitive portions of an information system facility from the outside world and limit the potential damage that can be done by a malicious intruder",
@@ -5010,6 +5698,25 @@
       "originType": "exam",
       "originLabel": "Exam",
       "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "It is not important that the proposed design be tested for performance, and to ensure that it meets the requirements outlined during the analysis phase.",
+      "answer": "False",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "It is one of the most difficult global issues to combat, as the umbrella term refers to ocean litter, pesticides and fertilizers, air, light and noise.",
@@ -5357,19 +6064,21 @@
         "d. Back order",
         "b. Stock in",
         "c. Back order",
-        "d. Stock out"
+        "d. Stock out",
+        "a. Stock in",
+        "b. Order refill"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 10,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "It is the unique address of a network.",
@@ -5382,7 +6091,11 @@
         "a. Subnet Mask",
         "b. IP address",
         "c. MAC address",
-        "d. Serial Number"
+        "d. Serial Number",
+        "b. Serial Number",
+        "c. IP address",
+        "d. MAC address",
+        "b. Subnet Mask"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [
@@ -5391,12 +6104,12 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 5,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z",
       "lastEvidenceAt": "2026-11-27T04:26:31Z"
     },
     {
@@ -5465,12 +6178,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 5,
+      "confirmations": 7,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "It is when an action is right if the consequences of that action are favorable to all except the actor",
@@ -5752,6 +6465,22 @@
       "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
+      "question": "It refers the knowledge from the Knowledge Base",
+      "answer": "Inference Engine",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
+    },
+    {
       "question": "It refers to any business conducted online using the internet and related digital technologies called [____] .",
       "answer": "e-business",
       "choices": [],
@@ -5760,12 +6489,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 12,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "It refers to personal information shared with an attorney, physician, therapist, or other individual that generally cannot be divulged to third parties without the express consent of the client",
@@ -5843,6 +6572,22 @@
       "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
+      "question": "It selects facts and rules to apply when trying to answer the user's query.",
+      "answer": "Inference Engine",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
+    },
+    {
       "question": "It states that the protection of confidential information is a fundamental feature of your relationship with clients and that the duty continues after the end of the retainer and even after the death of the client.",
       "answer": "Chapter 4",
       "choices": [
@@ -5912,29 +6657,35 @@
     },
     {
       "question": "It was first used by IBM in 1996.",
-      "answer": "online transaction",
+      "answer": "",
       "choices": [
         "a. e-business",
         "b. e-commerce",
         "c. e-business",
         "d. online transaction",
         "a. e-commerce",
-        "b. e-business"
+        "b. e-business",
+        "c. online transaction",
+        "d. e-business",
+        "c. e-commerce",
+        "a. online transaction",
+        "d. e-commerce"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [
         "e-commerce",
-        "e-business"
+        "e-business",
+        "online transaction"
       ],
       "wrongAnswerEvidence": true,
-      "verified": true,
+      "verified": false,
       "isAiSuggestion": false,
       "confirmations": 4,
       "firstSeenAt": "2026-10-18T12:37:31Z",
-      "source": "review_screen",
+      "source": "moodle_review_elimination",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastEvidenceAt": "2026-11-27T04:26:31Z",
+      "lastEvidenceAt": "2026-11-28T04:17:53Z",
       "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
@@ -6020,6 +6771,25 @@
       "originType": "exam",
       "originLabel": "Exam",
       "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "Knowledge management systems refer to any kind of IT system that stores and retrieves knowledge, improves collaboration, locates knowledge sources, mines repositories for hidden knowledge, captures and uses knowledge, or in some other way enhances the KM process.",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 4,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Legal acts conform to what an individual believes to be the right thing to do.",
@@ -6184,12 +6954,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 10,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Managing information technology emphasizes the quality, strategic business value, and security of an organization’s information systems.",
@@ -6203,12 +6973,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 13,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Many of the principles expressed by these codes, such as honesty and accuracy, apply to ethical professionals broadly.",
@@ -6404,13 +7174,13 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 2,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
       "lastEvidenceAt": "2026-10-18T12:37:31Z",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Morality is enforced by the authority that enacted them and security forces",
@@ -6455,6 +7225,25 @@
       "originType": "exam",
       "originLabel": "Exam",
       "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "Most IT experts agree that no single, best system development strategy exists.",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "No code, no matter how severely enforced will make truly bad people good.",
@@ -6595,12 +7384,31 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 10,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
+    },
+    {
+      "question": "OLTP is stands for Online Transaction Processing.",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Once the decision is made, communicated and implemented, it is not important to review it so you can hopefully sleep more easily, knowing you made the best possible choice",
@@ -6661,6 +7469,25 @@
       "originType": "exam",
       "originLabel": "Exam",
       "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "One of the advantage of business intelligence is allows employees to be more productive on their tasks.",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "One of the advantages of anonymity is that disputes could be solved if information from individuals’ party to these disputes can reveal the necessary information",
@@ -7012,12 +7839,31 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
+    },
+    {
+      "question": "Process modeling identifies the data flowing into a process, the business rules that transform the data, and the resulting output data flow.",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Professional Codes of Conduct addresses the following except:",
@@ -7102,7 +7948,17 @@
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "conflictHistory": [
+        {
+          "rejectedAnswer": "False",
+          "timestamp": "2026-11-28T04:17:53Z"
+        },
+        {
+          "rejectedAnswer": "False",
+          "timestamp": "2026-11-28T04:17:53Z"
+        }
+      ]
     },
     {
       "question": "Providing responses and solutions quickly is the speed at with which your customer service operates plays a huge part in creating an amazing experience.",
@@ -7145,6 +8001,25 @@
       "originType": "exam",
       "originLabel": "Exam",
       "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "Rapid Application Development makes use of tools to facilitate the development of systems to meet aggressive time lines.",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "reckless alteration",
@@ -7359,12 +8234,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 7,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Rules that guides individual actions such as not taking the possessions of others are called",
@@ -7404,6 +8279,44 @@
       "originType": "exam",
       "originLabel": "Exam",
       "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "Scope can be refined during the implementation is the initialization process.",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
+    },
+    {
+      "question": "SDLC is stands for [____] .",
+      "answer": "Systems Development Life Cycle",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [
+        "Software Development Life Cycle"
+      ],
+      "wrongAnswerEvidence": true,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastEvidenceAt": "2026-11-28T04:17:53Z",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Secret-key Encryption",
@@ -7706,12 +8619,50 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 12,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
+    },
+    {
+      "question": "Structured analysis is a traditional systems development technique that is time-tested and easy to understand.",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
+    },
+    {
+      "question": "Structured analysis uses a series of phases, to plan, analyze, design, implement, and support an information system.",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "System Analysts are people who use an information system or the information it produces.",
@@ -7725,12 +8676,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Tactical users are the decisions that partly based on set guidelines and judgmental calls.",
@@ -7746,12 +8697,12 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Tactical users make final structured decisions.",
@@ -7765,12 +8716,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 12,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Teological is a form of ____________________.",
@@ -7840,24 +8791,43 @@
       "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
-      "question": "The [____] is the portion of customer demands that can be easily satisfied from the stock available.",
-      "answer": "Order fill rate",
+      "question": "The [____] is one of the newer adaptive approaches to the SDLC.",
+      "answer": "Spiral Model",
       "choices": [],
       "questionType": "shortanswer",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
-      "firstSeenAt": "2026-10-18T12:37:31Z",
+      "confirmations": 4,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
       "source": "review_screen",
-      "originType": "quiz",
-      "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
-      "question": "The [____] level is concerned with performing day to day business transactions of the organization.",
-      "answer": "Operational",
+      "question": "The [____] is the most crucial part of the expert system.",
+      "answer": "user interface",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [
+        "Knowledge Base"
+      ],
+      "wrongAnswerEvidence": true,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastEvidenceAt": "2026-11-28T04:17:53Z",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
+    },
+    {
+      "question": "The [____] is the portion of customer demands that can be easily satisfied from the stock available.",
+      "answer": "Order fill rate",
       "choices": [],
       "questionType": "shortanswer",
       "wrongAnswers": [],
@@ -7869,7 +8839,23 @@
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
+    },
+    {
+      "question": "The [____] level is concerned with performing day to day business transactions of the organization.",
+      "answer": "Operational",
+      "choices": [],
+      "questionType": "shortanswer",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 13,
+      "firstSeenAt": "2026-10-18T12:37:31Z",
+      "source": "review_screen",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "The alteration of information may be caused by the disclosure of personal information",
@@ -7888,6 +8874,44 @@
       "originType": "exam",
       "originLabel": "Exam",
       "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "The amount of support required may be determined based on the system.",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
+    },
+    {
+      "question": "The Business users can increase the profit of their business by improving operational efficiency in their business.",
+      "answer": "False",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "The Code does not attempt to provide a detailed and exhaustive list of what to do in every aspect of our work instead it represents a broad framework that will help all employees decide on an appropriate course of action when faced with an ethical issue or professional decisions.",
@@ -7948,6 +8972,34 @@
       "originLabel": "Exam"
     },
     {
+      "question": "The data analyst is a statistician who always needs to drill deep down into data.",
+      "answer": "The Professional Data Analyst",
+      "choices": [
+        "a. The Professional Data Analyst",
+        "b. The Business User",
+        "c. The head of the company",
+        "d. The IT Users",
+        "a. The IT Users",
+        "b. The Professional Data Analyst",
+        "d. The Business User",
+        "a. The Business User",
+        "b. The IT Users",
+        "c. The Professional Data Analyst",
+        "d. The head of the company"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
+    },
+    {
       "question": "The data is time-variant this means that whenever data is loaded into the data warehouse, it receives a time stamp, which allows for comparisons between different time periods.",
       "answer": "True",
       "choices": [
@@ -7959,12 +9011,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 8,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "The data that the AI technology is using to train and learn mostly coveres all the aspect of human behavior",
@@ -8029,6 +9081,44 @@
       "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
+      "question": "The design phase is concerned with the physical construction of the system. Included are the design or configuration of the network ,design of user interfaces,design of system interfaces and security issues.",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
+    },
+    {
+      "question": "The disadvantage of waterfall development is that it allows for departmentalization and managerial control.",
+      "answer": "False",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
+    },
+    {
       "question": "The employee cannot compel his employer to allow him to work overtime when the circumstances does not require him to do so as when there is actually no work to be performed.",
       "answer": "True",
       "choices": [
@@ -8085,19 +9175,24 @@
         "a. Packet",
         "b. Data",
         "c. Intranet",
-        "d. Extranet"
+        "d. Extranet",
+        "b. Extranet",
+        "d. Data",
+        "b. Intranet",
+        "d. Packet",
+        "c. Packet"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 7,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "The global temperatures are rising, and are estimated to decrease from 2.6 degrees Celsius to 4.8 degrees Celsius by 2100.",
@@ -8170,6 +9265,56 @@
       "originType": "exam",
       "originLabel": "Exam",
       "lastVerifiedAt": "2026-11-27T04:26:31Z"
+    },
+    {
+      "question": "The inference engine is the brain of the expert system.",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
+    },
+    {
+      "question": "The IT users can be found from across the organization.",
+      "answer": "b. False",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": true,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z",
+      "alternateAnswers": [
+        {
+          "answer": "False",
+          "timestamp": "2026-11-28T04:17:53Z"
+        },
+        {
+          "answer": "False",
+          "timestamp": "2026-11-28T04:17:53Z"
+        }
+      ]
     },
     {
       "question": "The key to good customer service is building good relationships with your customers.",
@@ -8581,6 +9726,44 @@
       "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
+      "question": "The spiral life cycle is shown as a spiral model that begins with the planning phase first from the center (inward) of the spiral, eventually working its way outward, over and over again, until completion of the project.",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
+    },
+    {
+      "question": "The system analysis phase focuses on what the system will do in an effort that views all stakeholders, as viable sources of information.",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
+    },
+    {
       "question": "The term betadata can be understood as “data about data.”",
       "answer": "False",
       "choices": [
@@ -8594,12 +9777,12 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 3,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z",
       "alternateAnswers": [
         {
           "answer": "b. False",
@@ -8629,12 +9812,12 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 4,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z",
       "alternateAnswers": [
         {
           "answer": "b. False",
@@ -8651,6 +9834,25 @@
       ]
     },
     {
+      "question": "The term knowledge acquisition means how to get required domain knowledge by the expert system.",
+      "answer": "True",
+      "choices": [
+        "a. True",
+        "b. False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 3,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
+    },
+    {
       "question": "The term refers to such massively large data sets that conventional database tools do not have the processing power to analyze them.",
       "answer": "new buzzword",
       "choices": [
@@ -8661,19 +9863,23 @@
         "a. new buzzword",
         "b. metadata",
         "c. betadata",
-        "d. information"
+        "d. information",
+        "b. information",
+        "c. metadata",
+        "d. betadata",
+        "a. information"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 6,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "The two kinds of rules of conduct; Directives which involves the macroethical level and Social policies that involves the microethical level.",
@@ -9018,19 +10224,22 @@
         "c. 3-in-1 Printer",
         "d. Inkjet printers",
         "a. 3-in-1 Printer",
-        "c. Impact printers"
+        "c. Impact printers",
+        "b. 3-in-1 Printer",
+        "c. Inkjet printers",
+        "d. Laser printers"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 10,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "These are usually small text files, given ID tags that are stored on your computer's browser directory or program data subfolders.",
@@ -9043,19 +10252,22 @@
         "a. Source",
         "b. Bravo",
         "c. HTTP",
-        "d. Cookies"
+        "d. Cookies",
+        "b. HTTP",
+        "c. Bravo",
+        "a. Cookies"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 6,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "These are words or phrases interrelated to ethics.",
@@ -9136,13 +10348,13 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 3,
+      "confirmations": 6,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
       "lastEvidenceAt": "2026-11-27T04:26:31Z",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "These rights are expressly provided by the 1987 Constitution and the Labor Code. Employers should not interfere with or deny their employees their right to form organizations for their mutual aid or protection and to form unions for the purpose of negotiating the terms and conditions of employment with their employer.",
@@ -9273,6 +10485,31 @@
       "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
+      "question": "This component takes the user's query in a readable form and passes it to the inference engine.",
+      "answer": "User interface",
+      "choices": [
+        "a. Inference engine",
+        "b. Facts",
+        "c. User interface",
+        "d. Expert System",
+        "a. User interface",
+        "b. Expert System",
+        "c. Inference engine",
+        "d. Facts"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
+    },
+    {
       "question": "This data type allows for text longer than 256 characters.",
       "answer": "Paragraph Text",
       "choices": [
@@ -9286,12 +10523,36 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 7,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
+    },
+    {
+      "question": "This first phase of the development life cycle, security considerations are key to diligent and early integration, thereby ensuring that threats, requirements, and potential constraints in functionality and integration are considered.",
+      "answer": "Planning",
+      "choices": [
+        "a. Develop",
+        "b. Disposal",
+        "c. Analysis",
+        "d. Planning",
+        "a. Disposal",
+        "b. Analysis",
+        "c. Develop"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "This help your company maintain a degree of accountability in the eyes of internal and external stakeholders.",
@@ -9332,12 +10593,12 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 3,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z",
       "alternateAnswers": [
         {
           "answer": "b. False",
@@ -9415,6 +10676,31 @@
       "lastVerifiedAt": "2026-11-27T04:26:31Z"
     },
     {
+      "question": "This section addresses security considerations unique to the second SDLC phase.",
+      "answer": "Analysis",
+      "choices": [
+        "a. Develop",
+        "b. Disposal",
+        "c. Analysis",
+        "d. Maintenace/Support",
+        "a. Disposal",
+        "b. Analysis",
+        "c. Maintenace/Support",
+        "d. Develop"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 2,
+      "firstSeenAt": "2026-11-28T04:17:53Z",
+      "source": "review_screen",
+      "originType": "exam",
+      "originLabel": "Final Exam",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
+    },
+    {
       "question": "This stage is basically the logistics phase, where customer orders are accepted and delivery of the goods is planned.",
       "answer": "Deliver",
       "choices": [
@@ -9425,19 +10711,21 @@
         "a. Deliver",
         "b. Develop",
         "c. Plan",
-        "d. Make"
+        "d. Make",
+        "c. Make",
+        "d. Plan"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "This theory states that ethical statements cannot be proven and are really only statements about how someone feels.",
@@ -9529,12 +10817,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-10-18T12:37:31Z",
       "source": "review_screen",
       "originType": "quiz",
       "originLabel": "Quiz",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Type of values that reflect on how you relate to other people in your life, be they friends, family or colleagues in your organisation.",
@@ -9843,12 +11131,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 7,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "What is a potential cause or situation in which conflicts or misunderstandings can happen?",
@@ -9887,12 +11175,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 6,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "When a packet is sent from one device out over the Internet, it does follow a straight path to its destination.",
@@ -9908,12 +11196,12 @@
       "wrongAnswerEvidence": true,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 1,
+      "confirmations": 3,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z",
       "alternateAnswers": [
         {
           "answer": "b. False",
@@ -10505,6 +11793,14 @@
         {
           "answer": "False",
           "timestamp": "2026-11-27T04:26:31Z"
+        },
+        {
+          "answer": "False",
+          "timestamp": "2026-11-28T04:17:53Z"
+        },
+        {
+          "answer": "False",
+          "timestamp": "2026-11-28T04:17:53Z"
         }
       ]
     },
@@ -10517,12 +11813,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 4,
+      "confirmations": 6,
       "firstSeenAt": "2026-11-27T04:26:31Z",
       "source": "review_screen",
       "originType": "exam",
       "originLabel": "Midterm Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:31Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "With the relationship between the provider and receiver of the service/product present, a power play may sometimes be in favor of the provider not the receiver",
@@ -10747,6 +12043,14 @@
         {
           "rejectedAnswer": "False",
           "timestamp": "2026-11-27T04:26:31Z"
+        },
+        {
+          "rejectedAnswer": "False",
+          "timestamp": "2026-11-28T04:17:53Z"
+        },
+        {
+          "rejectedAnswer": "False",
+          "timestamp": "2026-11-28T04:17:53Z"
         }
       ]
     }

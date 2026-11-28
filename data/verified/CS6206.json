@@ -1,10 +1,38 @@
 {
   "subjectCode": "CS6206",
   "subjectName": "Principles of Operating Systems",
-  "updatedAt": "2026-09-29T15:52:08Z",
-  "totalQuestions": 165,
+  "updatedAt": "2026-11-28T04:17:52Z",
+  "totalQuestions": 189,
   "tier": "verified",
   "questions": [
+    {
+      "question": "16.0.0 /12 is what type of IPv4 Address.",
+      "answer": "Private IP Address",
+      "choices": [
+        "a. Private IP Address",
+        "b. Public IP Address",
+        "c. Host ID",
+        "d. Broadcast Address",
+        "b. Broadcast Address",
+        "c. Public IP Address",
+        "d. Host ID",
+        "a. Public IP Address",
+        "b. Host ID",
+        "c. Broadcast Address",
+        "d. Private IP Address"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 9,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
+      "originType": "quiz",
+      "originLabel": "Quiz 1",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
     {
       "question": "172.16.0.0 /12 is what type of IPv4 Address.",
       "answer": "APrivate IP Address",
@@ -12,9 +40,9 @@
         "APrivate IP Address"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "community_contribution",
       "conflictHistory": [
         {
@@ -30,7 +58,11 @@
           "timestamp": "2026-09-29T15:51:18Z"
         }
       ],
-      "wrongAnswers": []
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "802.11a network standard is typically used in public spaces",
@@ -40,10 +72,17 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "True"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "A Clean Installation will install a new OS. All user files, applications, and settings are retained.",
@@ -53,10 +92,17 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "True"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "A Domain Controller responds to requests for Active Directory Information",
@@ -66,10 +112,17 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "False"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "A File Server share the folders that contains users' files",
@@ -79,10 +132,17 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "False"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "A Naming Convention should accommodate duplicate employee names",
@@ -92,10 +152,17 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "False"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "A native-boot VHD can be used as the running operating system on a computer without a parent operating system.",
@@ -105,10 +172,17 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "False"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "A process in which data are rearrange and reunite with fragmented files.",
@@ -120,10 +194,19 @@
         "Disk Partition"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "Disk Clean up",
+        "Scan Disk",
+        "Disk Partition"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "A set of software programs that lets a computer perform a specific function for multiple users or other computers within the network.",
@@ -135,10 +218,19 @@
         "Service Role"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "Role Server",
+        "Role Services",
+        "Service Role"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "A specific kind of network topology in which all of the various devices in the network are connected to a single cable or line",
@@ -150,10 +242,19 @@
         "Bus Topology"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "Mesh Topology",
+        "Ring Topology",
+        "Line Topology"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "A type of User Account that allows user to log and access resources on a specific computer",
@@ -165,10 +266,19 @@
         "Guest User Account"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "Built-in User Accounts",
+        "Domain User Account",
+        "Guest User Account"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "A VLAN enables you to isolate network traffic",
@@ -178,10 +288,17 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "False"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "A Web Server is a computer attached to computer locally to provide access to File Servers",
@@ -191,10 +308,17 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "True"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "A wireless network technology that has a maximum bit rate of 54Mbps",
@@ -206,10 +330,19 @@
         "80211 n"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "80211 m",
+        "80211 d",
+        "80211 n"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "AD DS stands for?",
@@ -221,10 +354,19 @@
         "Action Directory Domain Services"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "Active Directive Domain Services",
+        "Active Domain Directory Services",
+        "Action Directory Domain Services"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "Ad Hoc wireless network is usually used for peer to peer connections",
@@ -234,10 +376,17 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "False"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "Advantages of using 64bit edition of Windows are listed except",
@@ -249,22 +398,44 @@
         "More Memory"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "Improved Performance",
+        "Improved Security",
+        "More Memory"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "Alexandria is the payroll manager and stores critical file on her local drive for added security on her Windows 7 computer. She wants to ensure that she is using the disk configuration with the most fault tolerance and the highest level of consistent availability. Which of the following provisions should she use?",
       "answer": "Mirrored volumes",
       "choices": [
-        "Mirrored volumes"
+        "Mirrored volumes",
+        "a. Spanned volumes",
+        "b. Extended volumes",
+        "c. Disk striping",
+        "d. Mirrored volumes",
+        "a. Mirrored volumes",
+        "b. Disk striping",
+        "c. Extended volumes",
+        "d. Spanned volumes"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "Among the choices, which is not a key feature of Windows 7",
@@ -276,10 +447,19 @@
         "Usability"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "Security",
+        "Productivity",
+        "Usability"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "An IPv6 address space allocates 64bits for the network ID and 64 bits for the host ID",
@@ -289,10 +469,17 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "False"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "An object that contains all information that defines a user",
@@ -304,24 +491,43 @@
         "Guest Account"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "Administrator Account",
+        "Network Account",
+        "Guest Account"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "APIPA stands for:",
       "answer": "Automatic Private IP Addressing",
       "choices": [
-        "Automatic Private IP Addressing"
+        "Automatic Private IP Addressing",
+        "a. Asia Pacific Intellectual Property Association",
+        "b. Association of Pacific Island Public Auditors",
+        "c. Automatic Private IP Addressing",
+        "d. Automatic Protocol for Internet Public Address",
+        "a. Automatic Protocol for Internet Public Address",
+        "c. Asia Pacific Intellectual Property Association",
+        "d. Automatic Private IP Addressing"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 20,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-29T15:51:18Z",
-      "source": "review_screen",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "Certificates are used as authentication credentials.",
@@ -331,22 +537,38 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "False"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "Checks for symptoms of defective computer memory and usually can be started from administratve tools in the control panel",
       "answer": "Windows Memory Diagnostics Tool",
       "choices": [
-        "Windows Memory Diagnostics Tool"
+        "Windows Memory Diagnostics Tool",
+        "a. Performance Monitor",
+        "b. Windows Network Diagnostics Tool",
+        "c. Windows Memory Diagnostics Tool",
+        "d. Reliability Monitor"
       ],
       "verified": true,
-      "confirmations": 6,
+      "confirmations": 19,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:43:29Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "Contains the partition table for the disk and a small amount of executable code",
@@ -358,10 +580,19 @@
         "Partition Table"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "Boot Sector",
+        "Master Partition Table",
+        "Partition Table"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "Determines whether someone has permission to access a resource",
@@ -373,10 +604,19 @@
         "Authentication"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "File Permission",
+        "Sharing",
+        "Authentication"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "Device Drivers are not needed to use input devices such as mouse and keyboards.",
@@ -386,10 +626,17 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "True"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "DHCP reduces the complexity and amount of administrative work by using automatic TCP/IP configuration",
@@ -399,10 +646,17 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "False"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "DHCP v6 server assigns automatic IPv4 Configuration information to the client",
@@ -412,10 +666,17 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "True"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "Disk Defragmentation can lead to poor performance of the disk subsystem.",
@@ -425,10 +686,17 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "True"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "Disk Quota does not help you track disk consumption.",
@@ -438,10 +706,17 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "True"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "DNS is the foundation of the Internet naming scheme",
@@ -451,10 +726,17 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "False"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "DNS stands for?",
@@ -466,10 +748,19 @@
         "Dynamic Naming System"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "Dynamic Name System",
+        "Domain Naming System",
+        "Dynamic Naming System"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "Domain user accounts enables user to perform administrative tasks to network resources",
@@ -479,10 +770,17 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "True"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "Enable users to log on to the domain to gain access to network resources",
@@ -494,10 +792,19 @@
         "Local User Account"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "Built-in User Account",
+        "Administrator User Account",
+        "Local User Account"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "Enable users to perform administrative tasks or gain temporary access to network resources",
@@ -509,10 +816,19 @@
         "Local User Account"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "Domain User Account",
+        "Administrator User Account",
+        "Local User Account"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "Enables IT administrator to automate one-to-many management of users and computers",
@@ -524,10 +840,19 @@
         "Computer Usage Policy"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "Network Policy",
+        "Security Policy",
+        "Computer Usage Policy"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "Event Viewer helps diagnose and resolve network problems",
@@ -537,10 +862,17 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "True"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "Extranet are services or networks exposed outside of the intranet",
@@ -550,10 +882,17 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "False"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "Firewalls can and will prevent all infected files to come in your network",
@@ -563,10 +902,17 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "True"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "Folder that allow network access to their content",
@@ -578,10 +924,19 @@
         "Shared Folder"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "Network Folder",
+        "Windows Folder",
+        "Compress Folder"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "Group Policy Preference are available through local group policy",
@@ -591,10 +946,17 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "True"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "Host name can have up to 255 characters in length",
@@ -604,38 +966,65 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "False"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "How many bits are there in an IP version 4 address?",
       "answer": "32 bits",
       "choices": [
-        "32 bits"
+        "32 bits",
+        "a. 64 bits",
+        "b. 24 bits",
+        "c. 32 bits",
+        "d. 128 bits"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 20,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-29T15:51:18Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "review_screen",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "How many bits are there in an IP version 6 address?",
       "answer": "128 bits",
       "choices": [
-        "128 bits"
+        "128 bits",
+        "a. 128 bits",
+        "b. 24 bits",
+        "c. 32 bits",
+        "d. 64 bits",
+        "a. 32 bits",
+        "b. 128 bits",
+        "c. 24 bits",
+        "a. 64 bits",
+        "b. 32 bits",
+        "d. 128 bits"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 21,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-29T15:51:18Z",
-      "source": "review_screen",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "Hub only supports single ports",
@@ -645,10 +1034,17 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "True"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "Interconnected devices connected by radio waves instead of wires or cables",
@@ -660,10 +1056,19 @@
         "Wide Area Network"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "Radio NetworkL",
+        "Local Area Network",
+        "Wide Area Network"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "IPv4 has better prioritized delivery port than IPv6",
@@ -673,58 +1078,129 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "True"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "It a server that is used to access the corporate resources from outside the corporate network.",
       "answer": "Remote Access Server",
       "choices": [
-        "Remote Access Server"
+        "Remote Access Server",
+        "a. DNS Server",
+        "b. Remote Access Server",
+        "c. DHCP Server",
+        "d. None of the Choices",
+        "a. DHCP Server",
+        "c. None of the Choices",
+        "d. DNS Server",
+        "a. None of the Choices",
+        "c. DNS Server",
+        "b. DNS Server",
+        "d. Remote Access Server"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 20,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "It allows the administrators to identify which software is allowed to run and was initially added to Windows XP and Windows Server 2003.",
       "answer": "Software Restriction Policies",
       "choices": [
-        "Software Restriction Policies"
+        "Software Restriction Policies",
+        "a. Software Restriction Policies",
+        "b. Advanced Security Settings",
+        "c. User Account Control",
+        "d. Group Policy"
       ],
       "verified": true,
-      "confirmations": 6,
+      "confirmations": 16,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:42:54Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "It allows you to control which role functionality is installed and enabled.",
       "answer": "Role Services",
       "choices": [
-        "Role Services"
+        "Role Services",
+        "a. Role Services",
+        "b. None of the choices",
+        "c. Role",
+        "d. Server Features",
+        "a. Role",
+        "b. Server Features",
+        "c. None of the choices",
+        "d. Role Services",
+        "a. Server Features",
+        "c. Server Features",
+        "c. Role Services"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 19,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "It caches content from remote and web servers in the branch location so users can quickly access the content. This cache can be hosted centrally in the branch location or distributed across user PCs.",
       "answer": "Branch Cache",
       "choices": [
-        "Branch Cache"
+        "Branch Cache",
+        "a. BranchCache",
+        "b. DirectAccess",
+        "c. Remote Desktop",
+        "d. Remote Assistance"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 10,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false,
+      "conflictHistory": [
+        {
+          "rejectedAnswer": "BranchCache",
+          "timestamp": "2026-11-28T04:17:52Z"
+        },
+        {
+          "rejectedAnswer": "BranchCache",
+          "timestamp": "2026-11-28T04:17:52Z"
+        },
+        {
+          "rejectedAnswer": "BranchCache",
+          "timestamp": "2026-11-28T04:17:52Z"
+        }
+      ]
     },
     {
       "question": "It contains an array of partition entries describing the start and end LBA of each partition on disk.",
@@ -733,13 +1209,33 @@
         "Master Boot Record Disk",
         "Dynamic Disk",
         "None of the choices",
-        "GUID Partition (GPT)"
+        "GUID Partition (GPT)",
+        "a. GUID Partition (GPT)",
+        "b. Master Boot Record Disk",
+        "c. Dynamic Disk",
+        "d. None of the choices",
+        "a. Master Boot Record Disk",
+        "b. GUID Partition (GPT)",
+        "c. None of the choices",
+        "d. Dynamic Disk",
+        "b. None of the choices",
+        "d. Master Boot Record Disk"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "Master Boot Record Disk",
+        "Dynamic Disk",
+        "None of the choices"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false,
+      "wrongAnswerEvidence": true
     },
     {
       "question": "It contains the partition table for the disk and a small amount of executable code called as the master boot code.",
@@ -748,153 +1244,349 @@
         "None of the choices",
         "Master Boot Record Disk",
         "GUID Partition (GPT)",
-        "Dynamic Disk"
+        "Dynamic Disk",
+        "a. Dynamic Disk",
+        "b. GUID Partition (GPT)",
+        "c. None of the choices",
+        "d. Master Boot Record Disk",
+        "a. GUID Partition (GPT)",
+        "b. Dynamic Disk"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 15,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "None of the choices",
+        "GUID Partition (GPT)",
+        "Dynamic Disk"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false,
+      "wrongAnswerEvidence": true
     },
     {
       "question": "It defines the type of access granted to a user, group, or computer for a file or folder.",
       "answer": "NTFS Permission",
       "choices": [
-        "NTFS Permission"
+        "NTFS Permission",
+        "a. Explicit Permission",
+        "b. Inherited Permission",
+        "c. None of the choices",
+        "d. NTFS Permission",
+        "a. NTFS Permission",
+        "b. Explicit Permission",
+        "c. Inherited Permission",
+        "d. None of the choices",
+        "c. Explicit Permission",
+        "d. Inherited Permission",
+        "a. None of the choices",
+        "c. NTFS Permission",
+        "d. Explicit Permission",
+        "a. Inherited Permission",
+        "b. NTFS Permission"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 25,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-29T15:50:28Z",
-      "source": "review_screen",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "It enables IT Administrator to automate one-to-many management of users and computers.",
       "answer": "Group Policy",
       "choices": [
-        "Group Policy"
+        "Group Policy",
+        "a. None of the Choices",
+        "b. Organizational Units",
+        "c. Nesting Groups",
+        "d. Group Policy",
+        "a. Organizational Units",
+        "b. Group Policy",
+        "c. None of the Choices",
+        "d. Nesting Groups",
+        "d. None of the Choices",
+        "c. Group Policy"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 16,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "It enables the IT Administrators to automate one-to-several management of users and computers.",
       "answer": "Group Policy",
       "choices": [
-        "Group Policy"
+        "Group Policy",
+        "a. Group Policy",
+        "b. Control Panel",
+        "c. Action Center",
+        "d. Applocker",
+        "a. Control Panel",
+        "b. Action Center",
+        "c. Group Policy",
+        "a. Applocker",
+        "c. Control Panel",
+        "d. Group Policy"
       ],
       "verified": true,
-      "confirmations": 6,
+      "confirmations": 19,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:42:54Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "It enables the user to log on and access resources on a specific computer and usually reside in SAM.",
       "answer": "Local User Accounts",
       "choices": [
-        "Local User Accounts"
+        "Local User Accounts",
+        "a. Built-in User Accounts",
+        "b. Domain User Accounts",
+        "c. None of the Choices",
+        "d. Local User Accounts",
+        "a. Domain User Accounts",
+        "b. Built-in User Accounts",
+        "c. Local User Accounts",
+        "d. None of the Choices",
+        "a. Local User Accounts",
+        "d. Domain User Accounts",
+        "a. None of the Choices",
+        "b. Local User Accounts",
+        "c. Domain User Accounts",
+        "d. Built-in User Accounts"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 21,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 1",
+      "isAiSuggestion": false
     },
     {
       "question": "It enables users to log on to the domain to gain access to the network resources and it is reside in Active Directory.",
       "answer": "Domain User Accounts",
       "choices": [
-        "Domain User Accounts"
+        "Domain User Accounts",
+        "a. Domain User Accounts",
+        "b. None of the Choices",
+        "c. Local User Accounts",
+        "d. Built-in User Accounts",
+        "a. Local User Accounts",
+        "b. Built-in User Accounts",
+        "c. Domain User Accounts",
+        "d. None of the Choices",
+        "a. Built-in User Accounts",
+        "b. Domain User Accounts",
+        "c. None of the Choices",
+        "d. Local User Accounts"
       ],
       "verified": true,
-      "confirmations": 6,
+      "confirmations": 24,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-29T15:50:07Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "review_screen",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "It enables you to manage network traffic, group physically dispersed nodes into logical area networks and isolate network traffic.",
       "answer": "Virtual Local Area Network",
       "choices": [
-        "Virtual Local Area Network"
+        "Virtual Local Area Network",
+        "a. Metropolitan Area Network",
+        "b. Wireless Local Area Network",
+        "c. Virtual Local Area Network",
+        "d. Visual Local Area Network",
+        "b. Visual Local Area Network",
+        "d. Wireless Local Area Network",
+        "a. Wireless Local Area Network",
+        "b. Virtual Local Area Network",
+        "c. Visual Local Area Network",
+        "d. Metropolitan Area Network",
+        "c. Metropolitan Area Network",
+        "d. Virtual Local Area Network",
+        "a. Visual Local Area Network"
       ],
       "verified": true,
-      "confirmations": 9,
+      "confirmations": 28,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-29T15:49:01Z",
-      "source": "review_screen",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "It holds a copy of AD DS and responds to request for active directory information.",
       "answer": "Domain Controller",
       "choices": [
-        "Domain Controller"
+        "Domain Controller",
+        "a. Domain Controller",
+        "b. Web Server",
+        "c. File Server",
+        "d. Application Server",
+        "a. File Server",
+        "c. Application Server",
+        "d. Domain Controller",
+        "d. File Server",
+        "a. Application Server",
+        "a. Web Server",
+        "b. Application Server",
+        "c. Domain Controller"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 19,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "It is a central location for viewing messages about your system and the starting point for diagnosing and solving issues with your system.",
       "answer": "Action Center",
       "choices": [
-        "Action Center"
+        "Action Center",
+        "a. Applocker",
+        "b. Action Center",
+        "c. Group Policy",
+        "d. Control Panel",
+        "a. Group Policy",
+        "b. Applocker",
+        "c. Control Panel",
+        "d. Action Center"
       ],
       "verified": true,
-      "confirmations": 6,
+      "confirmations": 20,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:42:54Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "It is a collection of Domain Trees.",
       "answer": "Forest",
       "choices": [
-        "Forest"
+        "Forest",
+        "a. Universal",
+        "b. Forest",
+        "c. Global",
+        "d. Domain Local",
+        "a. Domain Local",
+        "c. Universal",
+        "d. Global",
+        "a. Forest",
+        "b. Universal",
+        "c. Domain Local",
+        "b. Domain Local",
+        "d. Forest",
+        "b. Global",
+        "c. Forest",
+        "d. Universal"
       ],
       "verified": true,
-      "confirmations": 6,
+      "confirmations": 25,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:39:08Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 1",
+      "isAiSuggestion": false
     },
     {
       "question": "It is a collection of user accounts, computer accounts, contacts and other groups that you can manage as a single unit.",
       "answer": "Groups",
       "choices": [
-        "Groups"
+        "Groups",
+        "a. User Account",
+        "b. Domain Controller",
+        "c. Groups",
+        "d. Domain User",
+        "a. Groups",
+        "b. Domain User",
+        "c. User Account",
+        "d. Domain Controller",
+        "a. Domain Controller",
+        "b. Groups",
+        "a. Domain User"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 23,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-29T15:50:07Z",
-      "source": "review_screen",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "It is a computer that is dedicated to running network-aware application software.",
       "answer": "Application Server",
       "choices": [
-        "Application Server"
+        "Application Server",
+        "a. Application Server",
+        "b. Web Server",
+        "c. File Server",
+        "d. Domain Controller",
+        "a. Domain Controller",
+        "b. Application Server",
+        "d. Web Server",
+        "c. Web Server",
+        "d. File Server",
+        "b. Domain Controller",
+        "c. Domain Controller",
+        "a. Web Server",
+        "c. Application Server"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 21,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "It is a device on a TCP/IP internet that forwards packets to other subnet",
@@ -906,442 +1598,911 @@
         "IPv4"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "Subnet Mask",
+        "DNS",
+        "IPv4"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "It is a device that converts instructions from the network protocol stack into electric signals.",
       "answer": "Network Adapter",
       "choices": [
-        "Network Adapter"
+        "Network Adapter",
+        "a. Switch",
+        "b. Network Adapter",
+        "c. Firewall",
+        "d. Router",
+        "a. Router",
+        "b. Switch",
+        "c. Network Adapter",
+        "d. Firewall",
+        "a. Network Adapter",
+        "b. Router",
+        "d. Switch",
+        "c. Router",
+        "a. Firewall",
+        "d. Network Adapter"
       ],
       "verified": true,
-      "confirmations": 9,
+      "confirmations": 30,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-29T15:49:01Z",
-      "source": "review_screen",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "It is a device that provides wiring concentrator functionality like a hub but it also enables network traffic management, performs firewall functions and makes routing decisions based upon traffic priority.",
       "answer": "Switch",
       "choices": [
-        "Switch"
+        "Switch",
+        "a. Router",
+        "b. Hub",
+        "c. Switch",
+        "d. Firewall",
+        "a. Hub",
+        "b. Router",
+        "c. Firewall",
+        "d. Switch",
+        "a. Switch",
+        "c. Hub",
+        "a. Firewall",
+        "d. Hub",
+        "b. Firewall",
+        "c. Router"
       ],
       "verified": true,
-      "confirmations": 10,
+      "confirmations": 28,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-29T15:49:01Z",
-      "source": "review_screen",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "It is a device, usually a router, on a TCP/IP internet that forwards IP packets to other subnets.",
       "answer": "Default Gateway",
       "choices": [
-        "Default Gateway"
+        "Default Gateway",
+        "a. Host ID",
+        "b. Network Address",
+        "c. Default Gateway",
+        "d. Subnet Mask"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 18,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-29T15:51:18Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "review_screen",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "It is a downloadable application that helps windows user identify which edition of Windows 7 meets their needs.",
       "answer": "Windows Upgrade Advisor",
       "choices": [
-        "Windows Upgrade Advisor"
+        "Windows Upgrade Advisor",
+        "a. None of the choices",
+        "b. Windows Easy Transfer",
+        "c. User State Migration Tool",
+        "d. Windows Upgrade Advisor",
+        "a. Windows Easy Transfer",
+        "b. Windows Upgrade Advisor",
+        "d. None of the choices",
+        "a. User State Migration Tool",
+        "b. None of the choices",
+        "c. Windows Upgrade Advisor",
+        "d. Windows Easy Transfer",
+        "b. User State Migration Tool",
+        "c. Windows Easy Transfer",
+        "d. User State Migration Tool"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 29,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-29T15:49:29Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "review_screen",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "It is a dynamic volume that encompasses available free-space from single, dynamic, hard disk drive.",
       "answer": "Simple Volume",
       "choices": [
-        "Simple Volume"
+        "Simple Volume",
+        "a. Spanned Volume",
+        "b. Simple Volume",
+        "c. Striped Volume",
+        "d. None of the choices",
+        "a. Simple Volume",
+        "b. None of the choices",
+        "d. Spanned Volume"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "It is a dynamic volume that joins areas of unallocated space disks into a single logical disk",
       "answer": "Spanned Volume",
       "choices": [
-        "Spanned Volume"
+        "Spanned Volume",
+        "a. Simple Volume",
+        "b. Spanned Volume",
+        "c. None of the choices",
+        "d. Striped Volume",
+        "a. Striped Volume",
+        "c. Simple Volume",
+        "d. None of the choices",
+        "a. None of the choices",
+        "b. Simple Volume",
+        "c. Striped Volume",
+        "d. Spanned Volume",
+        "d. Simple Volume"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 17,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "It is a feature of Windows 7 that allows windows 7 to be backward compatible",
       "answer": "Windows XP mode",
       "choices": [
-        "Windows XP mode"
+        "Windows XP mode",
+        "a. Windows XP compatibility",
+        "b. Virtual XP",
+        "c. None of the choices",
+        "d. Windows XP mode",
+        "b. Windows XP mode",
+        "c. Virtual XP",
+        "d. None of the choices",
+        "a. Windows XP mode",
+        "d. Windows XP compatibility",
+        "a. Virtual XP"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 23,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-29T15:50:28Z",
-      "source": "review_screen",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "It is a graphical user interface that is used to manage disks and volumes both basic and dynamic, locally or on remote computers.",
       "answer": "Disk Management",
       "choices": [
-        "Disk Management"
+        "Disk Management",
+        "a. Disk Management",
+        "b. None of the choices",
+        "c. Diskpart",
+        "d. Local Disk",
+        "b. Local Disk",
+        "c. None of the choices",
+        "d. Diskpart",
+        "a. Local Disk",
+        "b. Disk Management",
+        "d. None of the choices",
+        "c. Local Disk"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 16,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "It is a group of services hosted on a network which is a private structure and has the internet-like service provision.",
       "answer": "Intranet",
       "choices": [
-        "Intranet"
+        "Intranet",
+        "a. Extranet",
+        "b. Cloud",
+        "c. Intranet",
+        "d. Internet",
+        "a. Cloud",
+        "b. Intranet",
+        "c. Internet",
+        "d. Extranet",
+        "b. Internet",
+        "a. Internet",
+        "c. Extranet",
+        "d. Intranet",
+        "d. Cloud",
+        "c. Cloud"
       ],
       "verified": true,
-      "confirmations": 9,
+      "confirmations": 29,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-29T15:49:01Z",
-      "source": "review_screen",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "It is a method of sharing folders that allow multiple default public folders for each computer and files shared with same computer and with same network.",
       "answer": "Public Sharing",
       "choices": [
-        "Public Sharing"
+        "Public Sharing",
+        "a. Basic Sharing",
+        "b. Advance Sharing",
+        "c. None of the choices",
+        "d. Public Sharing",
+        "a. Advance Sharing",
+        "b. Basic Sharing",
+        "a. Public Sharing",
+        "d. Advance Sharing",
+        "b. None of the choices",
+        "c. Public Sharing",
+        "d. Basic Sharing",
+        "d. None of the choices"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 24,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-29T15:50:28Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "review_screen",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "It is a method of sharing folders that allows you to share folders quickly.",
       "answer": "Basic Sharing",
       "choices": [
-        "Basic Sharing"
+        "Basic Sharing",
+        "a. Advance Sharing",
+        "b. Basic Sharing",
+        "c. Public Sharing",
+        "d. None of the choices",
+        "a. Public Sharing",
+        "b. Advance Sharing",
+        "c. Basic Sharing",
+        "a. Basic Sharing",
+        "b. None of the choices",
+        "d. Advance Sharing"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 24,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-29T15:50:28Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "review_screen",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "It is a method of turning a computer on or off wherein the system state is saved to memory.",
       "answer": "Sleep or Standby",
       "choices": [
-        "Sleep or Standby"
+        "Sleep or Standby",
+        "a. Restart",
+        "b. Hibernate",
+        "c. Sleep or Standby",
+        "d. Shut Down"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 13,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "It is a new authentication features that controls the ability of online IDs to authenticate to a computer.",
       "answer": "Online Identity Integration",
       "choices": [
-        "Online Identity Integration"
+        "Online Identity Integration",
+        "a. Smartcards",
+        "b. Online Identity Integration",
+        "c. Biometrics",
+        "d. None of the choices",
+        "a. None of the choices",
+        "d. Smartcards",
+        "b. Biometrics",
+        "c. None of the choices",
+        "d. Online Identity Integration",
+        "c. Smartcards",
+        "c. Online Identity Integration"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 24,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-29T15:50:28Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "review_screen",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "It is a new Windows 7 security feature that enables IT professionals to specify exactly what is allowed to run on user desktops.",
       "answer": "Applocker",
       "choices": [
-        "Applocker"
+        "Applocker",
+        "a. Encrypting File Systems",
+        "b. User Account Control",
+        "c. Bitlocker",
+        "d. Applocker",
+        "b. Applocker",
+        "d. User Account Control"
       ],
       "verified": true,
-      "confirmations": 6,
+      "confirmations": 18,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:42:54Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "It is a scriptable command line utility that create scripts to automate disk related task.",
       "answer": "Diskpart",
       "choices": [
-        "Diskpart"
+        "Diskpart",
+        "a. None of the choices",
+        "b. Disk Management",
+        "c. Diskpart",
+        "d. Local Disk",
+        "a. Disk Management",
+        "b. Diskpart",
+        "c. None of the choices",
+        "a. Local Disk",
+        "d. Disk Management"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 15,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "It is a security feature that simplifies the ability of users to run as standard users and perform all neccessary daily tasks",
       "answer": "User Account Control",
       "choices": [
-        "User Account Control"
+        "User Account Control",
+        "a. Encrypting File Systems",
+        "b. User Account Control",
+        "c. Bitlocker",
+        "d. Applocker",
+        "a. User Account Control",
+        "b. Encrypting File Systems",
+        "c. Applocker",
+        "d. Bitlocker",
+        "b. Bitlocker",
+        "d. Encrypting File Systems",
+        "c. User Account Control"
       ],
       "verified": true,
-      "confirmations": 6,
+      "confirmations": 20,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:42:54Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "It is a small software program that allows a hardware device to communicate with a computer",
       "answer": "Drivers",
       "choices": [
-        "Drivers"
+        "Drivers",
+        "a. None of the choices",
+        "b. Device Stage",
+        "c. Dynamic Update",
+        "d. Drivers",
+        "b. Drivers",
+        "c. Device Stage",
+        "d. Dynamic Update",
+        "a. Device Stage",
+        "c. None of the choices",
+        "c. Drivers",
+        "b. None of the choices"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 18,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "It is a software that is designed to deliberately harm a computer.",
       "answer": "Malicious Software",
       "choices": [
-        "Malicious Software"
+        "Malicious Software",
+        "a. None of the Choices",
+        "b. Malicious Software",
+        "c. Applocker",
+        "d. Bitlocker",
+        "a. Malicious Software",
+        "b. None of the Choices",
+        "c. Bitlocker",
+        "d. Applocker",
+        "a. Bitlocker",
+        "c. Malicious Software"
       ],
       "verified": true,
-      "confirmations": 6,
+      "confirmations": 19,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:42:54Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "It is a strong authentication (with strong EAP method) and strong (TKIP) or very strong (AES) encryption used by medium and large organization.",
       "answer": "WPA-Enterprise",
       "choices": [
-        "WPA-Enterprise"
+        "WPA-Enterprise",
+        "a. WPA-Personal",
+        "b. WPA-Enterprise",
+        "c. IEEE 802.1X",
+        "d. WPA2-Personal",
+        "a. WPA2-Personal",
+        "b. IEEE 802.1X",
+        "c. WPA-Enterprise",
+        "d. WPA-Personal",
+        "a. WPA-Enterprise",
+        "b. WPA-Personal",
+        "c. WPA2-Personal",
+        "d. IEEE 802.1X",
+        "b. WPA2-Personal"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 23,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-29T15:52:08Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "review_screen",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "It is a tool used to remove system-specific data from the Windows operating system, configure windows to start in audit mode, configure the windows operating system to start the Windows Welcome phase and reset Windows Product activation.",
       "answer": "Sysprep",
       "choices": [
-        "Sysprep"
+        "Sysprep",
+        "a. Sysprep",
+        "b. Scanstate",
+        "c. Imagex",
+        "d. Loadstate",
+        "a. Imagex",
+        "b. Loadstate",
+        "c. Sysprep",
+        "d. Scanstate",
+        "a. Scanstate",
+        "b. Imagex",
+        "a. Loadstate",
+        "b. Sysprep",
+        "c. Scanstate",
+        "d. Imagex"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 26,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-29T15:49:29Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "review_screen",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "It is a type of IPv4 Address that is required by the devices and host that connect directly to the Internet. This address must be unique, routable on the internet and must be assigned by IANA.",
       "answer": "Public IP Address",
       "choices": [
-        "Public IP Address"
+        "Public IP Address",
+        "a. Broadcast Address",
+        "b. Network Address",
+        "c. Private IP Address",
+        "d. Public IP Address",
+        "a. Private IP Address",
+        "b. Broadcast Address",
+        "c. Public IP Address",
+        "d. Network Address"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 20,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-29T15:51:18Z",
-      "source": "review_screen",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "It is a type of network that interconnect devices by means of radio waves instead of wires and cables",
       "answer": "Wireless Network",
       "choices": [
-        "Wireless Network"
+        "Wireless Network",
+        "a. Wireless Network",
+        "b. Wired Network",
+        "c. Virtual Local Area Network",
+        "d. Campus Area Network",
+        "a. Campus Area Network",
+        "c. Wireless Network",
+        "d. Virtual Local Area Network",
+        "a. Virtual Local Area Network",
+        "c. Campus Area Network",
+        "d. Wireless Network"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 24,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-29T15:52:08Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "review_screen",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "It is a type of printing wherein it is used by legacy application in pre-vista version of windows that uses enhanced metafile format (EMF) as the spool file format.",
       "answer": "GDI based printing",
       "choices": [
-        "GDI based printing"
+        "GDI based printing",
+        "a. GDI based printing",
+        "b. XPS based printing",
+        "c. PDF based printing",
+        "d. None of the choices",
+        "a. None of the choices",
+        "b. GDI based printing",
+        "d. XPS based printing",
+        "b. PDF based printing",
+        "c. XPS based printing",
+        "d. GDI based printing"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 22,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-29T15:50:28Z",
-      "source": "review_screen",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "It is a way for you to limit use of disk space on a volume for each user to conserve disk space.",
       "answer": "Disk Quotas",
       "choices": [
-        "Disk Quotas"
+        "Disk Quotas",
+        "a. Disk Quotas",
+        "b. Disk Shrinking",
+        "c. Disk Fragmentation",
+        "d. None of the choices",
+        "a. None of the choices",
+        "b. Disk Fragmentation",
+        "c. Disk Quotas",
+        "d. Disk Shrinking"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 15,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "It is a windows 7 feature that enables support staff to connect to a remote desktop computer.",
       "answer": "Remote Assistance",
       "choices": [
-        "Remote Assistance"
+        "Remote Assistance",
+        "a. Remote Desktop",
+        "b. None of the Choices",
+        "c. Virtual Private Network",
+        "d. Remote Assistance"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 13,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "It is a windows 7 feature that enables user to connect to their desktop computer from another device.",
       "answer": "Remote Desktop",
       "choices": [
-        "Remote Desktop"
+        "Remote Desktop",
+        "a. Remote Assistance",
+        "b. None of the Choices",
+        "c. Virtual Private Network",
+        "d. Remote Desktop"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 13,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "It is a Windows Authentication Method that is used by windows 7 clients and server running Microsoft Windows Server 2000 or later",
       "answer": "Kerberos v5",
       "choices": [
-        "Kerberos v5"
+        "Kerberos v5",
+        "a. NTLM",
+        "b. Kerberos v5",
+        "c. None of the choices",
+        "d. Certificate Mapping",
+        "a. Kerberos v5",
+        "b. NTLM",
+        "c. Certificate Mapping",
+        "d. None of the choices",
+        "b. Certificate Mapping",
+        "c. Kerberos v5",
+        "b. None of the choices",
+        "d. Kerberos v5"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 24,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-29T15:50:28Z",
-      "source": "review_screen",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "It is a wireless network modes that allows a wireless network adapters connects directly to another wireless network adapter for the purpose of temporarily sharing of files, presentations or an internet connection among multiple computers and devices.",
       "answer": "Ad hoc mode",
       "choices": [
-        "Ad hoc mode"
+        "Ad hoc mode",
+        "a. Bluetooth mode",
+        "b. Ad hoc mode",
+        "c. Infrastructure mode",
+        "d. Wired mode",
+        "a. Infrastructure mode",
+        "b. Bluetooth mode",
+        "c. Wired mode",
+        "d. Ad hoc mode",
+        "c. Bluetooth mode"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 21,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-29T15:52:08Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "review_screen",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "It is an administrative tool for managing user settings and computer settings across a network",
       "answer": "Window Update Group Policy",
       "choices": [
-        "Window Update Group Policy"
+        "Window Update Group Policy",
+        "a. Window Update Group Policy",
+        "b. System Restore Points",
+        "c. Windows Backup",
+        "d. None of the choices",
+        "a. Windows Backup",
+        "b. Window Update Group Policy",
+        "c. System Restore Points",
+        "a. None of the choices",
+        "c. Window Update Group Policy",
+        "d. Windows Backup"
       ],
       "verified": true,
-      "confirmations": 6,
+      "confirmations": 20,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:43:29Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "It is an enhanced privacy features of Internet Explorer 8 that inherently more secure that using delete browsing history to maintain privacy because there are no logs kept or tracks made during browsing",
       "answer": "InPrivate Browsing",
       "choices": [
-        "InPrivate Browsing"
+        "InPrivate Browsing",
+        "a. Bitlocker",
+        "b. InPrivate Filtering",
+        "c. InPrivate Browsing",
+        "d. Applocker",
+        "a. InPrivate Filtering",
+        "b. Applocker",
+        "c. Bitlocker",
+        "d. InPrivate Browsing",
+        "a. InPrivate Browsing",
+        "c. Applocker",
+        "d. Bitlocker"
       ],
       "verified": true,
-      "confirmations": 6,
+      "confirmations": 19,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:42:54Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "It is an object that contains all of the information that defines a user in Windows Server 2008 R2.",
       "answer": "User Account",
       "choices": [
-        "User Account"
+        "User Account",
+        "a. Domain User",
+        "b. Domain Controller",
+        "c. Groups",
+        "d. User Account",
+        "a. User Account",
+        "b. Domain User",
+        "d. Domain Controller"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 18,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-29T15:50:07Z",
-      "source": "review_screen",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "It is one of the Considerations on why using the option of Upgrade rather than Migrate.",
       "answer": "Does not require the reinstallation of applications",
       "choices": [
-        "Does not require the reinstallation of applications"
+        "Does not require the reinstallation of applications",
+        "a. Typically, requires more storage space",
+        "b. Does not require the reinstallation of applications",
+        "c. None of the choices",
+        "d. Typically, requires replacing existing computer hardware",
+        "b. Typically, requires replacing existing computer hardware",
+        "d. Does not require the reinstallation of applications",
+        "a. Typically, requires replacing existing computer hardware",
+        "d. Typically, requires more storage space",
+        "b. Typically, requires more storage space",
+        "c. Does not require the reinstallation of applications",
+        "d. None of the choices",
+        "b. None of the choices",
+        "c. Typically, requires more storage space",
+        "a. None of the choices"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 27,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-29T15:49:29Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "review_screen",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "It is one of the feature of Windows 7 that encrypts the computer operating system and data stored on the operating system volume.",
       "answer": "Bitlocker",
       "choices": [
-        "Bitlocker"
+        "Bitlocker",
+        "a. Bitlocker",
+        "b. Encrypting File Systems",
+        "c. User Account Control",
+        "d. Applocker",
+        "a. Applocker",
+        "c. Bitlocker",
+        "d. User Account Control",
+        "a. Encrypting File Systems",
+        "b. User Account Control",
+        "a. User Account Control",
+        "b. Applocker",
+        "c. Encrypting File Systems",
+        "d. Bitlocker"
       ],
       "verified": true,
-      "confirmations": 6,
+      "confirmations": 20,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:42:54Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "It is one of the features of Mobile Computers wherein it synchronizes various content including music, video, contacts, calendar events, web browser favorites and other files between Windows Mobile devices and Windows 7",
@@ -1350,24 +2511,45 @@
         "Windows Mobile Device Center"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "It is one of the Key Features of Windows 7 that simplify a user's ability to organize, search for, and view information.",
       "answer": "Usability",
       "choices": [
-        "Usability"
+        "Usability",
+        "a. Deployment",
+        "b. Reliability and Performance",
+        "c. Security",
+        "d. Usability",
+        "a. Security",
+        "b. Deployment",
+        "c. Reliability and Performance",
+        "a. Reliability and Performance",
+        "b. Usability",
+        "c. Deployment",
+        "d. Security",
+        "c. Usability",
+        "d. Deployment"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 25,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-29T15:49:29Z",
-      "source": "review_screen",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "It is one of the Key Features of Windows 7 that takes advantage of modern computing hardware, running more reliably and providing more consistent performance than previous versions of Windows.",
@@ -1376,145 +2558,336 @@
         "Reliability and Performance",
         "Usability",
         "Security",
-        "Deployment"
+        "Deployment",
+        "a. Security",
+        "b. Reliability and Performance",
+        "c. Deployment",
+        "d. Usability",
+        "a. Deployment",
+        "c. Security",
+        "b. Deployment",
+        "c. Reliability and Performance",
+        "a. Reliability and Performance",
+        "b. Security",
+        "c. Usability",
+        "d. Deployment",
+        "b. Usability",
+        "d. Reliability and Performance",
+        "a. Usability"
       ],
       "verified": true,
-      "confirmations": 8,
+      "confirmations": 25,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-29T15:49:29Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "review_screen",
-      "wrongAnswers": [],
-      "isAiSuggestion": false
+      "wrongAnswers": [
+        "Usability",
+        "Security",
+        "Deployment"
+      ],
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "wrongAnswerEvidence": true,
+      "conflictHistory": [
+        {
+          "rejectedAnswer": "Reliability, Performance",
+          "timestamp": "2026-11-28T04:17:52Z"
+        },
+        {
+          "rejectedAnswer": "Reliability, Performance",
+          "timestamp": "2026-11-28T04:17:52Z"
+        },
+        {
+          "rejectedAnswer": "Reliability, Performance",
+          "timestamp": "2026-11-28T04:17:52Z"
+        },
+        {
+          "rejectedAnswer": "Reliability, Performance, Reliability and Performance",
+          "timestamp": "2026-11-28T04:17:52Z"
+        }
+      ]
     },
     {
       "question": "It is one of the Options for Installing Windows 7 where in you install Windows 7 on a new partition and replace an existing operating system on a partition.",
       "answer": "Clean Installation",
       "choices": [
-        "Clean Installation"
+        "Clean Installation",
+        "a. Migration",
+        "b. None of the Choices",
+        "c. Clean Installation",
+        "d. Upgrade Installation",
+        "a. Upgrade Installation",
+        "b. Clean Installation",
+        "c. None of the Choices",
+        "d. Migration",
+        "a. None of the Choices",
+        "c. Upgrade Installation",
+        "c. Migration",
+        "d. None of the Choices",
+        "b. Migration",
+        "d. Clean Installation"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 26,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-29T15:49:29Z",
-      "source": "review_screen",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "It is one of the Options for Installing Windows 7 where in you replace an existing version of Windows with Windows 7 but all user applications, files and settings are retained.",
       "answer": "Upgrade Installation",
       "choices": [
-        "Upgrade Installation"
+        "Upgrade Installation",
+        "a. Upgrade Installation",
+        "b. None of the Choices",
+        "c. Migration",
+        "d. Clean Installation",
+        "a. Migration",
+        "b. Clean Installation",
+        "c. Upgrade Installation",
+        "d. None of the Choices",
+        "c. None of the Choices",
+        "d. Migration",
+        "b. Migration",
+        "a. None of the Choices",
+        "a. Clean Installation"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 28,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-29T15:49:29Z",
-      "source": "review_screen",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "It is the built-in encryption tool for Windows file systems",
       "answer": "Encrypting File Systems",
       "choices": [
-        "Encrypting File Systems"
+        "Encrypting File Systems",
+        "a. Applocker",
+        "b. User Account Control",
+        "c. Encrypting File Systems",
+        "d. Bitlocker",
+        "a. Bitlocker",
+        "b. Encrypting File Systems",
+        "c. User Account Control",
+        "d. Applocker",
+        "c. Applocker",
+        "d. Encrypting File Systems"
       ],
       "verified": true,
-      "confirmations": 6,
+      "confirmations": 19,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:42:54Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "It is the foundation of the Internet naming scheme and it supports accessing resources by using alphanumeric names.",
       "answer": "DNS Server",
       "choices": [
-        "DNS Server"
+        "DNS Server",
+        "a. DNS Server",
+        "b. Remote Access Server",
+        "c. DHCP Server",
+        "d. None of the Choices",
+        "a. Remote Access Server",
+        "b. DNS Server",
+        "c. None of the Choices",
+        "d. DHCP Server",
+        "a. None of the Choices",
+        "c. Remote Access Server",
+        "b. DHCP Server",
+        "d. Remote Access Server",
+        "a. DHCP Server"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 18,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "It is the measurement of how a system conforms to expected behavior",
       "answer": "Reliability",
       "choices": [
-        "Reliability"
+        "Reliability",
+        "a. Reliability",
+        "b. Performance",
+        "c. Usability",
+        "d. Security"
       ],
       "verified": true,
-      "confirmations": 6,
+      "confirmations": 18,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:43:29Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "It is the measurement on how quickly the computer completes a task.",
       "answer": "Performance",
       "choices": [
-        "Performance"
+        "Performance",
+        "a. Usability",
+        "b. Reliability",
+        "c. Performance",
+        "d. Security",
+        "a. Reliability",
+        "b. Usability",
+        "c. Security",
+        "d. Performance",
+        "b. Security",
+        "c. Reliability"
       ],
       "verified": true,
-      "confirmations": 6,
+      "confirmations": 20,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:43:29Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "It is the most common form of computer network.",
       "answer": "Local Area Network",
       "choices": [
-        "Local Area Network"
+        "Local Area Network",
+        "a. Wide Area Network",
+        "b. Campus Area Network",
+        "c. Metropolitan Area Network",
+        "d. Local Area Network",
+        "b. Local Area Network",
+        "d. Campus Area Network",
+        "a. Local Area Network",
+        "b. Metropolitan Area Network",
+        "c. Campus Area Network",
+        "d. Wide Area Network",
+        "a. Metropolitan Area Network",
+        "c. Wide Area Network",
+        "d. Metropolitan Area Network"
       ],
       "verified": true,
-      "confirmations": 9,
+      "confirmations": 29,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-29T15:49:01Z",
-      "source": "review_screen",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "It is the non-contiguous storage of data on a volume",
       "answer": "Disk Fragmentation",
       "choices": [
-        "Disk Fragmentation"
+        "Disk Fragmentation",
+        "a. Disk Quotas",
+        "b. Disk Shrinking",
+        "c. Disk Fragmentation",
+        "d. None of the choices",
+        "a. Disk Shrinking",
+        "b. Disk Fragmentation",
+        "c. Disk Quotas",
+        "a. None of the choices",
+        "d. Disk Quotas"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 15,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "It is the process of determining whether something or someone has permission to access the resources",
       "answer": "Authorization",
       "choices": [
-        "Authorization"
+        "Authorization",
+        "a. None of the choices",
+        "b. Authorization",
+        "c. Authentication",
+        "d. Access",
+        "a. Access",
+        "c. None of the choices",
+        "d. Authentication",
+        "a. Authentication",
+        "b. Access",
+        "c. Authorization",
+        "d. None of the choices",
+        "a. Authorization",
+        "b. Authentication"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 24,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-29T15:50:28Z",
-      "source": "review_screen",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "It is the process of verifying the identity of something or someone.",
       "answer": "Authentication",
       "choices": [
-        "Authentication"
+        "Authentication",
+        "a. None of the choices",
+        "b. Access",
+        "c. Authorization",
+        "d. Authentication",
+        "a. Authorization",
+        "b. None of the choices",
+        "c. Access",
+        "b. Authentication",
+        "d. Authorization",
+        "b. Authorization",
+        "c. Authentication"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 25,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-29T15:50:28Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "review_screen",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "It is used to display IP Configuration information and to release and renew addresses",
@@ -1526,86 +2899,177 @@
         "getmac"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "ping",
+        "netsh",
+        "getmac"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "It provides assistance in resolving network-related issues",
       "answer": "Windows Network Diagnostics Tool",
       "choices": [
-        "Windows Network Diagnostics Tool"
+        "Windows Network Diagnostics Tool",
+        "a. Performance Monitor",
+        "b. Windows Memory Diagnostic Tool",
+        "c. Windows Network Diagnostics Tool",
+        "d. Reliability Monitor",
+        "a. Reliability Monitor",
+        "b. Performance Monitor",
+        "c. Windows Memory Diagnostic Tool",
+        "d. Windows Network Diagnostics Tool",
+        "b. Windows Network Diagnostics Tool",
+        "c. Reliability Monitor",
+        "d. Windows Memory Diagnostic Tool"
       ],
       "verified": true,
-      "confirmations": 6,
+      "confirmations": 20,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:43:29Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "It provides authenticaltion, host operations of master roles, hosting the global catalog and support group policies and sysvol.",
       "answer": "Domain Controller",
       "choices": [
-        "Domain Controller"
+        "Domain Controller",
+        "a. Domain User",
+        "b. Domain Controller",
+        "c. User Accounts",
+        "d. Groups",
+        "a. Groups",
+        "b. User Accounts",
+        "c. Domain User",
+        "d. Domain Controller",
+        "a. Domain Controller"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 18,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-29T15:50:07Z",
-      "source": "review_screen",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "It provides storage for the users' files and share folders that contain users' files.",
       "answer": "File Server",
       "choices": [
-        "File Server"
+        "File Server",
+        "a. Application Server",
+        "b. File Server",
+        "c. Domain Controller",
+        "d. Web Server",
+        "a. Domain Controller",
+        "c. Application Server",
+        "c. Web Server",
+        "d. Application Server",
+        "a. Web Server",
+        "b. Domain Controller",
+        "c. File Server"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 18,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "It provides transparent access to internal network resources whenever they are connected to the Internet. It also enables the IT Professionals to manage remote computers outside of the office and does not require a VPN connection.",
       "answer": "DirectAccess",
       "choices": [
-        "DirectAccess"
+        "DirectAccess",
+        "a. Remote Desktop",
+        "b. Remote Assistance",
+        "c. DirectAccess",
+        "d. BranchCache",
+        "a. Remote Assistance",
+        "b. Remote Desktop"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 14,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "It reduces the complexity and amount of administrative work by using automatic TCP/IP configuration.",
       "answer": "DHCP Server",
       "choices": [
-        "DHCP Server"
+        "DHCP Server",
+        "a. None of the Choices",
+        "b. DNS Server",
+        "c. DHCP Server",
+        "d. Remote Access Server",
+        "a. Remote Access Server",
+        "b. DHCP Server",
+        "c. None of the Choices",
+        "d. DNS Server",
+        "c. Remote Access Server",
+        "a. DHCP Server",
+        "b. Remote Access Server",
+        "b. None of the Choices",
+        "d. DHCP Server"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 20,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "It specifies which part of an IPv4 address is the network ID and which part of the IPv4 address is the Host ID.",
       "answer": "Subnet Mask",
       "choices": [
-        "Subnet Mask"
+        "Subnet Mask",
+        "a. Host ID",
+        "b. Network Address",
+        "c. Default Gateway",
+        "d. Subnet Mask",
+        "b. Subnet Mask",
+        "d. Network Address"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 20,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-29T15:51:18Z",
-      "source": "review_screen",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "It specifies which part of the IPv4 address is the host ID",
@@ -1617,10 +3081,19 @@
         "IPv4"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "DNS",
+        "Default Gateway",
+        "IPv4"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "Kayla is dissatisfied with the configuration of her keyboard and mouse. She wants to reset the keyboard speed and the mouse pointer rate. Which utility should she use to configure the keyboard and mouse properties?",
@@ -1629,10 +3102,15 @@
         "Control Panel"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "LAN stands for Localized Area Networks",
@@ -1642,10 +3120,17 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "True"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "MBR (Master Boot Record) is on the first sector of the hard disk.",
@@ -1655,10 +3140,17 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "False"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "MBR Stands for?",
@@ -1683,10 +3175,17 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "True"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "NSLOOKUP enables testing of name resolution",
@@ -1696,10 +3195,17 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "False"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "Provide services to view, configure, and troubleshoot your network access and sharing capabilities",
@@ -1711,22 +3217,46 @@
         "Troubleshooting"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "Microsoft Management Console",
+        "Network Folder",
+        "Troubleshooting"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "Provides a timeline of system changes and reliability. It also provides a system stability chart and reports on software installations and software or hardware failures.",
       "answer": "Reliability Monitor",
       "choices": [
-        "Reliability Monitor"
+        "Reliability Monitor",
+        "a. Windows Network Diagnostics Tool",
+        "b. Windows Memory Diagnosstics Tool",
+        "c. Reliability Monitor",
+        "d. Performance Monitor",
+        "a. Reliability Monitor",
+        "b. Windows Network Diagnostics Tool",
+        "c. Performance Monitor",
+        "d. Windows Memory Diagnosstics Tool",
+        "a. Windows Memory Diagnosstics Tool",
+        "d. Windows Network Diagnostics Tool"
       ],
       "verified": true,
-      "confirmations": 6,
+      "confirmations": 21,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:43:29Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "Routers divides packets equally then send it to all end devices in the network",
@@ -1736,10 +3266,17 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "True"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "Simple Volume can be extended across disks creating a spanned volume.",
@@ -1749,10 +3286,17 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "False"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "Software Programs that provide functionality of a role",
@@ -1764,24 +3308,47 @@
         "Role Server"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "Server Role",
+        "Service Role",
+        "Role Server"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "Strong EAP methods provide strong authentication",
       "answer": "IEEE 802.1X",
       "choices": [
-        "IEEE 802.1X"
+        "IEEE 802.1X",
+        "a. WPA2-Personal",
+        "b. WPA-Personal",
+        "c. WPA-Enterprise",
+        "d. IEEE 802.1X",
+        "a. WPA-Personal",
+        "b. WPA2-Personal",
+        "a. IEEE 802.1X",
+        "d. WPA-Personal",
+        "b. WPA-Enterprise",
+        "c. WPA-Personal",
+        "d. WPA2-Personal"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 25,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-29T15:52:08Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "review_screen",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "Subnet Mask are used to determine the best route for packet forwarding",
@@ -1791,10 +3358,17 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "True"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "The default shared folder's permission can be modified by anyone who has access to it.",
@@ -1804,10 +3378,17 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "True"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "The most common form of computer network",
@@ -1819,46 +3400,91 @@
         "CAN"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "PAN",
+        "WAN",
+        "CAN"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "This are equivalents to door locks, employee badges and security systems. It protects the computer and networks from intrusions.",
       "answer": "Firewall",
       "choices": [
-        "Firewall"
+        "Firewall",
+        "a. Bitlocker",
+        "b. Firewall",
+        "c. Internet",
+        "d. Group Policy",
+        "a. Firewall",
+        "b. Bitlocker",
+        "c. Group Policy",
+        "d. Internet",
+        "a. Internet",
+        "b. Group Policy",
+        "c. Firewall",
+        "d. Bitlocker",
+        "c. Bitlocker"
       ],
       "verified": true,
-      "confirmations": 6,
+      "confirmations": 20,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:42:54Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "This are point-to-point connection across a private or public network. It uses special protocols, called tunneling protocol to make a virtual call to a virtual port.",
       "answer": "Virtual Private Network",
       "choices": [
-        "Virtual Private Network"
+        "Virtual Private Network",
+        "a. Remote Desktop",
+        "b. None of the Choices",
+        "c. Remote Assitance",
+        "d. Virtual Private Network"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 13,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "This Power plan saves power on a mobile computer by reducing system performance. Its primary purpose is to maximize the battery life.",
       "answer": "Power Saver",
       "choices": [
-        "Power Saver"
+        "Power Saver",
+        "a. Power Saver",
+        "b. Balanced",
+        "c. High Performance",
+        "d. None of the Choices"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 13,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "Tracert verifies a routing path",
@@ -1868,10 +3494,17 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "False"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "Type of folder that contains multiple files and folders that are compressed to reduce storage size.",
@@ -1883,10 +3516,19 @@
         "Compress Folder"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "Shared Folder",
+        "Windows Folder",
+        "Network Folder"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "Use a secure dynamic updates for DNS zones when configuring DNS for AD DS",
@@ -1896,10 +3538,17 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "False"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "WAN stands for:",
@@ -1924,10 +3573,17 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "False"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "WET is the recommended tool for scenarios in which you have a small number of computers to migrate.",
@@ -1937,10 +3593,17 @@
         "False"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "False"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "What does DHCP stands for?",
@@ -1952,10 +3615,19 @@
         "Domain Host Configuration Protocol"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "Dynamically Hosting Configuration Protocol",
+        "Data Host Configuration Protocol",
+        "Domain Host Configuration Protocol"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "What does GPO stands for?",
@@ -1967,10 +3639,19 @@
         "Group Policy Option"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "Group Policy Operations",
+        "Group Policy Output",
+        "Group Policy Option"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "What does WET stands for?",
@@ -1982,38 +3663,79 @@
         "Windows Electronic Transfer"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "Windows Enterprise Technology",
+        "Windows Elastic Technology",
+        "Windows Electronic Transfer"
+      ],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "What is the binary notation for the 255.255.255.0 subnet mask?",
       "answer": "11111111.11111111.11111111.00000000",
       "choices": [
-        "11111111.11111111.11111111.00000000"
+        "11111111.11111111.11111111.00000000",
+        "a. 11111111.11111111.11111110.00000000",
+        "b. 11111111.11111111.11111111.00000000",
+        "c. 11111111.00000000.00000000.00000000",
+        "d. 11111111.11111111.11111000.00000000",
+        "b. 11111111.00000000.00000000.00000000",
+        "c. 11111111.11111111.11111111.00000000",
+        "a. 11111111.11111111.11111111.00000000",
+        "b. 11111111.11111111.11111110.00000000",
+        "a. 11111111.00000000.00000000.00000000",
+        "b. 11111111.11111111.11111000.00000000",
+        "d. 11111111.00000000.00000000.00000000"
       ],
       "verified": true,
-      "confirmations": 7,
+      "confirmations": 23,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-29T15:51:18Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "review_screen",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "What is the IEEE 802 Standards for Local Wireless Networks?",
       "answer": "IEEE 802.11",
       "choices": [
-        "IEEE 802.11"
+        "IEEE 802.11",
+        "a. IEEE 802.5",
+        "b. IEEE 802.16",
+        "c. IEEE 802.11",
+        "d. IEEE 802.3",
+        "a. IEEE 802.16",
+        "b. IEEE 802.5",
+        "c. IEEE 802.3",
+        "d. IEEE 802.11",
+        "a. IEEE 802.11",
+        "d. IEEE 802.16",
+        "a. IEEE 802.3",
+        "b. IEEE 802.11",
+        "c. IEEE 802.16",
+        "d. IEEE 802.5",
+        "b. IEEE 802.3"
       ],
       "verified": true,
-      "confirmations": 9,
+      "confirmations": 30,
       "firstSeenAt": "2026-09-17T16:00:06Z",
-      "lastVerifiedAt": "2026-09-29T15:49:01Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "review_screen",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "What is the maximum bit rate for the 802.11n technologies?",
@@ -2022,15 +3744,27 @@
         "a. None of the choices",
         "b. 600mbps",
         "c. 54mbps",
-        "d. 11mbps"
+        "d. 11mbps",
+        "600mbps",
+        "a. 54mbps",
+        "c. None of the choices",
+        "a. 600mbps",
+        "b. 54mbps",
+        "c. 11mbps",
+        "d. None of the choices",
+        "b. 11mbps",
+        "d. 54mbps"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 21,
       "firstSeenAt": "2026-09-17T16:35:18Z",
-      "lastVerifiedAt": "2026-09-29T15:52:08Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "review_screen",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "What type of notation does IP version 6 address uses?",
@@ -2039,15 +3773,27 @@
         "a. Hexadecimal",
         "b. Binary",
         "c. Octal",
-        "d. Decimal"
+        "d. Decimal",
+        "Hexadecimal",
+        "a. Binary",
+        "b. Octal",
+        "c. Decimal",
+        "d. Hexadecimal",
+        "b. Decimal",
+        "c. Hexadecimal",
+        "d. Octal",
+        "a. Decimal"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 22,
       "firstSeenAt": "2026-09-17T16:33:49Z",
-      "lastVerifiedAt": "2026-09-29T15:51:18Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "review_screen",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "Where will you see the Manage Wireless Networks tool in your PC?",
@@ -2056,15 +3802,56 @@
         "a. Accessories",
         "b. Control Panel",
         "c. System Tools",
-        "d. Program Files"
+        "d. Program Files",
+        "Control Panel",
+        "a. Program Files",
+        "b. System Tools",
+        "c. Accessories",
+        "d. Control Panel",
+        "a. Control Panel",
+        "b. Accessories",
+        "c. Program Files",
+        "d. System Tools",
+        "a. System Tools",
+        "b. Program Files",
+        "c. Control Panel",
+        "d. Accessories"
       ],
       "verified": true,
-      "confirmations": 6,
+      "confirmations": 23,
       "firstSeenAt": "2026-09-17T16:35:18Z",
-      "lastVerifiedAt": "2026-09-29T15:52:08Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "review_screen",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
+    },
+    {
+      "question": "Which does not belong in the list of common wireless standards below",
+      "answer": "80211h",
+      "choices": [
+        "80211n",
+        "80211a",
+        "80211b",
+        "80211h"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "80211n",
+        "80211a",
+        "80211b"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 7,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
     },
     {
       "question": "Which of the following is a main type of group?",
@@ -2073,15 +3860,29 @@
         "a. Universal",
         "b. Distribution",
         "c. Domain Local",
-        "d. Global"
+        "d. Global",
+        "a. Global",
+        "d. Universal",
+        "Distribution",
+        "a. Domain Local",
+        "c. Universal",
+        "b. Universal",
+        "c. Distribution",
+        "b. Global",
+        "d. Distribution",
+        "b. Domain Local",
+        "c. Global"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 24,
       "firstSeenAt": "2026-09-17T16:30:27Z",
-      "lastVerifiedAt": "2026-09-29T15:50:07Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "review_screen",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "Which of the following is not a Boot-option for troubleshooting startup problems?",
@@ -2090,33 +3891,99 @@
         "a. Safe Mode",
         "b. Boot logging",
         "c. Last known good configuration",
-        "d. None of the choices"
+        "d. None of the choices",
+        "None of the choices",
+        "a. None of the choices",
+        "b. Last known good configuration",
+        "c. Boot logging",
+        "d. Safe Mode",
+        "b. Safe Mode",
+        "d. Last known good configuration",
+        "a. Last known good configuration",
+        "c. None of the choices",
+        "b. None of the choices"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 21,
       "firstSeenAt": "2026-09-17T16:42:13Z",
-      "lastVerifiedAt": "2026-09-22T03:43:29Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "Which of the following is not a LAN Physical Topology?",
-      "answer": "Mesh",
+      "answer": "Crown",
       "choices": [
         "a. Crown",
         "b. Bus",
         "c. Mesh",
-        "d. Hybrid"
+        "d. Hybrid",
+        "b. Hybrid",
+        "c. Bus",
+        "d. Mesh",
+        "Crown",
+        "a. Mesh",
+        "c. Crown",
+        "d. Bus",
+        "c. Crown Web Study Guide (AMAUOED, Unconfirmed)",
+        "c. Hybrid",
+        "d. Crown",
+        "a. Bus",
+        "a. Hybrid",
+        "b. Crown"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 10,
       "firstSeenAt": "2026-09-17T16:07:30Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "community_contribution",
-      "wrongAnswers": [],
+      "wrongAnswers": [
+        "Mesh"
+      ],
       "conflictHistory": [
         {
           "rejectedAnswer": "Crown",
           "timestamp": "2026-09-29T15:52:08Z"
+        },
+        {
+          "rejectedAnswer": "Crown",
+          "timestamp": "2026-11-28T04:17:52Z"
+        },
+        {
+          "rejectedAnswer": "Crown",
+          "timestamp": "2026-11-28T04:17:52Z"
+        },
+        {
+          "rejectedAnswer": "Crown",
+          "timestamp": "2026-11-28T04:17:52Z"
+        },
+        {
+          "rejectedAnswer": "Crown",
+          "timestamp": "2026-11-28T04:17:52Z"
+        },
+        {
+          "rejectedAnswer": "Crown",
+          "timestamp": "2026-11-28T04:17:52Z"
+        },
+        {
+          "rejectedAnswer": "Crown Web Study Guide (AMAUOED, Unconfirmed)",
+          "timestamp": "2026-11-28T04:17:52Z"
+        }
+      ],
+      "isAiSuggestion": false,
+      "wrongAnswerEvidence": true,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 1",
+      "lastEvidenceAt": "2026-11-28T04:17:52Z",
+      "alternateAnswers": [
+        {
+          "answer": "Crown Web Study Guide (AMAUOED, Unconfirmed)",
+          "timestamp": "2026-11-28T04:17:52Z"
         }
       ]
     },
@@ -2127,43 +3994,200 @@
         "a. Monitoring Tools",
         "b. Windows Memory Diagnostics Tool",
         "c. Data Collector Sets",
-        "d. Reports"
+        "d. Reports",
+        "Windows Memory Diagnostics Tool",
+        "a. Reports",
+        "c. Monitoring Tools",
+        "d. Data Collector Sets",
+        "c. Reports"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 20,
       "firstSeenAt": "2026-09-17T16:42:13Z",
-      "lastVerifiedAt": "2026-09-22T03:43:29Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [],
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "isAiSuggestion": false
     },
     {
       "question": "Which of the following is not a Physical WAN Components?",
-      "answer": "Bridge",
+      "answer": "Network Adapter",
       "choices": [
         "a. Leased Lines",
         "b. Network Adapter",
         "c. Backbone",
-        "d. Bridge"
+        "d. Bridge",
+        "a. Network Adapter",
+        "b. Bridge",
+        "c. Leased Lines",
+        "d. Backbone",
+        "Network Adaptor",
+        "a. Bridge",
+        "d. Leased Lines",
+        "c. Network Adapter",
+        "a. Backbone",
+        "b. Leased Lines",
+        "c. Bridge",
+        "d. Network Adapter",
+        "b. Backbone"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 10,
       "firstSeenAt": "2026-09-17T16:07:30Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "Bridge"
+      ],
+      "isAiSuggestion": false,
+      "wrongAnswerEvidence": true,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 1",
+      "lastEvidenceAt": "2026-11-28T04:17:52Z",
+      "conflictHistory": [
+        {
+          "rejectedAnswer": "Network Adaptor",
+          "timestamp": "2026-11-28T04:17:52Z"
+        },
+        {
+          "rejectedAnswer": "Network Adaptor",
+          "timestamp": "2026-11-28T04:17:52Z"
+        },
+        {
+          "rejectedAnswer": "Network Adaptor",
+          "timestamp": "2026-11-28T04:17:52Z"
+        },
+        {
+          "rejectedAnswer": "Network Adaptor",
+          "timestamp": "2026-11-28T04:17:52Z"
+        },
+        {
+          "rejectedAnswer": "Network Adaptor",
+          "timestamp": "2026-11-28T04:17:52Z"
+        },
+        {
+          "rejectedAnswer": "Network Adaptor",
+          "timestamp": "2026-11-28T04:17:52Z"
+        },
+        {
+          "rejectedAnswer": "Network Adaptor",
+          "timestamp": "2026-11-28T04:17:52Z"
+        }
+      ]
+    },
+    {
+      "question": "Which of the following is not a Server Role of Windows Server 2008 R2?",
+      "answer": "Windows Power Shell",
+      "choices": [
+        "Windows Power Shell",
+        "a. Windows Power Shell",
+        "b. Remote Desktop Services",
+        "c. DHCP Server",
+        "d. Active Directory Domain Services",
+        "a. Windows Power Shell Web Study Guide (AMAUOED, Unconfirmed)",
+        "a. Active Directory Domain Services",
+        "b. DHCP Server",
+        "c. Windows Power Shell",
+        "d. Remote Desktop Services",
+        "b. Active Directory Domain Services",
+        "c. Remote Desktop Services",
+        "d. DHCP Server",
+        "a. DHCP Server"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 14,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "conflictHistory": [
+        {
+          "rejectedAnswer": "Windows Power Shell Web Study Guide (AMAUOED, Unconfirmed)",
+          "timestamp": "2026-11-28T04:17:52Z"
+        },
+        {
+          "rejectedAnswer": "Windows Power Shell Web Study Guide (AMAUOED, Unconfirmed)",
+          "timestamp": "2026-11-28T04:17:52Z"
+        }
+      ]
     },
     {
       "question": "Which of the following is not a Specialized version of Windows 7?",
-      "answer": "Windows 7 Home Basic",
+      "answer": "Windows 7 Professional",
       "choices": [
         "a. Windows 7 Professional",
         "b. Windows 7 Ultimate",
         "c. Windows 7 Home Basic",
-        "d. Windows 7 Enterprise"
+        "d. Windows 7 Enterprise",
+        "a. Windows 7 Home Basic",
+        "b. Windows 7 Professional",
+        "c. Windows 7 Enterprise",
+        "d. Windows 7 Ultimate",
+        "Windows 7 Professional",
+        "b. Windows 7 Professional Web Study Guide (AMAUOED, Unconfirmed)",
+        "a. Windows 7 Ultimate",
+        "d. Windows 7 Home Basic",
+        "b. Windows 7 Home Basic",
+        "c. Windows 7 Professional",
+        "b. Windows 7 Enterprise",
+        "c. Windows 7 Ultimate",
+        "d. Windows 7 Professional"
       ],
       "verified": true,
-      "confirmations": 3,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:28:46Z",
-      "lastVerifiedAt": "2026-09-22T03:31:57Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "Windows 7 Home Basic"
+      ],
+      "isAiSuggestion": false,
+      "wrongAnswerEvidence": true,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "lastEvidenceAt": "2026-11-28T04:17:52Z",
+      "conflictHistory": [
+        {
+          "rejectedAnswer": "Windows 7 Professional",
+          "timestamp": "2026-11-28T04:17:52Z"
+        },
+        {
+          "rejectedAnswer": "Windows 7 Professional",
+          "timestamp": "2026-11-28T04:17:52Z"
+        },
+        {
+          "rejectedAnswer": "Windows 7 Professional",
+          "timestamp": "2026-11-28T04:17:52Z"
+        },
+        {
+          "rejectedAnswer": "Windows 7 Professional",
+          "timestamp": "2026-11-28T04:17:52Z"
+        },
+        {
+          "rejectedAnswer": "Windows 7 Professional",
+          "timestamp": "2026-11-28T04:17:52Z"
+        },
+        {
+          "rejectedAnswer": "Windows 7 Professional Web Study Guide (AMAUOED, Unconfirmed)",
+          "timestamp": "2026-11-28T04:17:52Z"
+        }
+      ],
+      "alternateAnswers": [
+        {
+          "answer": "Windows 7 Professional Web Study Guide (AMAUOED, Unconfirmed)",
+          "timestamp": "2026-11-28T04:17:52Z"
+        }
+      ]
     },
     {
       "question": "Which of the following is not a way to improve the signal strength?",
@@ -2172,30 +4196,94 @@
         "a. Check all Physical obstructions",
         "b. None of the Choices",
         "c. Check for devices that may cause interference",
-        "d. Ensure close proximity to the Wireless APs"
+        "d. Ensure close proximity to the Wireless APs",
+        "None of the Choices",
+        "a. Check for devices that may cause interference",
+        "b. Ensure close proximity to the Wireless APs",
+        "c. Check all Physical obstructions",
+        "d. None of the Choices",
+        "c. Ensure close proximity to the Wireless APs",
+        "d. Check all Physical obstructions",
+        "a. Ensure close proximity to the Wireless APs"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 21,
       "firstSeenAt": "2026-09-17T16:35:18Z",
-      "lastVerifiedAt": "2026-09-29T15:52:08Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "review_screen",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "Which of the following is not a Wireless LAN Standards?",
-      "answer": "802.11 a",
+      "answer": "802.11 h",
       "choices": [
         "a. 802.11 h",
         "b. 802.11 n",
         "c. 802.11 b",
-        "d. 802.11 a"
+        "d. 802.11 a",
+        "b. 802.11 b",
+        "c. 802.11 a",
+        "d. 802.11 n",
+        "802.11 h",
+        "a. 802.11 b",
+        "d. 802.11 h",
+        "d. 802.11 h Web Study Guide (AMAUOED, Unconfirmed)",
+        "a. 802.11 a",
+        "c. 802.11 h",
+        "b. 802.11 h",
+        "c. 802.11 n",
+        "d. 802.11 b"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 11,
       "firstSeenAt": "2026-09-17T16:07:30Z",
-      "lastVerifiedAt": "2026-09-22T03:28:50Z",
-      "source": "community_contribution"
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "source": "community_contribution",
+      "wrongAnswers": [
+        "802.11 a"
+      ],
+      "isAiSuggestion": false,
+      "wrongAnswerEvidence": true,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 1",
+      "lastEvidenceAt": "2026-11-28T04:17:52Z",
+      "conflictHistory": [
+        {
+          "rejectedAnswer": "802.11 h",
+          "timestamp": "2026-11-28T04:17:52Z"
+        },
+        {
+          "rejectedAnswer": "802.11 h",
+          "timestamp": "2026-11-28T04:17:52Z"
+        },
+        {
+          "rejectedAnswer": "802.11 h",
+          "timestamp": "2026-11-28T04:17:52Z"
+        },
+        {
+          "rejectedAnswer": "802.11 h",
+          "timestamp": "2026-11-28T04:17:52Z"
+        },
+        {
+          "rejectedAnswer": "802.11 h",
+          "timestamp": "2026-11-28T04:17:52Z"
+        },
+        {
+          "rejectedAnswer": "802.11 h Web Study Guide (AMAUOED, Unconfirmed)",
+          "timestamp": "2026-11-28T04:17:52Z"
+        }
+      ],
+      "alternateAnswers": [
+        {
+          "answer": "802.11 h Web Study Guide (AMAUOED, Unconfirmed)",
+          "timestamp": "2026-11-28T04:17:52Z"
+        }
+      ]
     },
     {
       "question": "Which of the following is not an advantage of installing a 64-bit edition of Windows 7?",
@@ -2204,15 +4292,29 @@
         "a. It supports 16-bit Windows on Windows (WOW) environment",
         "b. Improved Performance",
         "c. More Memory",
-        "d. Improved Security"
+        "d. Improved Security",
+        "It supports 16-bit Windows on Windows (WOW) environment",
+        "b. Improved Security",
+        "d. Improved Performance",
+        "c. Improved Performance",
+        "d. More Memory",
+        "a. Improved Security",
+        "d. It supports 16-bit Windows on Windows (WOW) environment",
+        "a. Improved Performance",
+        "a. More Memory",
+        "b. It supports 16-bit Windows on Windows (WOW) environment",
+        "c. Improved Security"
       ],
       "verified": true,
-      "confirmations": 5,
+      "confirmations": 26,
       "firstSeenAt": "2026-09-17T16:28:46Z",
-      "lastVerifiedAt": "2026-09-29T15:49:29Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "review_screen",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "Which of the following is not an IPv6 Address types?",
@@ -2221,15 +4323,29 @@
         "a. Anycast",
         "b. Multicast",
         "c. Unicast",
-        "d. Broadcast"
+        "d. Broadcast",
+        "Broadcast",
+        "a. Unicast",
+        "b. Anycast",
+        "c. Broadcast",
+        "d. Multicast",
+        "b. Broadcast",
+        "c. Multicast",
+        "d. Anycast",
+        "a. Multicast",
+        "c. Anycast",
+        "d. Unicast"
       ],
       "verified": true,
-      "confirmations": 4,
+      "confirmations": 21,
       "firstSeenAt": "2026-09-17T16:33:49Z",
-      "lastVerifiedAt": "2026-09-29T15:51:18Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "review_screen",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "Which of the following is not the common network architecture types?",
@@ -2238,15 +4354,29 @@
         "a. Token Ring",
         "b. FDDI (Fiber Distributed Data Interface)",
         "c. WiMax",
-        "d. Ethernet"
+        "d. Ethernet",
+        "a. FDDI (Fiber Distributed Data Interface)",
+        "b. WiMax",
+        "c. Ethernet",
+        "d. Token Ring",
+        "WiMax",
+        "d. WiMax",
+        "b. Ethernet",
+        "a. WiMax",
+        "c. FDDI (Fiber Distributed Data Interface)",
+        "d. FDDI (Fiber Distributed Data Interface)",
+        "b. Token Ring"
       ],
       "verified": true,
-      "confirmations": 6,
+      "confirmations": 26,
       "firstSeenAt": "2026-09-17T16:07:30Z",
-      "lastVerifiedAt": "2026-09-29T15:52:08Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "review_screen",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 1"
     },
     {
       "question": "Which of the following statement is not correct?",
@@ -2255,15 +4385,24 @@
         "a. You can configure the client computer by going to the accessories in the start menu and clicking the network options.",
         "b. You can configure the client computer by using the Network Dialog Box and following the Wizard",
         "c. You can configure the client computer by using the group policy",
-        "d. You can configure the client computer by using the command line: netsh wlan"
+        "d. You can configure the client computer by using the command line: netsh wlan",
+        "You can configure the client computer by going to the accessories in the start menu and clicking the network options.",
+        "a. You can configure the client computer by using the Network Dialog Box and following the Wizard",
+        "b. You can configure the client computer by going to the accessories in the start menu and clicking the network options.",
+        "b. You can configure the client computer by using the command line: netsh wlan",
+        "c. You can configure the client computer by going to the accessories in the start menu and clicking the network options.",
+        "d. You can configure the client computer by using the group policy"
       ],
       "verified": true,
-      "confirmations": 5,
+      "confirmations": 21,
       "firstSeenAt": "2026-09-17T16:35:18Z",
-      "lastVerifiedAt": "2026-09-29T15:52:08Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "review_screen",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
     },
     {
       "question": "Which of the following version of Windows are allowed for Upgrade?",
@@ -2272,15 +4411,533 @@
         "a. Windows Vista SP1",
         "b. Windows XP",
         "c. None of the choices",
-        "d. Windows 95"
+        "d. Windows 95",
+        "a. None of the choices",
+        "b. Windows Vista SP1",
+        "c. Windows 95",
+        "d. Windows XP",
+        "Windows Vista SP1",
+        "b. Windows 95",
+        "c. Windows Vista SP1",
+        "b. None of the choices",
+        "d. Windows Vista SP1",
+        "c. Windows XP"
       ],
       "verified": true,
-      "confirmations": 5,
+      "confirmations": 25,
       "firstSeenAt": "2026-09-17T16:28:46Z",
-      "lastVerifiedAt": "2026-09-29T15:49:29Z",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
       "source": "review_screen",
       "wrongAnswers": [],
-      "isAiSuggestion": false
+      "isAiSuggestion": false,
+      "questionType": "multichoice",
+      "originType": "quiz",
+      "originLabel": "Quiz 2"
+    },
+    {
+      "question": "Windows Memory Diagnostics Tool",
+      "answer": "Windows Network Diagnostics Tool",
+      "choices": [
+        "Windows Network Diagnostics Tool"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 7,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Windows Upgrade Advisor is a downloadable application that helps Windows user to determine what edition of Windows meets their needs.",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 7,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Wireless network provides access to internet in public spaces",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 7,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "You administer an Active Directory domain that includes portable computers that have Windows 7 SP1 installed. You log on to one of the portable computers by using a domain user account and install a new device for a bar-code scanner. You restart the portable computer after installing the new device driver. You successfully log on to the computer by using a domain user account. After logging on, you discover that the bar-code scanner is not working due to a driver error. You try to remove the installed driver, but the Roll Back Driver option is unavailable. You need to be able to roll back the driver to its previous version. What should you do?",
+      "answer": "Run the Device Manager by using elevated permissions",
+      "choices": [
+        "Run the Device Manager by using elevated permissions",
+        "a. From the Local Group Policy, modify Device Installation Restrictions",
+        "b. Start the computer and select Last Known Good Configuration from the advanced startup options",
+        "c. Start the portable computer from the Windows 7 installation media and select Startup Repair",
+        "d. Run the Device Manager by using elevated permissions",
+        "d. Run the Device Manager by using elevated permissions Web Study Guide (AMAUOED, Unconfirmed)"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 9,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "conflictHistory": [
+        {
+          "rejectedAnswer": "Run the Device Manager by using elevated permissions Web Study Guide (AMAUOED, Unconfirmed)",
+          "timestamp": "2026-11-28T04:17:52Z"
+        }
+      ]
+    },
+    {
+      "question": "You are a desktop administrator for an enterprise organization. A user applies a device update from the manufacturer, and now the computer is displaying error messages. The user has critical documents on the computer that need to be preserved. You need to restore the computer to an operating state and preserve applications and data. What should you do?",
+      "answer": "Restore Windows by using the most recent System Restore point",
+      "choices": [
+        "Restore Windows by using the most recent System Restore point",
+        "a. Perform a System Image Recovery",
+        "b. Boot Windows by using the Last Known Good Configuration",
+        "c. Restore Windows by using the most recent System Restore point",
+        "d. Perform a re-installation of Windows",
+        "c. Restore Windows by using the most recent System Restore point Web Study Guide (AMAUOED, Unconfirmed)"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 9,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "conflictHistory": [
+        {
+          "rejectedAnswer": "Restore Windows by using the most recent System Restore point Web Study Guide (AMAUOED, Unconfirmed)",
+          "timestamp": "2026-11-28T04:17:52Z"
+        }
+      ]
+    },
+    {
+      "question": "You are evaluating the purchase a netbook computer that has the following hardware: 1.6-gigahertz (GHz) 32-bit processor 1024-MB RAM 1 video card that uses shared memory 4-G8 solid state drive You need to ensure that you can install Windows 7 Enterprise on the netbook computer. Which hardware component should you change or add?",
+      "answer": "storage device",
+      "choices": [
+        "storage device",
+        "a. storage device",
+        "b. video card",
+        "c. processor",
+        "d. ram",
+        "a. storage device Web Study Guide (AMAUOED, Unconfirmed)"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 9,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "conflictHistory": [
+        {
+          "rejectedAnswer": "storage device Web Study Guide (AMAUOED, Unconfirmed)",
+          "timestamp": "2026-11-28T04:17:52Z"
+        }
+      ]
+    },
+    {
+      "question": "You are the administrator for a large organization with multiple Windows Server 2008 domain controllers and multiple domains. You have a Windows 7 machine that is set up for all users to access. You have an application called StellApp.exe that everyone on this Windows 7 computer can use except for the sales group. How do you stop the sales group from accessing this one application?",
+      "answer": "Create an executable rule from the Application Control Policy",
+      "choices": [
+        "Create an executable rule from the Application Control Policy"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 7,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "You are the network administrator for a large organization that uses both Windows Server 2008 R2 and Windows 7. One of the Windows 7 machines needs to be backed up daily. You perform an image backup on the Windows 7 machine. The Windows 7 machine then gets struck by a virus and will not start up properly. What can you do to get the Windows 7 machine up and running the fastest possible way",
+      "answer": "Start the computer from the Windows 7 DVD and then use the System Image Recovery tool",
+      "choices": [
+        "Start the computer from the Windows 7 DVD and then use the System Image Recovery tool"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 7,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "You are the network administrator for a large organization. You are in charge of implementing company policies. One company policy states that you have to prevent Internet Explorer from saving any data during a user`s browsing session. How do you accomplish this?",
+      "answer": "Run the browsers in the InPrivate session",
+      "choices": [
+        "Run the browsers in the InPrivate session",
+        "a. Private sessions should be enabled",
+        "b. Run the browsers in the InPrivate session",
+        "c. InPrivate sessions should be disabled",
+        "d. Set the Internet Security setting to disabled",
+        "b. Run the browsers in the InPrivate session Web Study Guide (AMAUOED, Unconfirmed)"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 9,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "conflictHistory": [
+        {
+          "rejectedAnswer": "Run the browsers in the InPrivate session Web Study Guide (AMAUOED, Unconfirmed)",
+          "timestamp": "2026-11-28T04:17:52Z"
+        }
+      ]
+    },
+    {
+      "question": "You are the network administrator for a small company that has just switched its machines from Windows XP to Windows Vista and Windows 7. One of the users who has Windows Vista asks you why there is a vertical sidebar on the screen. What feature of Windows Vista is this?",
+      "answer": "Windows Sidebar",
+      "choices": [
+        "Windows Sidebar",
+        "a. Parental controls",
+        "b. Jump List",
+        "c. Windows Sidebar",
+        "d. Windows Firewall",
+        "c. Windows Sidebar Web Study Guide (AMAUOED, Unconfirmed)"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 9,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "conflictHistory": [
+        {
+          "rejectedAnswer": "Windows Sidebar Web Study Guide (AMAUOED, Unconfirmed)",
+          "timestamp": "2026-11-28T04:17:52Z"
+        }
+      ]
+    },
+    {
+      "question": "You are the network administrator for Stellacon Corporation. User in the sales department have been complaining that the Sales application is slow to load. Using Performance Monitor, you create a baseline report for one of the computers, monitoring memory, the processor, the disk subsystem, and the network subsystem. You notice that the disk subsystem has a high load of activity. What other subsystem should you monitor before you can know for sure whether you have a disk subsystem bottleneck?",
+      "answer": "Memory",
+      "choices": [
+        "Memory",
+        "a. Network",
+        "b. Memory",
+        "c. Application",
+        "d. Processor",
+        "b. Memory Web Study Guide (AMAUOED, Unconfirmed)"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 9,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "conflictHistory": [
+        {
+          "rejectedAnswer": "Memory Web Study Guide (AMAUOED, Unconfirmed)",
+          "timestamp": "2026-11-28T04:17:52Z"
+        }
+      ]
+    },
+    {
+      "question": "You are the network administrator for your organization. You have been asked by the owner of the company to verify that all drivers installed on the Windows 7 machines are signed drivers. How do you accomplish this task?",
+      "answer": "Run Sigverif.exe at the command prompt",
+      "choices": [
+        "Run Sigverif.exe at the command prompt"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 7,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "You are the network manager for a small company. You have a junior IT administrator who did some installations last week on a Windows 7 machine. How can you see what applications were installed last week on the Windows 7 machine?",
+      "answer": "View the informational events of Reliability Monitor",
+      "choices": [
+        "View the informational events of Reliability Monitor"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 7,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "You are the system administrator for a large organization that uses Windows Server R2 and Windows 7. You have a Windows 7 machine and have enabled System Protection. You want the machine to retain only the last System Protection snapshot that was taken. What should you do?",
+      "answer": "Run Disk Cleanup for System Restore and then run Shadow Copies",
+      "choices": [
+        "Run Disk Cleanup for System Restore and then run Shadow Copies",
+        "a. Disable Shadow Copies and run System Protection",
+        "b. Run Disk Cleanup for System Restore and then run Shadow Copies",
+        "c. Set the Keep Only Last Shadow Copy option in System Protection",
+        "d. Enable Shadow Copies and then set the Keep Only Last Shadow Copy option",
+        "b. Run Disk Cleanup for System Restore and then run Shadow Copies Web Study Guide (AMAUOED, Unconfirmed)"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 9,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "conflictHistory": [
+        {
+          "rejectedAnswer": "Run Disk Cleanup for System Restore and then run Shadow Copies Web Study Guide (AMAUOED, Unconfirmed)",
+          "timestamp": "2026-11-28T04:17:52Z"
+        }
+      ]
+    },
+    {
+      "question": "You are the system administrator for your company. You are configuring the services on a Windows 7 computer. You want to ensure that if a service fails to load, it will attempt to restart. Which tab of the service`s Properties dialog box should you use?",
+      "answer": "Recovery",
+      "choices": [
+        "Recovery",
+        "a. Dependencies",
+        "b. General",
+        "c. Recovery",
+        "d. Log On",
+        "c. Recovery Web Study Guide (AMAUOED, Unconfirmed)"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 9,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "conflictHistory": [
+        {
+          "rejectedAnswer": "Recovery Web Study Guide (AMAUOED, Unconfirmed)",
+          "timestamp": "2026-11-28T04:17:52Z"
+        }
+      ]
+    },
+    {
+      "question": "You have a computer that runs Windows 7. The computer is a member of a workgroup. You use Encrypting File System (EFS) to protect your local files. You need to ensure that you can decrypt EFS files on the computer if you forget your password. What should you do?",
+      "answer": "From User Accounts, Select Manage your file encryption certificates.",
+      "choices": [
+        "From User Accounts, Select Manage your file encryption certificates.",
+        "a. From Authorization manager, Modify the Authorization Manager options.",
+        "b. From Credential Manager, select Back up Vault.",
+        "c. From User Accounts, Select Manage your file encryption certificates.",
+        "d. From BitLocker Drive Encryption, Select Manage BitLocker and Turn On BitLocker",
+        "c. From User Accounts, Select Manage your file encryption certificates. Web Study Guide (AMAUOED, Unconfirmed)"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 9,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "conflictHistory": [
+        {
+          "rejectedAnswer": "From User Accounts, Select Manage your file encryption certificates. Web Study Guide (AMAUOED, Unconfirmed)",
+          "timestamp": "2026-11-28T04:17:52Z"
+        }
+      ]
+    },
+    {
+      "question": "You install the Windows Automated Installation Kit (WAIK) for Windows 7 on a computer that runs Windows 7. You want to deploy a Windows image (WIM) file to other computers in the domain. You need to capture the operating system, computer configuration, and applications installed on the computer to a WIM file. What should you do before you capture the image?",
+      "answer": "Run ScanState.exe",
+      "choices": [
+        "Run ScanState.exe"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 7,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "You manage a network device by using a web interface. You perform all critical Windows updates so that the computer now runs Internet Explorer 10. After performing these updates, the layout of the network device web page displays incorrectly. Other web pages display correctly. You need to resolve this issue. What should you do?",
+      "answer": "Add the network device web page to the trusted sites zone",
+      "choices": [
+        "Add the network device web page to the trusted sites zone"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 7,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "You use a portable computer that has Windows 7 Enterprise SP1 installed. A conference room at your company has a network projector installed on a server within the company network. You need to connect to the projector from your computer. What should you do?",
+      "answer": "From Accessories, click Connect to a Network Projector",
+      "choices": [
+        "From Accessories, click Connect to a Network Projector"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 7,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Your company has asked you to implement Network Access Protection(NAP) on the network. You already have Windows Server 2008 installed on your servers but your organization wants to know which client operating systems will support NAP. What operating system does not support NAP?",
+      "answer": "Windows XP with SP2",
+      "choices": [
+        "Windows XP with SP2",
+        "a. Windows Vista",
+        "b. Windows XP with SP3",
+        "c. Windows 7",
+        "d. Windows XP with SP2",
+        "d. Windows XP with SP2 Web Study Guide (AMAUOED, Unconfirmed)"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 9,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "conflictHistory": [
+        {
+          "rejectedAnswer": "Windows XP with SP2 Web Study Guide (AMAUOED, Unconfirmed)",
+          "timestamp": "2026-11-28T04:17:52Z"
+        }
+      ]
+    },
+    {
+      "question": "Your company network includes desktop computers that have Windows 7 installed. Microsoft updates are applied automatically at a scheduled time. A use1- reports that a proprietary application has stopped working. You need to uninstall the most recent update from Microsoft. What should you do first?",
+      "answer": "From the Action Center, open the Windows Update window.",
+      "choices": [
+        "From the Action Center, open the Windows Update window.",
+        "a. From the Services console, open the Windows Update service.",
+        "b. From the Action Center, open the Windows Update window.",
+        "c. From the Task Scheduler, view the WindowsBackup node.",
+        "d. From the Event Viewer, open the System log.",
+        "b. From the Action Center, open the Windows Update window. Web Study Guide (AMAUOED, Unconfirmed)"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [],
+      "wrongAnswerEvidence": false,
+      "verified": true,
+      "isAiSuggestion": false,
+      "confirmations": 9,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "Review",
+      "originType": "quiz",
+      "originLabel": "Quiz 2",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z",
+      "conflictHistory": [
+        {
+          "rejectedAnswer": "From the Action Center, open the Windows Update window. Web Study Guide (AMAUOED, Unconfirmed)",
+          "timestamp": "2026-11-28T04:17:52Z"
+        }
+      ]
     }
   ]
 }

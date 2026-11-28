@@ -1,0 +1,2402 @@
+{
+  "subjectCode": "CS6201",
+  "subjectName": "CS6201",
+  "updatedAt": "2026-11-28T04:17:52Z",
+  "totalQuestions": 98,
+  "questions": [
+    {
+      "question": "\"A simple graph with 15 vertices with each having a degree of 5 can exist.\" This statement is ________.",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "A binary tree of depth \"d\" is an almost complete binary tree if. A. Each leaf in the tree is either at level \"d\" or at level \"d- 1\" B. For any node \"n\" in the tree with a right descendant at level \"d\" all the left descendants of \"n\" that are leaves, are also at level \"d\"",
+      "answer": "Both A and B",
+      "choices": [
+        "neither A nor B",
+        "A only",
+        "Both A and B",
+        "B only"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "neither A nor B",
+        "A only",
+        "B only"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "A class consists of 12 women and 10 men. How many ways are there to form a committee of size six if the committee has equal numbers of women and men?",
+      "answer": "C(12,3) =C2=B7 C(10,3)",
+      "choices": [
+        "C(22,6)",
+        "C(12,3) + C(10,3)",
+        "C(12,3) =C2=B7 C(10,3)",
+        "C(22,6) - C(12,6) - C(10,6)"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "C(22,6)",
+        "C(12,3) + C(10,3)",
+        "C(22,6) - C(12,6) - C(10,6)"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "A data structure wherein the data have to be stored and retrieved in reverse order",
+      "answer": "Stack",
+      "choices": [
+        "Stack",
+        "List",
+        "Queue",
+        "Tree"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "List",
+        "Queue",
+        "Tree"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "A Finite State Automaton can have more than one initial state.",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "A full binary tree with 2n+1 nodes contain",
+      "answer": "n non-leaf nodes",
+      "choices": [
+        "n-1 leaf nodes",
+        "n non-leaf nodes",
+        "n-1 non leaf nodes",
+        "n leaf nodes"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "n-1 leaf nodes",
+        "n-1 non leaf nodes",
+        "n leaf nodes"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "A node is _____________",
+      "answer": "An elements",
+      "choices": [
+        "An elements",
+        "The header",
+        "The tail",
+        "A link"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "The header",
+        "The tail",
+        "A link"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "A queue is a FIFO list",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "A terminal node in a binary tree is called _______________.",
+      "answer": "Leaf",
+      "choices": [
+        "Leaf",
+        "Root",
+        "Branch",
+        "Child",
+        "Bark"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Root",
+        "Branch",
+        "Child",
+        "Bark"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "A train is an example of _____ data structure",
+      "answer": "Linked list",
+      "choices": [
+        "Linked list",
+        "Queue",
+        "Stack",
+        "None of the choices"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Queue",
+        "Stack",
+        "None of the choices"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "ADT means",
+      "answer": "Abstract Data Type",
+      "choices": [
+        "Algorithm Data Type",
+        "Abstract Dynamic Traversing",
+        "Array Data Type",
+        "Abstract Data Type"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Algorithm Data Type",
+        "Abstract Dynamic Traversing",
+        "Array Data Type"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "After creation, the size of an array can grow or increase",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "An experiment consists of casting a pair of dice and observing the number that falls uppermost on each die. We may represent each outcome of the experiment by an ordered pair of numbers, the first representing the number that appears uppermost on the first die and the second representing the number that appears uppermost on the second die. Consider the sample space Determine the event that the number falling uppermost on one die is a 4 and the number falling uppermost on the other die is less than 4.",
+      "answer": "{(1, 4), (2, 4), (3, 4), (4, 3), (4, 2), (4, 1)}",
+      "choices": [
+        "{(4, 5), (4, 6), (5, 2), (6, 4)}",
+        "{(1, 4), (2, 4), (3, 4), (4, 3), (4, 2), (4, 1)}",
+        "{(2, 3), (2, 4), (6, 5), (2, 6), (3, 2), (4, 2), (5, 1), (6, 2)}"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "{(4, 5), (4, 6), (5, 2), (6, 4)}",
+        "{(2, 3), (2, 4), (6, 5), (2, 6), (3, 2), (4, 2), (5, 1), (6, 2)}"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "An experiment consists of casting a pair of dice and observing the number that falls uppermost on each die. We may represent each outcome of the experiment by an ordered pair of numbers, the first representing the number that appears uppermost on the first die and the second representing the number that appears uppermost on the second die. Consider the sample space Determine the event that the sum of the numbers falling uppermost is greater than or equal to 7.",
+      "answer": "{(1, 6), (2, 5), (2, 6), (3, 4), (3, 5), (3, 6), (4, 3), (4, 5), (4, 6), (5, 2), (5, 3), (5, 4), (5, 5), (5, 6), (6, 1), (6, 2), (6, 3), (6, 4), (6, 5), (6, 6)}",
+      "choices": [
+        "{(1, 2), (1, 3), (1, 4), (1, 5), (1, 6), (2, 3), (2, 4), (2, 5), (2, 6), (3, 4), (3, 5), (3, 6), (4, 5), (4, 6), (5, 6)}",
+        "{(1, 1), (2, 2), (3, 3), (4, 4), (5, 5), (6, 6)}",
+        "{(1, 6), (2, 5), (2, 6), (3, 4), (3, 5), (3, 6), (4, 3), (4, 5), (4, 6), (5, 2), (5, 3), (5, 4), (5, 5), (5, 6), (6, 1), (6, 2), (6, 3), (6, 4), (6, 5), (6, 6)}"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "{(1, 2), (1, 3), (1, 4), (1, 5), (1, 6), (2, 3), (2, 4), (2, 5), (2, 6), (3, 4), (3, 5), (3, 6), (4, 5), (4, 6), (5, 6)}",
+        "{(1, 1), (2, 2), (3, 3), (4, 4), (5, 5), (6, 6)}"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Array is a common example of a linear structure",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Assume that you have an ordinary deck of 52 playing cards. How many possible 7-card poker hands are there that contain at least one face card (J, Q, K)?",
+      "answer": "C(52,7) - C(40,7)",
+      "choices": [
+        "C(12,3) =C2=B7 C(40,4)",
+        "C(4,1) =C2=B7 C(4,1) =C2=B7 C(4,1) =C2=B7 C(40,4)",
+        "C(12,1) =C2=B7 C(40,6)",
+        "C(52,7) - C(40,7)"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "C(12,3) =C2=B7 C(40,4)",
+        "C(4,1) =C2=B7 C(4,1) =C2=B7 C(4,1) =C2=B7 C(40,4)",
+        "C(12,1) =C2=B7 C(40,6)"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Binary tree is similar to an array in data structure",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Consider the following finite automaton A over =CE=A3 = {a,b,c}:Which of the following statements about A is/are correct?",
+      "answer": "bbaacbabcac =E2=88=88 L(A)",
+      "choices": [
+        "=C9=9B =E2=88=88 L(A)",
+        "bbaacbabcac =E2=88=88 L(A)",
+        "bacabca =E2=88=88 L(A)",
+        "The automaton A is a Deterministic Finite Automaton (DFA)"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "=C9=9B =E2=88=88 L(A)",
+        "bacabca =E2=88=88 L(A)",
+        "The automaton A is a Deterministic Finite Automaton (DFA)"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Consider the statement \"If the product of two integers is even, then their sum is also even.\" Which of the following assertions is correct?",
+      "answer": "The statement is false as you can find a counterexample",
+      "choices": [
+        "The statement is true and can be proven easily using either direct proof or proof by contradiction",
+        "The statement is true and can be proven easily using either direct proof or proof by contraposition",
+        "The statement is false as you can find a counterexample",
+        "The statement is true and can be proven easily using either direct proof"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "The statement is true and can be proven easily using either direct proof or proof by contradiction",
+        "The statement is true and can be proven easily using either direct proof or proof by contraposition",
+        "The statement is true and can be proven easily using either direct proof"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Consider the statement, \"If n is divisible by 30 then n is divisible by 2 and by 3 and by 5.\" Which of the following statements is equivalent to this statement?",
+      "answer": "If n is not divisible by 2 or not divisible by 3 or not divisible by 5 then n is not divisible by 30",
+      "choices": [
+        "If n is not divisible by 2 or not divisible by 3 or not divisible by 5 then n is not divisible by 30",
+        "If n is not divisible by 30 then n is not divisible by 2 or not divisible by 3 or not divisible by 5",
+        "If n is divisible by 2 and divisible by 3 and divisible by 5 then n is divisible by 30",
+        "If n is not divisible by 30 then n is divisible by 2 or divisible by 3 or divisible by 5"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "If n is not divisible by 30 then n is not divisible by 2 or not divisible by 3 or not divisible by 5",
+        "If n is divisible by 2 and divisible by 3 and divisible by 5 then n is divisible by 30",
+        "If n is not divisible by 30 then n is divisible by 2 or divisible by 3 or divisible by 5"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Data structure is defined as a specialized format for _______ and ______ data",
+      "answer": "organizing, storing",
+      "choices": [
+        "inserting, deleting",
+        "processing, sorting",
+        "organizing, storing",
+        "searching, processing"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "inserting, deleting",
+        "processing, sorting",
+        "searching, processing"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Describe the process of removing an element at the tail of a singly linked list",
+      "answer": "Removing an element at the tail of the singly list is not easy",
+      "choices": [
+        "Removing an element at the tail of the singly list is very fast",
+        "Removing an element at the tail of the singly list is not easy",
+        "Element at the tail of the singly linked list cannot be removed or deleted",
+        "None of the choices"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Removing an element at the tail of the singly list is very fast",
+        "Element at the tail of the singly linked list cannot be removed or deleted",
+        "None of the choices"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Doubly linked list doubles the size of a singly linked list",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Every tree with at least two nodes has at least two nodes of what degree?",
+      "answer": "1",
+      "choices": [
+        "3",
+        "No correct answer",
+        "2",
+        "0",
+        "1"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "3",
+        "No correct answer",
+        "2",
+        "0"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Finite automata requires minimum _______ number of stacks.",
+      "answer": "0",
+      "choices": [
+        "No correct answer",
+        "0",
+        "1",
+        "3",
+        "2"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "No correct answer",
+        "1",
+        "3",
+        "2"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Head and tail are the only important components of a Linked List",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "How many bit strings of length four do not have two consecutive 1s?",
+      "answer": "8",
+      "choices": [
+        "8",
+        "4",
+        "16",
+        "0"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "4",
+        "16",
+        "0"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "How many different license plates are available if the license plate pattern consists of four letters that cannot be repeated and followed by three digits that can be repeated? (Assume that all letters are uppercase and the digits are 0, 1, ... 9)",
+      "answer": "26 =C2=B7 25 =C2=B7 24 =C2=B7 23 =C2=B7 103",
+      "choices": [
+        "C(26,3) =C2=B7 C(10,3)",
+        "26 =C2=B7 25 =C2=B7 24 =C2=B7 23 =C2=B7 103",
+        "C(26,3) =C2=B7 103",
+        "263 =C2=B7 103"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "C(26,3) =C2=B7 C(10,3)",
+        "C(26,3) =C2=B7 103",
+        "263 =C2=B7 103"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "How many different passwords are possible if each password consists of six characters where each character is either an uppercase letter, a lowercase letter, or a digit, and at least one digit must be included in the password? (Note: There are 26 letters and 10 digits)",
+      "answer": "62 - 526",
+      "choices": [
+        "62 - 266",
+        "62 - 526",
+        "62 - 366",
+        "62 - 106"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "62 - 266",
+        "62 - 366",
+        "62 - 106"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "How many nodes in a tree have no ancestors?",
+      "answer": "1",
+      "choices": [
+        "2",
+        "0",
+        "3",
+        "1"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "2",
+        "0",
+        "3"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "How many nonisomorphic simple graphs are there with five vertices and three edges?",
+      "answer": "4",
+      "choices": [
+        "4",
+        "2",
+        "1",
+        "3"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "2",
+        "1",
+        "3"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "How many terms does the binomial expansion of (2x+3)99 has?",
+      "answer": "100",
+      "choices": [
+        "100",
+        "99",
+        "101",
+        "infinite"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "99",
+        "101",
+        "infinite"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "How may isomorphic graphs are there for a graph with n number vertices?",
+      "answer": "n! number of vertices",
+      "choices": [
+        "(n + 1)! number of vertices",
+        "(2n - 1)! number of vertices",
+        "(n - 1)! number of vertices",
+        "n! number of vertices"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "(n + 1)! number of vertices",
+        "(2n - 1)! number of vertices",
+        "(n - 1)! number of vertices"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "If two finite states machine M and N are isomorphic, thenA. M can be transformed to N, merely re-labelling its statesB. M can be transformed to N, merely re-labelling its edgesWhich is true?",
+      "answer": "A only",
+      "choices": [
+        "A only",
+        "Neither A nor B",
+        "Both A and B",
+        "B only"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Neither A nor B",
+        "Both A and B",
+        "B only"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "If you give a proof by mathematical induction of the statement that 2n &ge= n2, for all integers n =E2=89=A5 4, the basis step requires you to prove that which of the following is true?",
+      "answer": "24 =E2=89=A5 42",
+      "choices": [
+        "20 =E2=89=A5 02",
+        "22 =E2=89=A5 22",
+        "23 =E2=89=A5 32",
+        "24 =E2=89=A5 42",
+        "21 =E2=89=A5 12"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "20 =E2=89=A5 02",
+        "22 =E2=89=A5 22",
+        "23 =E2=89=A5 32",
+        "21 =E2=89=A5 12"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Implementation of ADT requires",
+      "answer": "choosing a data representation",
+      "choices": [
+        "choosing a suitable algorithm",
+        "None of the choices",
+        "choosing a data representation",
+        "choosing a suitable algorithm and data representation"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "choosing a suitable algorithm",
+        "None of the choices",
+        "choosing a suitable algorithm and data representation"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "In a survey of 900 likely voters, the following question was asked: Do you support using cameras to identify red-light runners? The results of the survey follow: AnswerStrongly supportSomewhatsupportSomewhat opposeStronglyOpposeDon't knowRespondents4102129516419 What is the probability that a person in the survey selected at random favors using cameras to identify red-light runners?",
+      "answer": "069",
+      "choices": [
+        "069",
+        "059",
+        "031",
+        "064"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "059",
+        "031",
+        "064"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "In examining the algorithm of multiplying two numbers and displaying the output, what is the next step after declaring the 3 integers a,b,c",
+      "answer": "define the values of a and b",
+      "choices": [
+        "define the values of a and b",
+        "compute the product of a and b",
+        "check if the numbers are positive numbers",
+        "check which of the two numbers is higher"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "compute the product of a and b",
+        "check if the numbers are positive numbers",
+        "check which of the two numbers is higher"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "In order to get the contents of a binary search tree in ascending order, one has to traverse it in.",
+      "answer": "in-order",
+      "choices": [
+        "post-order",
+        "pre-order",
+        "in-order",
+        "not possible"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "post-order",
+        "pre-order",
+        "not possible"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "It is a collection of items stored at adjacent memory location",
+      "answer": "Array",
+      "choices": [
+        "Hash Table",
+        "Queue",
+        "Array",
+        "Stack"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Hash Table",
+        "Queue",
+        "Stack"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "It is impossible for a valid argument to have a true premise and",
+      "answer": "a false conclusion",
+      "choices": [
+        "a conditional conclusion",
+        "a false conclusion",
+        "a true conclusion",
+        "a negated conclusion"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "a conditional conclusion",
+        "a true conclusion",
+        "a negated conclusion"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Let p and q be propositions. does not imply is:",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Let P be the statement \"you can make n cents postage using 3-cent and 5-cent stamps.\" Suppose you want to use the Principle of Mathematical Induction to show that P is true for all n =E2=89=A5 8.You begin by proving P(8), which is true because 8 cents postage can be made with one 3-cent stamp and one 5-cent stamp.Which of the following will show that the implication P(k) -> P(k+1) in the inductive step is true for all k =E2=89=A5 8?",
+      "answer": "none of the given",
+      "choices": [
+        "Take all stamps that are used to make k cents postage, remove a 5-cent postage and replace with a 3-cent stamp",
+        "Take all stamps that are used to make k cents postage and add a 3-cent stamp",
+        "none of the given",
+        "Take all stamps that are used to make k cents postage and add a 5-cent stamp",
+        "Take all stamps that are used to make k cents postage, remove three 3-cent postage and replace with two 5-cent stamp"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Take all stamps that are used to make k cents postage, remove a 5-cent postage and replace with a 3-cent stamp",
+        "Take all stamps that are used to make k cents postage and add a 3-cent stamp",
+        "Take all stamps that are used to make k cents postage and add a 5-cent stamp",
+        "Take all stamps that are used to make k cents postage, remove three 3-cent postage and replace with two 5-cent stamp"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Logic is a system based on __________.",
+      "answer": "propositions",
+      "choices": [
+        "truth values",
+        "statements",
+        "truth tables",
+        "propositions"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "truth values",
+        "statements",
+        "truth tables"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Nodes in a linked list are also called elements",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "One light bulb is selected at random from a lot of 110 light bulbs, of which 2% are defective. What is the probability that the light bulb selected is defective?",
+      "answer": "The probability is 002",
+      "choices": [
+        "The probability is 003",
+        "The probability is 001",
+        "The probability is 002",
+        "The probability is 004"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "The probability is 003",
+        "The probability is 001",
+        "The probability is 004"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Order and sorting of array and linked list follows the same process",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Size of a liked list can be zero",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Stack applies the Last In First Out process",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Storage capacity of an array is static",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Suppose inflation decreases the value of money by 3% per year? Which formula describes an = the value (in dollars) of $1000 after n years?",
+      "answer": "an = (097)n 1000",
+      "choices": [
+        "an = (097)n 1000",
+        "an = -003 =C2=B7 1000",
+        "an = 1000 (003)n",
+        "an = n (097)n 1000"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "an = -003 =C2=B7 1000",
+        "an = 1000 (003)n",
+        "an = n (097)n 1000"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Suppose that P is the statement \"n + 1 = n + 2\". What is wrong with the following proof that the statement P is true for all non negative integers n?You assume that P(k) is true for some positive integer k, that is, that k+1 = k+2. Then you add 1 to both sides of this equation to obtain k+2 = k+3; therefore P(k+1) is true. By the principle of mathematical induction P is true for all non-negative integers n.",
+      "answer": "The proof is incorrect because there is no basis step",
+      "choices": [
+        "The proof is incorrect because you cannot add one to both sides of the equation in the inductive step",
+        "There is nothing wrong with this proof",
+        "The proof is incorrect because there is no basis step",
+        "The proof is incorrect because the statement used in the inductive hypothesis is incorrect"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "The proof is incorrect because you cannot add one to both sides of the equation in the inductive step",
+        "There is nothing wrong with this proof",
+        "The proof is incorrect because the statement used in the inductive hypothesis is incorrect"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Suppose you are hired by a company at an initial salary of $30,000. At the end of each year you receive a 3% raise, plus an addition of $1000 on your base salary. Let an equal your salary at the end of n years with the company. Find a recurrence relation for an.",
+      "answer": "an = 103an-1 + 1000",
+      "choices": [
+        "an = (1000 + 003)an-1",
+        "an = 103an-1 + 1000",
+        "none of the given",
+        "an = 103(an-1 + 1000)"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "an = (1000 + 003)an-1",
+        "none of the given",
+        "an = 103(an-1 + 1000)"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Suppose you want to prove that every product of integers of the form k(k+1)(k+2) is divisible by 6. If you want to prove this by cases, which of the following is a set of cases you would use?",
+      "answer": "when k is divided by 3, the remainder is 0; when k is divided by 3, the remainder is 1; when k is divided by 3, the remainder is 2",
+      "choices": [
+        "the product ends in 3, the product ends in 6, the product ends in 9",
+        "when k is divided by 3, the remainder is 0; when k is divided by 3, the remainder is 1; when k is divided by 3, the remainder is 2",
+        "k = 3n, k =E2=89=A0 3n",
+        "k is prime, k is not prime"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "the product ends in 3, the product ends in 6, the product ends in 9",
+        "k = 3n, k =E2=89=A0 3n",
+        "k is prime, k is not prime"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Suppose you want to use the principle of mathematical induction to prove that 1 + 2 + 22 + 23 + 23 + ... + 2n = + 2n+1 - 1 for all positive integers n. Which of these is the correct implication p(k) -> P(k+1) to be used in the inductive step?",
+      "answer": "1 + 2 + 22 + 23 + + 2k = 2k+1 - 1 -> 1 + 2 + 22 + 23 + + 2k + 2k+1 = 2k+2 - 1",
+      "choices": [
+        "1 + 2 + 22 + 23 + + 2k = 2k+1 - 1 -> 1 + 2 + 22 + 23 + 24 + + 2k + 2k+1 - 1",
+        "1 + 2 + 22 + 23 + + 2k = 2k+1 - 1 -> 1 + 2 + 22 + 23 + + 2k + 2k+1 = 2k+1 - 1 + 2k+1",
+        "2k -> 2k+1 - 1",
+        "1 + 2 + 22 + 23 + + 2k = 2k+1 - 1 -> 1 + 2 + 22 + 23 + + 2k + 2k+1 = 2k+2 - 1"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "1 + 2 + 22 + 23 + + 2k = 2k+1 - 1 -> 1 + 2 + 22 + 23 + 24 + + 2k + 2k+1 - 1",
+        "1 + 2 + 22 + 23 + + 2k = 2k+1 - 1 -> 1 + 2 + 22 + 23 + + 2k + 2k+1 = 2k+1 - 1 + 2k+1",
+        "2k -> 2k+1 - 1"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Suppose you wish to prove this statement \"If n is an integer, then n =E2=89=A4 n3.\" Which of the following is correct?",
+      "answer": "The given statement is false because a counterexample can be found",
+      "choices": [
+        "The given statement is true and can be proven easily using a direct proof",
+        "The given statement is true and can be proven easily using contradiction",
+        "The given statement is false because a counterexample can be found",
+        "The given statement is true and can be proven easily using mathematical induction"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "The given statement is true and can be proven easily using a direct proof",
+        "The given statement is true and can be proven easily using contradiction",
+        "The given statement is true and can be proven easily using mathematical induction"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "The basic limitation of finite automata is that",
+      "answer": "It cannot remember arbitrary large amount of information",
+      "choices": [
+        "All of the mentioned",
+        "It cannot remember arbitrary large amount of information",
+        "It cannot process strings of length greater than 5",
+        "It sometimes fails to recognize regular grammar",
+        "It sometimes recognize grammar that are not regular"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "All of the mentioned",
+        "It cannot process strings of length greater than 5",
+        "It sometimes fails to recognize regular grammar",
+        "It sometimes recognize grammar that are not regular"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "The first node of a linked list is called head",
+      "answer": "True",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "False"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "The first node of a linked list is referred to as _____________",
+      "answer": "head",
+      "choices": [
+        "main node",
+        "base pointer",
+        "head",
+        "pointer"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "main node",
+        "base pointer",
+        "pointer"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "The first step to insert an element at the tail of a linked list is to increase the size of the linked list",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "The following breakdown of a total of 18,686 transportation fatalities that occured in 2007 was obtained from records compiled by the U.S. Department of Transportation (DOT).Mode of Transportation Car Train Bicycle PlaneNumber of Fatalities 16,525842698538 What is the probability that a victim randomly selected from this list of transportation fatalities for 2007 died in a train or a plane accident? Round answer to two decimal places.",
+      "answer": "007",
+      "choices": [
+        "005",
+        "008",
+        "011",
+        "007"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "005",
+        "008",
+        "011"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "The method of accessing the element in a linked list is _______",
+      "answer": "Traversal",
+      "choices": [
+        "Traversal",
+        "By specifying the index element",
+        "Random access",
+        "Direct access"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "By specifying the index element",
+        "Random access",
+        "Direct access"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "The next node in the sequence of a linked list is called _____________",
+      "answer": "Node's successor",
+      "choices": [
+        "Link",
+        "Pointer",
+        "Node's successor",
+        "Index"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Link",
+        "Pointer",
+        "Index"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "The number of cars entering a tunnel leading to an airport in a major city over a period of 200 peak hours was observed and the following data were obtained: Cars, xFrequency of Occurrence152040654515Find the empirical probability distribution for this experiment.",
+      "answer": "Cars, x Frequency of Occurrence 0075 01 02 0325 0225 0075",
+      "choices": [
+        "Cars, x Frequency of Occurrence 0075 0225 0325 02 01 0075",
+        "Cars, x Frequency of Occurrence 0075 01 02 0325 0225 0075",
+        "Cars, x Frequency of Occurrence 0077 0102 0198 0323 0225 0075",
+        "Cars, x Frequency of Occurrence 0077 0098 0202 0323 0227 0073"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Cars, x Frequency of Occurrence 0075 0225 0325 02 01 0075",
+        "Cars, x Frequency of Occurrence 0077 0102 0198 0323 0225 0075",
+        "Cars, x Frequency of Occurrence 0077 0098 0202 0323 0227 0073"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "The number of different directed trees with 3 nodes is",
+      "answer": "3",
+      "choices": [
+        "2",
+        "4",
+        "3",
+        "5"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "2",
+        "4",
+        "5"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "The preorder and post order traversal of a Binary Tree generates the same output. The tree can have maximum",
+      "answer": "One node",
+      "choices": [
+        "Two nodes",
+        "Any number of nodes",
+        "One node",
+        "Three nodes"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Two nodes",
+        "Any number of nodes",
+        "Three nodes"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "The results of a time study conducted by the production manager of Ace Novelty are shown in the accompanying table, where the number of space action-figures produced each quarter hour during an 8-hour workday has been tabulated. Find the empirical probability distribution associated with this experiment. Figures Produced (in dozens)Frequency of Occurrence304310326336348356362",
+      "answer": "Figures Frequency of Produced Occurrence(in dozens)30 012531 032 0187533 0187534 02535 0187536 00625",
+      "choices": [
+        "Figures Frequency of Produced Occurrence(in dozens)30 0062531 0187532 02533 0187534 0187535 036 0125",
+        "Figures Frequency of Produced Occurrence(in dozens)30 0125131 032 0187633 0187434 0249935 0187536 00625",
+        "Figures Frequency of Produced Occurrence(in dozens)30 0125131 0000132 0187433 0187434 02535 0187536 00625",
+        "Figures Frequency of Produced Occurrence(in dozens)30 012531 032 0187533 0187534 02535 0187536 00625"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Figures Frequency of Produced Occurrence(in dozens)30 0062531 0187532 02533 0187534 0187535 036 0125",
+        "Figures Frequency of Produced Occurrence(in dozens)30 0125131 032 0187633 0187434 0249935 0187536 00625",
+        "Figures Frequency of Produced Occurrence(in dozens)30 0125131 0000132 0187433 0187434 02535 0187536 00625"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "The size need to be specific during declaration",
+      "answer": "The statement describes an array",
+      "choices": [
+        "The statement applies to both array and linked list",
+        "The statement describes a linked list",
+        "The statement describes an array",
+        "The statement does not apply to array and linked list"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "The statement applies to both array and linked list",
+        "The statement describes a linked list",
+        "The statement does not apply to array and linked list"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "The size of a singly linked list is always fixed but the size can grow dynamically",
+      "answer": "False",
+      "choices": [
+        "True",
+        "False"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "True"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "This is a statement that is always false.",
+      "answer": "contradiction",
+      "choices": [
+        "tautology",
+        "implication",
+        "conjunction",
+        "contradiction"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "tautology",
+        "implication",
+        "conjunction"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "What is the 8th term in the binomial expansion of (2x+y)16?",
+      "answer": "5,857,280 x9 y7",
+      "choices": [
+        "5,857,280 x7 y9",
+        "5,857,280 x8 y8",
+        "5,857,280 x9 y7",
+        "5,857,280 x16 y16"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "5,857,280 x7 y9",
+        "5,857,280 x8 y8",
+        "5,857,280 x16 y16"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "What is the coefficient of aby98 in the binomial expansion of (ab+y)99?",
+      "answer": "99",
+      "choices": [
+        "99",
+        "98",
+        "100",
+        "4,851"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "98",
+        "100",
+        "4,851"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "What is the coefficient of x101 y99 in the expansion of (2x-3y)200?",
+      "answer": "C(200,99) (2)101 (-3)99",
+      "choices": [
+        "C(200,101) (2)101 (-3)99",
+        "C(200,101) (2)99 (-3)101",
+        "C(200,99) (2)101 (-3)99",
+        "C(200,99) (2)99 (-3)101"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "C(200,101) (2)101 (-3)99",
+        "C(200,101) (2)99 (-3)101",
+        "C(200,99) (2)99 (-3)101"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "What is the maximum possible number of nodes in a binary tree at level 6",
+      "answer": "64",
+      "choices": [
+        "32",
+        "16",
+        "64",
+        "128"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "32",
+        "16",
+        "128"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "What is the negation of a tautology?",
+      "answer": "Contradiction",
+      "choices": [
+        "Contradiction",
+        "Unary Negation",
+        "Implication",
+        "Binary Negation"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Unary Negation",
+        "Implication",
+        "Binary Negation"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "What is the probability of arriving at a traffic light when it is red if the red signal is flashed for 30 sec, the yellow signal for 5 sec, and the green signal for 40 sec?",
+      "answer": "The probability is 040",
+      "choices": [
+        "The probability is 040",
+        "The probability is 050",
+        "The probability is 045",
+        "The probability is 035"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "The probability is 050",
+        "The probability is 045",
+        "The probability is 035"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "When inorder traversing a tree resulted e a c k f h d b g; the preorder traversal would return.",
+      "answer": "faekcdhgb",
+      "choices": [
+        "faekcdhgb",
+        "abcdefghk",
+        "eafkhdcbg",
+        "faekcdbhg"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "abcdefghk",
+        "eafkhdcbg",
+        "faekcdbhg"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Which concept considers the arrangement of objects / elements in a set?",
+      "answer": "permutations",
+      "choices": [
+        "permutations",
+        "pigeonhole",
+        "counting theory",
+        "combination"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "pigeonhole",
+        "counting theory",
+        "combination"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Which is not an invariant when determining if graphs are isomorphic?",
+      "answer": "existence of closed loops",
+      "choices": [
+        "same degree of vertices",
+        "existence of closed loops",
+        "same number of edges",
+        "same number of vertices"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "same degree of vertices",
+        "same number of edges",
+        "same number of vertices"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Which of is a formula for the sequence 3, 6, 12, 24, 48, ...? Assume that the first term in the sequence is called a0?",
+      "answer": "none of the given",
+      "choices": [
+        "an = 3(n+1)",
+        "an = 3n + 3",
+        "an = 3 =C2=B7 2n-1",
+        "none of the given",
+        "an = 2an-1"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "an = 3(n+1)",
+        "an = 3n + 3",
+        "an = 3 =C2=B7 2n-1",
+        "an = 2an-1"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Which of the following applies Last In Last Out?",
+      "answer": "None of the choices",
+      "choices": [
+        "None of the choices",
+        "Stack",
+        "Linked List",
+        "Queue"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Stack",
+        "Linked List",
+        "Queue"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Which of the following describes a Stack data structure?",
+      "answer": "All of the choices",
+      "choices": [
+        "A Stack is a Last In First Out",
+        "Stack uses the push() and pop() function",
+        "All of the choices",
+        "A Stack in an ordered list"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "A Stack is a Last In First Out",
+        "Stack uses the push() and pop() function",
+        "A Stack in an ordered list"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Which of the following describes an algorithm?",
+      "answer": "executed in a way to get a required output",
+      "choices": [
+        "algorithm can be a programming language",
+        "algorithm is used to store data",
+        "executed in a way to get a required output",
+        "algorithm is software that used to compute complex numbers"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "algorithm can be a programming language",
+        "algorithm is used to store data",
+        "algorithm is software that used to compute complex numbers"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Which of the following does not describes a linked list?",
+      "answer": "None of the choices",
+      "choices": [
+        "None of the choices",
+        "A linked list can contain any data type",
+        "A linked list can be sorted",
+        "A linked list can be unsorted"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "A linked list can contain any data type",
+        "A linked list can be sorted",
+        "A linked list can be unsorted"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Which of the following does NOT describes non-linear data structure?",
+      "answer": "Data can be traverse in singular run",
+      "choices": [
+        "Data can be traverse in singular run",
+        "Tree is an example of a non-linear data structure",
+        "Each item is attached with many other items",
+        "Implementation is difficult"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Tree is an example of a non-linear data structure",
+        "Each item is attached with many other items",
+        "Implementation is difficult"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Which of the following graphs is not a characteristics of isomorphic graphs?",
+      "answer": "Graphs with different adjacency matrices",
+      "choices": [
+        "Graphs with the same number of vertices",
+        "Graphs with the same number of edges",
+        "Graphs with different adjacency matrices",
+        "Graphs with the same adjacency matrices"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Graphs with the same number of vertices",
+        "Graphs with the same number of edges",
+        "Graphs with the same adjacency matrices"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Which of the following is a linear data structure?",
+      "answer": "Stack",
+      "choices": [
+        "Stack",
+        "Graph",
+        "None of the choices",
+        "Binary Tree"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Graph",
+        "None of the choices",
+        "Binary Tree"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Which of the following is a recurrence relation for the sequence that begins 3, 6, 9, 12, 15, ...?",
+      "answer": "an = an-2 + 6",
+      "choices": [
+        "an = 3an-1",
+        "an = an-2 + 6",
+        "an = an-1 + 3n",
+        "an = 3n"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "an = 3an-1",
+        "an = an-1 + 3n",
+        "an = 3n"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Which of the following is an example of data structure?",
+      "answer": "all of the choices",
+      "choices": [
+        "Collection of books",
+        "Computer memory allocation",
+        "Stack of plates",
+        "all of the choices"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Collection of books",
+        "Computer memory allocation",
+        "Stack of plates"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of a data type?",
+      "answer": "set of functions",
+      "choices": [
+        "set of values",
+        "set of representation",
+        "set of functions",
+        "set of operations"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "set of values",
+        "set of representation",
+        "set of operations"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Which of the following is not a component of a data structure?",
+      "answer": "None of the choices",
+      "choices": [
+        "None of the choices",
+        "Operations",
+        "Algorithm",
+        "Storage Structures"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Operations",
+        "Algorithm",
+        "Storage Structures"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Which of the following is not a recurrence relation?",
+      "answer": "primality of numbers",
+      "choices": [
+        "primality of numbers",
+        "fibonacci sequence",
+        "simple and compound interest computations",
+        "geometric sequence"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "fibonacci sequence",
+        "simple and compound interest computations",
+        "geometric sequence"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Which of the following is not the part of ADT description?",
+      "answer": "None of the choices",
+      "choices": [
+        "Operations",
+        "Data",
+        "None of the choices",
+        "All of the choices"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Operations",
+        "Data",
+        "All of the choices"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Which of the following statement is correct?",
+      "answer": "Stack applies the LIFO",
+      "choices": [
+        "Stack applies the FIFO",
+        "Queue applies the FILO",
+        "Stack applies the LIFO",
+        "Queue applies the LIFO"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "Stack applies the FIFO",
+        "Queue applies the FILO",
+        "Queue applies the LIFO"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Which of the following statements about binary trees is NOT true?",
+      "answer": "Every binary tree has at least one node",
+      "choices": [
+        "Every binary tree has at least one node",
+        "No correct answer",
+        "Every non-root node has exactly one parent",
+        "Every node has at most two children",
+        "Every non-empty tree has exactly one root node"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "No correct answer",
+        "Every non-root node has exactly one parent",
+        "Every node has at most two children",
+        "Every non-empty tree has exactly one root node"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Which of the proposition is is:",
+      "answer": "Logically equivalent to",
+      "choices": [
+        "all of the given",
+        "A contradiction",
+        "Logically equivalent to",
+        "A tautology"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "all of the given",
+        "A contradiction",
+        "A tautology"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "Which rule states that if (k + 1) or more objects are placed into k boxes, then there is at least one box containing two or more of the objects?",
+      "answer": "pigeonhole principle",
+      "choices": [
+        "product rule",
+        "sum rule",
+        "pigeonhole principle",
+        "inclusion-exclusion"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "product rule",
+        "sum rule",
+        "inclusion-exclusion"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    },
+    {
+      "question": "You have 12 balls, numbered 1 through 12, which you want to place into 4 boxes, numbered 1 through 4. If boxes can remain empty, in how many ways can the 12 balls be disturbed among the 4 boxes?",
+      "answer": "412",
+      "choices": [
+        "C(12,4)",
+        "12! =C2=B7 4!",
+        "124",
+        "412"
+      ],
+      "questionType": "multichoice",
+      "wrongAnswers": [
+        "C(12,4)",
+        "12! =C2=B7 4!",
+        "124"
+      ],
+      "wrongAnswerEvidence": false,
+      "verified": false,
+      "isAiSuggestion": false,
+      "confirmations": 1,
+      "firstSeenAt": "2026-11-28T04:17:52Z",
+      "source": "amauoed",
+      "originType": "quiz",
+      "originLabel": "Quiz",
+      "lastVerifiedAt": "2026-11-28T04:17:52Z"
+    }
+  ]
+}

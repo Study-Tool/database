@@ -123,9 +123,10 @@ Course databases are stored in [`data/`](data/) as structured JSON files named b
 | :--- | :--- | :---: | :--- |
 | `BAMM6301` | BAMM6301 | **59** | Active |
 | `CS6200` | CS6200 | **17** | Active |
+| `CS6201` | CS6201 | **98** | Active |
 | `CS6204` | Computer Architecture and Organization | **189** | Active |
 | `CS6205` | Automata Theory and Formal Languages | **306** | Active |
-| `CS6206` | Principles of Operating Systems | **165** | Active |
+| `CS6206` | Principles of Operating Systems | **189** | Active |
 | `CS6207` | CS6207 | **57** | Active |
 | `CS6209` | Software Engineering 1 | **223** | Active |
 | `CS6301` | Logic Design and Digital Computer Circuits | **187** | Active |
@@ -134,17 +135,17 @@ Course databases are stored in [`data/`](data/) as structured JSON files named b
 | `GE6301` | Gender and Society | **0** | Answer sharing disabled (non-reviewable) |
 | `HMS6301` | HMS6301 | **10** | Active |
 | `IT6200` | IT6200 | **19** | Active |
-| `IT6201B` | Data Structures and Algorithm Analysis | **328** | Active |
+| `IT6201B` | Data Structures and Algorithm Analysis | **332** | Active |
 | `IT6205A` | Information Assurance and Security 1 | **430** | Active |
 | `IT6206` | Information Assurance and Security 2 | **151** | Active |
 | `IT6208` | System Integration and Architecture 1 | **159** | Active |
-| `IT6209` | Introduction to Multimedia | **510** | Active |
-| `IT6224B` | Data Communications and Networking 3 | **513** | Active |
-| `IT6310` | Network Security | **149** | Active |
+| `IT6209` | Introduction to Multimedia | **517** | Active |
+| `IT6224B` | Data Communications and Networking 3 | **527** | Active |
+| `IT6310` | Network Security | **222** | Active |
 | `IT6314` | IT6314 | **239** | Active |
 | `IT6322A` | Mobile Application Development | **100** | Active |
 | `ITE6200` | Application Development and Emerging Technology | **656** | Active |
-| `ITE6202` | ITE6202 | **505** | Active |
+| `ITE6202` | ITE6202 | **556** | Active |
 | `ITE6301` | Technopreneurship | **200** | Active |
 | `MATH6100` | Calculus 1 | **65** | Active |
 | `MATH6200` | MATH6200 | **80** | Active |

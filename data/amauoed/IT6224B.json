@@ -1,8 +1,8 @@
 {
   "subjectCode": "IT6224B",
   "subjectName": "Data Communications and Networking 3",
-  "updatedAt": "2026-11-27T04:26:32Z",
-  "totalQuestions": 91,
+  "updatedAt": "2026-11-28T04:17:53Z",
+  "totalQuestions": 75,
   "tier": "amauoed",
   "questions": [
     {
@@ -14,14 +14,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "7. Which two networks are part of the summary route 192.168.32.0/22? (Choose a letter)",
@@ -32,14 +32,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "8. In OSPF discussions what is used to facilitate hierarchical routing in OSPF?",
@@ -50,14 +50,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "A CCNA network administrator configures a router with the command sequence:",
@@ -68,14 +68,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "A CCNA network administrator configures a router with the command sequence: R1(config)# boot system tftp://c1900-universalk9-mz.SPA.152-4.M3.bin R1(config)# boot system rom What is the effect of the command sequence?",
@@ -86,14 +86,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "A certified network administrator is trying to add a new router into an established OSPF network. The networks attached to the new router do not appear in the routing tables of the other OSPF routers. Given the information in the partial configuration shown below, what configuration error is causing this problem?",
@@ -104,32 +104,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
-    },
-    {
-      "question": "A certified network expert is configuring a LAN with a redundant first hop to make better use of the available network resources. Which protocol should the engineer implement?",
-      "answer": "GLBP",
-      "choices": [
-        "GLBP"
-      ],
-      "questionType": "multichoice",
-      "wrongAnswers": [],
-      "wrongAnswerEvidence": false,
-      "verified": false,
-      "isAiSuggestion": false,
-      "confirmations": 9,
-      "firstSeenAt": "2026-11-27T04:26:32Z",
-      "source": "amauoed",
-      "originType": "exam",
-      "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "A company has deployed four 48-port access layer switches to a switch block. For redundancy each access layer switch will connect to two distribution layer",
@@ -140,32 +122,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
-    },
-    {
-      "question": "A connection to a switch went down suddenly, how long can it take for a network using RSTP to converge again after a topology change?",
-      "answer": "6sec",
-      "choices": [
-        "6sec"
-      ],
-      "questionType": "multichoice",
-      "wrongAnswers": [],
-      "wrongAnswerEvidence": false,
-      "verified": false,
-      "isAiSuggestion": false,
-      "confirmations": 9,
-      "firstSeenAt": "2026-11-27T04:26:32Z",
-      "source": "amauoed",
-      "originType": "exam",
-      "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "A network administrator enters the following command sequence on a Cisco 3560 switch. What is the purpose of these commands?",
@@ -176,14 +140,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "A network engineer in ABC Enterprise is asked to stop auto route summary in EIGRP, which command you will use to prevent auto summary?",
@@ -194,68 +158,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
-    },
-    {
-      "question": "A network link connected to a switch went down. How long can it take for a network using spanning tree topology to converge again after a topology change?",
-      "answer": "up to 50 seconds",
-      "choices": [
-        "up to 50 seconds"
-      ],
-      "questionType": "multichoice",
-      "wrongAnswers": [],
-      "wrongAnswerEvidence": false,
-      "verified": false,
-      "isAiSuggestion": false,
-      "confirmations": 9,
-      "firstSeenAt": "2026-11-27T04:26:32Z",
-      "source": "amauoed",
-      "originType": "exam",
-      "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
-    },
-    {
-      "question": "A network specialist of PRS Industries is troubleshooting an OSPFv2 network and discovers that two routers connected by a point-to-point WAN serial link are not establishing an adjacency. The OSPF routing process, network commands and area ID are all confirmed as correct, and the interfaces are not passive. Testing shows that the cabling is correct, that the link is up, and pings between the interfaces are successful. What is most likely the problem?",
-      "answer": "The subnet masks on the two connected serial interfaces do not match.",
-      "choices": [
-        "The subnet masks on the two connected serial interfaces do not match."
-      ],
-      "questionType": "multichoice",
-      "wrongAnswers": [],
-      "wrongAnswerEvidence": false,
-      "verified": false,
-      "isAiSuggestion": false,
-      "confirmations": 9,
-      "firstSeenAt": "2026-11-27T04:26:32Z",
-      "source": "amauoed",
-      "originType": "exam",
-      "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
-    },
-    {
-      "question": "A new network specialist has been asked to verify the metrics that are used by EIGRP on a Cisco device. Which two EIGRP metrics are measured by using static values on a Cisco device?",
-      "answer": "Bandwidth & delay",
-      "choices": [
-        "Bandwidth & delay"
-      ],
-      "questionType": "multichoice",
-      "wrongAnswers": [],
-      "wrongAnswerEvidence": false,
-      "verified": false,
-      "isAiSuggestion": false,
-      "confirmations": 9,
-      "firstSeenAt": "2026-11-27T04:26:32Z",
-      "source": "amauoed",
-      "originType": "exam",
-      "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "A newly hired certified network engineer of RMS Industries is troubleshooting a switch and wants to verify if it is a root bridge. Which of the following listed below is the right command to display the correct information?",
@@ -270,14 +180,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z",
       "alternateAnswers": [
         {
           "answer": "show spanning-tree",
@@ -323,19 +233,23 @@
       "question": "A student uses a laptop to upload an assignment to a file server. Which wireless frame type did the laptop send to locate and associate with the campus access point?",
       "answer": "management frame",
       "choices": [
-        "management frame"
+        "management frame",
+        "a. data frame",
+        "b. management frame",
+        "c. ssid frame",
+        "d. beacon frame"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 13,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Among the 802.11 wireless LAN standards what is the frequency assigned for 802.11a?",
@@ -346,14 +260,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Among the 802.11 wireless lan standards what is the frequency assigned for 802.11ac?",
@@ -364,14 +278,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Among the choices listed below, which port state will switch ports ?immediately transition to when configured for PortFast",
@@ -382,14 +296,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Among the features of EIGRP which uses multicast and unicast rather than broadcast?",
@@ -400,14 +314,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Among the listed below which is a feature of EIGRP?",
@@ -418,14 +332,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Among the listed below, which command can be issued on a router to verify that automatic summarization is enabled?",
@@ -436,32 +350,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
-    },
-    {
-      "question": "As discussed in chapter 1, the duplication of devices, services, or connections so that, in the event of a failure, the redundant devices, services , or connections can perform the work of those that failed.",
-      "answer": "Redundancy",
-      "choices": [
-        "Redundancy"
-      ],
-      "questionType": "multichoice",
-      "wrongAnswers": [],
-      "wrongAnswerEvidence": false,
-      "verified": false,
-      "isAiSuggestion": false,
-      "confirmations": 9,
-      "firstSeenAt": "2026-11-27T04:26:32Z",
-      "source": "amauoed",
-      "originType": "exam",
-      "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "As discussed in chapter 7 as one of the EIGRP concepts what is the purpose of using protocol-dependent modules in EIGRP?",
@@ -472,14 +368,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "As discussed in chapter 9 of Scaling Networks what is the major release number in the IOS image name c1900-universalk9-mz.SPA.152-3.T.bin?",
@@ -490,14 +386,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "As discussed in link state advertisement which two statements correctly describe OSPF type 3 LSAs? 1. Type 3 LSAs are used to update routes between OSPF areas. 2. Type 3 LSAs are known as router link entries . 3. Type 3 LSAs are used for routes to networks outside the OSPF autonomous system . 4. Type 3 LSAs are known as autonomous system external LSA entries. 5. Type 3 LSAs are generated without requiring a full SPF calculation.",
@@ -508,14 +404,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "As discussed in this chapter, beginning with the Cisco IOS Software Release 15.0, which license is a prerequisite for installing additional technology pack licenses?",
@@ -526,14 +422,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "As shown from the network diagram above, the command “show ipv6 route can be issued on router R2 to verify the propagation of static default router from R1 to R2\" Why is MD5 authentication is more secure than simple authentication of OSPF updates?",
@@ -544,14 +440,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "As shown in the exhibit below, which protocol information is being displayed in the output?",
@@ -564,12 +460,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Discussed in chapter 9, what code in the Cisco IOS 15 image filename C1900-UNIVERSALK9-MZ.SPA.153-3.M.BIN Indicates that the file is digitally signed by Cisco?",
@@ -580,14 +476,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "During EIGRP operation where do successor routes stored?",
@@ -598,14 +494,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "During EIGRP operation which two EIGRP packet types are sent with reliable delivery?",
@@ -616,14 +512,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "During network troubleshooting in MAX Industries factory 2 routers, R1 and R2, have established an EIGRP neighbor relationship, but there is still a connectivity problem. Which issue could be causing this problem?",
@@ -634,14 +530,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "During summarization configuration what address and wild card mask can be used to enable EIGRP for only the subnet 192.168.100.192 255.255.255.192?",
@@ -652,32 +548,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
-    },
-    {
-      "question": "During the discussion in chapter 6 about multiarea OSPF, what router that has at least one interface that is attached to a non-OSPF network?",
-      "answer": "ASBR",
-      "choices": [
-        "ASBR"
-      ],
-      "questionType": "multichoice",
-      "wrongAnswers": [],
-      "wrongAnswerEvidence": false,
-      "verified": false,
-      "isAiSuggestion": false,
-      "confirmations": 9,
-      "firstSeenAt": "2026-11-27T04:26:32Z",
-      "source": "amauoed",
-      "originType": "exam",
-      "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "During the network troubleshooting in RMS Hospital the network administrator notice an EIGRP problem on a router and needs to confirm the IP addresses of the devices with which the router has established adjacency. The retransmit interval and the queue counts for the adjacent routers also need to be checked.",
@@ -688,14 +566,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "During the network troubleshooting in RMS Hospital the network administrator notice an EIGRP problem on a router and needs to confirm the IP addresses of the devices with which the router has established adjacency. The retransmit interval and the queue counts for the adjacent routers also need to be checked. What command will display the required information?",
@@ -706,14 +584,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "During the upgrade of IOS system image, a router is powered on, where will the router first search for a valid IOS image to load by default?",
@@ -724,50 +602,50 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "During the wireless implementation planning what type of wireless antenna is best suited for providing coverage in large open spaces, such as hallways or large conference rooms?",
       "answer": "In wireless topologies, Yagi is a type of directional antenna that can be used in long distance Wi-Fi networking.",
       "choices": [
-        "In wireless topologies, Yagi is a type of directional antenna that can be used in long distance Wi-Fi networking."
+        "In wireless topologies, Yagi is a type of directional antenna that can be used in long distance Wi-Fi networking.",
+        "a. parabolic dish",
+        "b. omnidirectional",
+        "c. Yagi",
+        "d. directional"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 10,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
-    },
-    {
-      "question": "During troubleshooting, the administrator notices the following entry: O*E2 0.0.0.0/0 [110/1] via 192.168.16.3, 00:20:22, Serial0/0/0 What information can be gathered from this output?",
-      "answer": "This route is a propagated default route.",
-      "choices": [
-        "This route is a propagated default route."
-      ],
-      "questionType": "multichoice",
-      "wrongAnswers": [],
-      "wrongAnswerEvidence": false,
-      "verified": false,
-      "isAiSuggestion": false,
-      "confirmations": 9,
-      "firstSeenAt": "2026-11-27T04:26:32Z",
-      "source": "amauoed",
-      "originType": "exam",
-      "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z",
+      "conflictHistory": [
+        {
+          "rejectedAnswer": "omnidirectional",
+          "timestamp": "2026-11-28T04:17:53Z"
+        },
+        {
+          "rejectedAnswer": "omnidirectional",
+          "timestamp": "2026-11-28T04:17:53Z"
+        },
+        {
+          "rejectedAnswer": "omnidirectional",
+          "timestamp": "2026-11-28T04:17:53Z"
+        }
+      ]
     },
     {
       "question": "How many switches in a network must be running STP or RSTP in order to avoid broadcast storms?",
@@ -782,14 +660,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z",
       "alternateAnswers": [
         {
           "answer": "At least one in each loop.",
@@ -832,24 +710,6 @@
       ]
     },
     {
-      "question": "In case a router is powered on, where will the router first search for a valid IOS image to load by default?",
-      "answer": "flash memory",
-      "choices": [
-        "flash memory"
-      ],
-      "questionType": "multichoice",
-      "wrongAnswers": [],
-      "wrongAnswerEvidence": false,
-      "verified": false,
-      "isAiSuggestion": false,
-      "confirmations": 9,
-      "firstSeenAt": "2026-11-27T04:26:32Z",
-      "source": "amauoed",
-      "originType": "exam",
-      "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
-    },
-    {
       "question": "In chapter 6 which area is referred to as the \"backbone area\"?",
       "answer": ". Area 0",
       "choices": [
@@ -862,14 +722,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z",
       "alternateAnswers": [
         {
           "answer": "Area 0",
@@ -927,14 +787,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z",
       "alternateAnswers": [
         {
           "answer": "The allowed range of VLANs must be the same on both switches.",
@@ -981,42 +841,6 @@
       ]
     },
     {
-      "question": "In FHRP operation, two or more routers are represented as a single virtual router.",
-      "answer": "TRUE",
-      "choices": [
-        "TRUE"
-      ],
-      "questionType": "multichoice",
-      "wrongAnswers": [],
-      "wrongAnswerEvidence": false,
-      "verified": false,
-      "isAiSuggestion": false,
-      "confirmations": 9,
-      "firstSeenAt": "2026-11-27T04:26:32Z",
-      "source": "amauoed",
-      "originType": "exam",
-      "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
-    },
-    {
-      "question": "In LAN redundancy which 3 components are combined to form a bridge ID?",
-      "answer": "extended system ID, MAC address, bridge priority",
-      "choices": [
-        "extended system ID, MAC address, bridge priority"
-      ],
-      "questionType": "multichoice",
-      "wrongAnswers": [],
-      "wrongAnswerEvidence": false,
-      "verified": false,
-      "isAiSuggestion": false,
-      "confirmations": 9,
-      "firstSeenAt": "2026-11-27T04:26:32Z",
-      "source": "amauoed",
-      "originType": "exam",
-      "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
-    },
-    {
       "question": "In managing cisco devices, which two requirements must always be met to use in-band management to configure a network device?",
       "answer": "at least one network interface that is connected and operational & Telnet, SSH, or HTTP access to the device",
       "choices": [
@@ -1025,14 +849,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "In Scaling Networks course, link aggregation should be implemented at which layer of the hierarchical network?",
@@ -1043,32 +867,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
-    },
-    {
-      "question": "In terms of network reliability, the ability of a network to be up most of the time. Sometimes referred to as 99.999, or \"five nines\".",
-      "answer": "Reliability",
-      "choices": [
-        "Reliability"
-      ],
-      "questionType": "multichoice",
-      "wrongAnswers": [],
-      "wrongAnswerEvidence": false,
-      "verified": false,
-      "isAiSuggestion": false,
-      "confirmations": 9,
-      "firstSeenAt": "2026-11-27T04:26:32Z",
-      "source": "amauoed",
-      "originType": "exam",
-      "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "In this chapter, which is a characteristic of a Layer 2 loop?",
@@ -1079,32 +885,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
-    },
-    {
-      "question": "In todays network technology which network design solution will best extend access layer connectivity to host devices?",
-      "answer": "Implementing wireless connectivity",
-      "choices": [
-        "Implementing wireless connectivity"
-      ],
-      "questionType": "multichoice",
-      "wrongAnswers": [],
-      "wrongAnswerEvidence": false,
-      "verified": false,
-      "isAiSuggestion": false,
-      "confirmations": 9,
-      "firstSeenAt": "2026-11-27T04:26:32Z",
-      "source": "amauoed",
-      "originType": "exam",
-      "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "In understanding Cisco IOS image which statement describes a difference between the IOS 15.0 extended maintenance release and a standard maintenance release?",
@@ -1115,14 +903,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "In understanding concepts of OSPF which three statements describe the routing protocol OSPF? 1. It supports VLSM. 2. It is used to route between autonomous systems. 3. It confines network instability to one area of the network. 4. It increases routing overhead on the network. 5. It allows extensive control of routing updates 6. It is simpler to configure than RIPv2.",
@@ -1133,14 +921,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "In understanding IOS system image files what statement describes a Cisco IOS image with the “universalk9_npe” designation for Cisco ISR G2 routers?",
@@ -1151,14 +939,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "In understanding IOS system image files which IOS 12.4 software package integrates full features, including voice, security, and VPN capabilities, for all routing protocols?",
@@ -1169,50 +957,36 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "In understanding link aggregation what is a best practice to use before beginning an EtherChannel implementation?",
       "answer": "Shut down each of the affected interfaces.",
       "choices": [
-        "Shut down each of the affected interfaces."
+        "Shut down each of the affected interfaces.",
+        "a. Shut down each of the affected interfaces.",
+        "b. Assign affected interfaces to VLAN 1.",
+        "c. Enable each of the affected interfaces.",
+        "d. Assign affected interfaces to the management VLAN."
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 13,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
-    },
-    {
-      "question": "In understanding of chapter 7 EIGRP uses the dual algorithm for finding shortest path?",
-      "answer": "TRUE",
-      "choices": [
-        "TRUE"
-      ],
-      "questionType": "multichoice",
-      "wrongAnswers": [],
-      "wrongAnswerEvidence": false,
-      "verified": false,
-      "isAiSuggestion": false,
-      "confirmations": 9,
-      "firstSeenAt": "2026-11-27T04:26:32Z",
-      "source": "amauoed",
-      "originType": "exam",
-      "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "In wireless LAN security what is an advantage of SSID cloaking?",
@@ -1223,14 +997,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "It is known as WiGig and operates using a tri-band solution in the 2.4, 5, and 60 GHz ranges in IEEE wireless standard?",
@@ -1241,14 +1015,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Observe the given output below. A certified network engineer is troubleshooting host connectivity on a LAN that uses a first hop redundancy protocol. Which IPv4 gateway address should be configured on the host?",
@@ -1259,14 +1033,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "R1(config)# boot system rom",
@@ -1277,14 +1051,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "R1(config)# boot system tftp://c1900-universalk9-mz.SPA.152-4.M3.bin",
@@ -1295,14 +1069,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Refer to the exhibit shown above. A certified network administrator is troubleshooting the four routers that are connected to an Ethernet LAN segment and are configured to run OSPFv3. However, none of the routers are receiving routing updates. What is the cause of the problem?",
@@ -1313,14 +1087,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Refer to the exhibit shown. What command statement must be issued to complete the configuration at R1 for multiarea OSPF.",
@@ -1331,14 +1105,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Refer to the exhibit. In RMS Robotics Industries network, Four routers are connected to an Ethernet LAN segment and are configured to run OSPFv3. However, none of the routers are receiving routing updates. What is the cause of the problem?",
@@ -1349,14 +1123,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Refer to the network topology diagram above. A certified network expert has configured the OSPF timers to the values that are shown in the graphic. What is the result of having those manually configured timers?",
@@ -1367,14 +1141,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Refer to the test result above. These two routers are configured to run OSPFv3 but they are not forming a neighbor adjacency. What is the cause of the problem?",
@@ -1385,14 +1159,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Referring to the diagram below of Chooks-to-Go office. Which switching technology would allow each access layer switch link to be aggregated to provide more bandwidth between each Layer 2 switch and the Layer 3 switch?",
@@ -1405,12 +1179,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Referring to the exhibit, the command “show ipv6 route can be issued on router R2 to verify the propagation of a static default router from R1 to R2\" As discussed in this chapter why is MD5 authentication is more secure than simple authentication of OSPF updates?a",
@@ -1421,14 +1195,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Referring to the sample result above, a network specialist has configured eigrp authentication between routers R! and R2. After there routing tables are received, it is noted that neither router is receiving eigrp updates. What is a possible cause for this failure?",
@@ -1439,14 +1213,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Referring to the test result shown above. Given the output for this command, if the router ID has not been manually set, what router ID will OSPF use for this RouterD?",
@@ -1459,12 +1233,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Standard Electric Company is planning the implementation of Rapid PVST+ on a production network. How are the Rapid PVST+ link types determined on the switch interfaces?",
@@ -1483,14 +1257,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z",
       "alternateAnswers": [
         {
           "answer": "Link types are determined automatically.",
@@ -1545,14 +1319,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "The PRD company network engineer is upgrading the Cisco IOS image on a Cisco ISR 4000 series. What command could the engineer use to verify the total amount of flash memory as well as how much flash memory is currently available?",
@@ -1563,32 +1337,36 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "The use of PAgP to create EtherChannels is discussed in link aggregation chapter as part of Scaling Network. Which statement below as discussed in this course is true about PagP?",
       "answer": "It is a Cisco Proprietary",
       "choices": [
-        "It is a Cisco Proprietary"
+        "It is a Cisco Proprietary",
+        "a. It requires more physical links than LACP does.",
+        "b. It mandates that an even number of ports (2, 4, 6, etc.) be used",
+        "c. It is a Cisco Proprietary",
+        "d. It increases the number of ports that are participating in spanning tree."
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 13,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "What command will display the required information?",
@@ -1599,14 +1377,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 8,
+      "confirmations": 10,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z",
       "conflictHistory": [
         {
           "rejectedAnswer": "c",
@@ -1623,14 +1401,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "What is the purpose of HSRP in switching environment?",
@@ -1641,32 +1419,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
-    },
-    {
-      "question": "What wireless standard consists of various corporate, national, and international organizations using service provider cellular access to provide mobile broadband network connectivity?",
-      "answer": "Cellular Broadband",
-      "choices": [
-        "Cellular Broadband"
-      ],
-      "questionType": "multichoice",
-      "wrongAnswers": [],
-      "wrongAnswerEvidence": false,
-      "verified": false,
-      "isAiSuggestion": false,
-      "confirmations": 9,
-      "firstSeenAt": "2026-11-27T04:26:32Z",
-      "source": "amauoed",
-      "originType": "exam",
-      "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "When a customer purchases a Cisco IOS 15.0 software package, what serves as the receipt for that customer and is used to obtain the license as well?",
@@ -1677,50 +1437,36 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "When a home wireless AP is being configured, _____ is used to identify the wireless network name?",
       "answer": "SSID",
       "choices": [
-        "SSID"
+        "SSID",
+        "a. ad hoc",
+        "b. SSID",
+        "c. ESS",
+        "d. BESS"
       ],
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 13,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
-    },
-    {
-      "question": "Where are EIGRP successor routes stored?",
-      "answer": "in the routing table and the topology table",
-      "choices": [
-        "in the routing table and the topology table"
-      ],
-      "questionType": "multichoice",
-      "wrongAnswers": [],
-      "wrongAnswerEvidence": false,
-      "verified": false,
-      "isAiSuggestion": false,
-      "confirmations": 9,
-      "firstSeenAt": "2026-11-27T04:26:32Z",
-      "source": "amauoed",
-      "originType": "exam",
-      "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Which area is referred to as the \"backbone area\"?",
@@ -1739,14 +1485,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z",
       "alternateAnswers": [
         {
           "answer": "Area 0",
@@ -1789,6 +1535,10 @@
         {
           "rejectedAnswer": "Area 0",
           "timestamp": "2026-11-27T04:26:32Z"
+        },
+        {
+          "rejectedAnswer": "Area 0",
+          "timestamp": "2026-11-28T04:17:53Z"
         }
       ]
     },
@@ -1807,12 +1557,12 @@
       "wrongAnswerEvidence": false,
       "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 14,
+      "confirmations": 16,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Which statement describes a multiarea OSPF network?",
@@ -1823,14 +1573,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Which switchport mode makes the interface able to convert the link to a trunk",
@@ -1841,14 +1591,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Which switchport mode puts the interface into permanent nontrunking ?",
@@ -1859,14 +1609,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Which switchport mode Puts the interface into permanent trunking mode and negotiates",
@@ -1877,14 +1627,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Which three statements describe the routing protocol OSPF as discussed in Chapter 5? 1. It supports VLSM. 2. It is used to route between autonomous systems. 3. It confines network instability to one area of the network. 4. It increases routing overhead on the network. 5. It allows extensive control of routing updates 6. It is simpler to configure than RIPv2.",
@@ -1895,14 +1645,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Which three statements describe the routing protocol OSPF? 1. It supports VLSM. 2. It is used to route between autonomous systems. 3. It confines network instability to one area of the network. 4. It increases routing overhead on the network. 5. It allows extensive control of routing updates 6. It is simpler to configure than RIPv2.",
@@ -1913,14 +1663,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 9,
+      "confirmations": 11,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z"
+      "lastVerifiedAt": "2026-11-28T04:17:53Z"
     },
     {
       "question": "Which type of wireless antenna is best suited for providing coverage in large open spaces, such as hallways or large conference rooms?",
@@ -1935,14 +1685,14 @@
       "questionType": "multichoice",
       "wrongAnswers": [],
       "wrongAnswerEvidence": false,
-      "verified": false,
+      "verified": true,
       "isAiSuggestion": false,
-      "confirmations": 8,
+      "confirmations": 10,
       "firstSeenAt": "2026-11-27T04:26:32Z",
       "source": "amauoed",
       "originType": "exam",
       "originLabel": "Exam",
-      "lastVerifiedAt": "2026-11-27T04:26:32Z",
+      "lastVerifiedAt": "2026-11-28T04:17:53Z",
       "conflictHistory": [
         {
           "rejectedAnswer": "Omnidirectional",
